@@ -1,0 +1,114 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>411</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/Pages/forvaltningsomraden.aspx</origFileName>
+    <parallel_text location="nat-min-hallintoalueet.html" xml:lang="fin"/>
+    <parallel_text location="nat-min-reeremedajvh.html" xml:lang="sma"/>
+    <parallel_text location="nat-min-halddahusguovllut.html" xml:lang="sme"/>
+    <parallel_text location="nat-min-tjuottjudusguovlo.html" xml:lang="smj"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Förvaltningsområden - Länsstyrelsen i Stockholm</p>
+    <list>
+      <p type="listitem">Snabblänk till textinnehållet</p>
+      <p type="listitem">om webbplatsen</p>
+      <p type="listitem">startsidan</p>
+      <p type="listitem">nyheter</p>
+      <p type="listitem">webbkarta</p>
+      <p type="listitem">sökfunktion</p>
+      <p type="listitem">kontakta oss</p>
+      <p type="listitem">blanketter</p>
+      <p type="listitem">publikationer</p>
+    </list>
+    <p type="title">Webbplatsen använder kakor</p>
+    <p>På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p>Jag accepterar kakor</p>
+    <p>Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem">English</p>
+      <p type="listitem">Suomeksi</p>
+      <p type="listitem">Meänkieli</p>
+      <p type="listitem">Lättläst</p>
+      <p type="listitem">Resanderomani (romani chib)</p>
+      <p type="listitem">Åarjelsaemien</p>
+      <p type="listitem">Sámigiella</p>
+      <p type="listitem">Teckenspråk</p>
+    </list>
+    <list>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem">Webbkarta</p>
+    </list>
+    <p>Startsida</p>
+    <p>&gt;</p>
+    <p>Människa &amp; samhälle</p>
+    <p>&gt;</p>
+    <p>Nationella minoriteter</p>
+    <p>&gt;</p>
+    <p>Förvaltningsområden</p>
+    <list>
+      <p type="listitem">Begravningar</p>
+      <p type="listitem">Deponera pengar</p>
+      <p type="listitem">Folkhälsa</p>
+      <p type="listitem">Integration</p>
+      <p type="listitem">Jämställdhet</p>
+      <p type="listitem">Kameraövervakning</p>
+      <p type="listitem">Krisberedskap</p>
+      <p type="listitem">Livsmedelskontroll</p>
+      <p type="listitem">Lönegaranti</p>
+      <p type="listitem">Medborgarskap</p>
+      <p type="listitem">Mänskliga rättigheter</p>
+      <p type="listitem">Nationella minoriteter <list><p type="listitem">Förvaltningsområden</p><p type="listitem">Lagen om nationella minoriteter</p><p type="listitem">Länsstyrelsens uppdrag</p><p type="listitem">Organisationsbidrag</p><p type="listitem">Statsbidrag</p><p type="listitem">Övriga insatser</p><p type="listitem">Suomeksi</p><p type="listitem">Davvisámigiella (nordsamiska)</p><p type="listitem">Julevsámegiella (lulesamiska)</p><p type="listitem">Åarjelsaemien (sydsamiska)</p><p type="listitem">Meänkieli</p><p type="listitem">Romani arli</p><p type="listitem">Romani kelderaš</p></list></p>
+      <p type="listitem">Notarius publicus</p>
+      <p type="listitem">Val</p>
+      <p type="listitem">Vigsel</p>
+      <p type="listitem">Överförmyndare</p>
+    </list>
+    <p>Dela informationen</p>
+    <p type="title">Förvaltningsområden</p>
+    <p>
+      <em type="italic">Från den 1 februari 2014 ingår sammanlagt 68 kommuner och 13 landsting/regioner i förvaltningsområdena för samiska, meänkieli och finska. </em>
+    </p>
+    <p><em type="italic">Det finska förvaltningsområdet </em>omfattar kommunerna Borlänge, Borås, Botkyrka, Degerfors, Enköping, Eskilstuna, Fagersta, Finspång, Gällivare, Gävle, Göteborg, Hallstahammar, Haninge, Haparanda, Hofors, Huddinge, Håbo, Hällefors, Kalix, Karlskoga, Kiruna, Köping, Lindesberg, Luleå, Motala, Norrköping, Norrtälje, Pajala, Sandviken, Sigtuna, Skinnskatteberg, Skövde, Solna, Stockholm, Sundbyberg, Sundsvall, Surahammar, Södertälje, Tierp, Trollhättan, Trosa, Uddevalla, Umeå, Upplands Väsby, Upplands-Bro, Uppsala, Västerås, Älvkarleby, Örebro, Österåker, Östhammar och Övertorneå. </p>
+    <p><em type="italic">Det samiska förvaltningsområdet </em>omfattar kommunerna Arjeplog, Arvidsjaur, Berg, Dorotea, Gällivare, Härjedalen, Jokkmokk, Kiruna, Krokom, Lycksele, Malå, Sorsele, Storuman, Strömsund, Umeå, Vilhelmina, Åre, Älvdalen och Östersund. </p>
+    <p><em type="italic">Förvaltningsområdet för meänkieli </em>omfattar kommunerna Gällivare, Haparanda, Kalix, Kiruna, Pajala och Övertorneå. </p>
+    <p>I förvaltningsområdena för finska, samiska och meänkieli ingår också <em type="italic">landstingen </em>i Dalarna, Gävleborg, Jämtland, Norrbotten, Stockholm, Södermanland, Uppland, Västerbotten, Västmanland, Västernorrland, Örebro och Östergötland samt Västra Götalandsregionen. </p>
+    <p>Även andra kommuner har möjlighet att <em type="italic">frivilligt ansöka om att ingå i förvaltningsområden </em>. Regeringen fattar beslut om sådan anslutning efter ansökan av kommun som vill ingå. Ansökan ska ha inkommit till Regeringskansliet senast den 1 april. </p>
+    <p type="title">Kontakta oss</p>
+    <p>Enheten för arbetsmarknads- och rättighetsfrågor (minoritetsfrågor)</p>
+    <p>stockholm snabela lansstyrelsen punkt se§stockholm snabela lansstyrelsen punkt se</p>
+    <p>010-223 10 00</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+    <p type="title">Förvaltningsområden</p>
+    <p>Ladda ner affischen</p>
+    <p>Rapportera fel på sidan</p>
+    <p>Dölj kommentarsformulär</p>
+    <p type="title">Rapportera fel på sidan</p>
+    <p>Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p>Namn</p>
+    <p>E-post</p>
+    <p>Kommentar</p>
+    <p>Skriv in nedanstående kod för att skicka kommentar</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>
