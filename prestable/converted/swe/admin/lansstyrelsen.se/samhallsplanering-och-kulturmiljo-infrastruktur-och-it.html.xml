@@ -1,0 +1,92 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>261</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/infrastruktur-och-it/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-infrastruktur-och-it.html"/>
+    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-infrastruktur-och-it.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Infrastruktur och IT - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Snabblänk till textinnehållet</p>
+      <p type="listitem">om webbplatsen</p>
+      <p type="listitem">startsidan</p>
+      <p type="listitem">nyheter</p>
+      <p type="listitem">webbkarta</p>
+      <p type="listitem">sökfunktion</p>
+      <p type="listitem">kontakta oss</p>
+      <p type="listitem">blanketter</p>
+      <p type="listitem">publikationer</p>
+    </list>
+    <p type="title">Webbplatsen använder kakor</p>
+    <p>På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p>Jag accepterar kakor</p>
+    <p>Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem">English</p>
+      <p type="listitem">Suomeksi</p>
+      <p type="listitem">Meänkieli</p>
+      <p type="listitem">Lättläst</p>
+      <p type="listitem">Resanderomani (romani chib)</p>
+      <p type="listitem">Åarjelsaemien</p>
+      <p type="listitem">Sámigiella</p>
+      <p type="listitem">Teckenspråk</p>
+    </list>
+    <list>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem">Webbkarta</p>
+    </list>
+    <p>Startsida</p>
+    <p>&gt;</p>
+    <p>Samhällsplanering &amp; kulturmiljö</p>
+    <p>&gt;</p>
+    <p>Infrastruktur och IT</p>
+    <list>
+      <p type="listitem">Arkeologi och fornlämningar</p>
+      <p type="listitem">Boende</p>
+      <p type="listitem">Byggnadsvård</p>
+      <p type="listitem">Energi</p>
+      <p type="listitem">Infrastruktur och IT <list><p type="listitem">Bredband och digital agenda</p><p type="listitem">Lokala trafikföreskrifter - vägar</p><p type="listitem">Reklamskyltar utmed vägar</p></list></p>
+      <p type="listitem">Kulturreservat</p>
+      <p type="listitem">Landskapsvård</p>
+      <p type="listitem">Plan- och byggfrågor</p>
+      <p type="listitem">Skyddad bebyggelse</p>
+    </list>
+    <p>Dela informationen</p>
+    <p type="title">Infrastruktur och IT</p>
+    <p>
+      <em type="italic">Länsstyrelsen arbetar för att underlätta kommunikationerna inom länet och till övriga delar av omvärlden, och att dessa miljömässigt blir så som bra möjligt. </em>
+    </p>
+    <p>Goda kommunikationer och en bra IT-infrastruktur gör att många människor, företag och organisationer kan vidga sina arbetsmarknader. Det ökar människors valfrihet samtidigt som företag får ett större rekryteringsunderlag.</p>
+    <p>Länsstyrelsen gör olika saker för att utveckla infrastruktur och IT, bland annat</p>
+    <list>
+      <p type="listitem">bevakar att riksintressen och intressen som rör flera kommuner tillgodoses vid planering av infrastrukturprojekt</p>
+      <p type="listitem">samordnar statens intressen och synpunkter vid infrastrukturplaneringar</p>
+      <p type="listitem">administrerar statligt stöd för utbyggnad av bredband på landsbygden.</p>
+    </list>
+    <p>Rapportera fel på sidan</p>
+    <p>Dölj kommentarsformulär</p>
+    <p type="title">Rapportera fel på sidan</p>
+    <p>Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p>Namn</p>
+    <p>E-post</p>
+    <p>Kommentar</p>
+    <p>Skriv in nedanstående kod för att skicka kommentar</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

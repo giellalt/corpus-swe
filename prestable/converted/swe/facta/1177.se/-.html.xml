@@ -1,0 +1,67 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>242</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/-Sveriges-nationella-minoriteter-och-minoritetssprak/minoritetssprak/-</origFileName>
+    <parallel_text xml:lang="fin" location="sveriges-nationella-minoritetssprak.html"/>
+    <parallel_text xml:lang="fit" location="sveriges-nationella-minoriteter-och-minoritetssprak.html"/>
+    <parallel_text xml:lang="rmf" location="sveriges-nationella-minoritetssprak.html"/>
+    <parallel_text xml:lang="rmn" location="sveriges-nationella-minoriteter-och-minoritetssprak.html"/>
+    <parallel_text xml:lang="rmu" location="sveriges-nationella-minoriteter-och-minoritetssprak.html"/>
+    <parallel_text xml:lang="rmy-rka" location="sveriges-nationella-minoriteter-och-minoritetssprak.html"/>
+    <parallel_text xml:lang="rmy-rlo" location="sveriges-nationella-minoriteter-och-minoritetssprak.html"/>
+    <parallel_text xml:lang="sma" location="sveriges-nationella-minoritetssprak.html"/>
+    <parallel_text xml:lang="sme" location="sveriges-nationella-minoritetssprak.html"/>
+    <parallel_text xml:lang="smj" location="sveriges-nationella-minoriteter-och-minoriteter-och-minoritetssprak.html"/>
+    <parallel_text xml:lang="yid" location="sveriges-nationella-minoriteter-och-minoritetssprak.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Sveriges nationella minoritetsspråk på 1177 Vårdguiden och Umo.se / - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p>Information och tjänster för din hälsa och vård. Besök 1177.se eller ring 1177 för sjukvårdsrådgivning. Öppet dygnet runt.</p>
+    <p>Gå direkt till innehållet</p>
+    <p>Gå direkt till navigeringen</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nob">Behöver du sjukvårdsrådgivning? Ring 1177</p>
+    <p>Sveriges nationella minoriteter / minoritetsspråk</p>
+    <p type="title">Sveriges nationella minoriteter minoritetsspråk</p>
+    <list>
+      <p type="listitem">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title">Sveriges nationella minoritetsspråk på 1177 Vårdguiden och Umo.se</p>
+    <p xml:lang="nno">Skriv ut (ca 1 sida)</p>
+    <p>Sverigefinnar, judar, romer, samer och tornedalingar är Sveriges nationella minoriteter. Det innebär att de har en långvarig språk- och kulturgemenskap innanför den nationella gemenskapen. Det är upp till varje person att avgöra om man tillhör en av dessa nationella minoriteter eller inte. Det handlar om vilken grupp man identifierar sig med och känner samhörighet med.</p>
+    <p>1999 erkändes de fem grupperna som nationella minoriteter av riksdagen. 2010 kom en ny lag som stärker de nationella minoriteternas rättigheter och minoritetsspråkens ställning.</p>
+    <p>1177 Vårdguiden och Umo.se publicerar ett antal texter om hälsa, vård och rättigheter i vården på tolv erkända varieteter av de fem nationella minoriteternas språk.</p>
+    <p>Vi har följt Språkrådets rekommendationer när vi har gjort översättningarna, och texterna är granskade i samråd med företrädare för minoriteterna.</p>
+    <p>Tipsa och dela</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+    </list>
+    <p type="title" xml:lang="fkv">Tipsa en vän</p>
+    <p>Till:</p>
+    <p>Från:</p>
+    <p>Ditt namn:</p>
+    <p>Jag vill tipsa dig om en artikel på 1177 Vårdguiden:</p>
+    <p>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/-Sveriges-nationella-minoriteter-och-minoritetssprak/minoritetssprak/-/</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nno">Skriv ut (ca 1 sida)</p>
+    <p xml:lang="ger">Publicerad:</p>
+    <p xml:lang="sms">2013-12-13</p>
+    <p>1177 Vårdguiden – en tjänst från Sveriges landsting och regioner</p>
+  </body>
+</document>

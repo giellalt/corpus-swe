@@ -1,0 +1,42 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Förskola - ostersund.se</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>325</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.ostersund.se/barnutbildning/forskolaochfritidshem/forskola.4.14cea49b13d17be825a199.html</origFileName>
+    <parallel_text xml:lang="sma" location="aahrskuvleforskola.4.28eb7a09143fdf88a223bfb.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p type="title">Förskola</p>
+    <p>​För att du som förälder/vårdnadshavare ska kunna vara med och påverka behöver du känna till hur förskolan ska fungera. Du är den som står ditt barn närmast och dina synpunkter är betydelsefulla.</p>
+    <p>På Skolverkets hemsida kan du läsa mer om förskolan och förskolans läroplan.</p>
+    <p>Information på sydsamiska och engelska (pdf, 710 kB)  om förskola i Östersunds kommun.</p>
+    <p type="title">Förskola för barn 1-5 år</p>
+    <p>Barn som är skrivna i Östersunds kommun har från 1 års ålder rätt till förskola när vårdnadshavaren arbetar eller studerar, samt utifrån behov för familjen i övrigt. I vistelsetiden inräknas också restid till/från arbetet/skolan.​ </p>
+    <p type="title">Dygnet-runt förskola</p>
+    <p>För dig som har omsorgsbehov annan tid på dygnet och under helger, finns dygnet-runt-förskola .</p>
+    <p type="title">Sydsamisk förskola</p>
+    <p>En sydsamisk förskoleverksamhet finns på Mosippans förskola , avdelning Renen/Bovtse. Verksamheten är anpassad till den samiska kulturen och främjar också den sydsamiskspråkliga utvecklingen.</p>
+    <p type="title">Allmän förskola 15 timmar/vecka för 3-5-åringar</p>
+    <p>Alla 3-5-åringar har rätt till förskola om minst 525 tim/år med början på höstterminen det år barnet fyller tre år. Allmän förskola är avgiftsfri. Vistelsetiden har ett pedagogiskt syfte och är begränsad till 15 tim/vecka under skolans läsårstider. Förskolechefen fastställer vistelsetiden. Det innebär att det kan se olika ut på olika förskolor. Har du omsorgsbehov utöver dessa timmar, görs en särskild ansökan. Avgiften erläggs enligt förskolans maxtaxa. De 3-5-åringar som är inskrivna i förskolan utifrån ett omsorgsbehov får en reducering av avgiften.​ </p>
+    <p type="title">Familjedaghem för barn 1-12 år</p>
+    <p>Familjedaghem är en pedagogisk omsorg för barn där dagbarnvårdaren ger barnet omsorg, omvårdnad och fostran samt för skolbarnet en meningsfull fritid. Förskolans läroplan liksom Skolverkets allmänna råd ska vara vägledande för verksamheten. Familjedaghem finns på Frösön och i Brunflo.</p>
+    <p type="title">Öppen förskola för barn 0-6 år</p>
+    <p>​Om du är hemma med ditt förskolebarn, tar ut dagar från föräldraförsäkringen, är arbetslös eller hemarbetande, kan du besöka den öppna förskolan, som finns på familjecentralen. Dagbarnvårdare och mor- och farföräldrar är också välkomna! Läs mer om öppna förskolan</p>
+    <p type="title">Fristående förskola</p>
+    <p>I kommunen finns också fristående förskolor .</p>
+  </body>
+</document>

@@ -1,0 +1,30 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Renen/Bovtse - ostersund.se</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>62</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.ostersund.se/barnutbildning/forskolaochfritidshem/forskola/forskolor/centralaostersundinklusivelugnvik/mosippansforskola/avdelningar/renenbovtse.4.7602401133d7a3802d80002366.html</origFileName>
+    <parallel_text xml:lang="sma" location="bovste.4.28eb7a09143fdf88a223d57.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="sma">Renen/Bovtse</p>
+    <p>Denna information på sydsamiska</p>
+    <p>På Renen/Bovtse finns en lek- och lärandemiljö som är inspirerad av den samiska kulturen. Mer information om den samiska kulturen finns att ta del av nedan. Gaaltije</p>
+    <p xml:lang="sma">Renen/Bovtse arbetsplan (pdf, 214 kB)</p>
+    <p type="title">Vi som jobbar här är:</p>
+    <p><em type="italic">Mait Högberg </em>- förskollärare. <em type="italic">Susanne Nordberg </em>- lärare mot grundskolans tidigare år, förskoleklass och förskola. <em type="italic">Laila parnedal </em>- sydsamisktalande barnskötare </p>
+  </body>
+</document>

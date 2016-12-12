@@ -1,0 +1,33 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Information/Bïevnesh - ostersund.se</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>130</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.ostersund.se/boleva/samiskasomminoritetssprak/omlagstiftningenlaakebuektiehtammanbijre/informationbievnesh.4.a3261c5125534e633480001470.html</origFileName>
+    <parallel_text xml:lang="sma" location="informationbievnesh.4.a3261c5125534e633480001470.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="eng">Information</p>
+    <p>Förvaltningsmyndigheter ska på lämpligt sätt, när så behövs, informera de nationella minoriteterna om deras rättigheter enligt den nya lagen. Informationen bör ges på de minoritetsspråk som kan väntas bli använda av enskilda i deras kontakter med myndigheten.</p>
+    <p>Då de gäller kommuners skyldighet att erbjuda förskoleverksamhet och äldreomsorg på minoritetsspråk inom förvaltningsområdena bör sådana möjligheter särskilt observeras i allmän information som riktar still potentiella brukare.</p>
+    <p type="title" xml:lang="sma">Bïevnesh</p>
+    <p xml:lang="sma">Reeremh gelkieh sjiehteles vuekine, jis daerpies, nasjovnen unnebelåhkojde bïevnesjidh dej reaktaj bïjre orre laaken mietie. Dah gelkieh bïevnesjidh unnebelåhkoej gïeline mij sjiehteles aajne almetjasse gosse reeremi gujmie gaskesadtedh.</p>
+    <p xml:lang="sma">Gåessie tjïeltij tjälloestimmieh aarhskuvlebarkoeh jïh voereshåksoeh faaledh unnebelåhkoej gïeline reeremedajvine, gelkieh naemhtemes nuepieh joekoen vuesiehtidh siejhme bïevnesjimmine sjïere åtnojde.</p>
+    <p xml:lang="sma">Tjïelten åejviereereme</p>
+    <p xml:lang="nob">Johan Palm  Teel. 063-14 37 03</p>
+    <p xml:lang="sma">Maanah- jïh ööhpehtimmiereereme  Eva Lindwall  Teel. 063-14 33 80</p>
+  </body>
+</document>

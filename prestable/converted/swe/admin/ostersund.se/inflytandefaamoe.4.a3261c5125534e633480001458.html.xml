@@ -1,0 +1,34 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Inflytande/Faamoe - ostersund.se</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>98</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.ostersund.se/boleva/samiskasomminoritetssprak/omlagstiftningenlaakebuektiehtammanbijre/inflytandefaamoe.4.a3261c5125534e633480001458.html</origFileName>
+    <parallel_text xml:lang="sma" location="inflytandefaamoe.4.a3261c5125534e633480001458.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p type="title">Inflytande</p>
+    <p>Statliga och kommunala förvaltningsmyndigheter ska ge de nationella minoriteterna möjlighet till inflytande i frågor som berör dem.</p>
+    <p>Myndigheterna ska så långt det är möjligt samråda med representanter för minoriteterna i sådana frågor.</p>
+    <p>Myndigheterna ska utforma sin verksamhet på ett sådant sätt att en dialog kan föras med företrädare för de nationella minoriteterna.</p>
+    <p type="title" xml:lang="sma">Faamoe</p>
+    <p xml:lang="sma">Staaten jïh tjïelten reeremh edtjieh nasjovnen unnebelåhkojde nuepiem vedtedh meatan årrodh gyhtjelassine mah vihkeles sijjide.</p>
+    <p xml:lang="sma">Reeremh gelkieh dan gahkese guktie nuepie unnebelåhkoen sadthalmetji gujmie rååresjadtedh naemhtemes gyhtjelassine.</p>
+    <p xml:lang="sma">Tjïelten åejviereereme</p>
+    <p xml:lang="nob">Johan Palm  Teel. 063-14 37 03</p>
+    <p xml:lang="sma">Maanah- jïh ööhpehtimmiereereme  Eva Lindwall  Teel. 063-14 33 80</p>
+  </body>
+</document>

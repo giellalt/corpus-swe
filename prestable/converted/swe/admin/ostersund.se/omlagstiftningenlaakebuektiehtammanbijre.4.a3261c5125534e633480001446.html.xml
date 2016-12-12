@@ -1,0 +1,35 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Om lagstiftningen/ Laakebuektiehtämman bïjre - ostersund.se</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>187</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.ostersund.se/boleva/samiskasomminoritetssprak/omlagstiftningenlaakebuektiehtammanbijre.4.a3261c5125534e633480001446.html</origFileName>
+    <parallel_text xml:lang="sma" location="omlagstiftningenlaakebuektiehtammanbijre.4.a3261c5125534e633480001446.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p type="title">Om lagstiftningen</p>
+    <p>En ny lag om nationella minoriteter och minoritetsspråk ersätter nuvarande lagar om rätt att använda samiska respektive finska och meänkieli. Ändringar görs också i sametingslagen och socialtjänstlagen. Lagändringarna träder i kraft den 1 januari 2010.</p>
+    <p>Den nya lagen innehåller en rad bestämmelser om nationella minoriteter, nationella minoritetsspråk, förvaltningsområden för vissa av minoritetsspråken och rätten att använda minoritetsspråk hos förvaltningsmyndigheter och domstolar. Lagen innehåller också mera specificerade bestämmelser om vissa skyldigheter inom förskoleverksamhet och äldreomsorg.</p>
+    <p>Till vänster under innehåll tas vissa av de områden upp som berör av den nya lagstiftningen.</p>
+    <p type="title" xml:lang="sma">Laakebuektiehtämman bïjre</p>
+    <p xml:lang="sma">Orre laake nasjovne unnebelåhkoej jïh unnebelåhkoej gïeli bïjre daaletje laakij åvteste buektiehtamme, reaktam saemiengïelem jïh gïelide såevmie jïh meänkieli utnedh. Saemiedigkie laakem jïh sosialelaakem aaj värhtoeminie. Laakevärhtoedimmieh faamose jåhta tsiengelen 1.b 2010.</p>
+    <p xml:lang="sma">Orre laaken sisvegisnie gellie njolkedassh nasjovne unnebelåhkoej ïih nasjovne unnebelåhkoej gïeliej bïjre, reeremedajvh unnebelåhkoej gïelide jïh reaktam unnebelåhkoej gïelem utnedh reereminie jïh dåapmestovline. Laakesne aaj joekoen njolkedassh sjïere dïedtine aarhskuvle darjoemisnie jïh voereshoksesne.</p>
+    <p xml:lang="sma">Garrabielesne sisvegen nueleln sjïere dajvi bïjre gaavnh mejtie orre laakesne tjaalsovveme.</p>
+    <p xml:lang="sma">Tjïelten åejviereereme</p>
+    <p xml:lang="nob">Johan Palm  Teel. 063-14 37 03</p>
+    <p xml:lang="sma">Maanah- jïh ööhpehtimmiereereme  Eva Lindwall  Teel. 063-14 33 80</p>
+  </body>
+</document>
