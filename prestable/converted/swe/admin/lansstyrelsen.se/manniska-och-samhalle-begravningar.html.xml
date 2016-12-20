@@ -1,0 +1,107 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>456</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/begravningar/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="manniska-och-samhalle-begravningar.html"/>
+    <parallel_text xml:lang="eng" location="manniska-och-samhalle-begravningar.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Begravningar - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Snabblänk till textinnehållet</p>
+      <p type="listitem">om webbplatsen</p>
+      <p type="listitem">startsidan</p>
+      <p type="listitem">nyheter</p>
+      <p type="listitem">webbkarta</p>
+      <p type="listitem">sökfunktion</p>
+      <p type="listitem">kontakta oss</p>
+      <p type="listitem">blanketter</p>
+      <p type="listitem">publikationer</p>
+    </list>
+    <p type="title">Webbplatsen använder kakor</p>
+    <p>På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p>Jag accepterar kakor</p>
+    <p>Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem">English</p>
+      <p type="listitem">Suomeksi</p>
+      <p type="listitem">Meänkieli</p>
+      <p type="listitem">Lättläst</p>
+      <p type="listitem">Resanderomani (romani chib)</p>
+      <p type="listitem">Åarjelsaemien</p>
+      <p type="listitem">Sámigiella</p>
+      <p type="listitem">Teckenspråk</p>
+    </list>
+    <list>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem">Webbkarta</p>
+    </list>
+    <p>Startsida</p>
+    <p>&gt;</p>
+    <p>Människa &amp; samhälle</p>
+    <p>&gt;</p>
+    <p>Begravningar</p>
+    <list>
+      <p type="listitem">Begravningar <list><p type="listitem">Begravningsombud</p><p type="listitem">Info till begravningsombud</p><p type="listitem">Spridning av aska</p></list></p>
+      <p type="listitem">Deponera pengar</p>
+      <p type="listitem">Folkhälsa</p>
+      <p type="listitem">Integration</p>
+      <p type="listitem">Jämställdhet</p>
+      <p type="listitem">Kameraövervakning</p>
+      <p type="listitem">Krisberedskap</p>
+      <p type="listitem">Livsmedelskontroll</p>
+      <p type="listitem">Lönegaranti</p>
+      <p type="listitem">Medborgarskap</p>
+      <p type="listitem">Mänskliga rättigheter</p>
+      <p type="listitem">Nationella minoriteter</p>
+      <p type="listitem">Notarius publicus</p>
+      <p type="listitem">Val</p>
+      <p type="listitem">Vigsel</p>
+      <p type="listitem">Överförmyndare</p>
+    </list>
+    <p>Dela informationen</p>
+    <p type="title">Begravningar</p>
+    <p>
+      <em type="italic">Länsstyrelsen kontrollerar att personer som inte är medlem i Svenska kyrkan också kan begravas på ett värdigt sätt. Vi kan även ge tillstånd till att sprida askan efter en avliden person. </em>
+    </p>
+    <p type="title">Begravningsombud och begravningsplatser</p>
+    <p>Oftast är det en eller flera församlingar som ansvarar för att ordna begravningsplatser. Länsstyrelsen utser ombud som ska granska församlingarna och se till att de som inte tillhör Svenska kyrkan får begravas på ett sätt som passar dem. Ombuden kontrollerar till exempel begravningsavgifter och utformningen av begravningsplatser.</p>
+    <p>Om du vill veta vem som är begravningsombud där du bor kan du vända dig till din församling eller till Länsstyrelsen.</p>
+    <p type="title">Sprida aska</p>
+    <p>Om du vill strö ut aska efter en avliden person någon annanstans än på en begravningsplats måste du ha tillstånd från Länsstyrelsen. Vi kan bara ge tillstånd för att sprida aska när någon har avlidit. Det går alltså inte att söka tillståndet i förväg.</p>
+    <p type="title">Länsstyrelsen prövar begravningsfrågor</p>
+    <p>Ibland händer det att de efterlevande är oeniga om gravsättningen och att den församling eller kommun som sköter begravningsverksamheten inte lyckas medla mellan dem. Då kan frågan överlämnas till Länsstyrelsen för prövning. Du kan också vända dig till oss för att överklaga ett beslut om rätt till gravplats eller flyttning av gravsatt stoft eller aska.</p>
+    <p type="title">Från och med den 1 juli 2012</p>
+    <p>Länsstyrelsen i Stockholms län hanterar ärenden för Stockholms, Uppsala, Södermanlands, Västmanlands och Gotlands län.</p>
+    <p>Länsstyrelsen i Östergötlands län hanterar ärenden för Östergötlands, Jönköpings och Kalmar län.</p>
+    <p>Länsstyrelsen i Skåne hanterar ärenden för Skåne, Blekinge och Kronobergs län.</p>
+    <p>Länsstyrelsen i Västra Götalands län hanterar ärenden för i Västra Götalands och Hallands län.</p>
+    <p>Länsstyrelsen i Dalarnas län hanterar ärenden för Dalarnas, Gävleborgs, Örebro och Värmlands län.</p>
+    <p>Länsstyrelsen i Västernorrlands hanterar ärenden för Västernorrlands och Jämtlands län.</p>
+    <p>Länsstyrelsen i Norrbottens län hanterar ärenden för Norrbottens och Västerbottens län.</p>
+    <p>Rapportera fel på sidan</p>
+    <p>Dölj kommentarsformulär</p>
+    <p type="title">Rapportera fel på sidan</p>
+    <p>Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p>Namn</p>
+    <p>E-post</p>
+    <p>Kommentar</p>
+    <p>Skriv in nedanstående kod för att skicka kommentar</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

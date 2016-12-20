@@ -1,0 +1,131 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>413</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/integration/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="manniska-och-samhalle-integration.html"/>
+    <parallel_text xml:lang="eng" location="manniska-och-samhalle-integration.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Integration - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Snabblänk till textinnehållet</p>
+      <p type="listitem">om webbplatsen</p>
+      <p type="listitem">startsidan</p>
+      <p type="listitem">nyheter</p>
+      <p type="listitem">webbkarta</p>
+      <p type="listitem">sökfunktion</p>
+      <p type="listitem">kontakta oss</p>
+      <p type="listitem">blanketter</p>
+      <p type="listitem">publikationer</p>
+    </list>
+    <p type="title">Webbplatsen använder kakor</p>
+    <p>På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p>Jag accepterar kakor</p>
+    <p>Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem">English</p>
+      <p type="listitem">Suomeksi</p>
+      <p type="listitem">Meänkieli</p>
+      <p type="listitem">Lättläst</p>
+      <p type="listitem">Resanderomani (romani chib)</p>
+      <p type="listitem">Åarjelsaemien</p>
+      <p type="listitem">Sámigiella</p>
+      <p type="listitem">Teckenspråk</p>
+    </list>
+    <list>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem">Webbkarta</p>
+    </list>
+    <p>Startsida</p>
+    <p>&gt;</p>
+    <p>Människa &amp; samhälle</p>
+    <p>&gt;</p>
+    <p>Integration</p>
+    <list>
+      <p type="listitem">Begravningar</p>
+      <p type="listitem">Deponera pengar</p>
+      <p type="listitem">Folkhälsa</p>
+      <p type="listitem">Integration <list><p type="listitem">Ensamkommande barn</p><p type="listitem">Mottagande och etablering av nyanlända</p><p type="listitem">Samhällsorientering</p><p type="listitem">Svenska för invandrare</p><p type="listitem">Utbildning på lika villkor</p><p type="listitem">Utvecklingsmedel</p><p type="listitem">Dalarnas Mångfaldsråd</p><p type="listitem">Länkar</p></list></p>
+      <p type="listitem">Jämställdhet</p>
+      <p type="listitem">Kameraövervakning</p>
+      <p type="listitem">Krisberedskap</p>
+      <p type="listitem">Livsmedelskontroll</p>
+      <p type="listitem">Lönegaranti</p>
+      <p type="listitem">Medborgarskap</p>
+      <p type="listitem">Mänskliga rättigheter</p>
+      <p type="listitem">Nationella minoriteter</p>
+      <p type="listitem">Notarius publicus</p>
+      <p type="listitem">Val</p>
+      <p type="listitem">Vigsel</p>
+      <p type="listitem">Överförmyndare</p>
+    </list>
+    <p>Dela informationen</p>
+    <p type="title">Integration</p>
+    <p>Ramón Pérez Cortés</p>
+    <p>
+      <em type="italic">Länsstyrelsen är regeringens företrädare i länet och ska främja samverkan mellan olika aktörer såsom kommuner, myndigheter, företag, organisationer för att uppnå de nationella integrationspolitiska målen. </em>
+    </p>
+    <p>Integrationspolitiken fokuserar på</p>
+    <list>
+      <p type="listitem">ett effektivt system för mottagande och etablering av nyanlända</p>
+      <p type="listitem">fler i arbete och fler företagare</p>
+      <p type="listitem">likvärdighet i skolan, förbättrade språkkunskaper och utbildningsmöjligheter för vuxna</p>
+      <p type="listitem">en effektiv bekämpning av diskriminering</p>
+      <p type="listitem">en positiv utveckling i stadsdelar med utbrett utanförskap</p>
+      <p type="listitem">en gemensam värdegrund i ett samhälle som präglas av en tilltagande mångfald.</p>
+    </list>
+    <p type="title">Länsstyrelsernas integrationsuppdrag</p>
+    <p>Enligt regeringens integrationsuppdrag ska Länsstyrelsen</p>
+    <list>
+      <p type="listitem">verka för att det finns god beredskap och kapacitet i länet för mottagande av nyanlända flyktingar och andra skyddsbehövande</p>
+      <p type="listitem">överlägga och träffa överenskommelser med kommunerna om mottagande av nyanlända flyktingar och andra skyddsbehövande</p>
+      <p type="listitem">främja samverkan mellan kommuner, myndigheter, företag och organisationer som anordnar aktiviteter för nyanlända.</p>
+      <p type="listitem">vidareutveckla samverkan på regional nivå, särskilt när det gäller samordning av kommunal verksamhet som svenskundervisning för invandrare och samhällsorientering</p>
+      <p type="listitem">följa upp organisering och genomförande av insatser för nyanlända i länet.</p>
+    </list>
+    <p type="title">Kontakta oss</p>
+    <p>Rusmira Dervisic</p>
+    <p>Integrationssamordnare</p>
+    <p>Beredskapsfunktionen, mänskliga rättigheter</p>
+    <p>Rusmira punkt Dervisic snabela lansstyrelsen punkt se§Rusmira punkt Dervisic snabela lansstyrelsen punkt se</p>
+    <p>010-2250430</p>
+    <p>Theres Björn</p>
+    <p>Handläggare</p>
+    <p>Beredskapsfunktionen, mänskliga rättigheter</p>
+    <p>theres punkt bjorn snabela lansstyrelsen punkt se§theres punkt bjorn snabela lansstyrelsen punkt se</p>
+    <p>010-2250428</p>
+    <p>070-6081574</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+    <p type="title">Länsstyrelsernas gemensamma sida för integration</p>
+    <p>Rapportera fel på sidan</p>
+    <p>Dölj kommentarsformulär</p>
+    <p type="title">Rapportera fel på sidan</p>
+    <p>Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p>Namn</p>
+    <p>E-post</p>
+    <p>Kommentar</p>
+    <p>Skriv in nedanstående kod för att skicka kommentar</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

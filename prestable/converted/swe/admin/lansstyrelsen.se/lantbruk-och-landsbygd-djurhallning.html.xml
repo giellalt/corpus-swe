@@ -1,0 +1,97 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>447</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/lantbruk-och-landsbygd/djurhallning/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="lantbruk-och-landsbygd-djurhallning.html"/>
+    <parallel_text xml:lang="eng" location="lantbruk-och-landsbygd-djurhallning.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Djurhållning - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Snabblänk till textinnehållet</p>
+      <p type="listitem">om webbplatsen</p>
+      <p type="listitem">startsidan</p>
+      <p type="listitem">nyheter</p>
+      <p type="listitem">webbkarta</p>
+      <p type="listitem">sökfunktion</p>
+      <p type="listitem">kontakta oss</p>
+      <p type="listitem">blanketter</p>
+      <p type="listitem">publikationer</p>
+    </list>
+    <p type="title">Webbplatsen använder kakor</p>
+    <p>På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p>Jag accepterar kakor</p>
+    <p>Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem">English</p>
+      <p type="listitem">Suomeksi</p>
+      <p type="listitem">Meänkieli</p>
+      <p type="listitem">Lättläst</p>
+      <p type="listitem">Resanderomani (romani chib)</p>
+      <p type="listitem">Åarjelsaemien</p>
+      <p type="listitem">Sámigiella</p>
+      <p type="listitem">Teckenspråk</p>
+    </list>
+    <list>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem">Webbkarta</p>
+    </list>
+    <p>Startsida</p>
+    <p>&gt;</p>
+    <p>Lantbruk &amp; landsbygd</p>
+    <p>&gt;</p>
+    <p>Djurhållning</p>
+    <list>
+      <p type="listitem">Djurhållning <list><p type="listitem">Biodling</p><p type="listitem">Förprövning av djurstallar</p><p type="listitem">Djurskydd</p><p type="listitem">Hästkörkortet</p><p type="listitem">Projekt Djurens välfärd</p></list></p>
+      <p type="listitem">Landsbygdsutveckling</p>
+      <p type="listitem">Lantbruk</p>
+    </list>
+    <p>Dela informationen</p>
+    <p type="title">Djurhållning</p>
+    <p>Kristina Hansson</p>
+    <p>
+      <em type="italic">Länsstyrelsen arbetar med många frågor som berör djurhållningen Vi kontrollerar primärproduktion och att djurstallar uppfyller kraven på en god djurmiljö. Vi ger tillstånd för olika verksamheter med djur. </em>
+    </p>
+    <p>Djuren på landsbygden bidrar till matproduktionen men ger också möjlighet till motion och rekreation. Djuren håller dessutom landskapet öppet och bidrar till biologisk mångfald och vackra miljöer. Djurhållningen skapar på detta sätt arbetstillfällen både i städer och på landsbygden, inom vitt skilda områden som jordbruk, livsmedelsindustri och turism.</p>
+    <p type="title">Förprövning av djurstallar</p>
+    <p>Djurskyddslagen anger hur djurstallar ska se ut. Vi granskar ritningar över olika typer av stallbyggnader innan de byggs för att se till att de lever upp till djurskyddslagens krav.</p>
+    <p type="title">Primärproduktion av foder och livsmedel</p>
+    <p>För att djuren, och i slutänden även vi människor, ska må bra är det viktigt att foder till djuren produceras, hanteras, lagras, transporteras och används på ett säkert sätt. Den så kallade primärproduktionen är första ledet i livsmedelskedjan. Exempel på primärproduktion är odling och skörd av frukt och grönsaker, spannmål och grovfoder, uppfödning av djur och mjölkning. Primärproduktionen kontrolleras i flera led av länsstyrelsen och Jordbruksverket. Alla anläggningar för primärproduktion ska vara registrerade, och det finns regler om vilka tillsatser, läkemedel, genmodifieringar med mera som är tillåtna.</p>
+    <p type="title">Tillstånd för olika verksamheter med djur</p>
+    <p>Om antalet djurenheter på en produktionsplats överstiger 100 ska anmälan göras till kommunen. För djuranläggningar med 400 eller flera djurenheter krävs tillstånd från Länsstyrelsen. Djurenheter beräknas enligt förordningen (SFS 1998:899) om miljöfarlig verksamhet och hälsoskydd.</p>
+    <p>Vi ger tillstånd till andra verksamheter med djur till exempel hunddagis och ridskolor.</p>
+    <p type="title">Nyheter</p>
+    <list>
+      <p type="listitem"><span>Nu öppnar vi upp för ansökan om startstöd </span>2014-11-03  Den 20 oktober öppnade vi upp för fortsatt ansökan om startstöd, ett av företagsstöden inom landsbygdsprogrammet. Anledningen är att det finns pengar kvar från det tidigare landsbygdsprogrammet. Det innebär att fler får möjlighet att söka startstöd.  </p>
+    </list>
+    <list>
+      <p type="listitem">
+        <span>Alla nyheter </span>
+      </p>
+    </list>
+    <p>Rapportera fel på sidan</p>
+    <p>Dölj kommentarsformulär</p>
+    <p type="title">Rapportera fel på sidan</p>
+    <p>Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p>Namn</p>
+    <p>E-post</p>
+    <p>Kommentar</p>
+    <p>Skriv in nedanstående kod för att skicka kommentar</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

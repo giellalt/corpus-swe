@@ -1,0 +1,123 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>677</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/arkeologi-och-fornlamningar/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/>
+    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Arkeologi och fornlämningar - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Snabblänk till textinnehållet</p>
+      <p type="listitem">om webbplatsen</p>
+      <p type="listitem">startsidan</p>
+      <p type="listitem">nyheter</p>
+      <p type="listitem">webbkarta</p>
+      <p type="listitem">sökfunktion</p>
+      <p type="listitem">kontakta oss</p>
+      <p type="listitem">blanketter</p>
+      <p type="listitem">publikationer</p>
+    </list>
+    <p type="title">Webbplatsen använder kakor</p>
+    <p>På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p>Jag accepterar kakor</p>
+    <p>Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem">English</p>
+      <p type="listitem">Suomeksi</p>
+      <p type="listitem">Meänkieli</p>
+      <p type="listitem">Lättläst</p>
+      <p type="listitem">Resanderomani (romani chib)</p>
+      <p type="listitem">Åarjelsaemien</p>
+      <p type="listitem">Sámigiella</p>
+      <p type="listitem">Teckenspråk</p>
+    </list>
+    <list>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem">Webbkarta</p>
+    </list>
+    <p>Startsida</p>
+    <p>&gt;</p>
+    <p>Samhällsplanering &amp; kulturmiljö</p>
+    <p>&gt;</p>
+    <p>Arkeologi och fornlämningar</p>
+    <list>
+      <p type="listitem">Arkeologi och fornlämningar <list><p type="listitem">Sök fornlämning</p><p type="listitem">Fornlämningar i Dalarna</p><p type="listitem">Fornfynd</p><p type="listitem">Arbete som berör fornlämning</p></list></p>
+      <p type="listitem">Boende</p>
+      <p type="listitem">Byggnadsvård</p>
+      <p type="listitem">Energi</p>
+      <p type="listitem">Infrastruktur och IT</p>
+      <p type="listitem">Kulturreservat</p>
+      <p type="listitem">Landskapsvård</p>
+      <p type="listitem">Plan- och byggfrågor</p>
+      <p type="listitem">Skyddad bebyggelse</p>
+    </list>
+    <p>Dela informationen</p>
+    <p type="title">Arkeologi och fornlämningar</p>
+    <p>
+      <em type="italic">Fornlämningar är spår efter äldre mänsklig verksamhet och skyddas av kulturmiljölagen (1988:950). Enligt lagen är det förbjudet att förändra, ta bort, skada eller täcka över en fornlämning men i vissa fall kan Länsstyrelsen ge tillstånd till ingrepp i fornlämningen. </em>
+    </p>
+    <p type="title">Ny lag 1 januari 2014</p>
+    <p>Den 1 januari 2014 trädde kulturmiljölagen (1988:950) i sin nya lydelse i kraft. På Riksantikvarieämbetets webbplats kan du läsa mer om de förändringar som lagen innebär .</p>
+    <p type="title">Tillstånd av Länsstyrelsen</p>
+    <p>Länsstyrelsen är tillsynsmyndighet över länets fornlämningar. Uppdraget består i att skydda, vårda, informera om och öka tillgängligheten till våra fornlämningsmiljöer, så att både dagens och morgondagens generationer kan förstå och uppleva det historiska kulturarvet. Vi prövar ansökningar och ger tillstånd till förändringar i ett fornlämningsområde.</p>
+    <p type="title">Vad är en fornlämning?</p>
+    <p>Fornlämningar är spåren efter en varaktigt övergiven mänsklig verksamhet. Det kan till exempel vara boplatser, gravfält, ruiner och kulturlager i medeltida städer. Nytt från 1 januari 2014 är att en lämning som kan antas ha tillkommit år 1850 eller senare inte omfattas av det allmänna skyddet för fornlämningar. Länsstyrelsen kan fornlämningsförklara lämningar som är yngre än 1850 om det finns särskilda skäl med hänsyn till dess kulturhistoriska värde.</p>
+    <p type="title">Fornlämningarnas lagskydd</p>
+    <p>Fornlämningar har ett automatiskt skydd genom kulturmiljölagen. Det innebär att en nyupptäckt fornlämning har ett omedelbart skydd utan att det behövs något myndighetsbeslut om det. Om du vid pågående arbete upptäcker äldre lämningar ska arbetet omedelbart avbrytas och Länsstyrelsen kontaktas. Lagskyddet gäller även för markområdet runt lämningen, och områdets storlek beror på fornlämningens betydelse och karaktär. En boplats har till exempel ett större skyddsområde än en milsten vid vägkanten.</p>
+    <p type="title">Arkeologiska undersökningar</p>
+    <p>Om du planerar ett arbete som kan störa eller förstöra en fornlämning, exempelvis genom nedgrävning av kabel eller nybyggnad av hus kan Länsstyrelsen begära att du som exploatör ska bekosta arkeologiska undersökningar. Undersökningsresultatet utgör underlag för vårt tillståndsbeslut och är en dokumentation av undersökningen och av fornlämningen med dess fynd. Inför mer omfattande arbeten, till exempel bygge av ny väg kan vi kräva att exploatören bekostar en utredning för att se om några tidigare okända fornlämningar kan beröras.</p>
+    <p type="title">Nyheter</p>
+    <list>
+      <p type="listitem"><span>Nu börjar anbudstid för arkeologisk undersökning. </span>2015-01-15  Länsstyrelsen inbjuder arkeologiska aktörer att ge anbud till den planerade undersökningen på fastigheten Västra Falun 11.  </p>
+    </list>
+    <list>
+      <p type="listitem">
+        <span>Alla nyheter </span>
+      </p>
+    </list>
+    <p type="title">Arkeologisk utgrävning av stenåldersboplats i Älvdalen</p>
+    <p type="title">Sök personal som arbetar med:</p>
+    <list>
+      <p type="listitem">Arkeologifrågor</p>
+    </list>
+    <p type="title">Direkt till sidorna om arkeologiska tillstånd med mera:</p>
+    <list>
+      <p type="listitem">Ingrepp i fornlämning</p>
+      <p type="listitem">Metallsökare</p>
+      <p type="listitem">Forskningsundersökning</p>
+      <p type="listitem">Uppdragsarkeologi</p>
+    </list>
+    <p type="title">Ny lag om fornlämningar</p>
+    <p>Från och med januari 2014 ersätter den nya kulturmiljölagen (1988:950) den tidigare kulturminneslagen. Liksom tidigare kallas lagen i dagligt tal för KML. En viktig ändring är att man nu infört en kompletterande tidsbestämmelse när det gäller vad som räknas som fornlämning enligt lagens 2:a kapitel. Kompletteringen innebär att lämningar som kan antas ha tillkommit före år 1850 har ett omedelbart skydd. För senare lämningar kan Länsstyrelsen fatta beslut om att de ändå omfattas av skydd enligt KML. Vägledning för hur lagen ska tolkas håller på att utarbetas på den centrala myndigheten Riksantikvarieämbetet. Vissa delar av lagtolkningen har redan publicerats. Läs mer på Riksantikvarieämbetetets hemsida.</p>
+    <p type="title">Vad säger lagen?</p>
+    <list>
+      <p type="listitem">Kulturmiljölagens 2:a kap</p>
+      <p type="listitem">Läs mer om lagtillämpningen</p>
+    </list>
+    <p>Rapportera fel på sidan</p>
+    <p>Dölj kommentarsformulär</p>
+    <p type="title">Rapportera fel på sidan</p>
+    <p>Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p>Namn</p>
+    <p>E-post</p>
+    <p>Kommentar</p>
+    <p>Skriv in nedanstående kod för att skicka kommentar</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

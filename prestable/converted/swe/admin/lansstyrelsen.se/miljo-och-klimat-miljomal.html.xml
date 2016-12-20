@@ -1,0 +1,130 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>417</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/miljo-och-klimat/miljomal/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="miljo-och-klimat-miljomal.html"/>
+    <parallel_text xml:lang="eng" location="miljo-och-klimat-miljomal.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Miljömål - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Snabblänk till textinnehållet</p>
+      <p type="listitem">om webbplatsen</p>
+      <p type="listitem">startsidan</p>
+      <p type="listitem">nyheter</p>
+      <p type="listitem">webbkarta</p>
+      <p type="listitem">sökfunktion</p>
+      <p type="listitem">kontakta oss</p>
+      <p type="listitem">blanketter</p>
+      <p type="listitem">publikationer</p>
+    </list>
+    <p type="title">Webbplatsen använder kakor</p>
+    <p>På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p>Jag accepterar kakor</p>
+    <p>Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem">English</p>
+      <p type="listitem">Suomeksi</p>
+      <p type="listitem">Meänkieli</p>
+      <p type="listitem">Lättläst</p>
+      <p type="listitem">Resanderomani (romani chib)</p>
+      <p type="listitem">Åarjelsaemien</p>
+      <p type="listitem">Sámigiella</p>
+      <p type="listitem">Teckenspråk</p>
+    </list>
+    <list>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem">Webbkarta</p>
+    </list>
+    <p>Startsida</p>
+    <p>&gt;</p>
+    <p>Miljö &amp; klimat</p>
+    <p>&gt;</p>
+    <p>Miljömål</p>
+    <list>
+      <p type="listitem">Hälsoskydd</p>
+      <p type="listitem">Klimat och energi</p>
+      <p type="listitem">Miljömål <list><p type="listitem">Aktuellt</p><p type="listitem">Dalarnas miljömål</p><p type="listitem">Sveriges miljömål</p><p type="listitem">Data och dokument</p><p type="listitem">Länkar</p></list></p>
+      <p type="listitem">Tillstånd i miljön</p>
+      <p type="listitem">Vatten och vattenanvändning</p>
+      <p type="listitem">Verksamheter med miljöpåverkan</p>
+    </list>
+    <p>Dela informationen</p>
+    <p type="title">Miljömål</p>
+    <p>
+      <em type="italic">Länsstyrelsen samordnar det regionala arbetet för att uppnå de svenska miljömålen. </em>
+    </p>
+    <p>Riksdagen har beslutat om en samlad miljöpolitik för ett hållbart Sverige. Det övergripande målet för miljöpolitiken är att till nästa generation lämna över ett samhälle där de stora miljöproblemen i Sverige är lösta, utan att orsaka ökade miljö- och hälsoproblem utanför Sveriges gränser. Utöver generationsmålet finns 16 nationella miljökvalitetsmål med preciseringar samt etappmål.</p>
+    <p>Länsstyrelsen har en samordnande roll i det regionala arbetet med miljömålen. Vi arbetar tillsammans med kommuner, näringsliv, ideella organisationer och andra aktörer för att miljömålen ska få genomslag i länet och miljön ska bli bättre. Vi följer också upp hur miljöarbetet går. En samlad information om miljömålsarbetet i Sverige finns på den nationella webbplatsen miljömål.se . Mer information finns också hos länsstyrelsernas miljömålsnätverk RUS .</p>
+    <p>
+      <em type="italic">De 16 nationella miljökvalitetsmålen är: </em>
+    </p>
+    <list>
+      <p type="listitem">Begränsad klimatpåverkan</p>
+      <p type="listitem">Frisk luft</p>
+      <p type="listitem">Bara naturlig försurning</p>
+      <p type="listitem">Giftfri miljö</p>
+      <p type="listitem">Skyddande ozonskikt</p>
+      <p type="listitem">Säker strålmiljö</p>
+      <p type="listitem">Ingen övergödning</p>
+      <p type="listitem">Levande sjöar och vattendrag</p>
+      <p type="listitem">Grundvatten av god kvalitet</p>
+      <p type="listitem">Hav i balans samt levande kust och skärgård</p>
+      <p type="listitem">Myllrande våtmarker</p>
+      <p type="listitem">Levande skogar</p>
+      <p type="listitem">Ett rikt odlingslandskap</p>
+      <p type="listitem">Storslagen fjällmiljö</p>
+      <p type="listitem">God bebyggd miljö</p>
+      <p type="listitem">Ett rikt växt- och djurliv</p>
+    </list>
+    <p type="title">Kontakta oss</p>
+    <p>Magnus Eriksson</p>
+    <p>Miljömålssamordnare</p>
+    <p>Magnus punkt Eriksson snabela lansstyrelsen punkt se§Magnus punkt Eriksson snabela lansstyrelsen punkt se</p>
+    <p>010-2250280</p>
+    <p>Sven Jansson</p>
+    <p>Miljöhandläggare</p>
+    <p>Sven punkt Jansson snabela lansstyrelsen punkt se§Sven punkt Jansson snabela lansstyrelsen punkt se</p>
+    <p>010-2250290</p>
+    <p>Veronica Moraeus</p>
+    <p>Funktionssamordnare</p>
+    <p>veronica punkt moraeus snabela lansstyrelsen punkt se§veronica punkt moraeus snabela lansstyrelsen punkt se</p>
+    <p>010-2250481</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+    <p type="title">Aktuellt</p>
+    <list>
+      <p type="listitem">Dalarnas miljömål</p>
+    </list>
+    <list/>
+    <p>Rapportera fel på sidan</p>
+    <p>Dölj kommentarsformulär</p>
+    <p type="title">Rapportera fel på sidan</p>
+    <p>Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p>Namn</p>
+    <p>E-post</p>
+    <p>Kommentar</p>
+    <p>Skriv in nedanstående kod för att skicka kommentar</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

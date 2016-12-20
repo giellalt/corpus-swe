@@ -1,0 +1,93 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>260</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/forfattningar/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="om-lansstyrelsen-forfattningar.html"/>
+    <parallel_text xml:lang="eng" location="om-lansstyrelsen-forfattningar.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Författningar - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Snabblänk till textinnehållet</p>
+      <p type="listitem">om webbplatsen</p>
+      <p type="listitem">startsidan</p>
+      <p type="listitem">nyheter</p>
+      <p type="listitem">webbkarta</p>
+      <p type="listitem">sökfunktion</p>
+      <p type="listitem">kontakta oss</p>
+      <p type="listitem">blanketter</p>
+      <p type="listitem">publikationer</p>
+    </list>
+    <p type="title">Webbplatsen använder kakor</p>
+    <p>På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p>Jag accepterar kakor</p>
+    <p>Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem">English</p>
+      <p type="listitem">Suomeksi</p>
+      <p type="listitem">Meänkieli</p>
+      <p type="listitem">Lättläst</p>
+      <p type="listitem">Resanderomani (romani chib)</p>
+      <p type="listitem">Åarjelsaemien</p>
+      <p type="listitem">Sámigiella</p>
+      <p type="listitem">Teckenspråk</p>
+    </list>
+    <list>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem">Webbkarta</p>
+    </list>
+    <p>Startsida</p>
+    <p>&gt;</p>
+    <p>Om Länsstyrelsen</p>
+    <p>&gt;</p>
+    <p>Författningar</p>
+    <list>
+      <p type="listitem">Diarium</p>
+      <p type="listitem">EU och internationellt</p>
+      <p type="listitem">Författningar <list><p type="listitem">2014</p><p type="listitem">2013</p><p type="listitem">2012</p><p type="listitem">2011</p><p type="listitem">2010</p><p type="listitem">2009</p><p type="listitem">2008</p><p type="listitem">2007</p><p type="listitem">2006</p><p type="listitem">2005</p><p type="listitem">2004</p><p type="listitem">2003</p><p type="listitem">2002</p><p type="listitem">2001</p><p type="listitem">2000</p><p type="listitem">1999</p><p type="listitem">1998</p><p type="listitem">1997</p><p type="listitem">1996</p></list></p>
+      <p type="listitem">Jobba hos oss</p>
+      <p type="listitem">Kungörelser och delgivningar</p>
+      <p type="listitem">Landshövding och länsledning</p>
+      <p type="listitem">Om länet</p>
+      <p type="listitem">Organisation</p>
+      <p type="listitem">Pressrum</p>
+      <p type="listitem">Remisser</p>
+      <p type="listitem">Upphandlingar</p>
+      <p type="listitem">Vårt uppdrag</p>
+      <p type="listitem">Överklaga</p>
+    </list>
+    <p>Dela informationen</p>
+    <p type="title">Författningar</p>
+    <p>
+      <em type="italic">Länsstyrelsen ger ut länets författningssamling som innehåller både föreskrifter som vi har beslutat om och vissa föreskrifter som kommunerna och dåvarande Vägverket har utfärdat. </em>
+    </p>
+    <p/>
+    <p>Författningar är rättsregler som räknas som föreskrifter, vilket innebär att de inte riktar sig till någon bestämd person utan till allmänheten. Lokala föreskrifter är bland annat beslut om vattenskydd, naturreservat, sjötrafik och älgjakt.</p>
+    <p>Trafikföreskrifter publiceras i Svensk trafikföreskriftssamling (STFS) .</p>
+    <p>Författningen kungörs för att den ska bli känd för allmänheten. Den får då ett löpnummer, och vi skickar kopior till bland annat kommunerna i länet och till kommunbiblioteken.</p>
+    <p>Rapportera fel på sidan</p>
+    <p>Dölj kommentarsformulär</p>
+    <p type="title">Rapportera fel på sidan</p>
+    <p>Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p>Namn</p>
+    <p>E-post</p>
+    <p>Kommentar</p>
+    <p>Skriv in nedanstående kod för att skicka kommentar</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

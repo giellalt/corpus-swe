@@ -1,0 +1,99 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>240</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Teckensprak/Pages/default.aspx</origFileName>
+    <parallel_text location="startsida.html" xml:lang="eng"/>
+    <parallel_text location="startsida.html" xml:lang="fin"/>
+    <parallel_text location="startsida.html" xml:lang="sma"/>
+    <parallel_text location="startsida.html" xml:lang="sme"/>
+    <parallel_text xml:lang="fit" location="startsida.html"/>
+    <parallel_text xml:lang="rmf" location="startsida.html"/>
+    <parallel_text xml:lang="rmn" location="startsida.html"/>
+    <parallel_text xml:lang="rmu" location="startsida.html"/>
+    <parallel_text xml:lang="rmy-rka" location="startsida.html"/>
+    <parallel_text xml:lang="rmy-rlo" location="startsida.html"/>
+    <parallel_text xml:lang="yid" location="startsida.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Länsstyrelsen - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Snabblänk till textinnehållet</p>
+      <p type="listitem">om webbplatsen</p>
+      <p type="listitem">startsidan</p>
+      <p type="listitem">nyheter</p>
+      <p type="listitem">webbkarta</p>
+      <p type="listitem">sökfunktion</p>
+      <p type="listitem">kontakta oss</p>
+      <p type="listitem">blanketter</p>
+      <p type="listitem">publikationer</p>
+    </list>
+    <p type="title">Webbplatsen använder kakor</p>
+    <p>På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p>Jag accepterar kakor</p>
+    <p>Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem">English</p>
+      <p type="listitem">Suomeksi</p>
+      <p type="listitem">Meänkieli</p>
+      <p type="listitem">Lättläst</p>
+      <p type="listitem">Resanderomani (romani chib)</p>
+      <p type="listitem">Åarjelsaemien</p>
+      <p type="listitem">Sámigiella</p>
+      <p type="listitem">Svenska</p>
+    </list>
+    <list>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem">Webbkarta</p>
+    </list>
+    <p>Startsida</p>
+    <list>
+      <p type="listitem">Djur och natur</p>
+      <p type="listitem">Miljö och klimat</p>
+      <p type="listitem">Lantbruk och landsbygd</p>
+      <p type="listitem">Näringsliv och föreningar</p>
+      <p type="listitem">Människa och samhälle</p>
+      <p type="listitem">Samhällsplanering och kulturmiljö</p>
+      <p type="listitem">Om Länsstyrelsen</p>
+    </list>
+    <p>Dela informationen</p>
+    <p type="title">Länsstyrelsen</p>
+    <p>Länsstyrelsen är en statlig myndighet som finns nära människorna i varje län. Vi är en viktig länk mellan människor och kommuner å ena sidan och regering, riksdag och centrala myndigheter å den andra.</p>
+    <p>Här finns en lista över våra teckenspråksfilmer med information om vad vi gör.</p>
+    <list>
+      <p type="listitem">Djur och natur</p>
+      <p type="listitem">Miljö och klimat</p>
+      <p type="listitem">Lantbruk och landsbygd</p>
+      <p type="listitem">Näringsliv och föreningar</p>
+      <p type="listitem">Människa och samhälle</p>
+      <p type="listitem">Samhällsplanering och kulturmiljö</p>
+      <p type="listitem">Om Länsstyrelsen</p>
+    </list>
+    <p>Filmerna finns också under de olika flikarna tillsammans med text.</p>
+    <p>Filmerna på den här sidan är på svenskt teckenspråk.</p>
+    <p>Du hittar mer information om vår verksamhet när du klickar på länken Svenska i sidhuvudet.</p>
+    <p>Rapportera fel på sidan</p>
+    <p>Dölj kommentarsformulär</p>
+    <p type="title">Rapportera fel på sidan</p>
+    <p>Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p>Namn</p>
+    <p>E-post</p>
+    <p>Kommentar</p>
+    <p>Skriv in nedanstående kod för att skicka kommentar</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

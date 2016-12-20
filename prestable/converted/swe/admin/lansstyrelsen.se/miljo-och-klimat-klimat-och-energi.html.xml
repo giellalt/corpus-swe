@@ -1,0 +1,110 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>437</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/vasterbotten/Sv/miljo-och-klimat/klimat-och-energi/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="miljo-och-klimat-klimat-och-energi.html"/>
+    <parallel_text xml:lang="sma" location="miljo-och-klimat-klimat-och-energi.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Klimat och energi - Länsstyrelsen Västerbotten</p>
+    <list>
+      <p type="listitem">Snabblänk till textinnehållet</p>
+      <p type="listitem">om webbplatsen</p>
+      <p type="listitem">startsidan</p>
+      <p type="listitem">nyheter</p>
+      <p type="listitem">webbkarta</p>
+      <p type="listitem">sökfunktion</p>
+      <p type="listitem">kontakta oss</p>
+      <p type="listitem">blanketter</p>
+      <p type="listitem">publikationer</p>
+    </list>
+    <p type="title">Webbplatsen använder kakor</p>
+    <p>På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p>Jag accepterar kakor</p>
+    <p>Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem">English</p>
+      <p type="listitem">Suomeksi</p>
+      <p type="listitem">Meänkieli</p>
+      <p type="listitem">Lättläst</p>
+      <p type="listitem">Kalé (romani chib)</p>
+      <p type="listitem">Resanderomani (romani chib)</p>
+      <p type="listitem">Åarjelsaemien</p>
+      <p type="listitem">Sámigiella</p>
+      <p type="listitem">Teckenspråk</p>
+    </list>
+    <list>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem">Webbkarta</p>
+    </list>
+    <p>Startsida</p>
+    <p>&gt;</p>
+    <p>Miljö &amp; klimat</p>
+    <p>&gt;</p>
+    <p>Klimat och energi</p>
+    <list>
+      <p type="listitem">Hälsoskydd</p>
+      <p type="listitem">Klimat och energi <list><p type="listitem">Aktuellt</p><p type="listitem">Klimatrådet Västerbotten</p><p type="listitem">Energiomställning</p><p type="listitem">Klimatanpassning</p><p type="listitem">Regional strategi</p><p type="listitem">Färdplan 2050</p><p type="listitem">Skog, Klimat och Miljö</p></list></p>
+      <p type="listitem">Miljömål</p>
+      <p type="listitem">Tillståndet i miljön</p>
+      <p type="listitem">Vatten och vattenanvändning</p>
+      <p type="listitem">Verksamheter med miljöpåverkan</p>
+    </list>
+    <p>Dela informationen</p>
+    <p type="title">Klimat och energi</p>
+    <p>
+      <em type="italic">Länsstyrelsen samordnar det regionala arbetet med att minska utsläppen av växthusgaser, och vi arbetar med att anpassa samhället till ett förändrat klimat. </em>
+    </p>
+    <p>Utsläpp av växthusgaser medför att klimatet förändras och blir varmare, vilket får stora globala konsekvenser. Människans påverkan på klimatet måste begränsas: vi behöver använda energi på ett effektivare sätt, minska utsläppen av växthusgaser och framställa mer förnybar energi. Samtidigt måste vi bland annat förbereda oss på att havsytan höjs och översvämningarna blir fler.</p>
+    <p type="title">Vad orsakar problemen?</p>
+    <p>Klimatförändringarna beror på människans utsläpp av gaser som reflekterar tillbaka jordens värmestrålning. Dessa värmereflekterande gaser i atmosfären kallas växthusgaser. En stor del av gaserna är koldioxid som bildas vid förbränning av fossila bränslen som kol, olja, torv och naturgas. Andra växthusgaser kommer från markanvändning, djurhållning, avfallshantering, ineffektiva vedpannor och från vissa industriprocesser.</p>
+    <p type="title">Klimat- och energistrategi</p>
+    <p>Länsstyrelsen har tillsammans med länets kommuner, myndigheter och näringsliv arbetat fram en klimat- och energistrategi som visar hur vi ska kunna bidra till att klara klimatmålen och energiomställningen.</p>
+    <p type="title">Klimatanpassning</p>
+    <p>Länsstyrelsen samordnar det regionala arbetet med att anpassa det svenska samhället till ett förändrat klimat. Tyngdpunkten i arbetet är att öka kunskapen om klimatförändringen och dess konsekvenser, och genom dialog stimulera till åtgärder för att förebygga framtida problem.</p>
+    <p type="title">Kontakta oss</p>
+    <p>Tina Holmlund</p>
+    <p>Samhällsutvecklingsenheten</p>
+    <p>tina punkt holmlund snabela lansstyrelsen punkt se§tina punkt holmlund snabela lansstyrelsen punkt se</p>
+    <p>010-2254515</p>
+    <p>Gabriel Lundgren</p>
+    <p>Samhällsutvecklingsenheten</p>
+    <p>gabriel punkt lundgren snabela lansstyrelsen punkt se§gabriel punkt lundgren snabela lansstyrelsen punkt se</p>
+    <p>010-2254531</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+    <p type="title">Mer information om Länsstyrelsens arbete inom området</p>
+    <list>
+      <p type="listitem">Energi</p>
+    </list>
+    <p>Rapportera fel på sidan</p>
+    <p>Dölj kommentarsformulär</p>
+    <p type="title">Rapportera fel på sidan</p>
+    <p>Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p>Namn</p>
+    <p>E-post</p>
+    <p>Kommentar</p>
+    <p>Skriv in nedanstående kod för att skicka kommentar</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

@@ -1,0 +1,118 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>402</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/skyddad-bebyggelse/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-skyddad-bebyggelse.html"/>
+    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-skyddad-bebyggelse.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Kulturhistoriskt värdefull bebyggelse - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Snabblänk till textinnehållet</p>
+      <p type="listitem">om webbplatsen</p>
+      <p type="listitem">startsidan</p>
+      <p type="listitem">nyheter</p>
+      <p type="listitem">webbkarta</p>
+      <p type="listitem">sökfunktion</p>
+      <p type="listitem">kontakta oss</p>
+      <p type="listitem">blanketter</p>
+      <p type="listitem">publikationer</p>
+    </list>
+    <p type="title">Webbplatsen använder kakor</p>
+    <p>På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p>Jag accepterar kakor</p>
+    <p>Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem">English</p>
+      <p type="listitem">Suomeksi</p>
+      <p type="listitem">Meänkieli</p>
+      <p type="listitem">Lättläst</p>
+      <p type="listitem">Resanderomani (romani chib)</p>
+      <p type="listitem">Åarjelsaemien</p>
+      <p type="listitem">Sámigiella</p>
+      <p type="listitem">Teckenspråk</p>
+    </list>
+    <list>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem">Webbkarta</p>
+    </list>
+    <p>Startsida</p>
+    <p>&gt;</p>
+    <p>Samhällsplanering &amp; kulturmiljö</p>
+    <p>&gt;</p>
+    <p>Skyddad bebyggelse</p>
+    <list>
+      <p type="listitem">Arkeologi och fornlämningar</p>
+      <p type="listitem">Boende</p>
+      <p type="listitem">Byggnadsvård</p>
+      <p type="listitem">Energi</p>
+      <p type="listitem">Infrastruktur och IT</p>
+      <p type="listitem">Kulturreservat</p>
+      <p type="listitem">Landskapsvård</p>
+      <p type="listitem">Plan- och byggfrågor</p>
+      <p type="listitem">Skyddad bebyggelse <list><p type="listitem">K-märkta byggnader</p><p type="listitem">Skydd av den byggda miljön</p><p type="listitem">Byggnadsminnen</p><p type="listitem">Skydd av kyrkor</p></list></p>
+    </list>
+    <p>Dela informationen</p>
+    <p type="title">Kulturhistoriskt värdefull bebyggelse</p>
+    <p>Stadsdelen Östanfors ingår i världsarvet Falun Foto: Anders Gottberg</p>
+    <p>Den byggda miljön berättar om samhällets utveckling och är ett uttryck för olika tiders ideal och förutsättningar. Byggnaderna omkring oss skapar förståelse för tidigare generationer och ger oss perspektiv på samtiden. Skyddet av enskilda byggnader ska ses i sammanhang med skyddet av kulturmiljön i en vidare bemärkelse. Det finns ett flertal lagar inom olika samhällssektorer som på olika sätt syftar till att inbegripa skyddet av den byggda miljön och dess omgivningar.</p>
+    <p>Det stora flertalet av de kulturhistoriskt intressanta byggnaderna skyddas av kommunerna genom bestämmelser i plan- och bygglagen. Kommunerna handlägger bygglov i allmänhet.</p>
+    <p>En del byggnader anses vara så värdefulla att de har ett individuellt lagskydd. Hit hör byggnadsminnen och de flesta kyrkobyggnader som förvaltas av Svenska kyrkan. Dessa byggnader skyddas genom kulturmiljölagen och tillhör Länsstyrelsens särskilda ansvarsområde.</p>
+    <p>Länsstyrelsens uppgifter är att</p>
+    <p>- utreda och besluta om en eller flera byggnader ska bli byggnadsminne</p>
+    <p>- sköta tillsyn av byggnadsminnen, kyrkor och begravningsplatser</p>
+    <p>- ge tillstånd till att ändra byggnadsminnen, kyrkor och begravningsplatser</p>
+    <p>- ge råd om kulturhistoriskt värdefull bebyggelse till kommuner, förvaltare och enskilda.</p>
+    <p type="title">Nyheter</p>
+    <list>
+      <p type="listitem"><span>Nu börjar anbudstid för arkeologisk undersökning. </span>2015-01-15  Länsstyrelsen inbjuder arkeologiska aktörer att ge anbud till den planerade undersökningen på fastigheten Västra Falun 11.  </p>
+    </list>
+    <list>
+      <p type="listitem">
+        <span>Alla nyheter </span>
+      </p>
+    </list>
+    <p type="title">Läs mer om lagar till skydd för den byggda miljön och kulturarvet</p>
+    <p>Plan- och bygglagen</p>
+    <list>
+      <p type="listitem">Översiktsplan</p>
+      <p type="listitem">Detaljplan</p>
+      <p type="listitem">Områdesbestämmelser</p>
+      <p type="listitem">Bygglov</p>
+    </list>
+    <p>Miljöbalken</p>
+    <list>
+      <p type="listitem">Riksintressen</p>
+      <p type="listitem">Biotopskydd</p>
+      <p type="listitem">Landskapsbildskydd</p>
+    </list>
+    <p>Kulturminneslagen</p>
+    <p>Väglagen</p>
+    <p>Järnvägslagen</p>
+    <p>Skogsvårdslagen</p>
+    <p>Rapportera fel på sidan</p>
+    <p>Dölj kommentarsformulär</p>
+    <p type="title">Rapportera fel på sidan</p>
+    <p>Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p>Namn</p>
+    <p>E-post</p>
+    <p>Kommentar</p>
+    <p>Skriv in nedanstående kod för att skicka kommentar</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>
