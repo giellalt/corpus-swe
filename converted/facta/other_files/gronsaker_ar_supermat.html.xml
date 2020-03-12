@@ -1,0 +1,55 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Grönsaker är supermat</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>670</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual>
+      <language xml:lang="sme"/>
+      <language xml:lang="fin"/>
+    </multilingual>
+    <origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/kasvikset-ovat-superruokaa/</origFileName>
+    <parallel_text xml:lang="fin" location="kasvikset_ovat_superruokaa.html"/>
+    <parallel_text xml:lang="sme" location="sattut_leat_superborramus.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Hoppa över till innehållet</p>
+    <p xml:lang="fin">RuokaTutka</p>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="sme">davvisámegiella</p>
+    </list>
+    <list>
+      <p type="listitem">Aktiviteter att göra på lektionen och hemma <list><p type="listitem">Uppgifter</p><p type="listitem">MatRadarn spelet</p><p type="listitem" xml:lang="sme">MatRadarTube</p><p type="listitem">Testlabbet</p></list></p>
+      <p type="listitem">Fakta om mat <list><p type="listitem">Mjölk ger mycket gott</p><p type="listitem">Grönsaker är supermat</p><p type="listitem" xml:lang="sme">Matfostran</p><p type="listitem" xml:lang="fin">Skolmat</p><p type="listitem">Ekologiskt smakar gott</p><p type="listitem">Mat och sinnen <list><p type="listitem">Topp 5  i hemmets och skolans matfostran</p><p type="listitem" xml:lang="fin">Smakskolan – låt sinnena jobba</p></list></p></list></p>
+      <p type="listitem">Om projektet</p>
+      <p type="listitem">Tecken</p>
+      <p type="listitem">MatKonst-tävlingen</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="sme">davvisámegiella</p>
+    </list>
+    <p type="title">Grönsaker är supermat</p>
+    <p><em type="italic">Alla grönsaker, rotfrukter, bär och frukter är växtbaserad föda. </em>Frukt och grönsaker främjar hälsan. De förbättrar blodtrycket samt minskar risken för att insjukna i diabetes typ 2, hjärt- och kärlsjukdomar samt vissa typer av cancer. </p>
+    <p><em type="italic">Grönsakernas och frukternas kraft döljer sig i de ämnen de innehåller. </em>De ger vitaminer, mineraler, fibrer och antioxidanter, som är nödvändiga för att kroppen ska fungera, växa och må bra. Det lönar sig inte att försöka få i sig dessa ämnen genom piller, för undersökningar har visat att vitaminpreparat inte har samma positiva effekter som grönsaker. Eftersom grönsaker innehåller mycket vatten innehåller de bara lite energi och gör det därför lättare att kontrollera vikten. De innehåller också fibrer som fyller magen och jämnar ut blodsockret, vilket hjälper skolelever att orka och koncentrera sig längre. Även tänderna och tandköttet gillar att tugga på grönsaker. </p>
+    <p><em type="italic">Finländarna borde äta mera grönt. </em>En tredjedel av alla elever i årskurs 4–5 äter inte grönsaker, frukt eller bär varje dag. Av högstadieeleverna äter bara var sjätte grönsaker och var femte frukt eller bär varje dag. För ett barn räcker 5–6 barnnävar frukt och grönsaker per dag. Potatis räknas inte med bland grönsakerna, eftersom den har en egen plats i tallriksmodellen. </p>
+    <p><em type="italic">Frukt och grönsaker ger nya smakupplevelser </em>och glädje för ögat. Många av de hälsofrämjande föreningarna i frukt och grönsaker är färgämnen. Därför är det bra att dagligen äta frukt och grönsaker i många olika färger. Grönsaker och frukter är goda både som sådana och tillagade som tillbehör, och kan göra maten smakrikare och saftigare. Riven morot eller squash passar bra i pastasås eller makaronilåda. Upp till hälften av köttet i en soppa eller gryträtt kan ersättas med rotfrukter. Leta tillsammans fram nya vegetariska recept. </p>
+    <p><em type="italic">När man fyller tallriken enligt tallriksmodellen </em>, det vill säga så att halva tallriken är fylld av färska eller tillagade grönsaker, har man fått ihop hälften av det rekommenderade dagliga intaget. På morgonen kan man ha bär på gröten eller yoghurten och på eftermiddagssmörgåsen kan man ha skivade grönsaker. En frukt är ett bra mellanmål som skoleleven kan ha med sig till skolan eller hobbyn. Även äldre barn uppskattar färdigt uppskurna frukter och grönsaker i kylskåpet när de kommer hem. Frukt och grönsaker passar även som godis: bärkvarg eller fruktsallad är bra som efterrätt och grönsaks- eller rutfruktspinnar med dipp som snacks. </p>
+    <p><em type="italic">Undersökningar har visat att barn gillar det som serveras hemma. </em>Om man köper hem frukter och grönsaker, och de är lättillgängliga och lockande för barnet, blir de också ätna. Låt barnet vara med och välja vilka grönsaker och frukter ni köper hem. Man behöver inte tycka om allting genast, men när man provar en ny smak flera gånger vänjer man sig så småningom vid den. Barn har störst aptit på grönsaker när råvarorna i salladen serveras var för sig och barnet uppmuntras, men inte tvingas, att bekanta sig med nya smaker. När man lär sig hälsosamma matvanor redan som barn har man dem sannolikt kvar även som vuxen. </p>
+    <p><em type="italic">De bästa och billigaste grönsakerna får man när man handlar enligt säsong. I affären syns detta exempelvis i form av erbjudanden på citrusfrukter och sparris, som man gärna kan dra nytta av. </em>Grönsaker, bär och frukter är godast i slutet av sommaren och på hösten. Vintertid är rotfrukter, lök och kål bra och billig mat. Bär som du plockat och fryst in själv eller köpt djupfrysta från affären ger smakupplevelser och antioxidanter även vintertid. </p>
+    <p type="title">Så får du i dig dagens frukt och grönt</p>
+  </body>
+</document>

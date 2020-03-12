@@ -1,0 +1,49 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>161</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/24399</origFileName>
+    <parallel_text xml:lang="sme" location="24775.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Förvaltningskommuner - Sametinget</p>
+    <p type="title">Förvaltningskommuner i det samiska området</p>
+    <p>19 kommuner ingår i förvaltningsområdet för samiska. Särskilda krav ställs på en sådan kommun. Till exempel har samer rätt till förskoleverksamhet och äldreomsorg helt eller delvis på samiska. Samer har rätt att använda sitt språk i kontakter med kommunen och myndigheter i området.</p>
+    <p><em type="italic">Förvaltningsområdet för samiska </em>Särskilda rättigheter gäller i förvaltningskommunerna för samiska. I nuläget (2012) ingår 19 kommuner som här står i bokstavsordning. Klicka på länken efter kommunnamnet för att läsa mer om respektive kommuns arbete med det minoritetspolitiska uppdraget. </p>
+    <list>
+      <p type="listitem">Arjeplog Läs mer</p>
+      <p type="listitem">Arvidsjaur Läs mer</p>
+      <p type="listitem">Berg Läs mer</p>
+      <p type="listitem">Dorotea Läs mer</p>
+      <p type="listitem">Gällivare Läs mer</p>
+      <p type="listitem">Härjedalen Läs mer</p>
+      <p type="listitem">Jokkmokk Läs mer</p>
+      <p type="listitem">Kiruna Läs mer</p>
+      <p type="listitem">Krokom Läs mer</p>
+      <p type="listitem">Lycksele Läs mer</p>
+      <p type="listitem">Malå Läs mer</p>
+      <p type="listitem">Sorsele Läs mer</p>
+      <p type="listitem">Storuman Läs mer</p>
+      <p type="listitem">Strömsund Läs mer</p>
+      <p type="listitem">Umeå Läs mer</p>
+      <p type="listitem">Vilhelmina Läs mer</p>
+      <p type="listitem">Åre Läs mer</p>
+      <p type="listitem">Älvdalen Läs mer</p>
+      <p type="listitem">Östersund Läs mer</p>
+    </list>
+    <p>De kommuner som berörs får statsbidrag för merkostnaderna. Även andra kommuner kan ansluta sig frivilligt.</p>
+  </body>
+</document>

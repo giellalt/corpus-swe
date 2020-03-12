@@ -1,0 +1,63 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>398</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.svenskakyrkan.se/kyrkoval2005/4i.htm</origFileName>
+    <parallel_text xml:lang="fin" location="finska-lule.pdf"/>
+    <parallel_text xml:lang="fit" location="meankieli-lule.pdf"/>
+    <parallel_text xml:lang="sme" location="nordsamiska-lulea.pdf"/>
+    <parallel_text xml:lang="smj" location="lulesamiska-lule.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>4i</p>
+    <p>Start</p>
+    <p>Svenska kyrkan</p>
+    <p>Att rösta</p>
+    <p>Att ställa upp</p>
+    <p>Valresultat</p>
+    <p>Ladda ned</p>
+    <p>Kontakt</p>
+    <p>Uppdraget</p>
+    <p>Förtroendevald</p>
+    <p>Organisation</p>
+    <p>Nomineringsgrupp</p>
+    <p>Kandidater</p>
+    <p>Vem är valbar?</p>
+    <p>Tidtabell</p>
+    <p>Bra att veta om Kyrkovalet 2005</p>
+    <p>Svenska kyrkan är demokratiskt uppbyggd vilket förutsätter engagemang och ansvarstagande hos de ca 5,8 miljoner röstberättigade medlemmarna. I kyrkan väljer vi vart fjärde år vilka som ska fatta besluten i församlingar, samfälligheter, stift och kyrkomöte.</p>
+    <p>Söndag 18 september, 2005 går Svenska kyrkan till val. Röstberättigad är den som tillhör Svenska kyrkan och senast vid valdagen fyller 16 år. I kyrkovalet röstar man på i förhand registrerade nomineringsgrupper (det som i allmänna val kallas partier). Man kan dessutom personrösta - alltså markera den kandidat man helst vill se invald.</p>
+    <p>Det här kan du rösta till</p>
+    <p>Församling</p>
+    <p>Den församling du är folkbokförd i. Kyrkofullmäktige eller s.k. direktvalt kyrkoråd är församlingens högsta beslutande organ.</p>
+    <p>Samfällighet</p>
+    <p>Om församlingen där du är folkbokförd i ingår i en samfällighet sker även val till samfällda kyrkofullmäktige. Församlingarna samverkar i en samfällighet främst för ekonomiska frågor.</p>
+    <p>Stiftsfullmäktige</p>
+    <p>Svenska kyrkan är indelad i tretton stift. Varje stift leds av en biskop och omfattar församlingarna inom stiftets geografiska område. Stiftens uppgift är att främja och ha tillsyn över församlingslivet. Stiftsfullmäktige är stiftens högsta beslutande organ.</p>
+    <p>Kyrkomöte</p>
+    <p>Svenska kyrkans högsta beslutande organ.</p>
+    <p>Att ställa upp</p>
+    <p>Genom kyrkovalet den 18 september har alla som tillhör Svenska kyrkan möjlighet att vara med och forma framtidens kyrka. Det kan man göra genom att rösta eller genom att ställa upp i valet i en nomineringsgrupp. Man kan antingen ställa upp i en befintlig nomineringsgrupp eller bilda en egen. Valbarhetsålder är 18 år senast vid valdagen. Broschyren <span type="quote">”Att ställa upp”</span>, som är på svenska, beskriver hur man ställer upp i Kyrkovalet. Den går att hämta hem från Internet: http://www.svenskakyrkan.se/kyrkoval2005/4.htm.</p>
+    <p>Tidsplan</p>
+    <p>15 april bör helst ansökan om registrering av nomineringsgrupp liksom anmälan av kandidater vara inne hos stiftsstyrelse eller kyrkostyrelse. Sista datum är 15 maj.</p>
+    <p>31 augusti ska röstkorten vara utskickade till de som får rösta. Mellan den 5-14 september kan man förhandsrösta.</p>
+    <p>Röstkort krävs alltid vid förhandsröstning. Man kan även brevrösta och att skicka ett bud att rösta för dig är också möjligt. För bud- och brevröstning krävs särskilda kuvert som du kan få från din församling.</p>
+    <p>18 september, 2005 sker röstning i Vallokal. Vallokal och öppettider framgår av röstkort.</p>
+    <p>1 januari, 2006 tillträder de nyvalda sina uppdrag.</p>
+    <p>För frågor eller synpunkter, kontakta kyrkokansliet på</p>
+    <p>info@svenskakyrkan.se</p>
+  </body>
+</document>

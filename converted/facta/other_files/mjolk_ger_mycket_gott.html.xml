@@ -1,0 +1,51 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Mjölk ger mycket gott</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>520</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/maidosta-helposti-hyvaa/</origFileName>
+    <parallel_text xml:lang="fin" location="maidosta_helposti_hyvaa.html"/>
+    <parallel_text xml:lang="sme" location="mielkkis_alkit_buorri.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Hoppa över till innehållet</p>
+    <p xml:lang="fkv">RuokaTutka</p>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <list>
+      <p type="listitem">Aktiviteter att göra på lektionen och hemma <list><p type="listitem">Uppgifter</p><p type="listitem" xml:lang="nno">MatRadarn spelet</p><p type="listitem" xml:lang="vep">MatRadarTube</p><p type="listitem" xml:lang="nno">Testlabbet</p></list></p>
+      <p type="listitem">Fakta om mat <list><p type="listitem">Mjölk ger mycket gott</p><p type="listitem">Grönsaker är supermat</p><p type="listitem" xml:lang="eng">Matfostran</p><p type="listitem" xml:lang="fin">Skolmat</p><p type="listitem">Ekologiskt smakar gott</p><p type="listitem" xml:lang="nno">Mat och sinnen <list><p type="listitem">Topp 5  i hemmets och skolans matfostran</p><p type="listitem" xml:lang="nno">Smakskolan – låt sinnena jobba</p></list></p></list></p>
+      <p type="listitem">Om projektet</p>
+      <p type="listitem" xml:lang="vep">Tecken</p>
+      <p type="listitem">MatKonst-tävlingen</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <p type="title">Mjölk ger mycket gott</p>
+    <p><em type="italic">Mjölkkonsumtion i världen, topp 5 </em>Finland Irland Nya Zeeland Australien Cypern </p>
+    <p><em type="italic">Mjölken är en del av den finländska matkulturen </em>, och finländarna konsumerar också mest mjölk i världen, över 300 kilo per person och år. Förutom de fem länder som leder statistiken dricker man mycket mjölk även i övriga Norden, Storbritannien och Estland. Mjölk dricks i skolorna även i exempelvis Japan, Malaysia, Thailand, Argentina, Mexiko och Iran. Finländarna avnjuter knappt hälften av sin mjölk i flytande form, det vill säga som mjölk, surmjölk eller yoghurt. Dessutom äter man ost och kvarg. När det gäller glass leder vi statistiken i Europa. Mejeriprodukter hör till våra mest betydande exportprodukter. </p>
+    <p><em type="italic">Mjölkproduktionen är </em><em type="italic">en viktig näring </em>som håller landsbygden levande och bebodd. I Finland finns omkring 300 000 mjölkkor. 85 procent av det nötkött vi behöver produceras som en biprodukt till mjölkproduktionen. Nötkreaturens trumfkort är deras förmåga att använda gräs, som inte passar som foder till grisar eller fjäderfä, som föda. Genom <em type="italic">växelbruk </em>tar man hand om åkerns markstruktur. </p>
+    <p><em type="italic">Mjölk har i undersökningar visat sig vara nyttig </em>eller neutral vad hälsan beträffar. Genom att dricka mjölk kan man uppnå positiva effekter i synnerhet gällande förebyggande av fetma och diabetes typ 2. När forskare ska avgöra hur hälsosamt någonting är bekantar de sig med ett brett urval av forskningsresultat. <em type="italic">De finländska näringsrekommendationerna </em>bygger också på de nordiska näringsrekommendationerna, som är resultatet av ett gediget vetenskapligt utredningsarbete. Det rekommenderas att man dagligen avnjuter 5–6 deciliter mjölkprodukter i flytande form, såsom mjölk, surmjölk, yoghurt och fil, och därtill äter 2–3 skivor ost. Eftersom fettet i mjölk är hårt, mättat fett, är det bra att välja alternativ som är fettfria eller har låg fetthalt. </p>
+    <p type="title">Mjölk är en bra måltidsdryck för skolbarn</p>
+    <p>Kalcium och D-vitamin behövs för att bygga upp skelettet, B-vitaminer har en roll i viktiga ämnesomsättningsprocesser och B 12 -vitamin förekommer naturligt endast i produkter från djurriket. Även jod är nödvändigt för att ämnesomsättningen ska fungera normalt. Intaget av D-vitamin och jod har tidigare varit litet bland finländarna. Mjölkproteiner är av bra kvalitet och innehåller lysin, som endast finns i små mängder i produkter från växtriket. Mjölk är därför ett bra komplement till en vegetarisk diet. Mjölksyrebakterierna i syrade mjölkprodukter kan främja hälsan, eftersom de upprätthåller den goda bakteriestammen i tarmen.</p>
+    <p><em type="italic">Mjölkprodukter hjälper dig att återhämta dig efter ansträngning </em>, eftersom de innehåller lämpliga mängder av de kolhydrater, proteiner och mineraler som musklerna behöver efter att man ansträngt sig. Syrade mjölkprodukter och ostsmörgås på fullkornsbröd passar som morgon-, mellan- eller kvällsmål. Naturell yoghurt med bär eller frukt kan bli en god smoothie. </p>
+  </body>
+</document>

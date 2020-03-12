@@ -1,0 +1,70 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>682</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Regler-och-rattigheter/Vardgarantier</origFileName>
+    <parallel_text xml:lang="eng" location="vardgaranti.html"/>
+    <parallel_text xml:lang="fin" location="vardgaranti.html"/>
+    <parallel_text xml:lang="fit" location="vardgaranti.html"/>
+    <parallel_text xml:lang="sma" location="vardgaranti.html"/>
+    <parallel_text xml:lang="sme" location="vardgaranti.html"/>
+    <parallel_text xml:lang="smj" location="vardgaranti.html"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmy-rka"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmn"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmu"/>
+    <parallel_text location="vardgaranti.html" xml:lang="yid"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="vardgaranti.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Vårdgaranti - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Vårdgaranti</p>
+    <p>Vårdgarantin anger hur länge du som längst ska behöva vänta på att komma i kontakt med vården och få vård som du behöver. Från och med att du erbjuds ett besök i vården ska det till exempel inte dröja mer än 7 dagar innan du får träffa en läkare på en vårdcentral eller 90 dagar för att besöka en specialist, beroende på vad du har för behov. Det är alltid vårdens bedömning av ditt medicinska behov av vård som ligger till grund för vilken vård du får och hur fort du får vård.</p>
+    <p>Akut vård berörs inte av vårdgarantin, om du blir akut sjuk eller skadad ska du få vård så fort som möjligt, oavsett var du befinner dig. Det är vårdens personal som bedömer om du har ett akut vårdbehov.</p>
+    <p type="title">Så går det till</p>
+    <p>När du kontaktar en vårdmottagning för att boka en tid görs alltid en bedömning av ditt vårdbehov och den du talar med avgör vilken vård som skall erbjudas och om du skall inbokas för ett besök. Om du sökt vård på en mottagning som inte kan erbjuda dig ett besök eller en behandling inom vårdgarantins tidsgränser, ska du erbjudas vård på en annan mottagning. Det kan vara på en vårdcentral, ett sjukhus eller vissa privata mottagningar. Du kan själv framföra önskemål om vart du vill komma, men om vårdgarantin ska gälla kan du inte välja helt fritt.</p>
+    <p>Om du inte vill få vård på någon annan mottagning kan du avstå från erbjudandet om vårdgaranti. Det kan innebära att du får vänta längre. Om du senare ångrar dig kan du alltid ta en ny kontakt med den mottagning där du står i kö. Vårdgarantin börjar då gälla från det datum då du meddelar ditt ändrade beslut.</p>
+    <p>Du kan fråga om vårdgarantin på mottagningen där du står i kö. Du ska få information om hur vårdgarantin fungerar och vilka följder det kan bli för dig beroende på vilka val du gör i din vård.</p>
+    <p>I vissa landsting och regioner finns det också ett väntetidskansli eller liknande dit du kan vända dig.</p>
+    <p type="title">Gäller bara i ditt landsting/din region</p>
+    <p>Vårdgarantin gäller bara i det landsting eller den region där du är folkbokförd. Om du på eget initiativ väljer att söka vård i ett annat landsting är du inte garanterad att få vård inom någon bestämd tid. Det som avgör hur fort du ska få vård är då ditt medicinska behov.</p>
+    <p type="title">Nationell Vårdgaranti 0–7–90–90</p>
+    <p>Enligt vårdgarantin har du rätt till:</p>
+    <list>
+      <p type="listitem"><em type="italic">0 - Kontakt med primärvården samma dag </em>Samma dag som du söker hjälp ska du få kontakt med primärvården, till exempel vårdcentralen eller sjukvårdsrådgivningen. Det kan ske via telefon eller genom besök. </p>
+      <p type="listitem"><em type="italic">7- Läkarbesök i primärvården inom sju dagar </em>Om vårdpersonalen bedömer att du behöver träffa en läkare ska du få tid inom högst sju dagar, till exempel på vårdcentralen eller hos familjeläkaren. </p>
+      <p type="listitem"><em type="italic">90 - Besök i den specialiserade vården inom 90 dagar </em>Om du får remiss till den specialiserade vården ska du få en tid för besök inom 90 dagar. Det gäller även om du sökt vård utan remiss, hos en öppen specialistvårdsmottagning. </p>
+      <p type="listitem"><em type="italic">90 - Behandling påbörjad inom 90 dagar </em>Efter att vårdgivaren har beslutat om en viss behandling, till exempel operation, ska du få en tid inom 90 dagar. </p>
+    </list>
+    <p type="title">När gäller inte vårdgarantin?</p>
+    <p>Vårdgarantin gäller inte</p>
+    <list>
+      <p type="listitem">återbesök</p>
+      <p type="listitem">om du av medicinska skäl bör vänta längre än garantins tidsgränser</p>
+      <p type="listitem">medicinsk service, till exempel laboratorie- och röntgenundersökning</p>
+      <p type="listitem">utredningar och undersökningar</p>
+      <p type="listitem">att få ett hjälpmedel, ett undantag är utprovning av hörapparater</p>
+      <p type="listitem">om du tackar nej till ett erbjudande om vård hos en annan vårdenhet (om du senare ändrar dig kan du tacka ja till erbjudandet)</p>
+      <p type="listitem">om du väljer att söka vård på en vårdcentral eller mottagning i något annat landsting än där du är folkbokförd</p>
+    </list>
+    <p>Vårdgarantin reglerar inte om du ska få vård, vilken vård du ska få eller hur lång tid en utredning får ta.</p>
+    <p type="title">Väntetider i vården</p>
+    <p>Det finns en nationell webbplats för uppföljning av vårdgaranti och väntetider . På webbplatsen visas väntetidsläget inom alla landsting och regioner i Sverige.</p>
+  </body>
+</document>

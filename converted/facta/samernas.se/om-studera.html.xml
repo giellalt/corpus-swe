@@ -1,0 +1,92 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Studera på Samernas |  Samernas Utbildningscentrum</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>463</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.samernas.se/om-samernas/studera-pa-samernas</origFileName>
+    <parallel_text xml:lang="smj" location="om-studera.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Allmän information om att studera vid Samernas utbildningscentrum</p>
+    <p>
+      <em type="bold">Att studera hos oss:  </em>
+    </p>
+    <p>Lägsta ålder för att bli antagen är 18 år. Dispens kan ges för de under 18 år.</p>
+    <p xml:lang="deu">
+      <em type="bold">Kurstider  </em>
+    </p>
+    <p xml:lang="koi">
+      <em type="bold">2014/2015 </em>
+    </p>
+    <p xml:lang="fin">Höstterminen: 20140826-20141219, höstlov v. 44</p>
+    <p xml:lang="fin">Vårterminen: 20150107-20140605, sportlov v. 10, påsklov v.15</p>
+    <p xml:lang="isl"><em type="bold">Studiefinansiering  </em>:  </p>
+    <p><em type="bold">Studiehjälp </em>– för dig som är under 20 år. Då Samernas räknas som friskola så registrerar skolan elever under 20 år hos CSN. Eleven behöver alltså ej söka studiehjälp själv. Det krävs dock 100% studier för att få studiehjälp. Dvs studier på 25%, 50% eller 75% berättigar ej till studiehjälp för elever under 20 år.  </p>
+    <p><em type="bold">Studiemedel </em>– för dig som är 20 år och äldre, lån och bidrag. Detta söker Du själv via blankett eller CSN:s hemsida. Studiemedel ges ej till studier mindre än 50%, dvs. kvartsfartskurser går ej att söka studiemedel för.  </p>
+    <p>Mer info om studiehjälp och studiemedel hittar du på CSN:s hemsida</p>
+    <p>Bidrag för kortkurser i samiska utgår enligt de regler som gäller enligt sametingets stöd till korttidsstudier. Enligt förordningen (2007:1347) om statsbidrag vid vissa studier i samiska <em type="bold">6 § </em>Statsbidrag får lämnas för en utbildning som omfattar högst 14 dagar eller 112 timmar.  Till en och samma studerande får statsbidrag lämnas för studier som omfattar högst 30 dagar eller 240 timmar per år.    </p>
+    <p>Länk till Sametingets info om stöd till korttidsstudier</p>
+    <p>
+      <em type="bold">Intyg/betyg:  </em>
+    </p>
+    <p>I samverkan med komvux i Jåhkåmåhkke ges de elever som önskar möjlighet till gymnasiebetyg. Dylika intyg bekostas av resp. elev till en kostnad av 500kr/läsår. I tillägg till detta får Du naturligtvis ett sedvanligt kursintyg kostnadsfritt. Från läsåret 2007/08 erbjuder skolan elever betyg kostnadsfritt.</p>
+    <p>
+      <em type="bold">Serviceavgift för samtliga elever:   </em>
+    </p>
+    <p>Läsåret <em type="bold">2014/15 </em>är elevavgifterna som följer: </p>
+    <p>1500kr/läsår för heltidsstudier</p>
+    <p>800kr/läsår för studerande på mindre än 50%</p>
+    <p>
+      <em type="bold">Övriga elevavgifter:  (tillkommer)   </em>
+    </p>
+    <p xml:lang="sme">Duodji – Slöjdlinjen: 1200kr/läsår</p>
+    <p xml:lang="fkv"><em type="bold">Bokinköp  </em>:  </p>
+    <p>Eleverna förväntas stå för sina egna bokinköp. Vissa böcker finns att köpa mot kontant betalning i expeditionen.</p>
+    <p>
+      <em type="bold">Internat:  </em>
+    </p>
+    <p>Skolans elevhem har 28 enkelrum med dusch och toalett. Gemensamt kök och allrum i varje våningsplan. Bredbandsuttag i elevhemsrummen. Tvättmaskiner finns att tillgå samt bastu. Post till elever utdelas efter 13.00 i avsedda postfack i entrén.</p>
+    <p>
+      <em type="bold">Hyreskontrakt Internat:  </em>
+    </p>
+    <p>Ett hyreskontrakt upprättas med vissa regler.</p>
+    <p xml:lang="nob">
+      <em type="bold">Skolhälsovård:  </em>
+    </p>
+    <p>Skolan tillhandahåller viss skolhälsovård. Möjlighet till samtal med kurator vid behov samt psykolog.</p>
+    <p xml:lang="nno"/>
+    <p>
+      <em type="bold">Försäkringar:  </em>
+    </p>
+    <p xml:lang="deu">
+      <em type="bold">Alkohol/droger:  </em>
+    </p>
+    <p>Alla inskrivna elever är försäkrade (olycksfallsförsäkring) dygnet runt. Även elever på kortkurser är försäkrade under den tid eleven deltar i kortkursen. I övrigt ska eleven själv ha hemförsäkring för sitt lösöre.</p>
+    <p>Alkohol och droger är förbjudet inom skolans område.</p>
+    <p xml:lang="eng"><em type="bold">Motorvärmareplatser  </em>:  </p>
+    <p>Finns att hyra.</p>
+    <p xml:lang="est"><em type="bold">Fritid  </em>:  </p>
+    <p>Tillgång till idrottshall samt simhall 1 gång/vecka. Närhet till skidspår. I Koabddális (Kåbdalis) finns fina slalombackar.</p>
+    <p>
+      <em type="bold">Ansökan:  </em>
+    </p>
+    <p>Sök via webbformulär! Ansökan oss tillhanda senast 15 maj. Svar från oss får du i mitten av juni. Förlängd ansökningstid för vissa utbildningar !</p>
+    <p type="title" xml:lang="deu">Språkstudier</p>
+    <p type="title" xml:lang="fin">Slöjdlinjen</p>
+    <p type="title">Rennäringslinje</p>
+    <p type="title" xml:lang="nno">Samisk Mat</p>
+  </body>
+</document>

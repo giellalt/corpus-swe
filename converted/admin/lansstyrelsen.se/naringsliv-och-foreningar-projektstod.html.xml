@@ -1,0 +1,31 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>81</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/projektstod/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar-projektstod.html"/>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-projektstod.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Projektstöd - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Projektstöd</p>
+    <p>
+      <em type="italic">Länsstyrelsen kan ge dig ekonomiskt stöd till ett projekt som gynnar den regionala tillväxten och utvecklingen. </em>
+    </p>
+    <p>Syftet med projektstöden är att stärka lokal och regional konkurrenskraft i alla delar av landet. Du kan söka projektstöd om du tillsammans med andra har en idé som ni vill genomföra i ett projekt. Projektet ska vara något nytt, ligga utanför de ordinarie verksamheterna och vara väl avgränsat i tid. Resultatet av projektet ska vara till nytta för flera.</p>
+  </body>
+</document>

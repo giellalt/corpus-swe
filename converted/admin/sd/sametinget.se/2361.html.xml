@@ -1,0 +1,35 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>414</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/2361</origFileName>
+    <parallel_text xml:lang="sme" location="2870.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Samerna i Sverige - Sametinget</p>
+    <p>Skog och fjäll bär spår efter en traditionell samisk kultur - inte alltid lika uppenbar som här. Foto: Marie Enoksson/Sametinget.</p>
+    <p type="title">Samerna i Sverige</p>
+    <p>Samerna i Sverige har en lång anknytning till sina traditionella områden. Unika näringar och viljan att bevara och överföra sin etniska identitet till nästa generation är utmärkande.</p>
+    <p>Samerna har sedan urminnes tider levt i ett område som i dag sträcker sig över fyra länder. Det består av Kolahalvön i Ryssland, nordligaste Finland, norra Norges kust- och inland och delar av Sverige från Idre i söder och norrut. Det området kallas <em type="italic">Sápmi. </em></p>
+    <p><em type="italic">Hur många samer finns det? </em>En vanlig uppskattning i dag är att det finns 80.000-100.000 samer i världen. I Sverige beräknas det finnas 20.000-35.000 samer. Det är osäkert hur många med samiskt påbrå som själva identfierar sig som samer. Någon folkräkning på etnisk grund görs inte i Sverige och därför är siffrorna osäkra. Samer är bosatta i hela landet även om de flesta bor i Norrbottens och Västerbottens län, samt efter fjällkedjan. </p>
+    <p><em type="italic">Renskötsel </em>Ungefär 2500-3000 samer i Sverige är beroende av renskötsel som inkomstkälla (köttproduktion). Många fler, särskilt i Norrbottens län, har ett renmärke och äger renar som sköts av en yrkesverksam renskötare. </p>
+    <p><em type="italic">Andra traditionella näringar </em>Andra traditionella näringar är jakt, fiske och <em type="italic">duodji </em>(slöjd och konsthantverk). Idag är samer även verksamma inom de flesta andra landsbygdsnäringar som bedrivs i de nordligare delarna av landet, ofta som kombinationsnäringar, såsom småskaligt gårdsbruk och samisk turism. Samer finns för övrigt i de flesta yrken. </p>
+    <p><em type="italic">Definition av ett urfolk </em>En vanlig definition av ursprungsfolk är att de härstammar från folkgrupper som bodde i landet eller i ett geografiskt område som tillhör landet, vid tiden för erövring eller kolonisation eller fastställandet av nuvarande statsgränser. Utmärkande för ett ursprungsfolk är att gruppen strävar efter att bevara, utveckla och överföra sin etniska identitet, kultur och sociala institutioner och brukandet av sin traditionella livsmiljö till framtida generationer. </p>
+    <p>Samerna har en lång sammanhängande historisk anknytning till de områden där de bedrivit, och fortfarande bedriver, sina näringar och utvecklat sin kultur. Denna anknytning går tillbaka till tiden långt före nationalstaternas bildande.</p>
+    <p><em type="italic">Folkrättsligt skydd </em>1977 uttalade Sveriges riksdag att samerna är ett urfolk i Sverige. År 2000 infördes en minoritetsspråklag för Sveriges fem nationella minoriteter, varav samerna är en. Sedan 2011 är samerna erkända som ett folk i Sveriges grundlag. I egenskap av ursprungsfolk har samerna dessutom ett folkrättsligt skydd. </p>
+    <p>Sverige har därmed erkänt att samerna är både ett folk, ett urfolk och en minoritet.</p>
+  </body>
+</document>

@@ -1,0 +1,49 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>302</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1081</origFileName>
+    <parallel_text xml:lang="sme" location="2911.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Korttidsstudiebidrag - Sametinget</p>
+    <p type="title">Korttidsstudiebidrag för studier i samiska</p>
+    <p>Sametinget ansvarar för fördelning av korttidsstudiebidrag till den som bedriver kortare studier i alfabetisering i samiska. Ansök minst en månad innan kursen börjar!</p>
+    <p><em type="italic">Om bidraget </em>Syftet med korttidsstudiebidraget är att främja det samiska språket så att <em type="italic">samer som inte har fått möjlighet </em>att lära sig läsa och skriva på samiska får tillfälle att lära sig det. </p>
+    <list>
+      <p type="listitem">Studiebidraget är skattefritt 90,47 kronor per timme (2014).</p>
+      <p type="listitem">Studiebidraget är inte semesterlönegrundande eller pensionsgrundande.</p>
+      <p type="listitem">Bidraget gäller endast korta kurser. En kurs får omfatta högst 14 hela dagar eller 112 timmar. Du kan få statsbidrag för flera kurser per år, men studierna får sammanlagt omfatta högst 30 dagar eller 240 timmar per år.</p>
+      <p type="listitem">Du kan även få bidrag för skäliga kostnader för resor, kost och logi (se Föreskrifter STFS 2008:1, 6 § och 7 §).</p>
+    </list>
+    <p>Vem kan söka?  En förutsättning är att du själv, eller dina föräldrar, far- eller morföräldrar har eller har haft samiska som språk i hemmet <em type="italic">eller </em>att du är upptagen i röstlängden till Sametinget. Utbildningsanordnare  Korttidsstudiebidrag kan lämnas om du deltar i: </p>
+    <list>
+      <p type="listitem">en kortkurs vid folkhögskola eller i en studiecirkel (enligt förordningen 1991:977 om statsbidrag till folkbildningen)</p>
+      <p type="listitem">en kortkurs vid kommunal vuxenutbildning, eller</p>
+      <p type="listitem">en kortkurs vid Samernas utbildningscentrum.</p>
+    </list>
+    <p>Hur ansöker man?  Ladda ner ansökningsblanketten och fyll i den. OBS! Kursbekräftelse och/eller kursplan från utbildningsanordnaren ska bifogas ansökan. Om du har frågor kan du kontakta vår handläggare.</p>
+    <p>Skicka ansökan till: Sametinget, Box 90, 981 22 KIRUNA.</p>
+    <p>Ansökningstider  Du måste skicka in din ansökan senast en (1) månad <em type="italic">före </em>utbildningsstart. </p>
+    <p>OBS! För sommarkurser (juni, juli och augusti) ska ansökan vara Sametinget tillhanda senast den 1 maj.</p>
+    <p>Studiemål (ska anges i ansökan)  :</p>
+    <p><em type="italic">Mål 1 </em>: Samisktalande </p>
+    <p><em type="italic">Mål 2: </em>Nybörjare </p>
+    <p><em type="italic">Mål 3: </em>Samisktalande, fortsättning </p>
+    <p><em type="italic">Mål 4: </em>Nybörjare, fortsättning </p>
+    <p>Läs mer om vad varje studiemål innehåller via denna länk</p>
+  </body>
+</document>

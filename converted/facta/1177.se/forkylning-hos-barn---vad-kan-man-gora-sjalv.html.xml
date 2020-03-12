@@ -1,0 +1,83 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>933</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Tema/Barn-och-foraldrar/Sjukdomar-och-besvar1/Sjukdomar-och-besvar-A-O/Forkylning-hos-barn---vad-kan-man-gora-sjalv</origFileName>
+    <parallel_text xml:lang="eng" location="forkylning-hos-barn--vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="fin" location="forkylning-hos-barn--vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="fit" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sme" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="forkylning-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Förkylning hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Barn och föräldrar</p>
+    <list>
+      <p type="listitem">Sjukdomar och besvär</p>
+      <p type="listitem">Mat, sömn och praktiska råd</p>
+      <p type="listitem">Skador och olycksfall</p>
+      <p type="listitem">Växa och utvecklas</p>
+      <p type="listitem">Barn och föräldrar i vården</p>
+      <p type="listitem">Familj och relationer</p>
+      <p type="listitem">Frågor och svar om barn</p>
+      <p type="listitem">Barnavdelningen</p>
+      <p type="listitem">Barnets tänder</p>
+      <p type="listitem">Läsare berättar</p>
+    </list>
+    <p type="title">Förkylning hos barn - vad kan man göra själv?</p>
+    <p type="title">Snuva, hosta och ibland feber</p>
+    <list>
+      <p type="listitem">Det blir lättare för barnet att andas om det sover med huvudet högt. Man kan höja sängens huvudända genom att bädda med extra kuddar under madrassen.</p>
+    </list>
+    <p>Barn som har blivit förkylda är ofta hängiga, trötta, lite ledsna och kinkiga de första dagarna. De brukar vara täppta i näsan eller ha rinnande snuva och kan vara irriterade och ha ont i halsen eller ont i öronen . De kan även ha lätt hosta och ibland feber .</p>
+    <p>Till en början är snuvan oftast klar och genomskinlig för att efter några dagar bli tjockare och gul eller grön.</p>
+    <p>Det är under de första dagarna av förkylningen som barnet mår sämst. Efter en till två veckor brukar förkylningen gå över av sig själv. Orsaken till vanlig förkylning är virus, och mot virus finns det inga läkemedel som kan göra att barnet snabbare blir friskt.</p>
+    <p type="title">Febriga och hängiga barn bör stanna hemma</p>
+    <p>Barn som har feber eller är trötta och hängiga bör stanna hemma och ta det lugnt. Många barn behöver också få vara hemma första dagen som de är feberfria, utan att de har använt febernedsättande läkemedel. De behöver bli så pigga att de orkar med förskola eller skola.</p>
+    <p type="title">Vila behövs</p>
+    <p>Det är bra att ge barnet möjlighet att vila, men det behöver inte hålla sig i sängen. Barnet brukar känna själv hur mycket det orkar vara uppe.</p>
+    <p>Det kan kännas lättare att andas och sova med några extra kuddar under huvudet. Detta gäller framförallt äldre barn som ligger stilla. Små barn kan man ha i en bärsele, i babysitter eller i knäet under dagen.</p>
+    <p type="title">Önskemat och extra dricka</p>
+    <p>Många barn har sämre aptit än vanligt. Man kan ge barnet sådant som det vill ha, till exempel välling, yoghurt eller glass. Om barnet har feber är det bra att ge extra dryck.</p>
+    <p type="title">Koksaltlösning eller nässprej för täppt näsa</p>
+    <p>Om barnet är täppt i näsan kan man droppa eller spreja koksaltlösning i näsan, vilket tunnar ut snuvan. Man får också bort rester av snuva på ett skonsamt sätt. Koksaltlösning finns att köpa på apotek. Man kan också göra lösningen själv genom att lösa upp en milliliter – ett kryddmått – salt i en deciliter vatten. För att droppa in koksaltlösningen i barnets näsa kan man använda en bomullstuss.</p>
+    <p>Vid svårare nästäppa kan man ge barnet avsvällande näsdroppar eller nässprej som minskar svullnaden i näsan. Dessa läkemedel finns att köpa receptfritt. Nässprej finns för barn från ett års ålder. Näsdroppar finns för barn från två års ålder. Läkemedlen ska inte användas mer än tio dagar i sträck. Doseringen anges på förpackningen.</p>
+    <p type="title">Receptfria febernedsättande läkemedel</p>
+    <p>Feber behöver sällan behandlas med febernedsättande läkemedel. De flesta barn har feber som varar några dagar utan att det behöver betyda något allvarligt. Men man kan ge febernedsättande läkemedel om barnet mår märkbart dåligt av febern, till exempel har ont i kroppen, är gnälligt, äter och dricker sämre, sover dåligt eller har svårt att komma till ro på kvällen.</p>
+    <p>Man ska inte behandla barn under sex månader som har feber utan att först kontakta vården.</p>
+    <p>Mot feber finns för barn över tre månader medicin som innehåller paracetamol, till exempel Alvedon eller Panodil. Från sex månaders ålder kan barn få Ipren eller Ibumetin, som är receptfritt och innehåller ibuprofen. Medicinerna finns i flytande form eller som stolpiller med rätt dos för små barn. För äldre barn finns även tabletter. Följ anvisningarna på förpackningen noga. Kombinera inte olika läkemedel. Barn under 18 år som har feber ska inte använda febernedsättande läkemedel med acetylsalicylsyra, till exempel Magnecyl, Treo eller Albyl.</p>
+    <p type="title">Receptfria hostmediciner</p>
+    <p>Receptfria hostmediciner brukar inte hjälpa. Om barnet har hosta är det viktigt att barnet hostar upp slemmet för att rensa luftrören. Hostdämpande mediciner gör det svårare för barnet att få upp slemmet. Slemlösande mediciner i sin tur har osäker effekt. För att lindra hostan kan man i stället pröva att ge varm eller kall dryck. Till barn under två år ska man aldrig ge hostmedicin utan att först ha kontaktat läkare.</p>
+    <p type="title">Hur kan man undvika att smitta sprids?</p>
+    <p>För att undvika att smitta andra är det bra att lära barnen att nysa och hosta i armvecket och använda pappersnäsdukar. Man kan se till att de tvättar händerna flera gånger om dagen. Försök också att lära barnet att inte peta sig i näsan eller ögonen. Det är där virus lättast fastnar och sprids. Smittspridningen minskar också om barn inte leker i nära kontakt med den som är förkyld. Låt barnen vara utomhus så mycket som möjligt, även på vintern.</p>
+    <p>Tänk på att barn som utsätts för tobaksrök i omgivningen lättare blir förkylda.</p>
+    <p type="title">Man kan behöva kontakta vården</p>
+    <p>Det är bra att vara extra uppmärksam på hur barnet mår. Man ska söka vård direkt på en vårdcentral eller en akutmottagning om barnet verkar trött och taget och inte orkar dricka. Detsamma gäller om barnet har svårt att andas eller om barnet har hosta som blir värre, särskilt om den låter skällande.</p>
+    <p>Om det rinner vätska ur örat bör man kontakta en vårdcentral eller en jourmottagning, så att barnet blir undersökt.</p>
+    <p>Om barnet har ont i örat, och det inte går över, bör man kontakta en vårdcentral för undersökning inom ett dygn.</p>
+    <p>Man kan alltid ringa sjukvårdsrådgivningen för att få råd.</p>
+  </body>
+</document>

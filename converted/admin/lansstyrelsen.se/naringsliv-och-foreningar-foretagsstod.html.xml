@@ -1,0 +1,37 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>189</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/foretagsstod/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar-foretagsstod.html"/>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-foretagsstod.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Företagsstöd - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Företagsstöd</p>
+    <p>
+      <em type="italic">Du som har eller håller på att starta ett företag i Dalarna kan söka företagsstöd för att göra investeringar som utvecklar ditt företag. </em>
+    </p>
+    <p>Det finns olika typer av stöd att söka, men gemensamt är att stöden ska ge en långsiktig ekonomisk tillväxt och utveckling för företaget och länet som helhet.</p>
+    <p>Har ditt företag till största del lokal eller regional marknad, eller ägnar sig åt skogs-, jordbruks-, jakt-, fiskeverksamhet eller förädling av jordbruksprodukter ska du söka företagsstöd från landsbygdsprogrammet .</p>
+    <p>Har ditt företag i huvudsak nationell eller internationell marknad eller är hela syftet med investeringen att nå en nationell eller internationell marknad har du möjlighet att ansöka om företagsstöd från näringslivsenheten .</p>
+    <p>Är investeringen större än 15 miljoner och företaget finns i någon av kommunerna Avesta, Hedemora, Smedjebacken, Ludvika, Rättvik, Mora, Orsa, Vansbro, Malung-Sälen, eller Älvdalen finns det även möjlighet att ansöka om regionalt investeringsstöd från Tillväxtverket . Kontakta gärna handläggare på Länsstyrelsen innan du ansöker.</p>
+    <p>
+      <em type="italic">Obs! För att man ska kunna få stöd för en investering måste ansökan om företagsstöd alltid komma in till Länsstyrelsen och ett starttillstånd måste beviljas innan investeringen påbörjas. </em>
+    </p>
+  </body>
+</document>

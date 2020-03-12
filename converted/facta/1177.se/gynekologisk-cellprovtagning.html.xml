@@ -1,0 +1,145 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>2035</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/Gynekologisk-cellprovtagning</origFileName>
+    <parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/>
+    <parallel_text xml:lang="fin" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/>
+    <parallel_text xml:lang="smj" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rka"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmn"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmu"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="yid"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Cancer</p>
+    <list>
+      <p type="listitem">Cancerformer och fakta</p>
+      <p type="listitem">Första tiden efter beskedet</p>
+      <p type="listitem">Behandling vid cancer</p>
+      <p type="listitem">Att vara den som står bredvid</p>
+      <p type="listitem">Hjälp och stöd</p>
+      <p type="listitem">Barncancer</p>
+      <p type="listitem">Kris och sorg</p>
+      <p type="listitem">Andra språk/Translations</p>
+    </list>
+    <p type="title">Gynekologisk cellprovtagning</p>
+    <p type="title">Sammanfattning</p>
+    <p type="title">Sammanfattning</p>
+    <p>Genom att regelbundet lämna ett gynekologiskt cellprov kan du skydda dig mot livmoderhalscancer. Cellprovet tas från livmodertappen i underlivet och kan tidigt visa om du har cellförändringar som skulle kunna leda till livmoderhalscancer.</p>
+    <p>De flesta cellförändringar som upptäcks är lättare förändringar som läker av sig själv, men en del behöver tas bort. Det är mycket ovanligt men cellprovet kan visa att du har cancer. Då brukar cancern vara i ett tidigt stadium och behandlingen kan bli enklare och med färre biverkningar än om cancern upptäckts senare.</p>
+    <p>Kvinnor i Sverige kallas regelbundet till gynekologisk cellprovtagning, så kallad screening. Om du är mellan 23 och 50 år kommer kallelsen vart tredje år. Därefter vanligtvis var femte år tills man är 60 år gammal. Om du är över 50 år kan rutinerna skilja sig lite beroende på var du bor i landet.</p>
+    <p>Du kan även få lämna cellprov om du är hos barnmorska eller gynekolog för att genomgå en gynekologisk undersökning av andra skäl.</p>
+    <p type="title">Förberedelser</p>
+    <p>Från en dag innan du ska lämna cellprov ska du undvika att använda någon salva eller slidpiller i slidan, eller att ha sex där en penis, fingrar eller annat förs upp i slidan. Annars kan provet bli svårtolkat.</p>
+    <p>Du ska inte lämna cellprov om du har mens. Har du det den dag du blivit kallad kan du boka en ny tid. Om du är gravid brukar du kunna lämna cellprov fram till den 15:e graviditetsveckan.</p>
+    <p type="title">Hur går undersökningen till?</p>
+    <p>När provet ska tas får du klä av dig på underkroppen och lägga dig i en gynekologisk undersökningsstol. Läkaren eller barnmorskan kan ta provet på lite olika sätt. Oftast används en liten spatel som stryks mot livmodertappen och sedan en liten mjuk borste i livmoderhalskanalens nedersta del.</p>
+    <p>Ofta får du också svara på några frågor i samband med provtagningen. Svaren är viktiga för att provet ska analyseras på rätt sätt.</p>
+    <p>Undersökningen gör inte ont och tar bara några minuter. Svar på cellprovet brukar du få inom sex veckor.</p>
+    <p>Visa mer</p>
+    <p type="title">Vad är ett gynekologiskt cellprov?</p>
+    <p type="title">Att lämna cellprov</p>
+    <p>Ett gynekologiskt cellprov är ett prov som tas från den nedersta delen av livmoderhalsen som kallas livmodertappen och som mynnar ut i slidan. Provet kan tidigt visa om du har cellförändringar som kan leda till livmoderhalscancer. De flesta cellförändringar som upptäcks är lättare förändringar som läker av sig själv, men en del behöver tas bort. Provet kan även visa på cancer, men det är mycket ovanligt.</p>
+    <p>Att lämna cellprov är ett bra sätt att skydda sig mot cancer eftersom cellförändringar kan upptäckas innan de utvecklats till cancer.</p>
+    <p>Cellprovet tas från nedersta delen av livmoderhalsen, på livmodertappen som mynnar ut i slidan.</p>
+    <p type="title">Regelbundna kontroller</p>
+    <p>Ett gynekologiskt cellprov ingår i de hälsokontroller, så kallad screening, som kvinnor i Sverige inbjuds till regelbundet. Genom att cellförändringarna då kan upptäckas och behandlas tidigt, har det lett till att livmoderhalscancer har blivit betydligt ovanligare under de senaste 40 åren.</p>
+    <p type="title">Viktigt att gå på cellprovskontroller även om du är vaccinerad</p>
+    <p>Eftersom vaccinationen mot HPV inte ger ett fullständigt skydd mot livmoderhalscancer, är det viktigt att gå på de cellprovskontroller som man blir kallad till.</p>
+    <p type="title">Cellprov vid andra tillfällen</p>
+    <p>Ett gynekologiskt cellprov kan också lämnas om du är hos barnmorska, gynekolog eller distriktsläkare, och går igenom en gynekologisk undersökning av andra skäl. Ibland kan cellprovet vara en del av läkarens utredning om du till exempel har blödningsrubbningar, men det kan också vara ett bra tillfälle att passa på att lämna ett screeningprov. Det kan vara lämpligt om det ändå snart är dags att lämna ett prov, eller om du har missat en tidigare cellprovskontroll.</p>
+    <p type="title">Cellförändringar och cancer</p>
+    <p>Om du har ett cellprov som visar på cellförändringar blir du kallad till en ny undersökning.</p>
+    <p>Cellförändringar kan bero på en irritation i slemhinnan orsakad av bakterier eller en tillfällig virusinfektion. Det är den vanligaste typen av cellförändringar som kan läka av sig själv. Andra cellförändringar som skulle kunna leda till livmoderhalscancer, kan tas bort. Då görs en behandling, där livmodertappens yttersta vävnad tas bort. Under behandlingen är du bedövad i livmoderhalsen. Behandlingen påverkar inte förmågan att ha sex eller bli gravid i framtiden.</p>
+    <p>Det brukar ta lång tid innan cellförändringar utvecklas till livmoderhalscancer, vanligtvis tio till femton år. Det är mycket ovanligt att redan utvecklad cancer upptäcks vid cellprovtagningen, men det händer någon enstaka gång. Då brukar cancern vara i ett tidigt stadium. Och behandlingen kan bli enklare med färre biverkningar, än om det hade upptäckts senare.</p>
+    <p>Varje år får knappt 450 svenska kvinnor livmoderhalscancer medan många fler, ungefär 30 000 kvinnor, får besked om att de har cellförändringar.</p>
+    <p type="title">Mer på 1177 Vårdguiden</p>
+    <list>
+      <p type="listitem">Cellförändringar i livmoderhalsen</p>
+    </list>
+    <p type="title">Kvinnor kallas regelbundet</p>
+    <p type="title">Kvinnor kallas vart tredje år</p>
+    <p>Alla kvinnor mellan 23 och 50 år får en kallelse till cellprovtagning vart tredje år. Sedan får man en kallelse vart femte år när man är mellan 50 och 60 år. Om man är över 50 år kan tiden mellan kallelserna variera lite beroende på var man bor i landet. Har man tidigare blivit behandlad för cellförändringar kan man behöva göra cellprovskontroller även när man är efter 60.</p>
+    <p>Kallelsen skickas till den adress där du är folkbokförd och det är alltid frivilligt att delta.</p>
+    <p>Om du har skyddad identitet får inte någon kallelse. Då kan du i stället ringa screeningverksamheten i ditt landsting för att få råd om hur du bör göra för att genomgå provtagning.</p>
+    <p>Är du osäker på när du senast var på cellprovtagning eller vill veta om du kan ha missat en kallelse, kan du också ringa till screeningverksamheten i ditt landsting. De har uppgifter på när du senast gjorde ett cellprov. Om du ringer till närmast sjukhus växel så får du hjälp med hur du kontaktar dem.</p>
+    <p type="title">Kvinnor som har sex med andra kvinnor</p>
+    <p>Om du har haft sex med andra kvinnor är det ändå viktigt att gå på regelbundna cellprovskontroller eftersom viruset som kan orsaka cellförändringar troligen kan smitta även från kvinna till kvinna.</p>
+    <p type="title">På vilken mottagning lämnar man prov?</p>
+    <p>När du har fått en kallelse tas cellprovet av en barnmorska på närmaste barnmorskemottagning, som även kallas mödravårdscentral. I de flesta fall får du en bestämd tid som kan bokas om. På vissa orter kan du även boka om till en annan mottagning.</p>
+    <p>Om du lämnar cellprov i samband med en gynekologisk undersökning, till exempel hos gynekolog eller i samband med preventivmedelsrådgivning, brukar proverna också registreras. Då får du nästa erbjudande om cellprovskontroll efter att det har gått tre eller fem år.</p>
+    <p type="title">En del behöver inte lämna prov</p>
+    <p type="title">Om du är yngre än 23 och över 60</p>
+    <p>Om du är under 23 år blir du inte kallad till cellprovskontroller. Det beror på att det är ganska vanligt att man har cellförändringar när man är under 23, men de försvinner oftast av sig själv. Det är mycket ovanligt att livmoderhalscancer utvecklas så tidigt.</p>
+    <p>Har du deltagit i gynekologisk cellprovskontroll och dessa aldrig visat cellförändringar när du fyllt 60 år, är risken att du senare i livet ska utveckla livmoderhalscancer mycket liten.</p>
+    <p type="title">Om du aldrig har haft sex</p>
+    <p>Om du aldrig har haft sex behöver du inte lämna cellprov. Detta efter som man får livmoderhalscancer genom ett virus som kallas HPV, humant papillomvirus. Viruset smittar genom slidsex.</p>
+    <p>﻿Om man använder kondom minskar riskerna att bli smittad av HPV.</p>
+    <p type="title">Om du har opererat bort livmodern</p>
+    <p>Om du har fått hela livmodern bortopererad, vilket kallas total hysterektomi, behöver du inte gå på cellprovskontroller, eftersom livmodertappen då också är helt borttagen vid operationen. Men om operationen gjordes på grund av livmoderhalscancer eller cellförändringar i livmoderhalsen bör du fortsätta att gå på kontroller. Då tas ett prov från slidans översta del.</p>
+    <p>Om du är osäker på vilken sorts operation du har gått igenom eller vad som tagits bort kan du fråga på den klinik där operationen gjordes. Barnmorskan på barnmorskemottagningen eller mödravårdscentralen kan ofta också hjälpa till att få fram denna information. Är du osäker är det bättre att ta prov för säkerhets skull.</p>
+    <p type="title">Mer på 1177 Vårdguiden</p>
+    <list>
+      <p type="listitem">HPV – vårtvirus</p>
+    </list>
+    <p type="title">Så går undersökningen till</p>
+    <p type="title">Förberedelser</p>
+    <p>Från en dag innan du ska lämna cellprov ska du undvika att använda någon salva eller slidpiller i slidan, eller att ha sex där en penis, fingrar eller annat förs upp i slidan. Annars kan provet bli svårtolkat. Du ska inte lämna cellprov om du har mens.</p>
+    <p type="title">Prov från livmodertappen</p>
+    <p>Inför undersökningen behöver du ta av dig på underkroppen och lägga dig i en gynekologisk undersökningsstol. Provtagaren, som är en barnmorska eller en läkare, särar försiktigt på slidväggarna med vanliga gynekologiska instrument som ska vara kroppsvarma.</p>
+    <p>Hur provet tas kan variera lite från mottagning till mottagning. Vanligast är att en spatel av trä eller plast stryks mot livmodertappen och sedan används en liten mjuk borste i livmoderhalskanalens nedersta del.</p>
+    <p>Provtagningen går snabbt och tar vanligtvis bara någon minut. Det brukar inte göra ont. En del kan känna obehag men det går snabbt över.</p>
+    <p type="title">﻿﻿Frågor att svara på</p>
+    <p>Ofta får du även svara på ett antal frågor i samband med provtagningen, till exempel</p>
+    <list>
+      <p type="listitem">när senaste mensens första dag var, eller om mensen har upphört</p>
+      <p type="listitem">om du använder preventivmedel och vilket i så fall</p>
+      <p type="listitem">om du behandlas med hormoner mot klimakteriebesvär</p>
+      <p type="listitem">om du är gravid eller har fött barn under det senaste året.</p>
+    </list>
+    <p>Uppgifterna skickas med provet och underlättar för laboratoriet att göra sin bedömning.</p>
+    <p type="title">Efteråt kan du få en liten ofarlig blödning</p>
+    <p>Livmoderhalsens slemhinna blöder lätt och det är vanligt att du får en liten och ofarlig blödning efter en undersökning. Blödningen försvinner efter någon dag.</p>
+    <p type="title">Gravida kan lämna prov</p>
+    <p>Provtagningen är helt riskfri och det går bra att göra provet även om du är gravid. Det brukar rekommenderas att du lämnar provet senast i 15 graviditetsveckan eftersom en utredning av ett avvikande prov kan vara svårare om graviditeten gått långt.</p>
+    <p type="title">När får man svar?</p>
+    <p type="title">De flesta svar visar inga förändringar</p>
+    <p>Man brukar få ett brev med provsvaret inom sex veckor, men ibland kan det ta längre tid. Ungefär 95 av 100 prov är utan cellförändringar och bedöms som normala. Svaret får du då direkt hemskickat från laboratoriet.</p>
+    <p>I ovanliga fall har provet inte kunnat analyseras, till exempel om det fanns mycket mensblod i det. Då blir du kallad till en ny cellprovtagning.</p>
+    <p type="title">Om provet innehåller cellförändringar</p>
+    <p>Om provet visar cellförändringar utreds det vidare.</p>
+    <p>Innehåller provet HPV, humant papillomvirus, som ger risk för livmoderhalscancer, får man komma på ny undersökning. Annars kan man avvakta lite och det räcker med att man tar ett nytt prov lite senare.</p>
+    <p type="title">Viktigt att testa sig</p>
+    <p>Regelbundna cellprovskontrollerna ger ett starkt skydd mot livmoderhalscancer, men det är inte fullständigt. Du kan få livmoderhalscancer trots att cellproven har varit normala, men det är mycket ovanligt. Förutom att gå på cellprovskontroller regelbundet bör du därför alltid söka vård om du får blödningar när du har samlag, om du upprepade gånger får blödning mellan mensen, eller om du får blödningar efter att du har slutat ha mens.</p>
+    <p>Du kan alltid ringa sjukvårdsrådgivningen för råd om vart du ska vända sig.</p>
+    <p type="title">Om du känner dig orolig</p>
+    <p>De allra flesta har inga cellförändringar, men har du det blir du kallad till en ny undersökning. Det kan kännas obehagligt att få ett sådant besked, men det är väldigt ovanligt att cellförändringar betyder att man har cancer. </p>
+    <p>Det kan vara bra att tänka på att cellprovtagningar är ett sätt att skydda dig mot cancer. De förändringar som upptäcks kan i stort sett alltid tas bort så du slipper utveckla cancer i framtiden.</p>
+    <p type="title">Du bestämmer själv om proverna ska sparas</p>
+    <p>Provet som du lämnar vid cellprovtagningen brukar sparas. Till exempel kan nya prov jämföras med gamla och olika uppföljningar göras. Proverna kan dessutom användas till forskning eller annat ändamål som godkänts av en Etisk prövningsnämd. Om du inte vill att provet ska sparas för framtiden kan du säga det till den som utför provet, och det förstörs sedan.</p>
+    <p>Uppgifter om provtagning sparas också i kvalitetsregister som används för att förbättra vården. Om du inte vill att dina uppgifter ska användas för detta kan du kräva att de tas bort.</p>
+  </body>
+</document>

@@ -1,0 +1,87 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Hällebo, Offerdal - Krokoms kommun</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>478</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.krokom.se/omsorgochhjalp/aldre/vilketstodkanmanfa/boendeforaldre/halleboofferdal.4268.html</origFileName>
+    <parallel_text xml:lang="sma" location="halleboofferdal.6888.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="ron">Translate site</p>
+    <list>
+      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
+      <p type="listitem" xml:lang="eng">Press</p>
+      <p type="listitem" xml:lang="vep">A-Ö</p>
+      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+      <p type="listitem" xml:lang="vep">Intranät</p>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem" xml:lang="sms">Lättläst</p>
+      <p type="listitem" xml:lang="ron">Translate</p>
+    </list>
+    <p xml:lang="isl">Sök</p>
+    <list>
+      <p type="listitem">Kommun och politik</p>
+      <p type="listitem">Utbildning och barnomsorg</p>
+      <p type="listitem">Bygga, bo och miljö</p>
+      <p type="listitem">Omsorg och hjälp</p>
+      <p type="listitem">Näringsliv och arbete</p>
+      <p type="listitem">Kultur, fritid och turism</p>
+      <p type="listitem">Trafik och infrastruktur</p>
+    </list>
+    <p>Mina favoriter</p>
+    <p type="title" xml:lang="nno">Hällebo, Offerdal</p>
+    <p>Hällebo ligger i Ede, Offerdal drygt 30 kilometer nordost om centralorten Krokom, i ett naturskönt område.</p>
+    <p>Det är ett särskilt boende med totalt 48 boendeplatser, fördelade på avdelningarna Västeräng och Mysbuan. Här vill vi ge den bästa möjliga individuella omvårdnaden i en trivsam och hemlik miljö.</p>
+    <p>Hyresgästerna har goda möjligheter att vistas ute tack vare flera uteplatser och gångstråk. Närhet till hembygdsgård med vacker utsikt över Hällsjön där det sommartid bedrivs café.</p>
+    <p><em type="italic">Vårt kvalitetsarbete </em>Våra insatser utformas alltid utifrån den boendes behov, som kartläggs och ligger till grund för den individuella genomförandeplanen. Planen upprättas tillsammans med den boende, personal och eventuellt anhörig/god man. Samtliga boende har en kontaktperson. All personal på Hällebo är aktivt involverad i kvalitetsarbetet. </p>
+    <p><em type="italic">Kost och måltider </em>På Hällebo har vi eget kök där all mat lagas. </p>
+    <p>Frukost kl 8-10 Lunch kl 12.30-13.30 Fika kl 15 cirka Middag 17 cirka Kvällsmål efter kl 19 och eget önskemål</p>
+    <p>Det finns alltid möjlighet till mellanmål och nattmål.</p>
+    <p><em type="italic">Hälso- och sjukvård </em>På Hällebo finns bemanning av undersköterskor och vårdbiträden dygnet runt. Vi har som ambition att du och dina närstående ska känna trivsel, trygghet och att ni i möjligaste mån ska känna delaktighet i vår verksamhet. </p>
+    <p><em type="italic">Annan personal </em>- Sjuksköterska finns varje dag mellan kl 7.15 och 16.15. Mellan kl 16.15 och 7.15 finns det en nattsköterska att kontakta på telefon. På helger kl 7.15-16.15 nås sjuksköterska via personalen på Västeräng och Mysbuan. - Distriktssköterska: Kvällar och nätter, kl 17-08, kan man nå en tjänstgörande distriktssköterska via Sjukvårdsrådgivningen (SVR) på telefon 1177 . - Läkare: Läkarinsatser utförs av Offerdals Hälsocentral. - Sjukgymnast: två dagar per vecka eller vid behov. - Arbetsterapeut: två dagar per vecka eller vid behov. - Fotvårdsterapeut: en dag per vecka eller vid behov. <em type="italic">Aktiviteter </em>Våra kulturombud samordnar olika aktiviteter som underhållning, pysseldagar med olika teman, gudstjänster, bingo och gymnastik i de boendes gemensamma lokaler. </p>
+    <p>Aktiviteter som äger rum på Hällebo har vi samlat under <span type="quote">"Läs mer"</span> här till höger.</p>
+    <p xml:lang="nob">Uppdaterad 2017-05-31 av Ulla Eriksson</p>
+    <p xml:lang="sma">Åarjelsaemien gïele</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+      <p type="listitem" xml:lang="eng">E-post</p>
+    </list>
+    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+    <p xml:lang="eng">Kontaktinformation</p>
+    <list>
+      <p type="listitem" xml:lang="sme">Ann-Marie Ågran</p>
+      <p type="listitem" xml:lang="deu">Verksamhetschef Säbo 0640 165 21</p>
+      <p type="listitem" xml:lang="nno">Anita Ivansson</p>
+      <p type="listitem" xml:lang="deu">Enhetschef Mysbuan 0640 165 81</p>
+      <p type="listitem" xml:lang="sme">Susanne Edberg</p>
+      <p type="listitem" xml:lang="deu">Enhetschef Västeräng 0640 165 82</p>
+      <p type="listitem" xml:lang="nno">Karin Helmersson Elvsgård</p>
+      <p type="listitem" xml:lang="deu">Assistent 0640 165 80</p>
+      <p type="listitem" xml:lang="fin">Sjuksköterska 0640 165 85</p>
+      <p type="listitem" xml:lang="nob">Mysbuan 0640 165 88</p>
+      <p type="listitem" xml:lang="deu">Västeräng 0640 165 77</p>
+      <p type="listitem" xml:lang="est">Postadress: Ede 510 830 51 OFFERDAL</p>
+      <p type="listitem">Hitta till Hällebo på vår webbkarta</p>
+    </list>
+    <p>Läs mer</p>
+    <list>
+      <p type="listitem">Matsedel för äldreboenden</p>
+      <p type="listitem" xml:lang="nob">Aktiviteter på Hällebo juni 2017</p>
+    </list>
+    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+  </body>
+</document>

@@ -1,0 +1,52 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>141</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/upphandlingar/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="om-lansstyrelsen-upphandlingar.html"/>
+    <parallel_text xml:lang="sma" location="om-lansstyrelsen-upphandlingar.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Upphandlingar - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Upphandlingar</p>
+    <p>
+      <em type="italic">Länsstyrelsen är en egen upphandlande myndighet. Vi gör inköp och upphandlingar av varor och tjänster, till exempel kontorsmaterial och skyltar samt undersökningar och utredningar. </em>
+    </p>
+    <p>Vi har fastställda riktlinjer för hur vi ska köpa eller hyra varor och tjänster, och vi följer lagen om offentlig upphandling (SFS 2007:1091). Vi använder oss också av möjligheten att göra avrop på de statliga ramavtalen.</p>
+    <p>
+      <em type="italic">Pågående upphandlingar </em>
+    </p>
+    <p>Klicka på länken nedan för att se våra upphandlingar. OBS! Om listan är tom pågår inga upphandlingar</p>
+    <p>
+      <em type="italic">Aktuella upphandlingar annonseras via Visma TendSign (nytt fönster). </em>
+    </p>
+    <p type="title">Kontakta oss</p>
+    <p>Marita Nygårds-Gullstrand</p>
+    <p>Upphandlingsansvarig</p>
+    <p>Ekonomi och personalenheten</p>
+    <p>marita punkt nygards snabela lansstyrelsen punkt se¤marita punkt nygards snabela lansstyrelsen punkt se</p>
+    <p>010-2250483</p>
+    <p>070-2958941</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

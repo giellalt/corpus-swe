@@ -1,0 +1,33 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>153</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/spel-och-sport/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar-spel-och-sport.html"/>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-spel-och-sport.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Spel och sport - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Spel och sport</p>
+    <p>
+      <em type="italic">Länsstyrelsen ger tillstånd till tävling med fordon på väg, till kampsportsmatcher, till bingospel och i vissa fall till lotterier. </em>
+    </p>
+    <p>För att få anordna tävling med fordon på väg behöver du Länsstyrelsens tillstånd. Om tävlingen körs genom flera län söker du tillståndet i det län där tävlingen börjar.</p>
+    <p>För att anordna tränings-, tävlings- och uppvisningsmatcher i kampsporter krävs ett särskilt tillstånd, som du söker hos Länsstyrelsen i Örebro län.</p>
+    <p>Länsstyrelsen ger tillstånd till bingospel och i vissa fall till lotterier som ska bedrivas i flera kommuner inom länet, så kallade regionala lotterier. Vi har också tillsyn över dessa spel. Kommunen sköter tillståndet om lotteriet ska anordnas av en förening som endast är verksam i en kommun. Oftast kan kommunernas fritidsförvaltningar lämna mer upplysningar om ansökan och tillståndet. Ibland kan andra juridiska personer än ideella föreningar få tillstånd att ordna lotterier, enligt lotterilagen (SFS 1994:1000).</p>
+  </body>
+</document>

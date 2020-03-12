@@ -1,0 +1,47 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>170</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/7920</origFileName>
+    <parallel_text xml:lang="sme" location="8142.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Viktigt när du brevröstar - Sametinget</p>
+    <p type="title">Viktigt när du brevröstar</p>
+    <p>I valet 2005 blev 213 brevröster underkända när rösterna räknades. Det var nästan 5 % av samtliga brevröster. Så här undviker du att det händer dig!</p>
+    <p>När brevrösterna räknades på länsstyrelsen i Norrbottens län efter valet 2005 upptäcktes flera brister. Här gör vi dig uppmärksam på några av dem så att du ska vara säker på att din röst verkligen räknas!</p>
+    <p><em type="italic">Vanliga fel </em>3330 brevröster kom in i tid (5 brevröster kom in för sent). 213 av dessa underkändes av följande orsaker: </p>
+    <list>
+      <p type="listitem">7 brevröster saknade omslagskuvert.</p>
+      <p type="listitem">1 röst saknade ytterkuvert.</p>
+      <p type="listitem">42 omslagskuvert var antingen inte förslutna eller hade blivit öppnade.</p>
+      <p type="listitem">49 ytterkuvert var antingen inte förslutna eller hade blivit öppnade.</p>
+      <p type="listitem">77 ytterkuvert saknade väljarens eller vittnenas underskrifter och adresser.</p>
+      <p type="listitem">19 valkuvert låg utanför ytterkuvertet.</p>
+      <p type="listitem">1 ytterkuvert innehöll fler än ett valkuvert.</p>
+      <p type="listitem">12 ytterkuvert innehöll inget valkuvert (!)</p>
+      <p type="listitem">9 valkuvert var inte av rätt sort.</p>
+    </list>
+    <p>
+      <em type="bold">ALLTSÅ: </em>
+    </p>
+    <p>Var noga när du brevröstar så att du</p>
+    <p>
+      <em type="bold">exakt </em>
+    </p>
+    <p>följer instruktionerna som medföljer ditt valmaterial.</p>
+  </body>
+</document>

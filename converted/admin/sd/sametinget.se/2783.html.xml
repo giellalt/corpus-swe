@@ -1,0 +1,54 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>365</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/2783</origFileName>
+    <parallel_text xml:lang="sme" location="4912.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Renmärkesansökan - Sametinget</p>
+    <p type="title">Renmärkesansökan</p>
+    <p>Vid alla ändringar som görs med ett renmärke måste en ansökan lämnas in till Sametinget.</p>
+    <p>Vad är en nyregistrering?</p>
+    <p>En nyregistrering görs om renmärket inte finns i renmärkesregistret sedan tidigare. Det gäller även om du lägger till eller tar bort ett snitt från ett befintligt märke, s k avbrott.</p>
+    <p>Vad är en omregistrering?</p>
+    <p>Vid varje ändring av ett redan registrerat renmärke görs en omregistrering. Detta gäller då ett renmärke byter ägare eller när renmärket flyttas till en annan sameby.</p>
+    <p>Vad är en avregistrering?</p>
+    <p>En avregistrering sker då renmärket tas ur bruk. En avregistrering görs...</p>
+    <list>
+      <p type="listitem">om märkeshavaren anmäler att renmärket inte längre kommer att användas vid renmärkning.</p>
+      <p type="listitem">om renmärket under tio år inte har använts vid renmärkning.</p>
+      <p type="listitem">om märkeshavaren eller en märkeshavares dödsbo inte längre har rätt att ha renar i samebyn.</p>
+    </list>
+    <p>Ärendegång för nyregistrering:</p>
+    <p>Sista ansökningsdag för en ansökan om nytt renmärke är den 31 december respektive år. Alla ansökningar som kommer in under ett kalenderår samlas ihop till en förteckning över ansökta renmärken. Förteckningen över ansökta renmärken skickas för remiss till samebyarna och rennäringsadministrationerna i Finland och Norge i slutet av februari efterkommande år. Remisstiden går ut i början av juni.</p>
+    <p>Handläggningstid för nyregistrering</p>
+    <p>Ambitionen är att besluten ska vara tagna innan midsommar så att renmärket kan användas vid sommarens kalvmärkning. Handläggningstiden kan variera allt från sex månader till ett och ett halvt år beroende på när ansökan lämnas in. Förklaringen till den långa handläggningstiden är att samebyarna oftast vill ta upp ansökningar om nya renmärken på sina årsmöten som vanligtvis hålls under mars-juni.</p>
+    <p>Ärendegång för o</p>
+    <p>mregistrering:</p>
+    <p>Beslut om omregistrering sker löpande. Målet är att den sökande ska få besked inom två månader under förutsättning att ansökan är komplett.</p>
+    <p>Ärendegång för a</p>
+    <p>vregistrering:</p>
+    <p>Beslut om avregistrering sker löpande. Målet är att den sökande ska få besked inom två månader under förutsättning att ansökan är komplett.</p>
+    <p>KOM IHÅG</p>
+    <list>
+      <p type="listitem">Kom ihåg att skriva under ansökan. Om sökande är under 18 år ska <em type="italic">båda </em>vårdnadshavarna eller annan behörig skriva under. </p>
+    </list>
+    <list>
+      <p type="listitem">Kom ihåg att skicka med alla nödvändiga bilagor enligt informationen som du finner under rubriken Blanketter . En korrekt ifylld ansökan förenklar arbetet och du slipper inkomma med kompletteringar som fördröjer hanteringen.</p>
+    </list>
+  </body>
+</document>

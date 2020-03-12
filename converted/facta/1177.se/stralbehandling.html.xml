@@ -1,0 +1,160 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>3619</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/Stralbehandling</origFileName>
+    <parallel_text xml:lang="eng" location="stralbehandling.html"/>
+    <parallel_text xml:lang="fin" location="stralbehandling.html"/>
+    <parallel_text xml:lang="rus" location="stralbehandling.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Strålbehandling - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Cancer</p>
+    <list>
+      <p type="listitem">Cancerformer och fakta</p>
+      <p type="listitem">Första tiden efter beskedet</p>
+      <p type="listitem">Behandling vid cancer</p>
+      <p type="listitem">Att vara den som står bredvid</p>
+      <p type="listitem">Hjälp och stöd</p>
+      <p type="listitem">Barncancer</p>
+      <p type="listitem">Kris och sorg</p>
+      <p type="listitem">Andra språk/Translations</p>
+    </list>
+    <p type="title">Strålbehandling</p>
+    <p type="title">Sammanfattning</p>
+    <p type="title">Sammanfattning</p>
+    <p type="title">Allmänt</p>
+    <p>Strålbehandling är en vanlig form av behandling om man har cancer . Den används för att bota sjukdomen, lindra symtom och att förebygga återfall.</p>
+    <p>Strålningen får man på ett begränsat område på kroppen, precis där cancertumören finns. Både friska celler och cancerceller påverkas av strålningen, men de friska cellerna har en bättre förmåga att reparera sig efteråt.</p>
+    <p>Strålbehandlingen kan påverka fruktsamheten både hos män och kvinnor om den ges mot till exempel äggstockarna eller testiklarna . Om man planerar att skaffa barn bör man därför diskutera det med sin läkare innan behandlingen börjar.</p>
+    <p type="title">Förberedelser</p>
+    <p>Innan behandlingen kan komma igång krävs en del förberedelser. Det kan vara besök hos läkare eller sjuksköterska, röntgenundersökningar och utprovning av hjälpmedel för att man ska kunna ligga bra när man får behandlingen. Det är också vanligt att man får besöka strålbehandlingsavdelningen innan behandlingen börjar.</p>
+    <p type="title">Hur går behandlingen till?</p>
+    <p>När man ska få sin strålbehandling får man ligga på en brits i ett behandlingsrum. Sjuksköterskorna ställer in strålapparaten så att behandlingen ges till rätt område på kroppen och går sedan intill ett angränsade rum där behandlingen övervakas via en tv-skärm. Om något känns konstigt kan man signalera till personalen som då avbryter behandlingen och kommer in i rummet igen.</p>
+    <p>Det gör inte ont att få strålningen och själva behandlingen tar bara ett par minuter, men om man räknar in förberedelserna är man i behandlingsrummet mellan 10 och 20 minuter.</p>
+    <p>Antalet behandlingar varierar från en enda behandling till strålning varje vardag i flera veckor.</p>
+    <p type="title">Hur mår man efteråt?</p>
+    <p>Eftersom strålningen påverkar även de friska cellerna i kroppen kan den ge biverkningar. Vilka biverkningar man får beror bland annat på var tumören sitter och hur mycket strålning man får. Trötthet är relativt vanligt och man kan dessutom få biverkningar i form av till exempel hudrodnad, besvär med att svälja och lös avföring.</p>
+    <p>Sjuksköterskorna och läkarna på strålbehandlingsavdelningen ger mer information och råd om hur man kan lindra biverkningarna.</p>
+    <p>Visa mer</p>
+    <p type="title">Varför får man strålbehandling?</p>
+    <p type="title">Hur cancer uppstår i kroppen</p>
+    <p>Människokroppen är uppbyggd av många miljarder celler. För att kroppen ska kunna växa och leva vidare måste de flesta celler regelbundet ersättas med nya. Det sker genom att celler delar sig. När cellen ska dela sig fördubblar den hela sitt innehåll och blir till två celler. Då har en exakt kopia av cellen skapats och den första cellen dör.</p>
+    <p>Oftast fungerar celldelningen eller så klarar cellens arvsmassa, DNA, själv av att reparera den skada som uppstått. Men någon gång kan cellen få en skada som den själv inte kan reparera, och den tappar då förmågan att kontrollera sin delning och tillväxt. Det kan leda till att cancer uppstår.</p>
+    <p>Det som kännetecknar cancerceller är bland annat att de fortsätter att föröka sig okontrollerat samtidigt som de inte dör när deras tid är ute. Ofta klumpar cancercellerna ihop sig och bildar en tumör, men det finns också cancerformer där cellerna inte bildar tumörer.</p>
+    <p type="title">Strålning skadar cellerna</p>
+    <p>Strålningen som man behandlas med är så kallad joniserande strålning. Den skadar arvsmassan både i friska celler och cancerceller, men de friska cellerna har en större förmåga än tumörceller att reparera skadorna efter strålningen. Genom att dela upp behandlingen i flera små doser hinner de friska cellerna till viss del repareras mellan stråldoserna medan cancercellerna successivt skadas och dör.</p>
+    <p>Hur många behandlingar man får och hur tätt det är emellan dem kan variera. Man kan få allt ifrån en behandling vid ett enda tillfälle till flera behandlingar i veckan under ett antal veckor.</p>
+    <p type="title">En av flera cancerbehandlingar</p>
+    <p>Strålbehandling är tillsammans med operation och cytostatikabehandling den vanligaste behandlingen vid cancer. I Sverige får ungefär hälften av de som har cancer någon gång strålbehandling. Ungefär hälften av dem får strålbehandling för att bli fri från cancern och hälften får strålbehandling för att lindra eller förebygga symtom.</p>
+    <p>Ibland används strålbehandling som enda behandling men ofta kombineras den med operation eller cytostatika. Ibland kombineras alla tre behandlingsformerna.</p>
+    <p>Strålbehandlingen som man får anpassas alltid till en själv och till sjukdomen som man har. Vissa kan få strålbehandling före en operation och andra efter. Om strålbehandling kombineras med cytostatika får man antingen cytostatikabehandlingen före, efter eller samtidigt med strålbehandlingen.</p>
+    <p type="title">Olika doser av strålning</p>
+    <p>För att bota cancer med strålbehandling krävs ofta en hög sammanlagd dos av strålning. Man kan behöva få strålbehandling flera veckor enligt ett schema. Ibland har cancertumören spridit sig till andra delar av kroppen och bildat dottertumörer, så kallade metastaser. Det kan i sin tur göra att man får ont. Syftet med strålbehandlingen är då inte att bota sjukdomen, utan att lindra symtomen och förbättra livskvaliteten. Behandlingstiden brukar då bli kortare genom att man får en högre dos vid varje behandlingstillfälle och en lägre sammanlagd dos. Ofta kan en engångsbehandling räcka för att ge en bra smärtlindrande effekt.</p>
+    <p type="title">Väntetid mellan olika behandlingar</p>
+    <p>Om man blir opererad eller får cytostatika utöver strålningen, brukar man få vänta en tid mellan varje behandlingsmetod så att kroppen hinner vila och läka. En del kan behöva genomgå olika behandlingsmetoder samtidigt.</p>
+    <p type="title">Så går det till</p>
+    <p type="title">Viktigt att ligga i samma läge</p>
+    <p>När man får strålbehandling ligger man oftast på rygg på en behandlingsbrits som kan höjas och sänkas. Det är viktigt att man ligger i samma läge varje gång man får behandling. Vid det första besöket på strålbehandlingsavdelningen får man prova ut hjälpmedel, så kallad fixationsutrustning, för att lättare kunna ligga i samma position. Vilket hjälpmedel som man behöver beror på vilken del av kroppen som ska behandlas. Exempel på hjälpmedel är olika kuddar, armstöd, nackstöd och plastmasker för huvud och axlar.</p>
+    <p type="title">Bilder behöver tas</p>
+    <p>Efter att hjälpmedel provats ut får man göra en datortomografi , som också kallas skiktröntgen eller CT. Undersökningen tar några minuter. Vid en del cancersjukdomar behövs ibland även andra undersökningar som PET-, eller magnetkameraundersökning . Inför vissa skelett- och hudbehandlingar används ibland enbart röntgenundersökning.</p>
+    <p>Läkaren använder bilderna för att identifiera vilket område avkroppen som ska behandlas. Det är vanligt att man får ett par små tatueringsprickar eller tuschmarkeringar på kroppen för att underlätta kommande inställningar. Tatueringsprickarna går inte att tvätta bort. Det går bra att duscha området med markeringar, men man ska inte gnida med tvål.</p>
+    <p>Efter bildundersökningen planeras behandlingen av specialistutbildade sjuksköterskor, läkare och strålfysiker. Vissa behandlingar kräver att man gör ett extra besök på sjukhuset, men ofta kan strålbehandlingen starta direkt. Under strålbehandlingsperioden tas regelbundet kontrollbilder i samband med behandlingen för att se till så att fälten ligger rätt på kroppen.</p>
+    <p type="title">Man kan ta med sig någon</p>
+    <p>Redan vid det första besöket kan det vara bra att ha med sig någon närstående. Oftast får man mycket information vid det tillfället och det kan underlätta att ha någon med sig som också lyssnar och kan ställa frågor. Den som följer med får inte vara med i rummet under själva undersökningen eller behandlingen, men däremot under samtalen med vårdpersonalen.</p>
+    <p>Mindre barn är välkomna, men det brukar vara ett bra råd att vänta ett par gånger till dess att man själv först känner sig trygg i miljön.</p>
+    <p type="title">Första behandlingen lite längre</p>
+    <p>Behandlingen innebär ofta att man får strålning från flera olika riktningar och varje dag kontrolleras inställningarna noggrant.</p>
+    <p>Den totala strålningstiden vid varje behandling varierar beroende på dosen, men brukar vara två–fem minuter. Den tid det tar i behandlingsrummet är däremot längre, och vid första behandlingstillfället kan man räkna med att hela behandlingen tar ungefär 20-30 minuter, beroende på hur många strålfält som behövs.</p>
+    <p type="title">Yttre strålbehandling</p>
+    <p>Den vanligaste typen av strålbehandling innebär att strålningen kommer från en apparat placerad en bit från kroppen. Man behandlas med ett eller flera strålfält beroende på vad som bäst täcker området där tumören sitter och samtidigt skonar den friska vävnaden.</p>
+    <p>Man får behandlingen i ett specialbyggt strålskyddat rum. Alldeles intill ligger ett manöverrum dit personalen måste gå under tiden man strålas. Vissa apparater ställs in manuellt av personalen som då kommer in i omgångar, medan andra apparater sköts automatiskt genom en kontrollpanel i manöverrummet.</p>
+    <p>Innan behandlingen börjar får man information om hur man kan komma i kontakt med personalen under behandlingen. Det finns tv-kamera och det kan räcka med att vinka lite med handen för att få kontakt med personalen.</p>
+    <p>Apparaten brukar ge ifrån sig ett surrande ljud. När ett strålfält är klart ändrar sig apparaten från ett läge till nästa. Under tiden kan man lyssna till musik via högtalare och det går ibland bra att ta med egen musik.</p>
+    <p>Själva strålningen går snabbt, varje fält tar mindre än en minut. Strålningen varken känns eller syns. När apparaten slås av är också strålningen borta. Ingen strålning blir kvar i kroppen efteråt.</p>
+    <p>Om så behövs kan behandlingen avbrytas när som helst. Oftast behövs det inte, men om man mår illa eller får andra besvär, kan den avbrytas direkt.</p>
+    <p type="title">Olika scheman för behandling</p>
+    <p>Behandlingen får man oftast en gång om dagen måndag till fredag, men det förekommer också andra scheman. Man kan till exempel få behandling två gånger om dagen och ibland har man behandlingsfria dagar under veckan.</p>
+    <p>Hur lång period behandlingen pågår beror på vilken typ av tumörsjukdom man har och i vilket syfte behandlingen ges. Vid smärtlindrande strålbehandling kan man ibland få en enda behandling, medan andra behandlingar kan ta upp till åtta veckor. Ofta kan man bo hemma under strålbehandlingen, men om man har långt till behandlingsavdelningen finns det på många orter patienthotell.</p>
+    <p type="title">Andra former av strålbehandling</p>
+    <p>Man kan även få strålbehandling då strålkällan placeras inne i kroppen, invid eller inuti själva tumören. Strålkällan utgörs av ett radioaktivt ämne, en så kallad isotop och behandlingen kallas brachyterapi. Genom behandlingen får själva cancertumören hög stråldos medan stråldosen avtar snabbt i vävnaden utanför, som då skonas. Ibland kan yttre och inre strålbehandling kombineras.</p>
+    <p type="title">Brachyterapi</p>
+    <p>Brachyterapi används oftast vid gynekologisk cancer , prostatacancer och även tumörer i munhåla och svalg . Inför behandlingarna brukar man få lokalbedövning eller annan bedövning som gör behandlingen smärtfri.</p>
+    <p>När man har gynekologisk cancer används ett instrument eller en tunn slang som förs in genom slidan, oftast har man fått lokalbedövning innan. När slangen är på plats så förs det radioaktiva ämnet in genom slangen. Vanligtvis är personalen kvar i rummet under behandlingen, men vid vissa tillfällen blir man övervakad via tv-kamera. Man kan få kontakt med personalen via en ringklocka som man har i handen. Efter behandlingen tas det radioaktiva ämnet bort liksom instrumentet.</p>
+    <p>Om man ska få behandling i munhålan opereras en eller flera tunna slangar in i munnen. Under operationen är man sövd. Själva strålbehandlingen får man sedan några gånger per dag under några dagar. Då förs det radioaktiva ämnet in genom en slang i taget. Behandlingen är smärtfri och kan ta ett par minuter åt gången. Under den tiden lämnas man ensam i behandlingsrummet men övervakas med tv-kamera. Man kan få kontakt med personalen genom att använda en ringklocka som man har i handen. Efter behandlingen tas slangarna bort.</p>
+    <p>När man får brachyterapi mot prostatacancer sticks flera tunna nålar in direkt till prostatakörteln. Man får oftast ryggbedövning innan så behandlingen är inte smärtsam. Det radioaktiva ämnet förs sedan in i en nål i taget och själva brachybehandlingen tar cirka 10-15 minuter. Oftast stannar man på sjukhuset över natten.</p>
+    <p type="title">Seedsterapi</p>
+    <p>Seedsterapi är en variant av brachyterapi som framför allt används om man har prostatacancer. Vid behandlingen används små metallfrön som kallas seeds. Man får bedövning så behandlingen gör inte ont. Fröna placeras direkt i eller invid tumören genom en operation. Att fröna sitter rätt kontrolleras med röntgen eller ultraljud. Fröna opereras inte ut ur kroppen utan får sitta kvar, även efter det att behandlingen är helt avslutad och radioaktiviteten klingat av.</p>
+    <p type="title">Radiojodterapi</p>
+    <p>Ett annat exempel på isotopbehandling är radiojodterapi som används vid sköldkörtelcancer eller vid hypertyreos, det vill säga överfunktion av sköldkörteln. Då får man en dryck som blandats med ett radioaktivt ämne. Det radioaktiva ämnet söker sig därefter till sköldkörteln.</p>
+    <p type="title">Anhöriga utsätts inte för strålning</p>
+    <p>Många undrar om man utsätter anhöriga för strålning när man har fått behandling. Det gör man inte om det rör sig om yttre strålbehandling. Vid vissa former av annan strålbehandling som radiojodterapi och seedsterapi kan det vara aktuellt att tänka på kontakten med små barn och gravida kvinnor. Personalen ger alltid information och råd om det i så fall.</p>
+    <p type="title">Biverkningar</p>
+    <p>Även om själva strålbehandlingen är smärtfri kan man få en del biverkningar efter en tids behandling. Vilka biverkningar man får beror på vilket område på kroppen som strålas. Alla som får strålbehandling får inte biverkningar.</p>
+    <p>När man börjar sin behandling får man information och råd om biverkningar och hur man kan hantera dem.</p>
+    <p type="title">Tidiga biverkningar</p>
+    <p>Tidiga biverkningar uppstår oftast efter ett par veckors behandling och är mest påtagliga någon vecka efter att behandlingen avslutats för att sedan avta inom några veckor.</p>
+    <p>Tidiga biverkningar kan vara trötthet, illamående, rodnad i huden, besvär med att svälja, lös avföring, att man behöver kissa ofta och att det svider när man kissar.</p>
+    <p type="title">Trötthet är vanligt</p>
+    <p>Det är inte ovanligt att man under strålbehandlingen får en trötthetskänsla. Denna trötthet kan vara olika påtaglig för olika personer. En del känner knappt något alls medan andra blir så trötta att det påverkar arbetet och det sociala livet. Tröttheten brukar klinga av ett par veckor efter avslutad behandling och försvinner sedan helt.</p>
+    <p>Det finns forskning som visar att någon form av aktivitet , som en cykeltur eller en promenad, brukar göra att man känner sig piggare. Det kan också kännas bra att ta sig en liten vilopaus under dagen</p>
+    <p type="title">Tillfälliga hudproblem</p>
+    <p>Det är vanligt att man efter ett par veckors behandling blir röd eller torr i huden och att det kliar. Av den anledningen bör man undvika starkt parfymerad tvål och deodorant inom strålbehandlingsområdet. Ibland kan irritationen bli så stor att huden börjar fjälla eller att man får sår. Områden med hudveck, som armhålan eller ljumsken, är speciellt känsliga. Det är bra om man smörjer huden dagligen så den håller sig mjuk. Men man ska inte smörja området omedelbart före strålningen utan efteråt.</p>
+    <p>De skador som uppstår av strålningen på hudcellerna kräver mycket energi och näring för att läka och därför är det viktigt att man äter en allsidig kost under behandlingen. Man brukar få ytterligare råd av vårdpersonalen hur man själv kan sköta huden.</p>
+    <p type="title">Man kan tappa hår</p>
+    <p>Om man får strålning mot huvudet kan håret påverkas. Vid lägre stråldoser kan håret tunnas ut eller så tappar man hår, men det börjar oftast växa igen ett par månader efter avslutad behandling. Vid högre stråldoser kan håret försvinna helt, och tyvärr kan det då inte växa ut igen. Om håret påverkas brukar detta märkas efter några veckors behandling. Det är inte ovanligt att det nya håret kan få lite annan färg och struktur än tidigare. De som får bestående håravfall kan få prova ut en peruk .</p>
+    <p>Om man får strålning mot andra delar av kroppen där det växer hår, som skägg och könshår, kan även detta hår falla av. Vid högre stråldoser kommer inte håret tillbaka.</p>
+    <p type="title">Besvär med magen och urinblåsan</p>
+    <p>Om man får behandling över magen och bäckenet är det vanligt att man får mycket gaser i tarmen och att man blir lös i magen. Om man får strålning över urinblåsan kan man få symtom som att man behöver kissa ofta och att det svider när man kissar. Det finns läkemedel man kan prova för att lindra de här biverkningarna.</p>
+    <p type="title">Dålig aptit och muntorrhet</p>
+    <p>Om man strålas mot munhåla och hals är det vanligt att slemhinnorna i munnen blir röda, irriterade och ibland såriga. Salivproduktionen kan också påverkas så man blir torr i munnen. Allt detta gör att det kan bli svårt att äta och dricka. Man får hjälp med smärtstillande mediciner av personalen på strålningsavdelningen och det finns oftast tillgång till dietist som kan hjälpa till med råd om hur man kan anpassa maten. Det är viktigt att man försöker hålla rent i munhålan och använder mjuk tandborste. Ibland behöver man också få träffa en tandläkare eller tandhygienist .</p>
+    <p>Även om det kan vara besvärligt att äta är det viktigt att man försöker få i sig allsidig mat och dryck för att underlätta läkningen av slemhinnor och hud.</p>
+    <p type="title">Svullnader i kroppen</p>
+    <p>När man opereras eller får strålbehandling kan man även få lymfödem , det vill säga svullnader i kroppen som beror på att lymfvätska samlats där. Det vanligaste är att man får lymfödem i armen efter att ha fått behandling mot bröstcancer eller i benet efter att man opererats i området kring ljumsken eller bäckenet.</p>
+    <p>Utöver svullnader kan man få domningar, tyngdkänsla och spänningar i kroppsdelen. Man kan även känna sig stel och svag, ibland även få värk. Det går oftast inte att bli helt frisk från lymfödem, men om besvären upptäcks tidigt och man får behandling kan besvären minska betydligt.</p>
+    <p type="title">Vårdpersonalen ger hjälp och stöd</p>
+    <p>För att minska besvären av olika biverkningar finns stöd att få bland annat av den behandlande sjuksköterskan och läkaren. Man kan även få träffa en dietist, sjukgymnast, lymfödemterapeut, tandläkare eller tandhygienist.</p>
+    <p type="title">Sena biverkningar</p>
+    <p>Sena biverkningar kan man få flera månader eller år efter avslutad strålbehandling. Mycket av den vidareutveckling och forskning som pågår inom strålbehandling är inriktad på att försöka skona den friska vävnaden och därigenom minska risken för sena biverkningar. Det har gjorts avsevärda framsteg men trots det kan man ibland få sådana biverkningar.</p>
+    <p>Till exempel kan man få hudförändringar, då huden kan bli oelastisk med synliga blodkärl. Om man har fått strålbehandling mot svalget kan man få besvär med muntorrhet och lättare hål i tänderna på grund av nedsatt salivproduktion. Vid strålning mot urinblåsan och tarmen kan man få svårt att hålla tätt eller bli lös i magen.</p>
+    <p>Om tumören suttit i, eller nära, områden med mycket nerver kan också dessa påverkas efter strålbehandling. Om man till exempel har fått strålning i höga doser i området kring och ovanför nyckelbenet kan man få ont, känna stickningar och bli svag i armen.</p>
+    <p>Man får information av sin läkare om vilka biverkningar som skulle kunna uppstå och råd om vart man ska vända sig.</p>
+    <p type="title">Sexualiteten kan påverkas</p>
+    <p>Cancer och cancerbehandling kan förändra både kroppen och självbilden. Det kan vara en tid när man känner stort behov av närhet, men där det ibland kan vara svårt att ha fysisk kontakt som kramar, kel och samlag. Ibland påverkas sexlusten och det kan vara svårt att förklara för en partner att man inte längre känner samma behov som tidigare. Om man får cancerbehandling kan man känna sig orolig, stressad och trött. En eventuell partner kan också uppleva stark rädsla och oro vilket kan göra att lusten och förmågan till samliv påverkas.</p>
+    <p type="title">Fysiska besvär</p>
+    <p>Beroende på vilken del av kroppen som behandlas kan de fysiska besvären göra att det till exempel är svårt att genomföra samlag. Vid strålbehandling mot bäcken och underliv blir ofta slemhinnor sköra. Det kan ge svullnad, blödning och ibland även smärta vid fysisk kontakt. Glidmedel kan användas för att minska obehaget.</p>
+    <p>Om tarm och urinblåsa strålas är det vanligt med diarréer och att man behöver kissa ofta. Det kan i sin tur ge oro för att inte kunna hålla tätt och rädsla för lukt.</p>
+    <p>Därför kan det vara viktigt att hitta andra former än samlag för att känna närhet i en relation under en tid som kan vara påfrestande.</p>
+    <p type="title">Behandlingen kan ge erektionsstörningar</p>
+    <p>Vid behandling av vissa cancersjukdomar, till exempel prostatacancer, kan man få problem med erektionsförmågan. Det finns potenshöjande läkemedel och tekniska hjälpmedel för att minska problemen med nedsatt erektionsförmåga.</p>
+    <p>Ofta finns det en lösning på problemen. När det gäller den situation som man själv befinner sig i är det bäst att prata med en läkare eller sjuksköterska som man har förtroende för. Tips om vad man kan göra själv finns också i artikeln Cancer och sexualitet .</p>
+    <p type="title">Fruktsamheten kan påverkas</p>
+    <p>Testiklar och äggstockar är mycket känsliga för strålbehandling. Det kan innebära att fortplantningsförmågan påverkas. Om man är fertil och planerar att skaffa barn är det viktigt att i lugn och ro diskutera dessa frågor med läkarna. Det kan till exempel finnas möjlighet att spara och frysa ägg eller spermier innan behandlingen börjar.</p>
+    <p type="title">Frågor och funderingar</p>
+    <p type="title">Bra att kunna prata med någon</p>
+    <p>Det kan vara viktigt att få prata om alla problem och bekymmer som kan uppstå när man får strålbehandling, oavsett om det gäller sexualiteten eller något annat. Sjuksköterskor och läkare på strålbehandlingen eller på cancerkliniken är väl införstådda i det mesta som kan uppstå och kan ge stöd och råd.</p>
+    <p>Många kliniker kan även erbjuda informationsträffar i grupp eller enskilt. Det finns också flera patientföreningar som erbjuder frågespalter och forum på internet samt samtalsgrupper för både patienter och närstående.</p>
+    <p type="title">Viktigt att respektera sina egna behov</p>
+    <p>Strålbehandling kan vara påfrestande både fysiskt och psykiskt, men det är bevisligen en effektiv behandlingsmetod mot cancer. Om man är sjuk är det viktigt att hitta sin egen väg för att hantera situationen. Det som fungerar för en person kanske inte är rätt för en annan.</p>
+    <p>En del fortsätter att arbeta under hela behandlingen, andra behöver vara hemma i lugn och ro. Det viktigaste är att man lyssnar på kroppens signaler och inte kräver för mycket av sig själv under behandlingsperioden.</p>
+    <p type="title">Nästa steg efter avslutad behandling</p>
+    <p>Innan man lämnar avdelningen för strålbehandlingen är det bra att förvissa sig om fortsatta kontroller. Beroende på cancersjukdom och behandling kan det se mycket olika ut beroende på hur cancervården är organiserad där man bor.</p>
+    <p>Om man inte ska genomgå någon annan typ av behandling kan det dröja lång tid innan man blir kallad till en första kontroll, ofta flera månader. Därför är det bra att man frågar vårdpersonal på strålbehandlingsavdelningen vart man kan vända sig om det skulle uppstå frågor och funderingar hemma under tiden. </p>
+  </body>
+</document>

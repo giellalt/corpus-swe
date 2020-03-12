@@ -1,0 +1,57 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>689</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Teckensprak/samhallsplanering-och-kulturmiljo/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo.html"/>
+    <parallel_text xml:lang="fin" location="samhallsplanering-och-kulturmiljo.html"/>
+    <parallel_text xml:lang="fit" location="samhallsplanering-och-kulturmiljo.html"/>
+    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo.html"/>
+    <parallel_text xml:lang="sme" location="samhallsplanering-och-kulturmiljo.html"/>
+    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmu"/>
+    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rka"/>
+    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmf"/>
+    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmn"/>
+    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Samhällsplanering och kulturmiljö - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Samhällsplanering och kulturmiljö</p>
+    </list>
+    <p type="title">Samhällsplanering och kulturmiljö</p>
+    <p>Länsstyrelsens arbete med samhällsplanering ska bidra till att skapa goda och trygga levnadsförhållanden och en långsiktigt hållbar livsmiljö för länets invånare och besökare. Kulturmiljön är en del av samhällets historia, den ger kontinuitet i vardagen och ökar människors förståelse för sin omvärld.</p>
+    <p type="title">Infrastruktur och IT</p>
+    <p>Länsstyrelsen arbetar för att underlätta kommunikationerna inom länet och till övriga delar av omvärlden och att de miljömässigt blir så som bra möjligt. Goda kommunikationer och en bra IT-infrastruktur gör att fler människor, företag och organisationer kan vidga sina arbetsmarknader. Länsstyrelsen bevakar bland annat att riksintressen eller intressen som rör flera kommuner tillgodoses vid planering av infrastrukturprojekt. Vi administrerar också det statliga stödet för utbyggnad av bredband på landsbygden.</p>
+    <p type="title">Energi</p>
+    <p>Länsstyrelsen samordnar det regionala arbetet för en långsiktigt trygg och hållbar energiförsörjning. Tillsammans med länets aktörer har vi tagit fram en klimat- och energistrategi som visar hur vi ska arbeta för att klara Sveriges klimatmål och energiomställning. Länsstyrelsen driver olika projekt för att främja en hållbar utveckling och tar fram underlag för att stödja kommunernas energiplanering. Det finns olika typer av statliga bidrag för energieffektivisering och övergång till förnybar energi som Länsstyrelsen beslutar om. Länsstyrelsens miljöprövningsdelegation beslutar om tillstånd för stora energianläggningar som vindkraftsparker och fjärrvärmeverk.</p>
+    <p type="title">Boende</p>
+    <p>Länsstyrelsen handlägger statliga stöd för byggande av äldrebostäder och trygghetsbostäder, för radonsanering av småhus samt beslutar om energibidrag för bostadshus och vissa lokaler. Länsstyrelsen sammanställer information och utför varje år analyser av länets bostadsmarknad bland annat som stöd till kommunernas arbete med bostadsförsörjningen.</p>
+    <p type="title">Planfrågor</p>
+    <p>Länsstyrelsen tar fram planeringsunderlag för olika områden som visar vad som är viktigt att ta hänsyn till vid till exempel byggen och markanvändning. Målet är att skapa goda och trygga levnadsförhållanden och en långsiktigt hållbar livsmiljö. Planeringsarbetet påverkas av olika nationella mål och riksintressen, exempelvis när det gäller energiproduktion, naturvård, friluftsliv eller kommunikationer. Vi granskar också den kommunala planeringen med hänsyn till människors hälsa och säkerhet, riksintressen, miljökvalitetsnormer och strandskydd. Är du missnöjd med kommunens bygglov eller en detaljplan kan du överklaga det hos oss.</p>
+    <p type="title">Skyddad bebyggelse</p>
+    <p>Länsstyrelsen kan besluta att kulturhistoriskt värdefulla byggnader, bebyggelsemiljöer, kyrkomiljöer, parker, trädgårdar eller liknande ska skyddas som ett byggnadsminne. Länsstyrelsen utreder och beslutar om ett objekt ska bli byggnadsminne, gör tillsyn av dem samt ger tillstånd att ändra byggnadsminnen, kyrkor och begravningsplatser.</p>
+    <p type="title">Byggnadsvård</p>
+    <p>Byggnadsvården är en del i Länsstyrelsens långsiktiga arbete för att bevara länets kulturmiljö. För att bebyggelse ska behålla sitt kulturhistoriska värde är det viktigt att vård, underhåll och ombyggnader sker utifrån de enskilda husens förutsättningar. Det är också viktigt att använda kulturhistoriskt riktiga material och metoder. Enskilda personer, kommuner, stiftelser och bolag kan ansöka hos Länsstyrelsen om ett statligt bidrag för att vårda kulturhistoriskt värdefull bebyggelse, ett så kallat byggnadsvårdsbidrag.</p>
+    <p type="title">Arkeologi och fornlämningar</p>
+    <p>Fornlämningar är spår efter äldre mänsklig verksamhet, exempelvis boplatser, gravfält, ruiner eller kulturlager från medeltida städer. Länsstyrelsens uppdrag är att skydda, vårda och tillgängliggöra våra fornlämningsmiljöer, så att både dagens och morgondagens generationer kan förstå och uppleva det historiska kulturarvet. Enligt kulturminneslagen är det förbjudet att förändra, ta bort, skada eller täcka över en fornlämning, men i vissa fall kan Länsstyrelsen ge tillstånd till ett ingrepp.</p>
+    <p type="title">Kulturreservat</p>
+    <p>Länsstyrelsen och kommunerna kan besluta att särskilt värdefulla kulturlandskap ska skyddas som kulturreservat. Därmed omfattas byggnader, anläggningar, lämningar och marker, men även de värden som består av verksamheter, kunskaper och traditioner. Ett kulturreservat kan vara allt från ett karaktärsfyllt jordbruksområde till en kulturhistoriskt intressant industrimiljö – områden som på olika sätt präglas av äldre tiders markanvändning och resursutnyttjande. När Länsstyrelsen tar beslut om ett kulturreservat är vi också förvaltare och ansvarar för vård och skötsel av de kulturvärden som finns där.</p>
+    <p type="title">Landskapsvård</p>
+    <p>Länsstyrelsen arbetar med landskapsvård för att bevara och synliggöra landskapets värden. Om du vill vårda ett värdefullt kulturlandskap som berättar om länets historia kan du få bidrag från Länsstyrelsen för det. Insatserna kan både gälla kulturlämningar och växt- och djurlivet. Länsstyrelsen lämnar även bidrag till föreningar, företag och enskilda personer som vill driva lokala naturvårdsprojekt (LONA). Om du vill ha bidrag till ett LONA-projekt ska du anmäla det till din kommun som sedan lämnar in en ansökan till Länsstyrelsen.</p>
+  </body>
+</document>

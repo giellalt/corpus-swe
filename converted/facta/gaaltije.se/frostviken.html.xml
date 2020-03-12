@@ -1,0 +1,39 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>PROJEKT</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>518</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="sma"/>
+    </multilingual>
+    <origFileName>http://www.gaaltije.se/sv/frostviken.html</origFileName>
+    <parallel_text xml:lang="sma" location="froeoestege.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">PROJEKT</p>
+    <p type="title" xml:lang="sma">Projekt Frostviken</p>
+    <p type="title">Frostviken – samebyarnas utveckling, turism och lokal förvaltning</p>
+    <p><em type="italic">20110419 </em>Min första uppgift som projektledare var att fortsätta arbetet med delprojektet -samisk boendeanläggning i Frostviken-. Under hösten 2010 genomfördes en förstudie i ämnet efter att projektet har identifierat ett behov av utveckla både tillväxt- som sysslsättningsgrad i området. Utvecklingen ska ske med tydlig samisk utgångspunkt och inriktning. I början av januari skickades det ut en offertförfrågan på att ta fram följande: -Konceptutveckling och konsekvensanalys av samisk boendeanläggning i Frostviken -Affärsplan för utveckling och drift av den samiska boendeanläggningen Under februari utvärderades offerterna och vi valde att gå vidare med Sweco i Östersund. I detta projekt arbetar de tillsammans med Östersundsföretagen Nordanalys och Syre. Vi har bildat en arbetsgrupp för detta delprojekt och har haft ett första möte i Gäddede tillsammans med våra konsulter. Nu planerar vi en workshop på Gaaltije den 10 mars. Målet med workshopen är att under den dagen arbeta fram en gemensam målbild och att det ska ge underlag för konceptidé. Resultatet att detta delprojekt ska vara klart att presenteras i mitten av august. </p>
+    <p><em type="italic">20110208 </em>Idag har Ingwar Åhrén och Kerstin Angantyr Nordfjell haft genomgång av Projekt Frostviken med anledning att Kerstin tar över Projektledarskapet efter Ingvar. </p>
+    <p><em type="italic">Projektbeskrivning </em>Projektet omfattar de tre samebyarna i Frostviken, som norrifrån räknat är Voernese, Ohredahke och Raedtievarie . Samebyarna är till ytan inga stora samebyar även i jämförelse med andra samebyar i Jämtlands län. Medelvärdet för åretruntmarkernas storlek i länet är ca 1050 kvm och alla tre byar i Frostviken ligger under det värdet. Det finns idag en relativt stor villighet för ett samiskt ökat engagemang i turismen som producenter för en attraktiv fiske-, eko-, kultur- och naturturism av hög kvalitet. Ett samlat grepp för den småskaliga samiska turismen är att förbättra lokala förhållanden och infrastrukturer för att skapa förutsättningar att själva kunna ägna sig åt turism. Det måste anses viktigt att samernas möjligheter också ska underlättas för att kunna ta tillvara de möjligheter som områdets kvaliteter kan erbjuda. Inom samebyarnas områden finns utvecklingsbara resurser i form av attraktiva miljöer, därtill också jaktmarker och fiskevatten. Med ett ökat samisk nyttjande av resurserna skapas underlag för satsningar inom eko - och kulturturism. </p>
+    <p><em type="italic">Projektets syfte </em>- Finna former för lokal förvaltning och inflytande över marken för att främja samisk näringsutveckling. - Uppbyggnad av samiskt <span type="quote">”utvecklingsbolag”</span> i vilken samebyarna ingår </p>
+    <p><em type="italic">Projektets mål </em>- Skapa modell till samiskt <span type="quote">”utvecklingsbolag”</span> - Skapa nya produkter och tjänster inom samisk turism - Skapa en kostnads- och finansieringsmodell för en samsik turistanläggning som bygger på samisk historia och kultur samt byggnadstraditioner </p>
+    <p><em type="italic">Aktiviteter </em>- Modell/utformning av utvecklingsbolaget - Produktpaket innehållande jakt och fiske - Former för lokal förvaltning och inflytande - Kostnads- och finansieringsmodeller för samiska turistanläggningar - Förslag på platser för anläggningarna </p>
+    <p><em type="italic">Kopplingar till andra projekt </em>- Jämtland Härjedalen Turism (JHT) projekt Turism 2020 - Mitt-Skandinaviska Regionprojektet - Gränslös fjällbygd - Ekoturismföreningens samiska projekt - Samernas Riksförbunds utvecklingsprojekt - Projektet Gaaltije – motor i den samiska turismutvecklingen </p>
+    <p xml:lang="sma">110201</p>
+    <p>Kerstin Angantyr Nordfjell är numer ansvarig för projektets genomförande. Kerstin kommer att arbeta halvtid som projektkoordinator och inleder nu sitt arbete med att genomföra projektets återstående aktiviteter.</p>
+  </body>
+</document>

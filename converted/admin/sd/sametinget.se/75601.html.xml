@@ -1,0 +1,40 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>166</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/75601</origFileName>
+    <parallel_text xml:lang="sme" location="76341.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Umeå universitet får examensrätt för ämneslärarexamen i samiska - Sametinget</p>
+    <p type="title">Umeå universitet får examensrätt för ämneslärarexamen i samiska</p>
+    <p>Umeå universitet ansökte i oktober 2013 om tillstånd att utfärda ämneslärarexamen i undervisningsämnet samiska som modersmål. Nu har Universitetskanslersämbetet godkänt ansökan.</p>
+    <p>Vid en tidigare prövning ansågs Umeå universitet sakna tillfredsställande förutsättningar. Men nu uppfyller universitetet kraven. Man har:</p>
+    <list>
+      <p type="listitem">tillräckligt antal lärare till undervisningens planerade volym</p>
+      <p type="listitem">läraresurserna har vetenskaplig kompetens i lingvistik, kulturstudier och ämnesdidaktik</p>
+      <p type="listitem">olika samiska varianter är företrädda i lärargruppen</p>
+      <p type="listitem">en amerikansk gästprofessor förstärker lärarresursen</p>
+      <p type="listitem">lärarnas tid för forskning och kompetensutveckling bedöms tillräcklig</p>
+      <p type="listitem">utbildningsmiljön inkluderar både teoretisk ämneskunskap och praktiska språkkunskaper på modersmålsnivå</p>
+      <p type="listitem">goda förutsättningar för samarbete med t ex lärare inriktade på tvåspråkighet och minoritetsspråk, andra samiska forsknings- och utbildningsmiljöer</p>
+      <p type="listitem">utbildningsplaner, kursplaner och relevant kurslitteratur</p>
+      <p type="listitem">en tydlig progression i utbildningen</p>
+      <p type="listitem">tillfredsställande examinsationsformer för att säkra att studenterna uppnår examensmålen</p>
+    </list>
+    <p>Universitetskanslerämbetet har således beslutat ge Umeå universitet tillstånd att utfärda ämneslärarexamen med inriktning mot arbete i grundskolans årskurs 7-9 och i gymnasieskolan i undervisningsämnet samiska som modersmål.</p>
+  </body>
+</document>

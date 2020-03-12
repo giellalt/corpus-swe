@@ -1,0 +1,56 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Sahka - ready for testing</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>206</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/useoahpa/sahka.swe.html</origFileName>
+    <parallel_text xml:lang="eng" location="sahka.eng.html"/>
+    <parallel_text xml:lang="fin" location="sahka.fin.html"/>
+    <parallel_text xml:lang="nob" location="sahka.nob.html"/>
+    <parallel_text xml:lang="sme" location="sahka.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="eng">Sahka - ready for testing</p>
+    <list>
+      <p type="listitem">Dialogerna är:</p>
+    </list>
+    <p>Sahka-spelet består av interaktiva dialoger. Du kan <span type="quote" xml:lang="nno">"prata med maskinen"</span>. Målet är att öva verbböjning, kasusanvändning, samt att utvidga ordförrådet. Du kan besvara frågorna på olika sätt, men eftersom målet är att öva din grammatik bör du vara beredd att svara med samma verb som den som används i frågan. För ja/nej-frågor, till exempel, bör du inte svara med bara <em type="italic">in </em>. Cf. </p>
+    <p xml:lang="sme">
+      <em type="italic">Jugat go gáfe? Gal mun jugan. / In juga. </em>
+    </p>
+    <p>Ofte är det öppna frågor. Till slika frågor kan det vara bifogad en ordlista (tex. lista över matvaror). Till andra frågor kan du svara vad som helst, bara du andvänder rätt kasus, t.ex.:</p>
+    <p xml:lang="sme">
+      <em type="italic">Masa don liikot buoremusat? Liikon lákcagáhkkui/njálgáide/... </em>
+    </p>
+    <p>Nästa fråga kommer ofta som ett resultat av ditt svar till en tidigare fråga, t.ex.</p>
+    <p xml:lang="sme">
+      <em type="italic">Lea go dus biila? Mus lea. </em>
+    </p>
+    <p xml:lang="sme">
+      <em type="italic">Makkár biila dus lea? Mus lea Toyota Jaris. </em>
+    </p>
+    <p>Programmet riktar framför allt er uppmärksamhet på fel i böjning, stavning eller kasusanvändning.</p>
+    <p type="title">Dialogerna är:</p>
+    <list>
+      <p type="listitem">Oahpásmuvvan Kárii (Vanliga frågor om personliga förhållande).</p>
+      <p type="listitem">Guossis (Här kan du praktisera dualis (<span type="quote" xml:lang="sme">"moai"</span>) och lokativ och illativ. På slutet av dialogen kommer också ackusativ.)</p>
+      <p type="listitem" xml:lang="sme">Borramušgávppis (Praktisera ackusativ.)</p>
+      <p type="listitem" xml:lang="est">Veardideapmi rámbuvrris (Adjektivkomparering.)</p>
+    </list>
+    <p xml:lang="nob">Link til Sahka</p>
+    <p xml:lang="nno">Last changed: $Id: intro.xml,v 1.8 2005/06/21 12:13:53 boerre Exp $</p>
+  </body>
+</document>

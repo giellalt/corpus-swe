@@ -1,0 +1,67 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Utbildningar |  Samernas Utbildningscentrum</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>419</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.samernas.se/utbildningar</origFileName>
+    <parallel_text xml:lang="sme" location="oahpahusat2015.html"/>
+    <parallel_text xml:lang="smj" location="oahpahusat2015.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="dan">Utbildningsalternativ studieåret 2015/2016</p>
+    <p>Sámij åhpadusguovdásj är en liten och trivsam samisk skola för vuxna. Ett eller flera år här ger Dig inte bara kunskap för livet, utan även kamratskap och personlig utveckling. Vårt viktigaste uppdrag är att vidareförmedla samisk kunskap i form av duodji, samiska språk, samisk kultur och näringar till våra studenter.</p>
+    <p>Då skolan är belägen i det samiska centrumet Jåhkåmåhkke är Du involverad i en generös samisk kultur- och språkmiljö. Här har Du många möjligheter till delaktighet i samisk samhällsliv och urfolksmöten möten nationellt och internationellt.</p>
+    <p xml:lang="smj">
+      <em type="bold">Duodji/Duodje/Vätnoe – Sameslöjdlinje </em>
+    </p>
+    <p>Om Du är hantverksintresserad så välj Duodji – Sameslöjdslinje som du kan läsa i 1-2 år, välj mellan trä/horn eller skinn/textil.</p>
+    <p xml:lang="sme">
+      <em type="bold">Boazodoallu/Boatsojäládus/Båatsoejieleme – Rennäringslinje </em>
+    </p>
+    <p>Vill du satsa på eget företag inom renskötsel så kan vår rennäringslinje vara något för Dig. Utbildningen är omarbetat och ges läsåret 2013/14 i olika block som kan läsas fristående.</p>
+    <p xml:lang="smj">
+      <em type="bold">Giella/Giele – Samiska Språkstudier </em>
+    </p>
+    <p>Den är för Dig som vill läsa samiska. Vi erbjuder undervisning i alla tre språkvarieteter; syd-, lule- och nordsamiska. Du kan vara på nybörjar- eller fortsättningsnivå eller vara samisktalande i behov av språkförkovran. Då de flesta av personalen är samisktalande borgar det för en god samisk språkmiljö.</p>
+    <p xml:lang="smj">
+      <em type="bold">Biebmu/Biebbmo/Beapmoe – Samisk Matkultur (Erbjuds inte läsåret 2014/15) </em>
+    </p>
+    <p>Du lär dig traditionella kunskaper kring samisk mat alltifrån råvara till maträtt.Utbildningen har bedrivits som KY (Kvalificerad Yrkesutbildnin) under läsåren 2008/09 samt 2009/10. Skolan har ansökt om att bedriva utbildningen inom Yrkeshögskolans ram från läsåret 2010/11 men fått avslag på denna ansökan.</p>
+    <p xml:lang="sme">
+      <em type="bold">Sámi joatkkaskuvla oahpahus/Sáme prográmma – gymnása åhpadus </em>
+    </p>
+    <p xml:lang="sma">
+      <em type="bold">Saemien jåarhke-skuvle prograamme/Samiska gymnasieprogrammet </em>
+    </p>
+    <p>Det är för Dig som kommer från grundskolan. Denna utbildning ges på kommunens gymnasieskola, Bokenskolan. Här får Du samma behörighet till högskolan som på Samhällsprogrammet. Du får även läsa samiska språk, slöjd, kultur, rennäring mm. Hösten 2013 erbjuds även ett samiskt yrkesprogram, det samiska entrepenörsprogrammet!</p>
+    <p xml:lang="nob">
+      <em type="bold">Lärlingsutbildning i duodji </em>
+    </p>
+    <p>Erbjuds i samarbete med stiftelsen Hantverk &amp; Utbildning i Leksand. Förkunskapskrav 2-årig duodjilinje eller motsvarande. Upp till 80 veckors utbildning.</p>
+    <p>
+      <em type="bold">Kontakttolkutbildning i samiska </em>
+    </p>
+    <p>Erbjuds i samarbete med Härnösands folkhögskola. Ett-årig utbildning på distans halvfart med 6 fysiska träffar. Vi som arbetar på Sámij åhpadusguovdásj ser gärna att Du väljer att studera här hos oss!</p>
+    <p>
+      <em type="italic">Välkommen att söka till oss! </em>
+    </p>
+    <p>Sista ansökningsdag är 15 maj. Antagningsarbetet påbörjas i början av juni. Skolan tar emot ansökningar även under sommaren och fram till skolstart och fyller på eventuella lediga platser. På vissa linjer är det konkurrens om platserna så vill du ha en chans att få plats måste du ansöka i tid!</p>
+    <p type="title" xml:lang="deu">Språkstudier</p>
+    <p type="title" xml:lang="fin">Slöjdlinjen</p>
+    <p type="title">Rennäringslinje</p>
+    <p type="title" xml:lang="nno">Samisk Mat</p>
+  </body>
+</document>

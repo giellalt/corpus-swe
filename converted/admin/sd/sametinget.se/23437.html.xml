@@ -1,0 +1,55 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>518</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/23437</origFileName>
+    <parallel_text xml:lang="sme" location="24009.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Om projektbidrag - Sametinget</p>
+    <p type="title">Om projektbidrag</p>
+    <p>Projektbidrag som främjar den samiska kulturen ges till projekt som verkar i linje med det kulturpolitiska handlingsprogram som Sametinget antagit. Bidraget kan sökas av sameföreningar, samiska organisationer, institutioner, bolag, stiftelser, Sametingets kansli, samebyar och enskilda.</p>
+    <p><em type="italic">Ansökningstider </em>Ansökningar om projektbidrag behandlas fyra gånger per år. Ansökan ska vara inkommen till Sametinget senast följande datum för behandling på nästkommande kulturnämndsmöte: </p>
+    <list>
+      <p type="listitem">1 februari</p>
+      <p type="listitem">1 maj</p>
+      <p type="listitem">1 augusti</p>
+      <p type="listitem">1 november</p>
+    </list>
+    <p>
+      <em type="italic">Följande gäller för ansökan om projektbidrag </em>
+    </p>
+    <list>
+      <p type="listitem">Ansökan ska göras på särskild blankett.</p>
+      <p type="listitem">Sametingets kulturnämnd beviljar inte bidrag i efterhand.</p>
+      <p type="listitem">Sametingets kulturnämnd beviljar inte bidrag till projekt som redan har erhållit bidrag från kulturnämnden.</p>
+      <p type="listitem">Sametingets kulturnämnd har rätt att bordlägga en ansökan i väntan på att annan finansiering prövas/behandlas.</p>
+      <p type="listitem">Ansökan behandlas först av Sametingets kulturnämnd när ifylld blankett med fullständiga uppgifter kommit in.</p>
+      <p type="listitem">Sökande som tidigare har fått projektbidrag måste ha inlämnat en fullständig redovisning av avslutade projekt innan en ny ansökan kan prövas.</p>
+      <p type="listitem">Ofullständiga ansökningar avslås. Ytterligare villkor kan vara antagna i Sametingets kulturpolitiska handlingsprogram.</p>
+    </list>
+    <p><em type="italic">Projektbeskrivning </em>I projektbeskrivningen skall anges projektets syfte, målgrupp, genomförande och planerat resultat. Det ska även anges vilka åldrar projektet riktar sig till samt antalet personer som projektet beräknas nå ut till. </p>
+    <p><em type="italic">Blanketter </em>Ansökan, rekvisition och redovisning av projektbidrag ska göras på särskilda blanketter som du hittar i högerspalten. Se även <em type="italic">Instruktion för ansökan om projektbidrag </em>samt <em type="italic">Instruktion för redovisning av projektbidrag </em>. </p>
+    <p><em type="italic">Logotype </em>Vid all annonsering och annan marknadsföring som rör projektet ska det anges att projektet har erhållit bidrag från Sametinget och Sametingets logotyp ska användas. Se logotyp här. </p>
+    <p><em type="italic">Redovisning </em>Redovisning av beviljat projektbidrag ska göras på särskild blankett. För redovisningsdatum, se beslutsmeddelandet. </p>
+    <p>Av redovisningen ska det tydligt framgå vad Sametingets bidrag har använts till. En ekonomisk sammanställning av projektets intäkter och kostnader ska inlämnas. Beviljade bidrag från andra finansiärer ska tydligt framgå.</p>
+    <p>Om beviljat projektbidrag understiger tre prisbasbelopp ska kostnaderna styrkas med kopia av verifikat eller utdrag ur huvudbok. Om projektbidraget överstiger tre prisbasbelopp (För aktuellt prisbasbelopp se SCB:s hemsida; www.scb.se ) ska den ekonomiska sammanställningen styrkas med ett revisorsintyg upprättat av auktoriserad eller godkänd revisor. Se Anvisning för revisorsintyg .</p>
+    <p>Godkända kostnader för projektet är de kostnader som tagits upp i budgeten för projektet i den ansökan som har beviljats av Sametingets kulturnämnd. Ytterligare villkor kan finnas angivna i beslutsmeddelandet.</p>
+    <p><em type="italic">Anstånd med redovisning </em>Om en projektägare inte kan komma in med redovisning vid sista datum måste denne ansöka om anstånd med redovisningen. Sådan ansökan görs på anvisad blankett; <em type="italic">Ansökan om anstånd </em>. I ansökan anges skälen till anståndet och till vilket datum anståndet begärs. I ansökan redovisas projektet till dags dato. I den ekonomiska redovisningen ska det framgå hur mycket av det beviljade bidraget som har använts samt till vad. Slutligen ska en tidsplan för det återstående projektarbetet och de oförbrukade medlen bifogas. </p>
+    <p><em type="italic">Återbetalning </em>Om väsentliga förändringar i projektet genomförs utan samråd med Sametingets kulturnämnd kan hela eller delar av projektbidraget återkrävas. Utebliven redovisning medför att hela eller del av bidraget återkrävs av Sametinget. </p>
+    <p><em type="italic">Frågor? </em>Om du har några frågor om projektbidrag, hur du ansöker, bedömningsgrunder etc. Vänd dig till kulturhandläggarna på telefonnummer 0980-780 57 eller 0980-780 48. </p>
+  </body>
+</document>

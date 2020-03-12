@@ -1,0 +1,46 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Matfostran i småbarnspedagogiken och grundskolan</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2018</year>
+    <wordcount>214</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/ruokakasvatus/ruokakasvatus-varhaiskasvatuksessa-ja-perusopetuksessa/</origFileName>
+    <parallel_text xml:lang="fin" location="ruokakasvatus_varhaiskasvatuksessa_ja_perusopetuksessa.html"/>
+    <parallel_text xml:lang="sme" location="borramusbajasgeassin_arabajasgeassimis_ja_vuoddooahpahusas.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Hoppa över till innehållet</p>
+    <p xml:lang="fkv">RuokaTutka</p>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <p type="title">Matfostran i småbarnspedagogiken och grundskolan</p>
+    <p>Grunderna för den nationella läroplanen för den grundläggande utbildningen lyfter fram skollunchens betydelse som en faktor som stödjer en sund tillväxt och utveckling, studieförmåga och matrelaterad kompetens. Skollunchen ses som en viktig paus som ökar orken samt stödjer mat- och uppförandefostran. Enligt de nya skolmatsrekommendationerna är skollunchen en del av skolans matfostran. Matfostran kan dock även förverkligas som en del av annat skolarbete.</p>
+    <p>Även inom småbarnspedagogiken sker matfostran förutom vid måltiderna även som en del av annan verksamhet. Ett av målen inom småbarnspedagogiken är att främja barnets hälsa och välbefinnande som helhet. Rekommendationen för måltiderna inom småbarnspedagogiken <span type="quote">”Mat ger hälsa och glädje”</span> fungerar som ett verktyg och hjälpmedel vid förverkligandet av matfostran.</p>
+    <p>Inom småbarnspedagogiken och grundskolan kan målen för matfostran gälla exempelvis matkulturell kunskap, främjande av en hållbar livsstil, kunskap om matsystemet samt främjande av hälsan. När man vill fokusera på hälsomålen inom matfostran kan man även använda begrepp ur näringsfostran.Med detta avses fostran vars syfte är att bidra till att värderingar, attityder, kunskaper, färdigheter och agerande i fråga om mat hos individer eller gemenskaper utvecklas i en hälsofrämjande riktning.</p>
+    <p type="title" xml:lang="vep">LÄS MER:</p>
+    <p type="title">Topp  5  i hemmets och skolans matfostran</p>
+    <p type="title">Matvanorna utvecklas genom hela livet</p>
+    <p type="title" xml:lang="fkv">Matmiljön</p>
+    <p type="title">Samvaro och matglädje</p>
+  </body>
+</document>

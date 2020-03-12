@@ -1,0 +1,30 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>105</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1134</origFileName>
+    <parallel_text xml:lang="sme" location="3080.html"/>
+    <parallel_text xml:lang="smj" location="4073.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Samebyar - Sametinget</p>
+    <p>Marie Enoksson.</p>
+    <p type="title">Kontaktuppgifter till Sveriges samebyar</p>
+    <p>Här finns kontaktuppgifter till samebyarna (se högerspalten). Här finns också blanketten som samebyn ska använda för att anmäla förändringar i samebyns styrelse.</p>
+    <p>Det finns 51 samebyar (geografiska områden och ekonomiska föreningar) i Sverige. Här finns kartor över samebyarnas områden och markanvändning</p>
+    <p>Fjällsamebyar och skogssamebyar  33 av samebyarna är fjällsamebyar och 10 är skogssamebyar. Den skogssamiska renskötseln är mer stationär och byarnas områden rundare än fjällsamebyarnas. Koncessionssamebyar  Åtta är så kallade koncessionssamebyar, där renskötsel bedrivs med särskilt tillstånd. Renägarna är ofta icke-samiska markägare medan tillståndet att bedriva renskötsel innehas av en same i enlighet med svensk grundlag.</p>
+  </body>
+</document>

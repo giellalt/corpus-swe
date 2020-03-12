@@ -1,0 +1,80 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>490</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1124</origFileName>
+    <parallel_text xml:lang="sme" location="3353.html"/>
+    <parallel_text xml:lang="smj" location="4069.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Rennäringsförvaltning - Sametinget</p>
+    <p type="title">Rennäringsmyndighet</p>
+    <p>Sametinget är central förvaltningsmyndighet och regeringens expertmyndighet med ansvar för frågor som berör rennäringen.</p>
+    <p>Det anslag som disponeras av Sametinget och direkt berör rennäringen är anslaget 45:1, Främjande av rennäringen. Den politiska inriktningen utgörs först och främst av att rennäringen är en viktig del av det samiska kulturarvet. <em type="italic">Övergripande ansvar </em>Staten har ett övergripande ansvar för att rennäringen kan fortleva. Rennäringen skall bedrivas så att den ger ett rimligt antal rennäringsföretagare en tryggad försörjning. Renskötseln skall bedrivas på ett ekologiskt, ekonomiskt och jämställt sätt för att vara kulturellt bärkraftigt på lång sikt. </p>
+    <p>Andra statliga stöd som kan vara aktuella för rennäringen och som ligger utanför detta anslag är bl.a. bygdemedel, möjligheterna att söka projektmedel till projekt som samfinansieras med EU:s strukturfonder, nationellt finansierade projekt och andra satsningar som t ex jämställdhetsstöd. <em type="italic">Vad ingår i det så kallade främjandeanslaget? </em>Utgifter som belastar främjandeanslaget är till exempel: </p>
+    <list>
+      <p type="listitem">Underhåll av riksgränsstängsel och skötselanläggningar</p>
+      <p type="listitem">Riksintressen beträffande marker som är värdefulla eller känsliga för renskötseln</p>
+      <p type="listitem">Natur- och kulturmiljövård</p>
+      <p type="listitem">Prisstöd till rennäringen enligt förordningen (1986:255) om pristillägg på renkött</p>
+      <p type="listitem">Ersättning till följd av Tjernobylolyckan som kan lämnas till jordbruksföretag, renskötselföretag och till den som helt eller delvis försörjer sig på att fiska till husbehov eller för försäljning enligt förordningen (1994:246) om ersättning för vissa merkostnader och förluster med anledning av Tjernobylolyckan.</p>
+      <p type="listitem">Katastrofskadeskydd kan utgå till viss del av foderkostnaderna enligt 35 a § rennäringsförordningen (1993:384).</p>
+    </list>
+    <p><em type="italic">Sametinget utfärdar föreskrifter </em>Sametinget ska utfärda föreskrifter och författningar som rör </p>
+    <list>
+      <p type="listitem">renräkning</p>
+      <p type="listitem">renlängd</p>
+      <p type="listitem">rennäringens hänsyn till naturvårdens och kulturmiljövårdens intressen</p>
+      <p type="listitem">företagsregister för rennäringen</p>
+      <p type="listitem">prisstöd till rennäringen</p>
+      <p type="listitem">rovdjursersättningar</p>
+      <p type="listitem">märkning av ren</p>
+      <p type="listitem">renmärkens utformning</p>
+      <p type="listitem">medling</p>
+    </list>
+    <p>Sametinget ska sköta renmärkeshanteringen, bl a registrering och avregistrering av renmärken.</p>
+    <p>Sametinget ska sköta administration som rör samebyarna, bland annat</p>
+    <list>
+      <p type="listitem">indelning i byområden</p>
+      <p type="listitem">medlemskap i sameby</p>
+      <p type="listitem">registrera sameby och stadgar</p>
+      <p type="listitem">utse syssloman om styrelse saknas</p>
+      <p type="listitem">registrera samebyns styrelse</p>
+      <p type="listitem">bemyndiga samebyföreträdare</p>
+    </list>
+    <p>Sametinget har underhållsansvaret för riksgränsstängsel och vissa renskötselanläggningar.</p>
+    <p>Sametinget ansvarar för fältundersökningar vid betesproblem.</p>
+    <p>Sametinget ska pröva ansökningar om katastrofskadeskydd.</p>
+    <p>Sametinget hanterar Tjernobylersättningarna.</p>
+    <p>Sametinget ska tillgodose kunskapsförsörjning om rennäringen i samhällsplaneringen.</p>
+    <p>Sametinget har ansvar för samebyarnas markanvändningsredovisning.</p>
+    <p>Sametinget prövar ansökningar om prisstöd.</p>
+    <p>Sametinget fattar beslut om bygdemedel reserverade för rennäringen.</p>
+    <p>Sametinget administrerar rovdjursersättningarna enligt viltskadeförordningen och delar av medlen ur Samefonden enligt bestämmelser i rennäringsförordningen.</p>
+    <p>Sametinget ska i sin verksamhet vara lika tillgänglig för alla samer och har i uppdrag att motverka alla former av diskriminering inom gruppen samer. Detta är i sig ett styrande direktiv för övrig verksamhet.</p>
+    <p><em type="italic">Länsstyrelsernas ansvar </em>Fortfarande har länsstyrelserna i de nordligaste länen ansvar för följande: </p>
+    <list>
+      <p type="listitem">Tillsyn över att beslutade föreskrifter efterlevs</p>
+      <p type="listitem">Tillsyn vid renräkning och över att renlängd upprättas</p>
+      <p type="listitem">Fastställande av högsta renantal</p>
+      <p type="listitem">Tillsyn över att samebyarna tar hänsyn till naturvårdens och kulturmiljövårdens intressen</p>
+      <p type="listitem">Beslut om upplåtelser av nyttjanderätter på mark ovan odlingsgränsen och på renbetesfjällen</p>
+      <p type="listitem">Ansvar för medling vid renbetning på åkermark</p>
+      <p type="listitem">Beslut rörande koncessionssamebyarna</p>
+      <p type="listitem">Behandling av ansökningar om bygdemedel - ansökningarna skall skickas till respektive länsstyrelse som yttrar sig och överlämnar ärendet till Sametinget för beslut.</p>
+    </list>
+  </body>
+</document>

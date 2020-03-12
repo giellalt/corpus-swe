@@ -1,0 +1,39 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>458</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1125</origFileName>
+    <parallel_text xml:lang="sme" location="3351.html"/>
+    <parallel_text xml:lang="smj" location="4063.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Renskötselrätten - Sametinget</p>
+    <p type="title">Renskötselrätten</p>
+    <p>Den samiska rätten att utnyttja områden för renskötsel, jakt och fiske är byggd på urminnes hävd. Urminnes hävd enligt gamla jordabalken är en äganderätt som förvärvats genom att man under lång tid brukat marken utan att någon hindrat en.</p>
+    <p>Urminnes hävd är en juridisk rätt för att man alltid brukat marken och alltså ingen rättighet som staten gett samerna. Renskötselrätten är en egendom och därför gäller även egendomsskyddet. Bevisbörda på samerna  Problemet i vissa områden är att i domstol kunna bevisa samiskt bruk av marken eftersom Sveriges juridiska system bygger på jordbrukarkulturen. Det är mycket lättare att bevisa att viss mark odlats i 90 år än att bevisa jakt, fiske och renskötsel, eftersom man av naturliga skäl inte lämnat stora spår i naturen. I Sverige ligger bevisbördan på samerna, medan det i Norge är tvärtom: markägare måste bevisa att samiskt bruk inte förekommit. Renskötselrätten  Renskötselrätten är en rätt för samer att använda mark och vatten för sig och sina renar. Den innefattar bl a rätt till renbete, jakt och fiske, rätt att bygga hagar, stängsel, slakterier och andra anläggningar som behövs för renskötseln, rätt att ta skog till byggnadsvirke, bränsle och slöjdvirke. Samebyn får fälla träd på vilka det växer trädlav om det är nödvändigt för att skaffa foder åt renarna. I vissa fall måste markägaren först kontaktas. Nästan halva Sverige  Renskötsel bedrivs på närmare hälften av Sveriges yta. Alla marker är dock inte lämpliga eller tillgängliga för renbete. Den får bedrivas på både privat och statlig mark. Renskötselrätten är starkast på åretruntmarkerna. Där får markens användning inte förändras så att det innebär avsevärda olägenheter för renskötseln. Åretruntmark  Marker där renskötsel få bedrivas året runt, är</p>
+    <list>
+      <p type="listitem">marker ovan odlingsgränsen i Västerbottens och Norrbottens län</p>
+      <p type="listitem">marker nedanför odlingsgränsen men ovanför lappmarksgränsen på mark där skogsrenskötsel bedrivs under våren, sommaren eller hösten och mark som antingen tillhör eller tillhörde staten vid utgången av juni 1992 eller är renbetesland</p>
+      <p type="listitem">på renbetesfjällen i Jämtlands län och inom de områden i Jämtlands och Kopparbergs län som vid utgången av juni 1992 tillhörde staten och var upplåtna för renbete.</p>
+    </list>
+    <p>Vinterbetesmarker  Mellan den 1 oktober och 30 april får renskötsel bedrivas på vinterbetesmarkerna, det vill säga:</p>
+    <list>
+      <p type="listitem">områden nedanför odlingsgränsen men ovanför lappmarksgränsen som inte är åretruntmark</p>
+      <p type="listitem">områden nedanför lappmarksgränsen och renbetesfjällen där renskötsel av tradition bedrivits</p>
+    </list>
+    <p>Strövrenar  Renar som blir kvar i vinterbetesområdet vid tider som de inte får vara där kallas för strövrenar. Samebyn kan åläggas vite om de inte flyttar på strövrenarna. Koncessionsrenskötsel  Nedanför lappmarksgränsen i Kalix och Torne älvdalar kan samer få koncession (tillstånd) att bedriva renskötsel året om. Tillståndet innefattar rätt att sköta renar åt dem som äger jordbruksfastigheter i området. Denna typ av samebyar kallas koncessionssamebyar och ger av historiska skäl ortsbefolkningen möjlighet att äga renar.</p>
+  </body>
+</document>

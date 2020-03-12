@@ -1,0 +1,58 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Smakskolan: Lukt – kittlar i näsan</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2018</year>
+    <wordcount>654</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-haju-kutittaa-nenassa/</origFileName>
+    <parallel_text xml:lang="fin" location="makukoulu_haju_kutittaa_nenassa.html"/>
+    <parallel_text xml:lang="sme" location="smahkkaskuvlla_hadja_saknidahtta_njuni.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Hoppa över till innehållet</p>
+    <p xml:lang="fkv">RuokaTutka</p>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <p type="title">Smakskolan: Lukt – kittlar i näsan</p>
+    <p>Luktsinnet samverkar med smaksinnet, och vi upplever en stor del av matens aromer genom näsan. Matens doft är en viktig del av det som gör den lockande. Mat kan också ha en lukt som känns obehaglig. Vissa lukter väcker minnen och känslor ända från barndomen. Ofta känns en lukt bekant, men kan vara svår att identifiera, namnge och koppla ihop med en källa. Luktsinnet anpassar sig också snabbt. När vi kommer in i en ny doftmiljö vänjer vi oss på några minuter, så att vi inte längre märker miljöns speciella dofter.</p>
+    <p>Eftersom vi inte kan identifiera enskilda molekyler namnger vi dofterna enligt råvaran och talar till exempel om doften av jordgubbar eller rågbröd. Doftupplevelsen skapas av många olika kemiska föreningar. I kål finns exempelvis svavelföreningar och i frukt och bär finns estrar. Aromerna förändras när maten hanteras, tillagas eller blir dålig. Under gräddning och stekning bildas föreningar som påverkar livsmedlens arom, och enzymer och mikrober skapar nya föreningar i livsmedel som exempelvis syras eller mognar.</p>
+    <p xml:lang="kal">
+      <em type="italic">Luktsinnet </em>
+    </p>
+    <p>Vårt luktsinne reagerar på små molekyler som kommer in i näshålans luktreceptorer. Molekylerna i en ortonasal doft kommer in i luktreceptorerna via luften vi andas in. Retronasala doftmolekyler frigörs i munnen när vi tuggar mat och når luktreceptorerna via svalget. Ett livsmedel kan innehålla tiotals eller till och med hundratals olika doftföreningar. Vanligen betraktas endast ortonasala dofter som dofter, medan retronasala dofter betraktas som smaker.</p>
+    <p>
+      <em type="italic">Luktsinnesuppgifter för lektionen </em>
+    </p>
+    <list>
+      <p type="listitem">Att hålla sig för näsan när man smakar på ett livsmedel ger en uppfattning om den roll luktsinnet spelar för vår uppfattning av maten. Man kan testa detta tillsammans med eleverna på en lektion eller kanske i samband med skollunchen. Be eleverna ta mat eller dryck i munnen samtidigt som de håller om näsan med den andra handen. Efter en liten stund släpper man näsborrarna och smakar också på maten eller drycken med dem öppna. Vilken är skillnaden?</p>
+      <p type="listitem">På en lektion kan man försöka skilja mellan bitar av potatis och äpplen samtidigt som man håller för näsan. En elev blundar och håller sig för näsan medan en annan lägger en liten bit äpple eller rå potatis i hans eller hennes mun med en sked. Uppgiften är att avgöra vilken som är vilken. Diskutera med eleverna varför det inte var så lätt att skilja mellan äpple och potatis när man höll sig för näsan och hur mat smakar när man är snuvig.</p>
+      <p type="listitem">Eleverna kan få öva på att beskriva olika lukter genom att man delar ut olika livsmedel, såsom mögelost, kryddor, fruktbitar eller rågbröd, och de får beskriva med adjektiv och substantiv vad lukterna får dem att tänka på. Man kan beskriva en lukt med dess källa, såsom substantivet kanel eller rök, eller med ett adjektiv, såsom kraftig eller stickande. En lukt kan också få en att tänka på mormors kök eller grannens hund. De andra eleverna får utgående från beskrivningen försöka gissa vilket livsmedel det gäller.</p>
+      <p type="listitem">En övning med doftflaskor går ut på att man i rena, mörka glasflaskor gömmer en tesked av någon krydda, såsom en ört, peppar, kanel eller kardemumma, eller ett livsmedel såsom kaffe eller choklad. Doftproverna hålls väl dolda om de läggs i små filterpåsar avsedda för teblad, som rullas ihop och läggs i flaskorna. Vid behov kan man täcka proverna med bomull. I bomull kan man även droppa aromämnen i vätskeform, såsom citron- eller vaniljarom. Håll korkarna stängda och alltid på rätt flaskor, så att lukterna inte kan smita eller blandas. Flaskorna numreras. Eleverna skriver i ett häfte vad dofterna får dem att tänka på. Ofta tycker man exempelvis att doften av en krydda känns bekant och får en att tänka på en rätt där den används, även om man inte kan namnge själva kryddan.</p>
+    </list>
+    <p type="title" xml:lang="vep">LÄS MER:</p>
+    <p type="title">Synsinnet – först tittar vi</p>
+    <p type="title">Känseln – hur känns maten?</p>
+    <p type="title">Smak – känns på tungan</p>
+    <p type="title">Hörseln – även öronen gillar mat</p>
+  </body>
+</document>

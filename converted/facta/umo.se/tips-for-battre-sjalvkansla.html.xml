@@ -1,0 +1,73 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>731</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Jag/Tips-for-battre-sjalvkansla</origFileName>
+    <parallel_text xml:lang="eng" location="how-to-improve-self-esteem.html"/>
+    <parallel_text xml:lang="fin" location="vinkkeja-itsetunnon-kohentamiseen.html"/>
+    <parallel_text xml:lang="fit" location="tipsia-kuinka-parantaa-ommaa-ittentuntoa.html"/>
+    <parallel_text xml:lang="sma" location="raerieh-buerebe-jijtjedomtesasse.html"/>
+    <parallel_text xml:lang="sme" location="guoiggus-buoret-iedovdui.html"/>
+    <parallel_text xml:lang="smj" location="gatjastusa-nannusap-iesjdabdduj.html"/>
+    <parallel_text location="ideori-sar-te-vortos-iri-zor.html" xml:lang="rmy-rka"/>
+    <parallel_text location="tipsi-bao-poukar-korkorioset.html" xml:lang="rmn"/>
+    <parallel_text location="hilprepha-gla-fedigare-soluskansla.html" xml:lang="rmu"/>
+    <parallel_text location="rejchern.html" xml:lang="yid"/>
+    <parallel_text location="tipsura-te-avel-maj-lao-manuesko-aaripe.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="tipsi-te-lel-fendide-iegohoiba.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Tips för bättre självkänsla</p>
+    <p>Alla undrar!  Vad undrar du?</p>
+    <p type="title">Tips för bättre självkänsla</p>
+    <p>Det finns mycket du kan göra för att stärka din självkänsla. Här är några saker som du kan prova:</p>
+    <p>» Texten finns på de nationella minoritetsspråken</p>
+    <list>
+      <p type="listitem">Om man har låg självkänsla fastnar man lätt i negativa tankar om hur dålig man är. Om du har tankar om att du är dålig kan du försöka bryta dem genom att fråga dig själv: hjälper det mig att tänka så här? Är det verkligen sant att jag inte är bra på någonting?</p>
+      <p type="listitem">Du kan komma ifrån negativa tankar på hur du ser ut eller hur duktig du är, som egenligen inte har med självkänslan att göra. Fråga personer du litar på vilka egenskaper de tycker om hos dig. Be personen skriva en lista, som du sätter upp på en väl synlig plats.</p>
+      <p type="listitem">Fundera på vilka egenskaper du gillar hos andra. Vad är egentligen viktigt? Att vara <span type="quote">”snygg”</span>, bäst på proven i skolan eller att man är en nyfiken, omtänksam, klok, fantasifull eller modig person som vågar vara sig själv?</p>
+      <p type="listitem">Det stärker självkänslan att ha bra relationer till andra, både vänner, kärleksrelationer och familj. Om personer i din familj eller närhet säger taskiga saker till varandra, kan du be dem sluta. Be dem att istället säga något positivt om varandra.</p>
+      <p type="listitem">Gör saker som du inte brukar göra. Om du aldrig räcker upp handen först, kan du försöka göra det på nästa lektion. Eller försök säga ifrån nästa gång någon försöker göra sig rolig på någon annans bekostnad. Testa sånt som att ringa ett samtal till någon du tycker om eller visa en novell du har skrivit för en kompis.</p>
+      <p type="listitem">Istället för att fastna i tankar om sånt som har varit fel tidigare i livet, försök acceptera det som hänt och de känslor du hade då. Om du till exempel tycker att dina föräldrar inte uppmuntrade och såg dig tillräckligt när du var liten, kanske det finns andra i din omgivning just nu som tycker om och bekräftar dig. Du kan också fråga dig vad som är bäst att göra just nu. Visst kan man var ledsen över saker som har hänt. Man kanske behöver sörja under en period för att sedan gå vidare.</p>
+    </list>
+    <p type="title">Ungas bästa tips</p>
+    <p>UMO:s egen ungdomspanel ger sina bästa tips om hur man kan få bättre självkänsla:</p>
+    <list>
+      <p type="listitem">Man kan försöka vara extra modig och våga lite mer: våga stå för vad man tycker, våga fråga om sånt man inte vet, våga göra bort sig och våga bjuda på sig själv.</p>
+      <p type="listitem">Man kan umgås med personer som man är bekväm med och känner sig trygg med.</p>
+      <p type="listitem">Man kan känna sig modigare och starkare om man lyssnar på musik som man tycker mycket om, när man till exempel är på väg till något man känner sig osäker inför, eller samtidigt som man gör något man tycker är lite läskigt.</p>
+      <p type="listitem">Man kan bli bättre på att ta emot beröm och komplimanger. Istället för att tycka att det känns pinsamt, kan man ta ett djupt andetag, säga tack och låta det som personen säger sjunka in och tillåta sig att vara glad för det.</p>
+      <p type="listitem">Man kan ge sig själv uppmuntran och tillåta sig att känna sig nöjd när man till exempel har gjort läxan eller när man har ringt ett samtal som kändes jobbigt.</p>
+      <p type="listitem">Man kan vara en bra och stöttande vän och själv välja kompisar som uppmuntrar en och tycker om en för den man är.</p>
+      <p type="listitem">Man ska inte hålla inne med komplimanger utan visa varandra uppskattning för vilka ni är.</p>
+      <p type="listitem">Kramas mycket!</p>
+      <p type="listitem">Även om självförtroende och självkänsla inte är samma sak, kan självkänslan växa och utvecklas när man gör saker som man är bra på.</p>
+      <p type="listitem">Skriv upp saker som du tycker om hos dig själv.</p>
+      <p type="listitem">Skriv upp saker som gör dig glad.</p>
+      <p type="listitem">Sätt upp mål för din dag, till exempel att du ska göra något som du tycker om eller något som du aldrig har gjort förut och strunta i om det gick bra eller dåligt, blev fult eller fint.</p>
+      <p type="listitem">Självkänslan hör ihop med ens samvete. Om man är elak, får man dåligt samvete och mår dåligt. Motsatsen sker om man är en god och snäll människa, då mår man bättre och får också ett bättre självkänsla.</p>
+      <p type="listitem">En bra lärare som stöttar en kan höja ens självbild.</p>
+      <p type="listitem">Sök hjälp hos en psykolog eller kurator om det behövs, till exempel på ungdomsmottagningen.</p>
+    </list>
+  </body>
+</document>

@@ -1,0 +1,31 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>134</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/76789</origFileName>
+    <parallel_text xml:lang="sme" location="76843.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Pressmeddelande från kulturnämnden - Sametinget</p>
+    <p type="title">Pressmeddelande från kulturnämnden</p>
+    <p>Kulturnämnden har vid sitt möte den 6 augusti behandlat inkomna remissvar angående förslag till Kulturpolitiskt handlingsprogram 2014-2017.</p>
+    <p><em type="italic">45 svar </em>har inkommit. Kulturnämnden tycker det är mycket positivt att så många har engagerat sig och lämnat in svar trots att remisstiden löpte under kalvmärknings- och semestertider. </p>
+    <p><em type="italic">Kulturnämnden har i nuläget </em>fått en övergripande bild av de inkomna remissvaren men avser att arbeta vidare med dem. Kulturnämnden har dock tydligt sett behovet av förlängd remisstid. Därmed beslutade nämnden under dagens möte att förlänga remisstiden till och med 25 september 2014. </p>
+    <p><em type="italic">Mer information </em>om förslaget till handlingsprogram och möjlighet att ladda ner dokumenten finns här . </p>
+    <p>Kulturnämndens nästa ordinarie möte äger rum 14- 15 oktober 2014.</p>
+    <p><em type="italic">Vid frågor, </em>kontakta Kulturnämndens ordförande Karin Mannela, tel: +47 47 34 87 36 </p>
+  </body>
+</document>

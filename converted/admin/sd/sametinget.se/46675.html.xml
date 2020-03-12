@@ -1,0 +1,36 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>197</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/46675</origFileName>
+    <parallel_text xml:lang="sme" location="63695.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Samefonden - Sametinget</p>
+    <p type="title">Samefonden</p>
+    <p>Samefonden är en fond som har till ändamål att främja och stödja rennäringen, den samiska kulturen och samiska organisationer.</p>
+    <p>Samefondens medel förvaltas av den statliga förvaltningsmyndigheten Kammarkollegiet. Fonden fylls på med medel som kommer genom bland annat de intrångsersättningar som tas ut vid mark-, jakt- och fiskeupplåtelser som sker genom länsstyrelserna.</p>
+    <p><em type="italic">Bidrag ur fonden </em>För varje år fastställer Samefondens styrelse ett högsta belopp som får lämnas som bidrag ur fonden. För särskilda ändamål kan styrelsen disponera ytterligare medel ur fonden. </p>
+    <p><em type="italic">Egen styrelse </em>Styrelsen består av sex ledamöter som utses av regeringen om högst tre år, efter förslag från Sametingets plenum. Regeringen utser ordförande och vice ordförande efter förslag från Sametinget. </p>
+    <p><em type="italic">Medel till samisk kultur </em>Sametingets kulturnämnd ansöker om medel ur Samefonden för främjande av den samiska kulturen och till samiska organisationer. Samefonden beviljar medel till kulturnämnden som sedan själv beslutar hur medlen ska användas. </p>
+    <p><em type="italic">Bidrag till rennäringen </em>Samefondens styrelse beslutar om bidrag för att stödja och främja rennäringen. Ansökan om bidrag för rennäringen görs skriftligen direkt till Samefonden. </p>
+    <p>I Rennäringsförordningen kan du läsa mer om vad som gäller för samefonden (se länk till höger).</p>
+    <p>
+      <em type="italic">Adress: </em>
+    </p>
+    <p>Samefonden c/o Sametinget Box 90 981 22 Kiruna</p>
+  </body>
+</document>

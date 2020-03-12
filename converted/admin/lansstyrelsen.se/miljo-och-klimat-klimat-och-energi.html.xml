@@ -1,0 +1,53 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>270</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/vasterbotten/Sv/miljo-och-klimat/klimat-och-energi/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="miljo-och-klimat-klimat-och-energi.html"/>
+    <parallel_text xml:lang="sma" location="miljo-och-klimat-klimat-och-energi.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Klimat och energi - Länsstyrelsen Västerbotten</p>
+    <list/>
+    <p type="title">Klimat och energi</p>
+    <p>
+      <em type="italic">Länsstyrelsen samordnar det regionala arbetet med att minska utsläppen av växthusgaser, och vi arbetar med att anpassa samhället till ett förändrat klimat. </em>
+    </p>
+    <p>Utsläpp av växthusgaser medför att klimatet förändras och blir varmare, vilket får stora globala konsekvenser. Människans påverkan på klimatet måste begränsas: vi behöver använda energi på ett effektivare sätt, minska utsläppen av växthusgaser och framställa mer förnybar energi. Samtidigt måste vi bland annat förbereda oss på att havsytan höjs och översvämningarna blir fler.</p>
+    <p type="title">Vad orsakar problemen?</p>
+    <p>Klimatförändringarna beror på människans utsläpp av gaser som reflekterar tillbaka jordens värmestrålning. Dessa värmereflekterande gaser i atmosfären kallas växthusgaser. En stor del av gaserna är koldioxid som bildas vid förbränning av fossila bränslen som kol, olja, torv och naturgas. Andra växthusgaser kommer från markanvändning, djurhållning, avfallshantering, ineffektiva vedpannor och från vissa industriprocesser.</p>
+    <p type="title">Klimat- och energistrategi</p>
+    <p>Länsstyrelsen har tillsammans med länets kommuner, myndigheter och näringsliv arbetat fram en klimat- och energistrategi som visar hur vi ska kunna bidra till att klara klimatmålen och energiomställningen.</p>
+    <p type="title">Klimatanpassning</p>
+    <p>Länsstyrelsen samordnar det regionala arbetet med att anpassa det svenska samhället till ett förändrat klimat. Tyngdpunkten i arbetet är att öka kunskapen om klimatförändringen och dess konsekvenser, och genom dialog stimulera till åtgärder för att förebygga framtida problem.</p>
+    <p type="title">Kontakta oss</p>
+    <p>Tina Holmlund</p>
+    <p>Samhällsutvecklingsenheten</p>
+    <p>tina punkt holmlund snabela lansstyrelsen punkt se¤tina punkt holmlund snabela lansstyrelsen punkt se</p>
+    <p>010-2254515</p>
+    <p>Gabriel Lundgren</p>
+    <p>Samhällsutvecklingsenheten</p>
+    <p>gabriel punkt lundgren snabela lansstyrelsen punkt se¤gabriel punkt lundgren snabela lansstyrelsen punkt se</p>
+    <p>010-2254531</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

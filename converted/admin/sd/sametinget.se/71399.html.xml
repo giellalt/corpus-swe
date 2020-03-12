@@ -1,0 +1,39 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>404</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/71399</origFileName>
+    <parallel_text xml:lang="sme" location="71455.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Vitbok om romer - Sametinget</p>
+    <p type="title">Vitbok om romer</p>
+    <p>Integrationsminister Erik Ullenhag har idag presenterat <span type="quote">”Den mörka och okända historien”</span> - en vitbok om övergrepp och kränkningar av romer och resande i Sverige under 1900-talet.</p>
+    <p>Syftet med vitboken är att ge ett erkännande åt offren och deras anhöriga och skapa förståelse för den romska minoriteten situation i dag. Erik Ullenhag säger att vitboken är en plågsam läsning som visar en historia som är mörkare än han kunde föreställa sig: - Det är en historia att skämmas över.</p>
+    <p>Vitboken behandlar en rad olika områden där romer utsatts för övergrepp och kränkningar. Några exempel:</p>
+    <list>
+      <p type="listitem"><em type="italic">Rasbiologi </em>. Den parlamentariska fattigvårdslagstiftningskommittén anger 1923 att romers <span type="quote">”inblandning i den svenska folkstammen innebär en försämring av vår folkras”</span>. </p>
+      <p type="listitem"><em type="italic">Sterilisering </em>. Romer drabbades av sterilisering, bland annat villkorades ofta mödravård av krav på sterilisering. Minst var fjärde resandehushåll hade någon som blev tvångssteriliserad. </p>
+      <p type="listitem"><em type="italic">Systematisk kartläggning och registrering. </em>Under första delen av 1900-talet genomfördes kartläggningar baserade på rasbiologi – huvuden mättes, intelligenstester gjordes och negativa egenskaper hos romer söktes. Under andra halva av 1900-talet fokuserade stat och kommun mer på assimilering utifrån tydliga fördomar och stereotyper. Senaste hittade registeranteckning är från Stockholms zigenarsektion så sent som 1997. </p>
+      <p type="listitem"><em type="italic">Inreseförbud 1914-1954 </em>. Romer nekades inresa till Sverige trots vetskapen om Förintelsen. Romer beskrevs i riksdagsmotioner kring inreseförbudet som <span type="quote">”slödder”</span> och ” moraliskt gift i samhället”. </p>
+      <p type="listitem"><em type="italic">Förvägrades bostad. </em>Romerna tvingades till ett kringresande liv och fördrevs från många kommuner. Utan bostad kunde romer och resande inte mantalsskriva sig och utan mantalsskrivning fick de inte tillgång till barnbidrag, pension, socialförsäkringar, rösträtt mm. </p>
+      <p type="listitem"><em type="italic">Diskriminerande skolsystem. </em>Under första hälften av 1900-talet var romer inte välkomna till skolan. I mitten av 1900-talet gjordes försök med ambulerande zigenarskola. Under 1900-talets andra hälft fick människor formellt tillträde till olika skolor, men placerades ofta i särskilda klasser. </p>
+      <p type="listitem"><em type="italic">Stängd arbetsmarknad. </em>Då romer förhindrades från att bosätta försvårades möjligheten för dem att få arbete. Lokala ordningsstadgor förbjöd också romers näringsverksamhet på många ställen. </p>
+    </list>
+    <p>- Det är sorgligt att behöva konstatera att vitbokens omfattande genomgång av 1900-talet visar att romernas berättelser om historien nu bekräftas, säger Erik Ullenhag. Slutsatsen är att romer under hela 1900-talet har behandlats som andra klassens medborgare, konstaterar Ullenhag i ett pressmeddelande från Arbetsmarknadsdepartementet.</p>
+    <p><em type="italic">Vitbok om samer? </em>Från samiskt håll har det ibland efterfrågats en liknande vitbok från statligt håll för att synliggöra och sammanställa övergrepp och diskriminering mot det samiska folket. Det är dock inte aktuellt i nuläget, säger integrationsminister Ullenhag. </p>
+  </body>
+</document>

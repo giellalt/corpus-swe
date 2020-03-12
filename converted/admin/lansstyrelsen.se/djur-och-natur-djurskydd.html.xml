@@ -1,0 +1,28 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>267</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/djur-och-natur/djurskydd/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="djur-och-natur-djurskydd.html"/>
+    <parallel_text xml:lang="sma" location="djur-och-natur-djurskydd.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Djurskydd - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Djurskydd</p>
+    <p type="title">Länsstyrelsen ansvarar för djurskyddskontrollen i länet.Djurskyddet regleras i lagenI djurskyddslagen (SFS 1988:534) finns bestämmelser om hur djur ska hållas och skötas. Dessa bestämmelser kompletteras genom djurskyddsförordningen, olika föreskrifter samt allmänna råd. Djurskyddslagen gäller för djur som hålls i fångenskap, till exempel lantbruksdjur, sällskapsdjur, tävlingsdjur, djurparksdjur och försöksdjur. En grundläggande bestämmelse i lagen är att djur ska behandlas väl och skyddas mot sjukdomar och onödigt lidande. En annan är att de ska ha möjlighet till ett så naturligt liv som möjligt.Jordbruksverket har det övergripande ansvaret för att upprätthålla och utveckla djurskyddet i Sverige. I uppdraget ingår att samordna och vägleda länsstyrelsernas djurskyddsarbete.DjurskyddskontrollerLänsstyrelsen utför djurskyddskontroller runt om i länet. Vi utför både förebyggande kontroller på framförallt lantbrukets djur, men även kontroller när vi får in en anmälan om missförhållanden hos privatpersoner.Det övergripande syftet med Länsstyrelsens djurskyddsarbete är att djurskyddslagen följs och att djuren har det bra. Om ett djur far illa kan vi besluta att det ska omhändertas. Då måste vi också besluta vad som ska hända med djuret, exempelvis om det ska säljas eller avlivas. Det är polisen som ansvarar för den praktiska hanteringen med djuret och som verkställer länsstyrelsens beslut.Länsstyrelsen fattar också beslut om djurförbud, till exempel för den som har dömts för djurplågeri eller visat sig uppenbart olämplig att ha hand om djur.Misstänker du att ett djur inte sköts på rätt sätt?Om du misstänker att djur vansköts eller far illa ska du kontakta länsstyrelsen. Du kan göra en anonym anmälan om du vill. Om situationen är akut och det inte går att nå oss ska du kontakta polisen i stället.</p>
+  </body>
+</document>

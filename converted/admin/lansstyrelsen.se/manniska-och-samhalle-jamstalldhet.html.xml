@@ -1,0 +1,70 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>629</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/jamstalldhet/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="manniska-och-samhalle-jamstalldhet.html"/>
+    <parallel_text xml:lang="sma" location="manniska-och-samhalle-jamstalldhet.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Jämställdhet - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Jämställdhet</p>
+    <p>I Sverige finns inga formella hinder för jämställdhet, så vad ligger egentligen i vägen? Foto: Länsstyrelsen Dalarna</p>
+    <p>
+      <em type="italic">Länsstyrelsen arbetar för jämställdhet i länet utifrån regeringens nationella jämställdhets-politik. </em>
+    </p>
+    <p>Det nationella målet är att kvinnor och män ska ha samma makt att forma samhället och sina egna liv. För att uppnå detta har regeringen fastställt fyra långsiktiga delmål för jämställdhetspolitiken:</p>
+    <list>
+      <p type="listitem">En jämn fördelning av makt och inflytande. Kvinnor och män ska ha samma rätt och möjlighet att vara aktiva medborgare och att forma villkoren för beslutsfattandet.</p>
+      <p type="listitem">Ekonomisk jämställdhet. Kvinnor och män ska ha samma möjligheter och villkor i fråga om utbildning och betalt arbete som ger ekonomisk självständighet livet ut.</p>
+      <p type="listitem">Jämn fördelning av det obetalda hem- och omsorgsarbetet. Kvinnor och män ska ta samma ansvar för hemarbetet och ha möjligheter att ge och få omsorg på lika villkor.</p>
+      <p type="listitem">Mäns våld mot kvinnor ska upphöra. Kvinnor och män, flickor och pojkar, ska ha samma rätt och möjlighet till kroppslig integritet.</p>
+    </list>
+    <p>Jämställdhet mellan kvinnor och män skapas där besluten fattas, resurserna fördelas och normerna skapas, och därför måste jämställdhetsperspektivet finnas med i det dagliga arbetet. Det innebär att alla politiska beslut som berör individer ska belysa, analysera och beakta villkoren för kvinnor och män samt för flickor och pojkar.</p>
+    <p>Länsstyrelsen har till uppgift att stödja kommuner, statliga verksamheter och andra regionala aktörer i arbetet med att göra sina verksamheter jämställda. Jämställdhetsintegrering är den huvudsakliga strategi som används för att uppnå målen. Strategin har vuxit fram för att motverka tendensen till att jämställdhetsfrågorna hamnar i skymundan eller hamnar vid sidan om andra politiskJämställ.nu är en nationell resurs för jämställdhet. Här hittar du bland annat aktuell information om vad som är på gång inom området, forskning, praktiska exempel och verktyg som förenklar och kvalitetssäkrar arbetet med jämställda frågor och verksamheter.</p>
+    <p>
+      <em type="italic">Jämställdhetsintegrering som verktyg i förebyggande arbete vid HVB-hem </em>
+    </p>
+    <p>Länsstyrelsens har under 2013 initierat ett utvecklingsarbete riktat till tre av länets HVB-hem. Det handlar om en kompetenssatsning inom jämställdhet och jämställdhetsintegrering som kopplats till våld och maskulinitet.</p>
+    <p>Hedemora kommun har tidigare, inom ramen för HÅJ, Hållbar jämställdhet, tagit del av pengar från regeringen genom SKL för att jämställdhetsintegrera kommunens medborgarservice. I det arbetet har socialtjänstens verksamheter för HVB hem och ensamkommande barn stått i fokus för jämställdhetsanalyser. Kartläggningar i Hedemora visade då att det finns kunskapsluckor vad det gäller hur delmål 4, som omfattar våld i nära relationer ska integreras i den praktiska verksamheten. Med bakgrund av det resultatet finns en hypotes, att även andra HVB hem i Dalarna kan sakna den kunskapen.</p>
+    <p>Ett antal medarbetare vid tre HVB-hem i länet utbildas just nu till att bli förändringsledare på sina arbetsplatser. I utbildningen ingår Ungdomsstyrelsens rapport Unga, maskulinitet och våld. Även chefer vid dessa HVB-hem får handledning. Bakgrunden är att vi anser det vara angeläget att öka kunskapen i samhället kring hur stereotypa maskulinitets- och femininitetsnormer utgör riskfaktorer för kränkningar och våldsamt beteende.</p>
+    <p>Att främja jämställdhet bland unga kan på sikt bidra till att förebygga våldsutövande bland unga, inklusive ungas våld i nära relationer. Förhoppningsvis kan detta arbete fortsätta att utvecklas och spridas vidare till fler HVB-hem i länet under år 2014.</p>
+    <p>
+      <em type="italic">Länsstyrelsernas gemensamma hemsida Jämställda län </em>
+    </p>
+    <p>En sida med information om länsstyrelsernas gemensamma arbete med jämställdhet och jämställdhetsintegrering, om vårt uppdrag och om hur vi arbetar med jämställdhet. www.jamstalldalan.se</p>
+    <p>
+      <em type="italic">Webbportalen Jamstall.nu </em>
+    </p>
+    <p>Här hittar du bland annat aktuell information om vad som är på gång inom området, forskning, praktiska exempel och verktyg som förenklar och kvalitetssäkrar arbetet med jämställdhet.</p>
+    <p>www.jamstall.nu</p>
+    <p type="title">Kontakta oss</p>
+    <p>Kerstin Bergman</p>
+    <p>Särskilt sakkunnig jämställdhetsfrågor</p>
+    <p>Beredskapsfunktionen, mänskliga rättigheter</p>
+    <p>Kerstin punkt Bergman snabela lansstyrelsen punkt se¤Kerstin punkt Bergman snabela lansstyrelsen punkt se</p>
+    <p>010-2250425</p>
+    <p>076-1481566</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

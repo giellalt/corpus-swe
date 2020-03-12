@@ -1,0 +1,56 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>631</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Teckensprak/djur-och-natur/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="fin" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="fit" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="sma" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="sme" location="djur-och-natur.html"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmu"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rka"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmf"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmn"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Djur och natur - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Djur och natur</p>
+    </list>
+    <p type="title">Djur och natur</p>
+    <p>Länsstyrelsen arbetar för att länets värdefulla växter, djur och naturmiljöer ska bevaras. Det innebär bland annat att inventera arter och naturmiljöer, att pröva tillstånd för verksamheter som kan påverka naturmiljön samt att bilda och sköta naturreservat. Naturreservaten och nationalparkerna är tillgängliga för friluftsliv och naturupplevelser.</p>
+    <p>Länsstyrelsen har ansvar för djurskyddet i länet. Vi arbetar förebyggande för att djuren ska ha det bra. Vi kan besluta att omhänderta djur om de far illa eller förbjuda en person att ha djur eller ett visst djurslag.</p>
+    <p type="title">Djurskydd</p>
+    <p>I djurskyddslagen finns grundläggande bestämmelser om att djur ska behandlas väl och skyddas mot sjukdomar och onödigt lidande. Länsstyrelsen utför djurskyddskontroller runt om i länet. Om ett djur far illa kan vi besluta att det ska omhändertas. Om du misstänker att djur vansköts ska du kontakta Länsstyrelsen.</p>
+    <p type="title">Fiske</p>
+    <p>Länsstyrelsen ansvarar för att fiskerinäringen och fritidsfisket utvecklas i regionen. För att återskapa eller bevara livskraftiga fiskbestånd stödjer Länsstyrelsen olika fiskevårdsprojekt. Vi arbetar också för goda fiskemöjligheter genom att bilda fiskevårdsområden. Länsstyrelsen ska se till att regleringar av fisket tar hänsyn till regionala intressen.</p>
+    <p type="title">Skyddad natur</p>
+    <p>Länsstyrelsen ansvarar för att skapa, vårda och förvalta natur- och kulturreservat, nationalparker och vandringsleder i fjällen. Det finns flera sätt att skydda naturen. Nationalparken är den starkaste skyddsformen. Det är ett större sammanhängande område av en viss landskapstyp som skyddas i sitt naturliga tillstånd. Naturreservat är den vanligaste skyddsformen. De kan bildas för att bevara biologisk mångfald, värdefulla naturmiljöer eller för att tillgodose behovet av områden för friluftslivet. Kulturreservat är en liknande skyddsform för värdefulla kulturlandskap.</p>
+    <p type="title">Friluftsliv</p>
+    <p>Länsstyrelsen arbetar för att länet ska ha ett rikt friluftsliv och att naturen ska vara tillgänglig för alla. En del av de naturområden vi sköter är anpassade så att det är lätt att ta sig fram med rullstol eller barnvagn. I Sverige har alla en unik möjlighet att röra sig i naturen genom den så kallade allemansrätten där huvudregeln är <span type="quote">”inte störa – inte förstöra”</span>. Allemansrätten gäller även i naturreservaten, men kan i vissa fall vara begränsad.</p>
+    <p type="title">Hotade växter och djur</p>
+    <p>Länsstyrelsen arbetar för att länets värdefulla växter och djur ska bevaras. Vi tar fram åtgärdsprogram för att skydda hotade djur- och växtarter. Om en art är fridlyst får du inte plocka, samla in eller skada växten eller djuret. För många arter är det även förbjudet att skada deras livsmiljöer.</p>
+    <p type="title">Jakt och vilt</p>
+    <p>I jaktlagen anges att allt vilt, inklusive deras ägg och bon, är fredat. Det innebär att vilt endast får jagas om det tillåts enligt jaktlagstiftningen. I Sverige har fastighetsägare normalt rätt att jaga på den mark som hör till fastigheten. Vissa utrotningshotade eller sällsynta djurarter är dock undantagna från den principen. Länsstyrelsen informerar jägare och markägare, registrerar jaktområden, tilldelar licenser samt samlar in och sammanställer avskjutningsstatistik. Vi har också hand om ärenden som handlar om skyddsjakt för att motverka viltskador.</p>
+    <p type="title">Rovdjur</p>
+    <p>Länsstyrelsen ansvarar för förvaltningen av de stora rovdjuren i länet. Målet är att djuren ska finnas i livskraftiga stammar, samtidigt som vi vill minimera de problem som de kan orsaka. Till de stora rovdjuren hör björn, varg, lodjur, järv och kungsörn. Länsstyrelsen genomför årliga inventeringar och beslutar till exempel om förebyggande åtgärder, skyddsjakt och licensjakt och bevakar eventuell olaga jakt. Dessutom handlägger vi viltskadeärenden som orsakas av rovdjuren.</p>
+    <p type="title">Motortrafik i naturen</p>
+    <p>Länsstyrelsen reglerar och följer upp barmarkskörning i terräng samt trafik med snöskoter eller vattenskoter. Avsikten är att motortrafiken inte ska störa eller skada marken, växtligheten, friluftslivet, djurlivet, renskötseln, jordbruket eller skogsbruket. Terrängkörning på barmark är förbjuden i hela Sverige. Snöskoter får bara köras på väl snötäckt mark. Inom vissa områden, framför allt i fjällen, är skotertrafiken reglerad genom skoterförbud vid sidan av skoterlederna. Vattenskoter får bara köras i allmänna farleder och i områden som har godkänts av Länsstyrelsen.</p>
+  </body>
+</document>

@@ -1,0 +1,54 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>772</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Regler-och-rattigheter/Remiss</origFileName>
+    <parallel_text xml:lang="eng" location="remiss.html"/>
+    <parallel_text xml:lang="fin" location="remiss.html"/>
+    <parallel_text xml:lang="sme" location="remiss.html"/>
+    <parallel_text location="remiss.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="remiss.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Remiss - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Remiss</p>
+    <p>Ibland kan du behöva få vård på en annan mottagning än den du har gått till. Då kan du behöva en remiss för att få komma dit.</p>
+    <p>För att komma till en vårdcentral eller en akutmottagning behövs ingen remiss. Där görs en första bedömning av de besvär du har. Om det behövs får du en remiss för att komma vidare till en annan specialist, till exempel en hudläkare eller en fysioterapeut, sjukgymnast.</p>
+    <p>Remissen innehåller information om vad du behöver få för vård, det kan vara en bedömning, undersökning eller behandling. Remissen innehåller dessutom till exempel information om hur du mår, vad du har för symtom samt tidigare sjukdomar och besvär.</p>
+    <p>Oftast är det en läkare som skriver en remiss, men det finns också annan vårdpersonal som har möjlighet att göra det, till exempel en sjuksköterska på en barnavårdscentral.</p>
+    <p>I regel ser du inte remissen själv, men du ska alltid få veta varför remissen skickas och vad du ska få för vård när du blir kallad till mottagningen som tar emot remissen. Du ska också få veta hur lång tid du kan behöva vänta på att få komma till mottagningen, som kan finnas på ett regionsjukhus till exempel.</p>
+    <p>På en del mottagningar krävs alltid en remiss från en läkare för att få en tid. Vilka mottagningar som kräver remiss varierar och därför bör du ta reda på hur det fungerar på den mottagning du vill komma till. Vilka regler som gäller för remiss bestämmer varje landsting och region själv.</p>
+    <p type="title">Remiss i ett annat landsting eller region</p>
+    <p>Ibland kan man få en remiss till specialiserad vård i ett annat landsting eller region, exempelvis om den vård du behöver inte finns där du bor. Då betalar ditt landsting eller region sjukresorna och dina boendekostnader.</p>
+    <p>Om du får en remiss till öppen specialiserad vård , det vill säga vård som inte kräver att du blir inlagd, kan du själv välja var i landet du vill få den. En gråstarrsoperation är en sådan typ av vård. Då får du själv betala dina rese- och boendekostnader.</p>
+    <p>Om du själv väljer att söka öppen specialiserad vård i ett annat landsting eller region är det viktigt att ta reda på vilka remissregler som gäller på den mottagning dit du vill komma.</p>
+    <p>Om du måste ha en remiss i ditt eget landsting eller region när du söker vård måste du även ha det där du väljer att söka vård. Du behöver remiss även om vården i det andra landstinget eller regionen inte kräver det.</p>
+    <p type="title">Egenanmälan</p>
+    <p>I många landsting går det att beställa tid direkt hos en specialiserad läkare, utan att ha en remiss. En del mottagningar vill då att du skriver en så kallad egenanmälan, som ibland också kallas egenremiss eller egen vårdbegäran.</p>
+    <p>En sådan innebär att du skriver till mottagningen och berättar om hur du mår och varför du söker vård. Ibland finns det blanketter för att göra en egenanmälan. Om den som tittar på din egenanmälan tycker att du behöver en undersökning får du en kallelse till mottagningen.</p>
+    <p>En egenanmälan för att få vård i ett annat landsting eller region kan du bara skriva om det inte finns krav på remiss där du vill få vård, eller i ditt eget landsting eller region.</p>
+    <p type="title">Hur länge behöver du vänta?</p>
+    <p>Du har rätt att samråda med din läkare om vart du ska bli remitterad. Till vissa mottagningar kan det vara lång väntetid. Då kan du be om att få bli remitterad till en mottagning med kortare väntetid och behöver du få vård snabbt kan det skrivas in i remissen. Men det är alltid den mottagning som tar emot remissen som avgör hur snabbt man kan få en tid.</p>
+    <p type="title">Vårdgarantin varierar</p>
+    <p>När du får en remiss till en mottagning inom ditt eget landsting eller region gäller den nationella vårdgarantin , som innebär att du har rätt att få vård inom en viss tid. För specialistmottagningar gäller att du inte ska behöva vänta mer än nittio dagar för att få en tid.</p>
+    <p>Får du en remiss och väljer att söka vård i ett annat landsting eller region gäller inte vårdgarantin längre. Då är det ditt medicinska behov av vård som avgör hur lång väntetiden blir.</p>
+    <p>Patientavgiften för ett vårdbesök kostar olika mycket, beroende på vad det är för vård och vart den skickas. Avgiften ingår i högkostnadsskyddet.</p>
+    <p>Under tiden du väntar på att få komma till den mottagning du har fått remiss är det den som skrev remissen som har ansvar för att du får den vård du behöver. Blir besvären värre medan du väntar ska du kontakta den som skrev remissen.</p>
+  </body>
+</document>

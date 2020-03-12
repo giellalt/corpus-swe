@@ -1,0 +1,321 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>3187</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual>
+      <language xml:lang="sms"/>
+      <language xml:lang="sme"/>
+      <language xml:lang="swe"/>
+      <language xml:lang="smn"/>
+    </multilingual>
+    <origFileName>samisk_språklag.pdf</origFileName>
+    <parallel_text xml:lang="sme" location="samisk_spraaklag.pdf"/>
+    <parallel_text xml:lang="sms" location="samisk_spraaklag_utf8.txt"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate  1.9 ; file-specific xsl  $Revision: 1.7 $; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="smn"><em type="bold">FINLANDS FÖRFATTNINGSSAMLING</em> </p>
+    <p>Utgiven i Helsingfors den 19 december 2003<em type="bold">Nr 1086</em> </p>
+    <p xml:lang="smn"><em type="bold">I N N E H Å L L</em> </p>
+    <p>NrSidan<em type="bold">1086 </em>Samisk språklag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3735<em type="bold">1086 </em>Samisk språklag (Översättning till enaresamiska). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3743<em type="bold">1086 </em>Samisk språklag (Översättning till nordsamiska) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3750<em type="bold">1086 </em>Samisk språklag (Översättning till skoltsamiska) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3758 </p>
+    <p><em type="bold">Nr 1086</em> </p>
+    <p xml:lang="sme"><em type="bold">Samisk språklag</em> </p>
+    <p>Given i Helsingfors den 15 december 2003</p>
+    <p>I enlighet med riksdagens beslut föreskrivs:</p>
+    <p xml:lang="smn">1 kap.</p>
+    <p><em type="bold">Allmänna bestämmelser</em> </p>
+    <p xml:lang="sms">1 §</p>
+    <p><em type="italic">Syftet med lagen</em> </p>
+    <p>Syftet med denna lag är att trygga den igrundlagen tillförsäkrade rätten för samernaatt bevara och utveckla sitt språk och sin</p>
+    <p>kultur.I lagen föreskrivs om samernas rätt att</p>
+    <p>1) de kommunala organen i Enare, Enontekis, Sodankylä och Utsjoki kommuner samt organen i sådana samkommuner till vilka någon av dessa kommuner hör, 2) de domstolar och myndigheter inom den statliga distrikts- och lokalförvaltningen vilkas ämbetsdistrikt helt eller delvis omfattar de ovan nämnda kommunerna, 3) länsstyrelsen i Lapplands län och organ som är verksamma vid den,4) sametinget, samedelegationen samt</p>
+    <p>byastämmor som avses i 42 § skoltlagen(253/1995),</p>
+    <p>använda sitt eget språk hos domstolar ochandra myndigheter samt om det allmännas</p>
+    <p>skyldighet att tillgodose och främja samernasspråkliga rättigheter.</p>
+    <p>5) justitiekanslern i statsrådet och riksda-gens justitieombudsman,</p>
+    <p>6) konsumentombudsmannen och konsu-mentklagonämnden,jämställdhetsombuds</p>
+    <p>Målet är att samernas rätt till rättvisrättegång och god förvaltning garanteras</p>
+    <p>mannen och jämställdhetsnämnden, dataom-budsmannen och datasekretessnämnden samt</p>
+    <p>oberoende av språket samt att samernasspråkliga rättigheter förverkligas utan att de</p>
+    <p>särskilt behöver begära det.</p>
+    <p>minoritetsombudsmannen,7) Folkpensionsanstalten och lantbruksfö-retagarnas pensionsanstalt, samt</p>
+    <p xml:lang="sms">2 §</p>
+    <p>8) statliga förvaltningsmyndigheter, när desom besvärsmyndigheter behandlar ärenden</p>
+    <p><em type="italic">Lagens tillämpningsområde</em> </p>
+    <p>som har inletts hos ovan nämnda förvalt-ningsmyndigheter.</p>
+    <p>De myndigheter som denna lag tillämpaspå är</p>
+    <p>Denna lag skall iakttas också vid behand-lingen av förvaltningsärenden enligt rensköt</p>
+    <p xml:lang="smn">RP 46/2003 GrUB 4/2003 RSv 70/2003</p>
+    <p xml:lang="smn">171—2003</p>
+    <p>Nr 1086</p>
+    <p>sellagen (848/1990) och renskötselförordningen (883/1990) hos sådana statliga myndigheter och i de renbeteslag vilkas ämbetsdistrikt eller verksamhetsområde helt eller delvis omfattar samernas hembygdsområde, samt i Renbeteslagsföreningen. I 17 och 18 § föreskrivs om lagens tillämpning på affärsverk och bolag samt på enskilda och i 30 § om lagens tillämpning på kyrkliga myndigheter. De specialbestämmelser som skall tillämpas inom samernas hembygdsområde finns i 3 kap.</p>
+    <p><em type="italic">Juridiska personers språkliga rättigheter hosmyndigheterna</em> </p>
+    <p>Sammanslutningar och stiftelser vilkas pro-tokollsspråk är samiska har rätt att använda</p>
+    <p>sitt protokollsspråk hos myndigheterna, mediakttagande i tillämpliga delar av det som i 4 §</p>
+    <p>bestäms om samers rätt att använda samiska.En läroinrättning vars undervisningsspråk</p>
+    <p>är samiska har rätt att använda samiska ienlighet med 1 mom.</p>
+    <p xml:lang="sms">6 §</p>
+    <p xml:lang="sms">3 §</p>
+    <p><em type="italic">Samiskan i representativa organ</em> </p>
+    <p><em type="italic">Definitioner</em> </p>
+    <p>I denna lag avses med 1) <em type="italic">samiska </em>enaresamiska, nordsamiska eller skoltsamiska beroende på vilken språkvarietet som används eller den huvud<em type="italic">same </em>en same enligt 3 § sametingslagen (974/1995), 3) <em type="italic">samernas hembygdsområde </em>samernas hembygdsområde enligt 4 § sametingslagen, samt 4) <em type="italic">myndigheter </em>de domstolar och andra myndigheter som avses i 2 § 1 och 2 mom. samt renbeteslag och Renbeteslagsförening-en. sakliga målgruppen i fråga, 2) </p>
+    <p>De samiska medlemmarna i Enare, Enontekis, Sodankylä och Utsjoki kommunersorgan har rätt att använda samiska vid</p>
+    <p>sammanträden och i skriftliga yttranden tillprotokollet. Detsamma gäller de samiska</p>
+    <p>medlemmarna i statliga nämnder, kommitte´er,arbetsgrupper och andra liknande kollegiala</p>
+    <p>organ inom samernas hembygdsområde, ochäven utanför hembygdsområdet när organetbehandlarärendensomsärskiltgäller</p>
+    <p>samerna. De samer som deltar i Renbetes-lagsföreningens eller dess styrelses samman</p>
+    <p>träden har på motsvarande sätt rätt attanvända samiska vid sammanträdena.</p>
+    <p>Vid behov skall tolkning ordnas vid desammanträden som avses i denna paragraf.</p>
+    <p xml:lang="smn">2 kap.</p>
+    <p xml:lang="sms">7 §</p>
+    <p><em type="bold">Språkliga rättigheter</em> </p>
+    <p><em type="italic">Rätten att anmäla samiska som modersmål ibefolkningsdatasystemet</em> </p>
+    <p xml:lang="sms">4 §</p>
+    <p><em type="italic">Samernas rätt att använda samiska hos</em> <em type="italic">myndigheterna</em> </p>
+    <p>En same har rätt att i egen sak eller i ettärende där han eller hon hörs använda</p>
+    <p>En same som enligt lagen om hemkommun (201/1994) har hemkommun i Finland har rättatt anmäla samiska som sitt modersmål för</p>
+    <p>registrering i befolkningsdatasystemet.</p>
+    <p>samiska hos de myndigheter som avses idenna lag.</p>
+    <p xml:lang="sms">8 §</p>
+    <p>En myndighet får inte begränsa eller vägrabeakta de språkliga rättigheter som följer avdenna lag på den grund att en same även kan</p>
+    <p>något annat språk, såsom finska eller svenska. 5 §</p>
+    <p><em type="italic">Myndigheternas information</em> </p>
+    <p>Information som myndigheter riktar till allmänheten skall också ges på samiska.</p>
+    <p>Nr 1086</p>
+    <p>Myndigheternas meddelanden, kungörelser, anslag och annan information till allmänheten samt skyltar och för allmänheten avsedda blanketter med ifyllnadsanvisningar skall inom samernas hembygdsområde avfattas och ges också på samiska. Kungörelser och tillkännagivanden i ärenden som gäller enskildas rättigheter och som utfärdas av en tingsrätt, en domare, ett häradsämbete eller dess avdelning eller ett härads fristående ämbetsverk eller på tjänstens vägnar av en tjänsteman vid dessa myndigheter kan dock enligt prövning ges enbart på finska, om användningen av samiska är uppenbart onödig. Andra statliga myndigheter än de som avses i 2 § 1 och 2 mom. skall avfatta och ge ovan i 1 mom. avsedda meddelanden, kungörelser, anslag och information samt blanketter med ifyllnadsanvisningar också påsamiska, när saken huvudsakligen gäller</p>
+    <p>samerna eller det annars finns särskilda skältill det.</p>
+    <p><em type="italic">Samiska som arbetsspråk hos myndigheter</em> </p>
+    <p>En myndighet vars verksamhet enbart hänför sig till samerna kan vid sidan av finskaanvända samiska som arbetsspråk.</p>
+    <p xml:lang="smn">3 kap.</p>
+    <p><em type="bold">Bestämmelser som tillämpas inom samernashembygdsområde</em> </p>
+    <p xml:lang="sms">11 §</p>
+    <p><em type="italic">Särskilda skyldigheter</em> </p>
+    <p>De myndigheter som avses i 2 § 1 mom.skall i de ämbetsverk och andra enheter som</p>
+    <p>är belägna inom samernas hembygdsområdedessutom iaktta vad som bestäms i 12—16 §.</p>
+    <p xml:lang="sms">12 §</p>
+    <p>Meddelandekort för val och folkomröst-ningar upprättas inte på samiska, med un</p>
+    <p><em type="italic">Rätten att använda samiska hos myndigheter</em> </p>
+    <p>dantag för sådana meddelanden på kort somavses i 24 § sametingslagen.</p>
+    <p xml:lang="sms">9 §</p>
+    <p>Samer har rätt att i kontakt med myndigheterna efter eget val använda finska ellersamiska. Bestämmelser om rätten att använda</p>
+    <p>svenska finns i språklagen (423/2003).Denna rättighet har samer också utanför</p>
+    <p><em type="italic">Lagar och andra författningar samt lagför-slag och betänkanden</em> </p>
+    <p>Lagar och andra författningar, fördrag samtandra liknande handlingar och tillkännagi</p>
+    <p>samernas hembygdsområde hos statliga myn-digheter när dessa i egenskap av besvärs-myndigheter behandlar ärenden som har</p>
+    <p>inletts hos myndigheterna inom hembygds-området.</p>
+    <p>vanden som skall publiceras i Finlandsförfattningssamling och som särskilt gäller</p>
+    <p>samerna, publiceras även i översättning tillsamiska när statsrådet eller ministeriet i fråga</p>
+    <p>så beslutar. Detsamma gäller föreskrifter,anvisningar, beslut och tillkännagivanden</p>
+    <p>som publiceras i ministeriernas och andrastatliga myndigheters föreskriftssamlingar.</p>
+    <p xml:lang="sms">13 §</p>
+    <p><em type="italic">Rätten att få expeditioner och andra handlingar på samiska</em> </p>
+    <p>En stämningsansökan, en dom, ett beslut,ett protokoll eller någon annan handling skall</p>
+    <p>Lagförslag och betänkanden eller samman-drag av dem som utarbetats vid ministerier</p>
+    <p>eller av statliga kommitte´er, arbetsgruppereller liknande organ, och som skall offent-liggöras, publiceras även på samiska när</p>
+    <p>ministeriet så beslutar, om de särskilt gällersamerna eller det annars finns särskilda skäl</p>
+    <p>till det. 10 §</p>
+    <p>på begäran ges en samisk part på samiska tillden del saken gäller partens rätt, fördel eller</p>
+    <p>skyldighet, utom då det är fråga om enhandling som uppenbart inte påverkar avgö</p>
+    <p>randet i saken. Om en samisk part har använtsamiska vid sina muntliga eller skriftligakontakter med den myndighet som behandlar</p>
+    <p>ett ärende, skall expeditionen i motsvarande</p>
+    <p>Nr 1086</p>
+    <p>omfattning och under motsvarande förutsätt-ningar ges på samiska utan särskild begäran.</p>
+    <p>När det finns flera parter och de inte äreniga om att använda samiska skall dock</p>
+    <p>Myndigheten skall utan särskild begärananvända samiska när den svarar någon som</p>
+    <p>endast en officiell samiskspråkig översättningav expeditionen ges.</p>
+    <p>skriftligen kontaktat myndigheten på samiska.Myndigheterna skall också i övrigt i sinverksamhet främja användningen av samiska.</p>
+    <p xml:lang="sms">14 §</p>
+    <p><em type="italic">Kunskaper i samiska och behörighetsvillkor</em> </p>
+    <p xml:lang="sms">16 §</p>
+    <p>När en myndighet anställer personal skall den förvissa sig om att personalen vid varjeämbetsverk och annan enhet kan betjänakunderna också på samiska. Myndigheten</p>
+    <p>skall vidare genom att ordna utbildning ellergenom andra åtgärder se till att personalen har</p>
+    <p>sådana kunskaper i samiska som skötseln avmyndighetens uppgifter kräver.</p>
+    <p><em type="italic">Användning av samiska i kommunala handlingar</em> </p>
+    <p>I en kommun där de samiskspråkigas andelav kommunens befolkning den första dagen</p>
+    <p>föregående år har varit större än en tredjedelskall de kommunala organen använda också</p>
+    <p>samiska i protokoll och andra handlingar sominte skall ges till enskilda parter och som är</p>
+    <p>Kunskaper i samiska kan fastställas sombehörighetsvillkor som gäller språkkunskaper</p>
+    <p>för statsanställda genom lag eller med stöd avlag genom förordning av statsrådet eller det</p>
+    <p>behöriga ministeriet, samt för kommunaltanställda i den ordning som anges i kommu</p>
+    <p>nallagen (365/1995), om det inte genom lageller med stöd av lag föreskrivs om sådant</p>
+    <p>av allmän betydelse. Också i andra kommunerskall de kommunala organen i den omfattningde prövar lämpligt använda samiska i sådana</p>
+    <p>handlingar.</p>
+    <p xml:lang="sms">17 §</p>
+    <p>behörighetsvillkor. Kunskaper i samiska ärsärskilt meriterande även om sådana kunska-per inte nämns i behörighetsvillkoren för en</p>
+    <p>tjänst eller befattning eller för ett uppdrag.Angående behörighetsvillkor som gäller</p>
+    <p>kunskaper i samiska gäller lagen om despråkkunskaper som krävs av offentligt an</p>
+    <p>ställda (424/2003). Kunskaper i samiska skallvisas genom sådan språkexamen som avses i</p>
+    <p>lagen om allmänna språkexamina (668/1994),genom språkprov i samband med studier eller</p>
+    <p>genom högskolestudier.</p>
+    <p><em type="italic">Affärsverk och statligt eller kommunalt ägdabolag</em> </p>
+    <p>Statliga affärsverk samt sådana tjänsteproducerande bolag där staten eller en eller flerai 2 § 1 mom. 1 punkten nämnda kommuner</p>
+    <p>har bestämmanderätt skall inom samernashembygdsområde ge sådan språklig service</p>
+    <p>som förutsätts i denna lag och informeraallmänheten också på samiska i den omfatt</p>
+    <p xml:lang="sms">15 §</p>
+    <p><em type="italic">Myndigheternas skyldighet att användasamiska</em> </p>
+    <p>ning det behövs med tanke på verksamhetensart och saksammanhanget och på ett sätt somenligt en helhetsbedömning inte kan anses</p>
+    <p>oskäligt för affärsverket eller bolaget. Närstatliga affärsverk sköter myndighetsuppgif</p>
+    <p>ter skall på dem tillämpas det som i denna lagsägs om myndigheter.</p>
+    <p>I meddelanden, kallelser och brev tillparter, eller till den som enligt lag skall</p>
+    <p>underrättas om ett ärende som har inletts ellerskall inledas, skall en myndighet, oberoende</p>
+    <p>av det språk som ärendet behandlas på,använda mottagarens eget språk, om myn</p>
+    <p>digheten vet vilket det är eller utan oskäligt besvär kan ta reda på det, eller använda bådefinska och samiska.</p>
+    <p xml:lang="sms">18 §</p>
+    <p><em type="italic">Enskildas skyldighet att ge språklig service</em> </p>
+    <p>När en offentlig förvaltningsuppgift genom lag eller med stöd av lag hör till en enskild, gäller för denne i uppdraget inom samernashembygdsområde det som i denna lag sägs</p>
+    <p>om myndigheter. Om en sådan uppgift påsamernas hembygdsområde uppdras åt en</p>
+    <p>enskild med stöd av ett beslut eller någonannan åtgärd av en myndighet eller ett avtalmellan myndigheten och den enskilde, skall</p>
+    <p>myndigheten försäkra sig om att den enskildei uppdraget ger sådan språklig service som</p>
+    <p>förutsätts i denna lag. Myndigheten skallförsäkra sig om detta också när den anförtror</p>
+    <p>en enskild någon annan uppgift på samernashembygdsområde än en offentlig förvalt</p>
+    <p>ningsuppgift, om detta är nödvändigt för attupprätthålla den servicenivå som lagen för</p>
+    <p>utsätter.</p>
+    <p xml:lang="sms">21 §</p>
+    <p><em type="italic">Rätt att få en översättning från byrån för</em> <em type="italic">samiska språket</em> </p>
+    <p>En myndighet som enligt denna lag skall geen översättning till samiska av en expedition</p>
+    <p xml:lang="smn">4 kap.</p>
+    <p><em type="bold">Rätt till tolkning och översättning</em> </p>
+    <p>eller utfärda en expedition på samiska, har rättatt få en översättning från byrån för samiska</p>
+    <p>språket, om översättningen inte kan skaffas pånågot annat lämpligt sätt. På motsvarande sätt</p>
+    <p>har myndigheten rätt att från byrån få enöversättning till finska av en handling som</p>
+    <p>lämnats in till myndigheten på samiska.</p>
+    <p xml:lang="sms">19 §</p>
+    <p xml:lang="sms">22 §</p>
+    <p><em type="italic">Rätt till tolkning</em> </p>
+    <p>När samiska med stöd av denna laganvänds vid muntlig behandling av ett ärende</p>
+    <p><em type="italic">Ansvaret för kostnaderna för översättning</em> <em type="italic">och tolkning</em> </p>
+    <p>skall myndigheten försöka se till att ärendethandläggs av en anställd som kan samiska.</p>
+    <p>Finns det inte hos myndigheten någon sådansamisktalande anställd som kan handlägga</p>
+    <p>ärendet, skall myndigheten ordna avgiftsfritolkning, om den inte själv sköter tolkningen.</p>
+    <p>Om en statlig myndighet skall utfärda eller lämna en part en expedition eller handling påsamiska eller i översättning till samiska eller</p>
+    <p>ordna tolkning, skall staten svara för dekostnader som upprättandet av expeditionen</p>
+    <p>på samiska eller översättningen eller tolk-ningen medför.</p>
+    <p xml:lang="sms">20 §</p>
+    <p>Kommunen, samkommunen eller stifteteller församlingen skall svara för kostnaderna</p>
+    <p><em type="italic">Rätt att få översättningar av expeditioner och</em> <em type="italic">andra handlingar</em> </p>
+    <p>för tolkning samt för upprättande eller över-sättning av expeditioner och handlingar enligt</p>
+    <p>4—6, 12, 13, 15, 16 och 30 §.</p>
+    <p>Har i ett förvaltningsärende, en förvalt-ningsprocess eller ett brottmål en stämnings</p>
+    <p>ansökan, en dom, ett beslut, ett protokoll ellernågon annan handling skrivits på finska eller</p>
+    <p>svenska, skall myndigheten på begäran ge ensamisk part en avgiftsfri officiell översättning</p>
+    <p>till samiska av denna handling till den del dengäller partens rätt, fördel eller skyldighet,</p>
+    <p>utom i det fall att det är fråga om en handlingsom uppenbart inte har någon betydelse för</p>
+    <p>ärendets avgörande. Översättningen skall fo-gas till expeditionen eller handlingen i fråga.Om det framgår att det finns ett översätt</p>
+    <p>ningsfel i en officiell översättning skall myndigheten rätta det, om detta inte är uppenbart onödigt. Den samiska parten skall då utan avgift ges en rättad expedition.</p>
+    <p xml:lang="sms">23 §</p>
+    <p><em type="italic">Översättningar som kunden bekostar</em> </p>
+    <p>Är en handling som har lämnats in till enstatlig eller kommunal myndighet eller till en</p>
+    <p>myndighet i en samkommun eller till enkyrklig myndighet skriven på samiska trots att</p>
+    <p>kunden inte har rätt att använda samiska hosmyndigheten, skall myndigheten, efter att ha</p>
+    <p>hört kunden, på dennes bekostnad skaffa enöversättning av handlingen till det språk som</p>
+    <p>myndigheten använder. Nr 1086</p>
+    <p>Nr 1086</p>
+    <p xml:lang="smn">5 kap.</p>
+    <p><em type="bold">Åtgärder som främjar språkliga rättigheter</em> </p>
+    <p>myndighetens tjänst inom samernas hem-bygdsområde under en viss tid som inte får</p>
+    <p>vara längre än ett år. Avtalet kan innehålla ettvillkor om avtalsvite, som får vara högst</p>
+    <p xml:lang="sms">24 §</p>
+    <p><em type="italic">Myndigheternas skyldighet att förverkliga</em> <em type="italic">språkliga rättigheter</em> </p>
+    <p>Myndigheterna skall i sin verksamhetsjälvmant se till att de språkliga rättigheter</p>
+    <p>beloppet av de direkta kostnaderna för språk-utbildningen, och som den anställda skallbetala till myndigheten om han eller hon</p>
+    <p>under den avtalade tiden säger upp sig ellersägs upp av orsaker som beror på den</p>
+    <p>anställda, med undantag av sjukdom.</p>
+    <p>som säkerställs i denna lag förverkligas ipraktiken. De skall utåt visa att de betjänar</p>
+    <p xml:lang="sms">26 §</p>
+    <p>allmänheten även på samiska.Myndigheterna har rätt att ge bättrespråklig service än vad denna lag förutsätter.</p>
+    <p><em type="italic">Byrån för samiska språket</em> </p>
+    <p>För översättning till och från samiska ochandra uppgifter enligt denna lag finns vid</p>
+    <p xml:lang="sms">25 §</p>
+    <p><em type="italic">Tjänstledighet med lön och befrielse frånarbetet för studier i samiska</em> </p>
+    <p>En tjänsteman hos en sådan i 2 § 1 mom. avsedd statlig myndighet vars ämbetsdistrikti sin helhet ligger inom samernas hembygds</p>
+    <p>område har, om tjänsteförhållandet till myn-digheten har varat i minst ett år, rätt att få</p>
+    <p>tjänstledighet med lön för att skaffa sådanakunskaper i samiska som han eller hon</p>
+    <p>sametinget en byrå för samiska språket, somskall vara belägen inom samernas hembygds</p>
+    <p>område.Närmare bestämmelser om byrån för sa</p>
+    <p>miska språket utfärdas genom förordning avstatsrådet.</p>
+    <p xml:lang="sms">27 §</p>
+    <p><em type="italic">Biträden för samiskspråkiga</em> </p>
+    <p>behöver för skötseln av sina tjänsteuppgifter.En arbetstagare hos en sådan myndighet hari samma syfte och under motsvarande förut</p>
+    <p>sättningar rätt att få befrielse från arbetet.Den som är anställd hos en i 2 § 1 mom.</p>
+    <p>avsedd kommun eller samkommun eller hosen i 2 § 1 mom. 2 och 3 punkten avsedd statlig</p>
+    <p>myndighet vars ämbetsdistrikt delvis liggerinom samernas hembygdsområde, samt den</p>
+    <p>som hör till personalen vid Renbeteslagsfö-reningen kan beviljas tjänstledighet med lön</p>
+    <p>eller befrielse från arbetet för att skaffasådana kunskaper i samiska som han eller hon</p>
+    <p>behöver för skötseln av sina tjänsteuppgifter,om anställningen hos ovan avsedda arbets-givare har varat i minst ett år. Genom</p>
+    <p>förordning av statsrådet kan andra villkorfastställas för tjänstledighet eller befrielse</p>
+    <p>från arbetet.Som villkor för beslut om tjänstledighet</p>
+    <p>eller befrielse från arbetet kan ställas att denanställda ingår ett skriftligt avtal med myn</p>
+    <p>digheten om att han eller hon efter tjänstle-digheten eller befrielsen från arbetet arbetar i</p>
+    <p>Vid länsstyrelsen i Lapplands län och vid en statlig myndighet inom distrikts- ochlokalförvaltningen inom samernas hembygds</p>
+    <p>område kan det finnas ett biträde för samisk-språkiga. Biträdets tjänster är avgiftsfria för</p>
+    <p>kunden.</p>
+    <p xml:lang="sms">28 §</p>
+    <p><em type="italic">Tillsyn och uppföljning</em> </p>
+    <p>Varje myndighet skall inom sitt verksam-hetsområde övervaka att denna lag följs.</p>
+    <p>Sametinget följer tillämpningen av dennalag och kan ge rekommendationer i frågor</p>
+    <p>som gäller språklagstiftningen samt ta initia-tiv för att rätta till konstaterade brister.</p>
+    <p xml:lang="sms">29 §</p>
+    <p><em type="italic">Berättelse</em> </p>
+    <p>Byrån för samiska språket skall varje valperiod tillsammans med det av sametingettillsatta samiska språkrådet lämna sametinget</p>
+    <p>Nr 1086</p>
+    <p>en berättelse om tillämpningen av lagstiftningen om det samiska språket och om hur de språkligarättigheternatillgodosettsoch</p>
+    <p><em type="italic">Samiskans ställning inom vissa förvaltnings-områden</em> </p>
+    <p>språkförhållandena utvecklats, i enlighet med vad som närmare föreskrivs genom förordning av statsrådet. Bestämmelser om den berättelse som statsrådet lämnar angående tillämpningen av språklagstiftningen finns i språklagen.</p>
+    <p>Särskilda bestämmelser finns om samernasrätt att få grundskoleundervisning och annan</p>
+    <p xml:lang="smn">6 kap.</p>
+    <p>undervisning på sitt modersmål, undervis-ningen i samiska samt samiska som under</p>
+    <p>visningsspråk, läroämne och examensspråk.Bestämmelser om samernas rätt att få</p>
+    <p>barndagvård på sitt modersmål finns i lagenom barndagvård (36/1973).</p>
+    <p><em type="bold">Särskilda bestämmelser</em> </p>
+    <p>De myndigheter som avses i 2 § 1 mom.skall iaktta bestämmelserna i denna lag när de</p>
+    <p xml:lang="sms">30 §</p>
+    <p><em type="italic">Kyrkliga myndigheter</em> </p>
+    <p>tillämpar lagen om patientens ställning ochrättigheter (785/1992) och lagen om klientensställning och rättigheter inom socialvården</p>
+    <p xml:lang="sms">(812/2000).</p>
+    <p>Vad som i denna lag föreskrivs om användningen av samiska hos statliga myndigheter skall även tillämpas på det språk som parterna använder och språket i expeditioner och andra handlingar i domkapitlet i Uleåborgs stift och de pastorsexpeditioner, vilkas verksamhetsområde helt eller delvis omfattar samernas hembygdsområde, om inte ärendet är av sådan natur att det enligt kyrkolagen (1054/1993) skall anses höra till kyrkans egna angelägenheter, samt i Uleåborgs stifts kansli inom ortodoxa kyrkosamfundet. Bestämmelserna i 1, 4, 5, 8, 20 och 24 § gäller på motsvarande sätt den evangelisk-lutherska kyrkans församlingar i Enare, Enon</p>
+    <p>tekis, Utsjoki och Sodankylä, om inte ärendetär av sådan natur att det enligt kyrkolagen</p>
+    <p>skall anses höra till kyrkans egna angelägen-heter, samt Lapplands församling inom orto</p>
+    <p>doxa kyrkosamfundet.</p>
+    <p xml:lang="sms">33 §</p>
+    <p><em type="italic">Närmare bestämmelser</em> </p>
+    <p>Närmare bestämmelser om verkställighetenav denna lag utfärdas genom förordning av</p>
+    <p>statsrådet.</p>
+    <p xml:lang="smn">7 kap.</p>
+    <p><em type="bold">Ikraftträdelse- och övergångsbestämmelser</em> </p>
+    <p xml:lang="sms">34 §</p>
+    <p><em type="italic">Ikraftträdande</em> </p>
+    <p>Denna lag träder i kraft den 1 januari 2004och genom den upphävs lagen den 8 mars</p>
+    <p>1991 om användning av samiska hos myn-digheter (516/1991) jämte ändringar.</p>
+    <p xml:lang="sms">31 §</p>
+    <p><em type="italic">Statens ekonomiska ansvar</em> </p>
+    <p>Åtgärder som verkställigheten av lagenförutsätter får vidtas innan lagen träder i kraft.</p>
+    <p>Denna lag publiceras i Finlands författ-ningssamling även i översättning till enare</p>
+    <p>I statsbudgeten skall tas in ett anslag för statsunderstöd till kommunerna, församling-arna, renbeteslagen inom samernas hem</p>
+    <p>bygdsområde samt till sådana enskilda somavses i 18 § för täckande av de särskildamerkostnader som tilllämpningen av denna</p>
+    <p>lag medför. 32 §</p>
+    <p>samiska, nordsamiska och skoltsamiska.</p>
+    <p xml:lang="sms">35 §</p>
+    <p><em type="italic">Övergångsbestämmelser</em> </p>
+    <p>Om det i andra lagar eller förordningar</p>
+    <p>Nr 1086</p>
+    <p>hänvisas till den lag om användning avsamiska hos myndigheter som upphävs ge</p>
+    <p>nom denna lag, skall hänvisningarna efterlagens ikraftträdande anses innebära en hän</p>
+    <p>visning till denna lag. På ärenden som inletts före ikraftträdandetav denna lag tillämpas de bestämmelser som</p>
+    <p>gäller vid ikraftträdandet, om inte myndig-heten med beaktande av parternas rätt och</p>
+    <p>fördel bestämmer något annat.</p>
+    <p>Helsingfors den 15 december 2003</p>
+    <p><em type="bold">Republikens President</em> <em type="bold">TARJA HALONEN</em> </p>
+    <p xml:lang="sms">Justitieminister <em type="italic">Johannes Koskinen</em> </p>
+  </body>
+</document>

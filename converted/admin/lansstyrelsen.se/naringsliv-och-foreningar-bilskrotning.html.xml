@@ -1,0 +1,56 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>352</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/bilskrotning/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar-bilskrotning.html"/>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-bilskrotning.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Bilskrotning - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Bilskrotning</p>
+    <p>
+      <em type="italic">Den som har ett bilskrotningsföretag måste vara godkänd (auktoriserad) av Länsstyrelsen. Vi kontrollerar att anläggningen uppfyller kommunens miljökrav och att den som ansöker har bygglov för anläggningen och tillstånd till verksamheten. </em>
+    </p>
+    <p>Reglerna för bilskrotning finns i bilskrotningsförordningen (SFS 2007:186), och enligt den ska platsen för bilskrotningen återställas om och när verksamheten upphör. I § 35 anges också att Länsstyrelsen kan kräva en säkerhet för de åtgärder som behövs.</p>
+    <p type="title">Mottagningsställen</p>
+    <p>Uttjänta bilar kan lämnas till en auktoriserad bilskrotare eller ett mottagningsställe, det vill säga en plats som producenterna utsett för att ta emot uttjänta bilar. Mottagningsställen för skrotning av uttjänta bilar är en följd av ett EU-direktiv som tydliggör producenternas ansvar för uttjänta fordon. Mottagningsställen ska anmälas till Länsstyrelsen av bilproducenterna.</p>
+    <p type="title">Ansökan om auktorisation</p>
+    <p>När ansökan om auktorisation som bilskrotare lämnas in ska en avgift på 2300 kronor betalas till Länsstyrelsens pg 351 90-8.</p>
+    <p>Till ansökan ska följande handlingar bifogas:</p>
+    <list>
+      <p type="listitem">Personbevis i de fall en fysisk person ansöker om auktorisation</p>
+      <p type="listitem">Registreringsbevis från Bolagsverket i de fall en juridisk person ansöker om auktorisation</p>
+      <p type="listitem">Bevis om att sökanden inte är i konkurstillstånd (erhålles av Bolagsverket)</p>
+      <p type="listitem">Bevis om att sökanden inte har förvaltare enligt 11 kap. 7 § föräldrabalken (erhålles av överförmyndaren i kommunen)</p>
+      <p type="listitem">Beslut från kommunen angående anmälan enligt förordningen om miljöfarlig verksamhet och hälsoskydd (1998:899) Om beslut inte finns kan kopia av inskickad anmälan bifogas</p>
+      <p type="listitem">Kopia av meddelat bygglov (inkl. karta) för verksamheten, eller kopia av arrendekontrakt</p>
+      <p type="listitem">Uppgift om hur slutskrotning ska ske. Kopia av avtal med fragmenteringsanläggning ska bifogas</p>
+      <p type="listitem">Namn och personnummer (personbevis bifogas) för den eller de personer som ska utfärda skrotningsintyg</p>
+    </list>
+    <p>Säkerhet ska ställas enligt 35 § bilskrotningsförordningen: ”Auktoriserad bilskrotare kan av länsstyrelsen åläggas att ställa säkerhet för fullgörandet av sådana åtgärder för att iordningställa platsen för bilskrotningen som i den händelse verksamheten upphör kan åligga honom enligt föreskrift i lag.” Säkerheten beräknas dels efter 1000 kr per skrotbil (uttjänt bil) som samtidigt får lagras inom området, minst 100 000 kronor för iordningsställande av marken, och minst 200 000 kronor för en markundersökning.</p>
+    <p type="title">Kontakta oss</p>
+    <p>Camilla Sammils</p>
+    <p>Registrator</p>
+    <p>Rättsenheten</p>
+    <p>010-2250412</p>
+    <p>Sven Ångquist</p>
+    <p>Jurist</p>
+    <p>Rättsenheten</p>
+    <p>010-2250419</p>
+  </body>
+</document>

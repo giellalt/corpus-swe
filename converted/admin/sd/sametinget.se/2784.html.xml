@@ -1,0 +1,73 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>350</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/2784</origFileName>
+    <parallel_text xml:lang="sme" location="4932.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Blanketter Renmärken - Sametinget</p>
+    <p type="title">Blanketter Renmärken</p>
+    <p>Sametinget har särskilda blanketter för renmärkeshanteringen. Dessa hittar du i dokumentbanken och här i högerspalten. Du kan också beställa blanketter från Sametingets kansli.</p>
+    <p>Dessa blanketter finns:</p>
+    <list>
+      <p type="listitem">Ansökan om renmärke  Denna blankett ska användas vid nyregistrering, omregistrering och avregistrering.</p>
+    </list>
+    <list>
+      <p type="listitem">Anmärkningar mot renmärkesansökan  Denna blankett ska användas om du har invändningar mot ansökta renmärken.</p>
+    </list>
+    <list>
+      <p type="listitem">Yttrande från samebyn om renmärkesansökan  Denna blankett ska användas av samebyn för att yttra sig i ansökningsärenden.</p>
+    </list>
+    <list>
+      <p type="listitem">Köpebrev  Denna blankett används vid en omregistrering om du säljer ditt renmärke till någon annan.</p>
+    </list>
+    <list>
+      <p type="listitem">Överlåtelsehandling  Denna blankett används vid en omregistrering om du överlåter ett renmärke till någon annan.</p>
+    </list>
+    <p>Detta ska bifogas vid en nyregistrering:</p>
+    <list>
+      <p type="listitem">Underskriven ansökningshandling</p>
+      <p type="listitem">Yttrande från samebyn</p>
+    </list>
+    <p>Detta ska bifogas vid en omregistrering:</p>
+    <list>
+      <p type="listitem">Underskriven ansökningshandling</p>
+      <p type="listitem">Yttrande från samebyn</p>
+      <p type="listitem">En åtkomsthandling som visar hur ni har förvärvat renmärket. Detta görs genom ett köpebrev, överlåtelsehandling eller utdrag ur arvskifteshandling eller likande.</p>
+      <p type="listitem">I det fall som ett utdrag ur arvskifteshandling bifogas ska det framgå vilka som är dödsbodelägare. Detta för att man ska se att alla behöriga har skrivit på en åtkomsthandling.</p>
+    </list>
+    <p>Detta ska bifogas vid en avregistrering:</p>
+    <list>
+      <p type="listitem">En skriftlig begäran från märkeshavaren eller från en intressent, t.ex. sameby, att märket ska avregistreras. En avregistrering kan även initieras av myndigheten om märkeshaveren inte längre har rätt att ha renar.</p>
+    </list>
+    <p>Vad gäller beträffande utformning av renmärke?</p>
+    <list>
+      <p type="listitem">Endast snitt som avbildats i informationsbladet får ingå i renmärke.</p>
+      <p type="listitem">Renmärke med två stora kantsnitt på samma öra kan inte godkännas.</p>
+      <p type="listitem">De stora kantsnitten får inte beröra öronspetsen.</p>
+      <p type="listitem">Kantsnittet får inte gå djupare än en tredjedel av örats bredd vid snittet.</p>
+      <p type="listitem">Inget snitt får göras längre än en tredjedel av örats längd.</p>
+      <p type="listitem">Renmärket ska avbildas på blanketten så att det tydligt framgår vilka snitt ingår i märket. Detta gäller särskilt de stora kantsnitten.</p>
+    </list>
+    <p>LÄS MER I INFORMATIONSBLADET SOM FÖLJER MED BLANKETTEN!</p>
+    <p>KOM IHÅG</p>
+    <list>
+      <p type="listitem">Kom ihåg att skriva under din ansökan. Om du är under 18 år ska <em type="italic">båda </em>vårdnadshavarna eller annan behörig skriva under. </p>
+      <p type="listitem">Kom ihåg att skicka med alla nödvändiga bilagor enligt ovan. En korrekt ifylld ansökan förenklar arbetet och du slipper inkomma med kompletteringar som fördröjer hanteringen.</p>
+    </list>
+  </body>
+</document>

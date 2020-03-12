@@ -1,0 +1,49 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>444</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Regler-och-rattigheter/Vard-i-Sverige-om-man-ar-asylsokande</origFileName>
+    <parallel_text xml:lang="eng" location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html"/>
+    <parallel_text xml:lang="fin" location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html"/>
+    <parallel_text xml:lang="sme" location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html"/>
+    <parallel_text location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="vard-i-sverige-om-man-ar-asylsokande-gomd-eller-papperslos.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Vård i Sverige om du är asylsökande, gömd eller papperslös - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Vård i Sverige om du är asylsökande, gömd eller papperslös</p>
+    <p>Om du söker asyl eller är papperslös har du rätt till sjukvård och tandvård i Sverige.</p>
+    <p>Barn under 18 år har oftast rätt till vård utan att det kostar något.</p>
+    <p type="title">Förföljelse och fara</p>
+    <p>Om du anser att du behöver skydd som flykting för att du är förföljd i ditt hemland kan du söka asyl i Sverige. Det kan också finnas andra orsaker till att du söker asyl, det vill säga möjligheten att få ett uppehållstillstånd och stanna kvar i Sverige.</p>
+    <p>Om man är gömd eller papperslös i Sverige vistas man i landet utan tillstånd, kanske för att man blivit utvisad.</p>
+    <p type="title">Hälsoundersökning</p>
+    <p>Alla asylsökande vuxna och barn ska erbjudas en hälsoundersökning utan att behöva betala. Hälsoundersökningen görs så snart som möjligt efter ankomsten till Sverige. Om du är papperslös och håller dig gömd ska du få erbjudande om en hälsoundersökning när du söker vård.</p>
+    <p type="title">Asylsökande, gömda och papperslösa barn</p>
+    <p>Barn och unga under 18 år ska få hälso- och sjukvård samt tandvård på samma villkor som alla andra barn och unga bosatta i det landsting som man söker vård i. De flesta landsting och regioner tar ingen avgift för barn och ungdomar under 18 år.</p>
+    <p type="title">Asylsökande, gömda och papperslösa vuxna</p>
+    <p>Som vuxen, det vill säga om du fyllt 18 år, får du sjukvård och tandvård som du inte kan vänta med. Det gäller också mödrahälsovård, vård vid abort och preventivmedelsrådgivning.</p>
+    <p>För ett besök hos läkare på en vårdcentral och för läkarvård som ges efter remiss ska du betala 50 kronor. För ett besök, med remiss, till annan vård än läkarvård betalar du 25 kronor. Det kan till exempel vara ett besök hos en kurator.</p>
+    <p>Du kan välja att göra ett besök på en vårdcentral eller inom öppen specialistvård i vilket landsting som helst i Sverige. Om du är asylsökande måste du ha en remiss om det finns ett sådant krav där du söker vården.</p>
+    <p>Behandling hos en tandläkare inom folktandvården kostar 50 kronor.</p>
+    <p>För medicin på recept betalar du också 50 kronor, och behöver du sjukresor är kostnaden högst 40 kronor. Om resan går till ett annat landsting betalar du vad den kostar.</p>
+    <p>Förebyggande barn- och mödravård, vård vid graviditet och förlossning är avgiftsfri. Om du har en smittsam sjukdom och behöver smittskyddsvård är den också avgiftsfri.</p>
+    <p>När du som asylsökande söker sjukvård ska du visa upp ett kort som Migrationsverket delar ut, ett så kallat LMA-kort. LMA betyder lagen om mottagande av asylsökande och kortet är en tillfällig identitetshandling som gäller medan du söker asyl.</p>
+  </body>
+</document>

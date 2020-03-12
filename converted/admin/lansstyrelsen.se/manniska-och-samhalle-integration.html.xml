@@ -1,0 +1,68 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>237</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/integration/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="manniska-och-samhalle-integration.html"/>
+    <parallel_text xml:lang="sma" location="manniska-och-samhalle-integration.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Integration - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Integration</p>
+    <p>Ramón Pérez Cortés</p>
+    <p>
+      <em type="italic">Länsstyrelsen är regeringens företrädare i länet och ska främja samverkan mellan olika aktörer såsom kommuner, myndigheter, företag, organisationer för att uppnå de nationella integrationspolitiska målen. </em>
+    </p>
+    <p>Integrationspolitiken fokuserar på</p>
+    <list>
+      <p type="listitem">ett effektivt system för mottagande och etablering av nyanlända</p>
+      <p type="listitem">fler i arbete och fler företagare</p>
+      <p type="listitem">likvärdighet i skolan, förbättrade språkkunskaper och utbildningsmöjligheter för vuxna</p>
+      <p type="listitem">en effektiv bekämpning av diskriminering</p>
+      <p type="listitem">en positiv utveckling i stadsdelar med utbrett utanförskap</p>
+      <p type="listitem">en gemensam värdegrund i ett samhälle som präglas av en tilltagande mångfald.</p>
+    </list>
+    <p type="title">Länsstyrelsernas integrationsuppdrag</p>
+    <p>Enligt regeringens integrationsuppdrag ska Länsstyrelsen</p>
+    <list>
+      <p type="listitem">verka för att det finns god beredskap och kapacitet i länet för mottagande av nyanlända flyktingar och andra skyddsbehövande</p>
+      <p type="listitem">överlägga och träffa överenskommelser med kommunerna om mottagande av nyanlända flyktingar och andra skyddsbehövande</p>
+      <p type="listitem">främja samverkan mellan kommuner, myndigheter, företag och organisationer som anordnar aktiviteter för nyanlända.</p>
+      <p type="listitem">vidareutveckla samverkan på regional nivå, särskilt när det gäller samordning av kommunal verksamhet som svenskundervisning för invandrare och samhällsorientering</p>
+      <p type="listitem">följa upp organisering och genomförande av insatser för nyanlända i länet.</p>
+    </list>
+    <p type="title">Kontakta oss</p>
+    <p>Rusmira Dervisic</p>
+    <p>Integrationssamordnare</p>
+    <p>Beredskapsfunktionen, mänskliga rättigheter</p>
+    <p>Rusmira punkt Dervisic snabela lansstyrelsen punkt se¤Rusmira punkt Dervisic snabela lansstyrelsen punkt se</p>
+    <p>010-2250430</p>
+    <p>Theres Björn</p>
+    <p>Handläggare</p>
+    <p>Beredskapsfunktionen, mänskliga rättigheter</p>
+    <p>theres punkt bjorn snabela lansstyrelsen punkt se¤theres punkt bjorn snabela lansstyrelsen punkt se</p>
+    <p>010-2250428</p>
+    <p>070-6081574</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

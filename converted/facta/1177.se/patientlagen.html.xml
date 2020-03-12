@@ -1,0 +1,79 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>820</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Tema/Patientlagen/Forsta-och-vara-delaktig/Patientlagen</origFileName>
+    <parallel_text xml:lang="eng" location="patientlagen.html"/>
+    <parallel_text xml:lang="fin" location="patientlagen.html"/>
+    <parallel_text xml:lang="fit" location="patientlagen.html"/>
+    <parallel_text xml:lang="sma" location="patientlagen.html"/>
+    <parallel_text xml:lang="sme" location="patientlagen.html"/>
+    <parallel_text xml:lang="smj" location="patientlagen.html"/>
+    <parallel_text location="patientlagen.html" xml:lang="rmy-rka"/>
+    <parallel_text location="patientlagen.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="patientlagen.html" xml:lang="rmf"/>
+    <parallel_text location="patientlagen.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Patientlagen</p>
+    <list>
+      <p type="listitem">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title">Patientlagen</p>
+    <p>Från 1 januari 2015 gäller en ny lag, patientlagen. Patientlagen har tagits fram för dig som är patient.</p>
+    <p>I lagen beskrivs bland annat vilken information du ska få om din vård. Du ska också få information om möjligheten att välja den vård du behöver. Information om vårdval, behandlingar och andra viktiga delar i din vård ska underlätta för dig att vara med och bestämma.</p>
+    <p type="title">Du ska förstå informationen</p>
+    <p>Oavsett vem du är och vilken bakgrund du har ska vårdpersonal ge den information du behöver. Det betyder till exempel att du kan behöva en tolk eller skriftlig information, för att förstå hur en undersökning kommer att gå till.</p>
+    <p>Informationen ska vara anpassad till din situation och dina förutsättningar. Det är viktigt för att du ska kunna förstå och vara delaktig i din vård. Du väljer själv hur aktiv du vill vara, men du har alltid en möjlighet att tala om vad du vill.</p>
+    <p>När du känner att du förstår vilka alternativ och möjligheter du har kan du ge ditt samtycke, eller på något annat sätt uttrycka ett ja. Det gäller även dig som inte är myndig. Du kan också välja att säga nej till den vård du erbjuds. Även om du har gett din tillåtelse till en viss vård kan du ändra dig.</p>
+    <p>Barn ska också ha möjligheten att uttrycka sin åsikt. Är barnet litet kan det ske tillsammans med barnets vårdnadshavare, men ju äldre barnet är desto viktigare är det att hen får vara delaktig i sin vård . För att kunna vara aktiv i vården och ta beslut är det viktigt att även barnet förstår informationen.</p>
+    <p type="title">Vad kan informationen handla om?</p>
+    <p>Du ska få information om</p>
+    <list>
+      <p type="listitem">ditt hälsotillstånd</p>
+      <p type="listitem">vilka metoder som finns för undersökning, vård och behandling</p>
+      <p type="listitem">vilka hjälpmedel som finns</p>
+      <p type="listitem">när du kan förvänta dig att få vård</p>
+      <p type="listitem">vad behandlingen och vården förväntas resultera i</p>
+      <p type="listitem">vilka risker för komplikationer och biverkningar som finns</p>
+      <p type="listitem">hur eftervården, som du kan behöva, går till</p>
+      <p type="listitem">vilka metoder det finns för att förebygga sjukdom eller skada</p>
+      <p type="listitem">möjligheterna att hos Försäkringskassan få veta mer om att söka vård i ett EES-land eller i Schweiz.</p>
+    </list>
+    <p>Ibland kan det vara dina närstående som behöver få information om din vård. På grund av tystnadsplikten kan närstående bara bli informerade om du själv är med vid besöket eller har gett ditt tillstånd.</p>
+    <p>Vid akuta situationer, om du till exempel är medvetslös och inte kan ge ditt samtycke, får du ändå den vård som du behöver.</p>
+    <p type="title">Välja öppenvård i hela landet</p>
+    <p>Öppenvård kallas all vård när du inte blir inlagd.</p>
+    <p>Du ska få information om vilken vård ditt landsting kan erbjuda och om du kan få vården i ett annat landsting. Men du kan också välja öppenvård var som helst i Sverige. Det betyder att du kan välja vårdcentral eller öppen specialistvårdsmottagning för undersökning eller behandling. Exempel på öppen specialistvård är gråstarrsoperationer.</p>
+    <p>Det har ingen betydelse om vårdgivaren är offentlig eller privat så länge vården är finansierad av landstinget.</p>
+    <p>Att välja att tillhöra en vårdcentral kallas också för listning. Men du har alltid möjlighet att gå till vilken vårdcentral du vill i hela Sverige. På en vårdcentral kan du även välja en fast läkarkontakt.</p>
+    <p>Du kan också välja högspecialiserad öppenvård vid ett regionsjukhus i ett annat landsting, till exempel en uppföljning av en cancerbehandling.</p>
+    <p type="title">Dina medicinska behov avgör</p>
+    <p>När du söker vård i ett annat landsting är det dina medicinska behov som avgör när du får vård. Dina medicinska behov bedöms av läkaren. Du ska få öppenvård på samma villkor som alla de som är folkbokförda i det landstinget. Det betyder till exempel att du betalar lika mycket i patientavgift som alla andra som söker öppenvård. Du får själv betala resor och uppehälle när du väljer vård i ett annat landsting.</p>
+    <p>Du, som kommer från ett annat landsting, omfattas inte av vårdgarantin i det landsting du väljer.</p>
+    <p type="title">Ny medicinsk bedömning</p>
+    <p>Om du har en livshotande eller särskilt allvarlig sjukdom eller skada kan du begära att få en ny medicinsk bedömning . Den får du av en annan läkare än den du redan har, antingen i ditt hemlandsting eller i ett annat landsting.</p>
+    <p>Ditt landsting ska bekosta en ny medicinsk bedömning. Om du får den i ett annat landsting bekostar ditt landsting även resorna.</p>
+    <p type="title">Det kan vara olika om du behöver remiss</p>
+    <p>Om det finns krav på remiss för den öppna specialistvården i ditt hemlandsting eller i det landsting du söker vård i måste du ha remiss från din vårdcentral eller annan specialistläkare.</p>
+    <p type="title">Om du inte är nöjd</p>
+    <p>I varje landsting finns en patientnämnd som ska hjälpa dig om du inte känner dig delaktig i din vård eller på annat sätt inte är nöjd med vården. Patientnämnden kan till exempel hjälpa dig med att komma i kontakt med ansvarig vårdpersonal och få information om hur du kan rapportera det du varit med om.</p>
+  </body>
+</document>

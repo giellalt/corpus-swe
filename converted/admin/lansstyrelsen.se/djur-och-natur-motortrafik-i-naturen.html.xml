@@ -1,0 +1,57 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>265</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/djur-och-natur/motortrafik-i-naturen/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="djur-och-natur-motortrafik-i-naturen.html"/>
+    <parallel_text xml:lang="sma" location="djur-och-natur-motortrafik-i-naturen.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Motortrafik i naturen - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Motortrafik i naturen</p>
+    <p>
+      <em type="italic">Länsstyrelsen reglerar och följer upp barmarkskörning i terräng samt trafik med snöskoter eller vattenskoter. Avsikten är att motortrafiken inte ska störa eller skada marken, växtligheten, friluftslivet, djurlivet, renskötseln, jordbruket eller skogsbruket. </em>
+    </p>
+    <p type="title">Reglerna skyddar naturen</p>
+    <p>Terrängkörning på barmark är förbjuden i hela Sverige, och snöskoter får bara köras på väl snötäckt mark där varken marken eller växtligheten skadas. Inom vissa områden, framför allt i fjällen, är skotertrafiken reglerad genom skoterförbud vid sidan av skoterlederna. Länsstyrelsen kan besluta om undantag från barmarksförbudet och snöskoterförbuden.</p>
+    <p>Du får bara köra vattenskoter i allmänna farleder och områden som har godkänts av Länsstyrelsen. Om du bryter mot bestämmelserna kan du dömas till böter.</p>
+    <p>Terrängkörning i naturen med motordrivna fordon ingår inte i allemansrätten, det räcker heller inte att ha markägarens tillstånd och skoterleder får inte automatiskt användas för barmarkskörning. Läs mer på följande sidor om hur man tolkar reglerna och vad som gäller för körning på barmark, med snöskoter och med vattenskoter.</p>
+    <p type="title">Lagstiftning som behandlar terrängkörning</p>
+    <p>Länkarna till höger leder till lagstiftningar om terrängkörning.</p>
+    <p>Dessa finns även att läsa på webbplatsen Lagrummet http://www.lagrummet.se</p>
+    <p type="title">Kontakta oss</p>
+    <p>Carina Nordlander</p>
+    <p>Naturskydd</p>
+    <p>Carina punkt Nordlander snabela lansstyrelsen punkt se¤Carina punkt Nordlander snabela lansstyrelsen punkt se</p>
+    <p>010-2250353</p>
+    <p>Hannah Brandin</p>
+    <p>Naturskydd</p>
+    <p>Hannah punkt Brandin snabela lansstyrelsen punkt se¤Hannah punkt Brandin snabela lansstyrelsen punkt se</p>
+    <p>010-2250322</p>
+    <p>Kajsa Andersson</p>
+    <p>Naturskydd</p>
+    <p>kajsa punkt andersson snabela lansstyrelsen punkt se¤kajsa punkt andersson snabela lansstyrelsen punkt se</p>
+    <p>010-2250313</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

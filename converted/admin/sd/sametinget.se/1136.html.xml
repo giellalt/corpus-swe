@@ -1,0 +1,53 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>328</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1136</origFileName>
+    <parallel_text xml:lang="sme" location="3243.html"/>
+    <parallel_text xml:lang="smj" location="4059.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Projektstöd - Sametinget</p>
+    <p>Marie Enoksson.</p>
+    <p type="title">Projektstöd</p>
+    <p>Har du en idé som du vill driva i ett projekt? Kanske utveckla en turismsatsning eller utveckla samarbete inom en by? Ingår du i en grupp företag som gemensamt vill utveckla företagandet?</p>
+    <p>För kostnader som uppstår när du startar och driver projekt som utvecklar landsbygden och de gröna näringarna kan du söka projektstöd.</p>
+    <p>
+      <em type="bold">Stödets syfte </em>
+    </p>
+    <p>Det övergripande syftet är att främja en ökad diversifiering av landsbygdens näringsliv och en högre livskvalitet. Exempel på projekt är att genomföra förstudier, bilda nätverk eller skapa samverkanslösningar.</p>
+    <p>
+      <em type="bold">Vem kan få projektstöd? </em>
+    </p>
+    <p>Ett eller flera företag, organisationer, föreningar, kommuner och myndigheter kan ansöka om projektstöd. Resultatet ska komma mer än en part till godo och bidra till att målen i landsbygdsprogrammet uppfylls. För att få stöd måste du ha en projektplan.</p>
+    <p>
+      <em type="bold">Vad kan du få stöd för? </em>
+    </p>
+    <p>Områdena för projektstöd har vidgats och nya grupper kan söka stödet. Du kan få stöd för en viss andel av de stödberättigade kostnaderna. Stödnivån kan variera och regelverket är ännu inte fastställt. Områdena täcker så vitt skilda saker som till exempel</p>
+    <list>
+      <p type="listitem">diversifiering av företag</p>
+      <p type="listitem">turism</p>
+      <p type="listitem">service</p>
+      <p type="listitem">byutveckling</p>
+      <p type="listitem">natur- och kulturarv</p>
+      <p type="listitem">samarbete och utveckling av gröna sektorn</p>
+      <p type="listitem">planering av infrastruktur</p>
+    </list>
+    <p><em type="italic">Så söker du </em>Ansökningsblanketter och mer information om projektstödet finns på Jordbruksverkets webbplats. Det kan vara en fördel att söka stöd innan man påbörjar en insats. Först efter att ansökan är inskickad till Sametinget och bekräftad kan kostnader för insatsen börja räknas som stödgrundande. Däremot finns det inga garantier för att ansökan godkänns. Ansökan sker i två steg. Först ansöker man om stöd och när man genomfört hela eller delar av insatsen ansöker man om utbetalning av stödet. </p>
+    <p><em type="italic">Blanketter </em>Alla blanketter och handlingar du behöver för att din ansökan ska bli komplett, finns på Jordbruksverkets webbplats - se länk i högerspalten. </p>
+    <p><em type="italic">Broschyr </em>I broschyren <span type="quote">"Företagsstöd och projektstöd"</span> som du kan ladda ner eller rekvirera från Sametinget kan du läsa mer om vilka möjligheterna är att söka stöd för idéer och utvecklingsprojekt. </p>
+  </body>
+</document>

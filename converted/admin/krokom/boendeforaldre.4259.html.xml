@@ -1,0 +1,87 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Boende för äldre - Krokoms kommun</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>383</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.krokom.se/omsorgochhjalp/aldre/vilketstodkanmanfa/boendeforaldre.4259.html</origFileName>
+    <parallel_text xml:lang="sma" location="boendeforaldre.3931.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="ron">Translate site</p>
+    <list>
+      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
+      <p type="listitem" xml:lang="eng">Press</p>
+      <p type="listitem" xml:lang="vep">A-Ö</p>
+      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+      <p type="listitem" xml:lang="vep">Intranät</p>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem" xml:lang="sms">Lättläst</p>
+      <p type="listitem" xml:lang="ron">Translate</p>
+    </list>
+    <p xml:lang="isl">Sök</p>
+    <list>
+      <p type="listitem">Kommun och politik</p>
+      <p type="listitem">Utbildning och barnomsorg</p>
+      <p type="listitem">Bygga, bo och miljö</p>
+      <p type="listitem">Omsorg och hjälp</p>
+      <p type="listitem">Näringsliv och arbete</p>
+      <p type="listitem">Kultur, fritid och turism</p>
+      <p type="listitem">Trafik och infrastruktur</p>
+    </list>
+    <p>Mina favoriter</p>
+    <p type="title">Boende för äldre</p>
+    <p>
+      <em type="italic">När behovet av vård och omsorg är så omfattande att det inte längre kan tillgodoses i det egna hemmet kan ett särskilt boende bli aktuellt. </em>
+    </p>
+    <p>Det är kommunen som enligt socialtjänstlagen har ansvar för att inrätta särskilda boendeformer för service och omvårdnad för människor som behöver vård och omsorg dygnet runt. För att kunna bo i särskilt boende krävs en biståndprövning och ett beslut av biståndshandläggaren.</p>
+    <p>I Krokoms kommun finns särskilda boenden i Krokom, Föllinge och Offerdal:</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Blomstergården, Krokom</p>
+      <p type="listitem" xml:lang="nob">Orion, Krokom</p>
+      <p type="listitem" xml:lang="nno">Hällebo, Offerdal</p>
+      <p type="listitem" xml:lang="nob">Solbacka, Föllinge</p>
+    </list>
+    <p type="title">Ansökan om särskilt boende</p>
+    <p>Du ansöker själv om särskilt boende. När kommunen har fått din ansökan tar en biståndshandläggare kontakt med dig för att göra ett hembesök. Därefter utreds ärendet och beslut fattas efter en individuell prövning utifrån Socialtjänstlagen.</p>
+    <p>Om din ansökan beviljas kommer du att få ett erbjudande om boende inom en rimlig tid, maximalt tre månader. När du får ditt erbjudande har du sju dagar på dig att bestämma dig. Du har möjlighet att tacka nej till erbjudet boende. Har du sedan tidigare hemtjänst har du inte automatiskt rätt att ha kvar denna efter erbjudande om boende. Om du tackar nej till boende flera gånger kan ditt beslut komma att omprövas.</p>
+    <p type="title">Överklaga beslut</p>
+    <p>Du har rätt att överklaga om din ansökan inte beviljas, information om hur man överklagar skickas alltid med vid ett avslag. Din handläggare kan hjälpa dig med överklagan. Du kan även återkomma med en ny ansökan om dina behov förändras.</p>
+    <p><em type="italic">Parboendegaranti </em>Kommunen har en parboendegaranti. Det innebär att din make/maka/sambo får flytta in tillsammans med dig om du beviljas särskilt boende. </p>
+    <p>Kontakta en biståndshandläggare om du har ytterligare frågor.</p>
+    <p xml:lang="nob">Uppdaterad 2017-05-09 av Ulla Eriksson</p>
+    <p xml:lang="sma">Åarjelsaemien gïele</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+      <p type="listitem" xml:lang="eng">E-post</p>
+    </list>
+    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+    <p xml:lang="eng">Kontaktinformation</p>
+    <list>
+      <p type="listitem" xml:lang="sme">Ann-Marie Ågran</p>
+      <p type="listitem">Verksamhetschef Vård och omsorg 0640 165 21</p>
+      <p type="listitem">
+        <em type="italic">Biståndshandläggare </em>
+      </p>
+      <p type="listitem">Här når du våra biståndshandläggare</p>
+    </list>
+    <p>Läs mer</p>
+    <list>
+      <p type="listitem">Matsedel för äldreboenden</p>
+    </list>
+    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+  </body>
+</document>

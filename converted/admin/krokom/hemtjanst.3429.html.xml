@@ -1,0 +1,79 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Hemtjänst - Krokoms kommun</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>239</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.krokom.se/omsorgochhjalp/aldre/vilketstodkanmanfa/hemtjanst.3429.html</origFileName>
+    <parallel_text xml:lang="sma" location="hiejmedienesje.6881.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="ron">Translate site</p>
+    <list>
+      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
+      <p type="listitem" xml:lang="eng">Press</p>
+      <p type="listitem" xml:lang="vep">A-Ö</p>
+      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+      <p type="listitem" xml:lang="vep">Intranät</p>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem" xml:lang="sms">Lättläst</p>
+      <p type="listitem" xml:lang="ron">Translate</p>
+    </list>
+    <p xml:lang="isl">Sök</p>
+    <list>
+      <p type="listitem">Kommun och politik</p>
+      <p type="listitem">Utbildning och barnomsorg</p>
+      <p type="listitem">Bygga, bo och miljö</p>
+      <p type="listitem">Omsorg och hjälp</p>
+      <p type="listitem">Näringsliv och arbete</p>
+      <p type="listitem">Kultur, fritid och turism</p>
+      <p type="listitem">Trafik och infrastruktur</p>
+    </list>
+    <p>Mina favoriter</p>
+    <p type="title" xml:lang="fin">Hemtjänst</p>
+    <p>Hemtjänst är ett samlingsbegrepp för olika former av omsorg, stöd och service i hemmet. Hemtjänst beviljas utifrån dina individuella behov och kan omfatta service- och omvårdnadsinsatser.</p>
+    <p>Det kan exempelvis vara hjälp med</p>
+    <list>
+      <p type="listitem">personlig omvårdnad som att sköta personlig hygien, äta och dricka, klä sig och förflytta sig</p>
+      <p type="listitem">service som inköp, städning, tvätt och mat</p>
+      <p type="listitem" xml:lang="dan">ledsagning</p>
+    </list>
+    <p>Den vanligaste formen av hemtjänst innebär att hemtjänstpersonal kommer hem till dig och hjälper dig med beviljade insatser.</p>
+    <p>Du beviljas inte hjälp för sådant som du själv kan göra eller kan få tillgodosett på annat sätt.</p>
+    <p><em type="italic">Hur ansöker jag om hemtjänst? </em>Du ansöker om hemtjänst hos en av kommunens handläggare. Hemtjänst beviljas utifrån dina individuella behov och enligt socialtjänstlagen. Här kan du läsa mer om hur det går till att ansöka om äldreomsorg. </p>
+    <p xml:lang="nob">Uppdaterad 2017-05-24 av Ulla Eriksson</p>
+    <p xml:lang="sma">Åarjelsaemien gïele</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+      <p type="listitem" xml:lang="eng">E-post</p>
+    </list>
+    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+    <p xml:lang="eng">Kontaktinformation</p>
+    <list>
+      <p type="listitem" xml:lang="sme">Sara Comén</p>
+      <p type="listitem" xml:lang="deu">Verksamhetschef 0640 163 14</p>
+      <p type="listitem">
+        <em type="italic">Biståndshandläggare </em>
+      </p>
+      <p type="listitem">Här når du våra biståndshandläggare</p>
+    </list>
+    <p>Läs mer</p>
+    <list>
+      <p type="listitem" xml:lang="vep">Om hemtjänsten i Krokoms kommun</p>
+    </list>
+    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+  </body>
+</document>

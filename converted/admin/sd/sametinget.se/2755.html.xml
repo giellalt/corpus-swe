@@ -1,0 +1,30 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>82</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/2755</origFileName>
+    <parallel_text xml:lang="sme" location="4934.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Renmärkesförteckningar - Sametinget</p>
+    <p type="title">Renmärkes-förteckningar</p>
+    <p>Här finns årsvisa förteckningar över ansökta renmärken.</p>
+    <p>Renmärkesförteckning</p>
+    <p>Renmärkesförteckningen innehåller alla nyansökningar under ett visst år. Den skickas ut till alla samebyar och till rennäringsadministrationen i Norge och Finland. Det sker i slutet av februari varje år.</p>
+    <p>Anmärkningar</p>
+    <p>Om du har anmärkningar mot ett sökt renmärke ska du vända dig till din sameby, som sammanställer alla eventuella anmärkningar och vidarebefordrar till Sametinget. (Samebyn är ansvarig för att fylla i en underrättelseblankett och behöver ha överblick över samtliga anmärkningar.)</p>
+  </body>
+</document>

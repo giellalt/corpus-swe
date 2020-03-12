@@ -1,0 +1,75 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>973</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Regler-och-rattigheter/Tystnadsplikt-och-sekretess</origFileName>
+    <parallel_text xml:lang="eng" location="professional-secrecy-and-confidentiality.html"/>
+    <parallel_text xml:lang="fin" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="smj" location="tystnadplikt-och-sekretess.html"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rka"/>
+    <parallel_text location="tystnadsplikt-och-sekretess-.html" xml:lang="rmn"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmu"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Tystnadsplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Tystnadsplikt och sekretess</p>
+    <p>När du vänder dig till vården är det viktigt att du känner förtroende för den personal du möter. Förtroendet är viktigt för att du ska känna dig trygg och våga prata öppet om de besvär eller symtom du har och på så sätt få den vård du behöver. Därför omfattas alla som arbetar inom hälso- och sjukvården av tystnadsplikt.</p>
+    <p>Tystnadsplikt betyder att ingen inom vården får lämna ut uppgifter om dig utan att du har godkänt det. Det gäller till exempel uppgifter om den sjukdom du har, den behandling du får eller om din privata situation.</p>
+    <p>Inom hälso- och sjukvården gäller samma sekretesskydd för alla patienter oavsett om du har rätt att vistas i Sverige eller inte.</p>
+    <p>Tystnadsplikten gäller all personal som man möter i vården. Oavsett om det är inom offentlig eller privat vård och oavsett om det är läkare, sjuksköterskor eller administrativ personal. Tolkar och översättare som arbetar på uppdrag inom hälso- och sjukvården har också tystnadsplikt. Tystnadsplikten gäller även dem som arbetar på apotek.</p>
+    <p>Det är bara de som vårdar dig som patient som får prata med varandra om ditt hälsotillstånd eller personliga förhållanden. Det innebär till exempel att din läkare bara får diskutera din behandling med en kollega enbart om de båda är inblandade i din vård.</p>
+    <p>Den som bryter mot tystnadsplikten kan dömas i domstol men också bli av med sin legitimation.</p>
+    <p>Patientjournaler omfattas också av sekretess och de enda som får läsa en journal är den personal som vårdar den patient som journalen gäller. Det spelar ingen roll om journalen finns i en dator eller om den är skriven på papper.</p>
+    <p type="title">Vem får läsa min journal?</p>
+    <p>I den här filmen får du träffa Eli som besöker en ungdomsmottagning. Hon är orolig för att någon ska få veta att hon har varit där.</p>
+    <p type="title">Du bestämmer själv</p>
+    <p>Inte heller närstående har rätt att få veta vad som sägs och sker på sjukhuset om du inte vill att de ska veta. Du ska bli tillfrågad av personalen om vem de får lämna ut uppgifter till. Då väljer du själv vilka de får informera. Till exempel kan du inför en operation tala om för personalen att de får berätta hur operationen har gått för exempelvis en närstående innan du själv har vaknat upp.</p>
+    <p type="title">Barn har också rätt till tystnadsplikt</p>
+    <p>För barn och unga under 18 år gäller att vårdnadshavare i regel har rätt att ta del av sitt barns vård och veta vad som står i journalen. Men barn och unga som är under 18 år kan ha rätt att själva avgöra om vårdpersonalen får lämna ut uppgifter och till vem. Det betyder att vårdnadshavare eller någon annan närstående inte alltid har rätt att få veta vad barnet berättat för vårdpersonal eller vad som står i journalen.</p>
+    <p>Det finns alltså inte någon särskild åldergräns för när barnet får bestämma själv utan det får avgöras från person till person.</p>
+    <p>Om sjukvårdspersonal misstänker att barnet far illa hos sin vårdnadshavare, eller att vårdnadshavaren inte kan skydda barnet, lämnas inte barnets journal ut.</p>
+    <p>För dig som är under 18 och besöker en ungdomsmottagning gäller tystnadsplikten i de allra flesta fall. Personalens sekretess kan brytas om du själv ger ditt tillstånd och om din hälsa är i fara på något sätt.</p>
+    <p type="title">Undantag från tystnadsplikten</p>
+    <p>Även om sekretessen och tystnadsplikten är omfattande kan sekretessen brytas under vissa omständligheter, utan att du som patient ger sitt medgivande. Det gäller till exempel om</p>
+    <list>
+      <p type="listitem">en domstol, åklagar-, polis-, kronofogde- eller skattemyndighet begär att få veta om en viss person vistas på en vårdinrättning</p>
+      <p type="listitem">Socialstyrelsens råd för rättsliga, sociala och medicinska frågor behöver uppgifterna för sin verksamhet</p>
+      <p type="listitem">Transportstyrelsen behöver uppgifterna för att pröva någons lämplighet att ha körkort, traktorkort eller taxiförarlegitimation</p>
+      <p type="listitem">uppgifterna behövs när det ska prövas om en student ska stängas av från högskoleutbildning</p>
+      <p type="listitem">uppgifterna behövs för en rättsmedicinsk undersökning.</p>
+    </list>
+    <p>Om en person misstänks för brott som är så allvarligt att det ger minst ett års fängelse har vårdpersonal rätt att bryta mot tystnadsplikten genom att göra en polisanmälan om brottet och svara på frågor från polis och åklagare. Exempel på sådana brott är mord, våldtäkt och grov misshandel. Det finns också vissa trafikbrott med lägre straffskala till exempel rattfylleri som vårdpersonal har rätt att anmäla.</p>
+    <p type="title">Särskilda undantag för barn</p>
+    <p>När det gäller barn görs undantag från tystnadsplikten om vårdpersonalen misstänker att barn utsätts för ett brott. Det kan handla om misshandel eller sexuella övergrepp.</p>
+    <p>Om vårdpersonalen misstänker att ett barn far illa ska personalen anmäla sådana misstankar till socialtjänsten, som gör en utredning och eventuellt en polisanmälan. Det gäller också om det pågår en utredning av något slag som gäller en minderårigs behov av skydd. Vårdpersonalen är tvungen att lämna ut information som kan ha betydelse för utredningen.</p>
+    <p type="title">Försäkringskassan och försäkringsbolag</p>
+    <p>Du bestämmer själv om hälso- och sjukvården ska få lämna ut uppgifter om vilka sjukdomar du har eller vilka behandlingar du fått. Men om du är sjuk och ansöker om sjukersättning från försäkringskassan får vårdpersonalen lämna ut de uppgifter som behövs för att bedöma om du har rätt till sjukersättning.</p>
+    <p>Råkar du ut för en skada eller sjukdom och vill ha ut ersättning från ditt försäkringsbolag kan bolaget behöva uppgifter för att bedöma om du har rätt till ersättning. Du måste då godkänna att vården lämnar ut uppgifter om dig.</p>
+    <p type="title">Brott mot tystnadsplikten</p>
+    <p>Även om det finns vissa situationer när vårdpersonal får bryta eller ska bryta mot tystnadsplikten är det enbart i undantagsfall. Grundtanken är att tystnadsplikten är till för att skydda patienten.</p>
+    <p>Om du som patient misstänker att någon i vårdpersonalen har brutit mot tystnadsplikten kan du anmäla det till polisen eller Inspektionen för vård och omsorg, IVO . Det kan leda till att den personen blir åtalad och dömd.</p>
+    <p>Läs mer om man inte är nöjd med vården eller tandvården</p>
+  </body>
+</document>

@@ -1,0 +1,44 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Vasta</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>227</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/useoahpa/vasta.swe.html</origFileName>
+    <parallel_text xml:lang="eng" location="vasta.eng.html"/>
+    <parallel_text xml:lang="fin" location="vasta.fin.html"/>
+    <parallel_text xml:lang="nob" location="vasta.nob.html"/>
+    <parallel_text xml:lang="sme" location="vasta.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="fin">Vasta</p>
+    <p>I Vasta-programmet skall du svara på slumpmässiga frågor. Syftet med övningen är att träna verbböjning och kasusanvändning. Programmet accepterar flera svarsalternativ, och ger kommentarer till eventuella böjningsfel.</p>
+    <p>Programmet kräver att du svarar i hela meningar (de måste innehålla ett finit verb). Om frågan innehåller pronomenet <span type="quote">"vi", skall du svara med "ni"</span>, inte med (inklusive) <span type="quote">"vi", och det samma gäller för frågor med "ni"</span> (svara med <span type="quote">"vi"). Målet ör inte att simulera naturlig konversation ("</span>ska vi gå nu? - Ja, det ska vi"), men att öva på subjekt-verb kombinationer, snarare än att upprepa frågan.</p>
+    <p>Det är två typer av programmet, Vasta-S och Vasta-F:</p>
+    <p><em type="italic">Vasta-S: </em>Du får några ord som du skall göra sats av som svar på en fråga. Orden i blå färg måste du böja. Du kan välja hur många ord du vill ha med i uppgiften. Vasta-S har de här nivåerna: </p>
+    <list>
+      <p type="listitem" xml:lang="nno">Nivå 1: Bara presens og enkel kasusbruk.</p>
+      <p type="listitem">Nivå 1-2: Frågor också i preteritum, satser med flera verb och med satsdelar med tal och påpekande pronomen.</p>
+    </list>
+    <p><em type="italic">Vasta-F: </em>Du kan formulera ditt svar fritt. Vasta-F har de här nivån: </p>
+    <list>
+      <p type="listitem" xml:lang="nno">Nivå 1: Bare presens og grundläggande kasus, främst i singular.</p>
+      <p type="listitem">Nivå 1-2: Även preteritum, fler kasus i plural, och även adverbiella kasus.</p>
+      <p type="listitem" xml:lang="nno">Nivå 1-3: Räkneord böjd i kasus, kollektiva tal, verb i konditionalis.</p>
+    </list>
+    <p>Programmet är på test-stadiet. Skicka oss gärna kommentarer om programmet: (oahpa@uit.no).</p>
+    <p xml:lang="nob">Link til Vasta-programmet</p>
+  </body>
+</document>

@@ -1,0 +1,53 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Matvanorna utvecklas genom hela livet</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2018</year>
+    <wordcount>396</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/ruokakasvatus/ruokailutottumukset-kehittyvat-lapi-elaman/</origFileName>
+    <parallel_text xml:lang="fin" location="ruokailutottumukset_kehittyvat_lapi_elaman.html"/>
+    <parallel_text xml:lang="sme" location="boradanharjanumit_ovdanit_miehta_eallima.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Hoppa över till innehållet</p>
+    <p xml:lang="fkv">RuokaTutka</p>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <p type="title">Matvanorna utvecklas genom hela livet</p>
+    <p>Maten har en central och mångsidig betydelse i våra liv. Maten anknyter till kultur och samvaro, skapar trygghet genom att ge dagen en rytm och är grunden för vårt välbefinnande. Våra matvanor samt vår relation till mat och ätande formas genom hela livet i och med att matkulturen lever och vi interagerar med andra.</p>
+    <p>
+      <em type="italic">Grunden för matvanorna formas redan i barndomen </em>
+    </p>
+    <p>De måltidsupplevelser och matvanor som vi får och lär oss i barndomen följer med oss långt in i vuxenlivet. De skapar en grund för de preferenser utgående från vilka vi gör dagliga val gällande mat för oss själva och våra familjer.</p>
+    <p>Matvanornas utveckling påverkas av flera enskilda faktorer, såsom kunskapsnivå, vår känsla av vad vi klarar av och vår självkänsla. Barnets eller den ungas närmaste krets har stor betydelse för att de ska utvecklas till att bli starka. Till de individuella faktorerna hör även skillnader i smaken – för vissa av oss känns exempelvis sötman sötare eller beskan beskare än för andra. Maten kan också smaka annorlunda i en vuxens mun än i ett barns. Oberoende av de individuella skillnaderna kan man lära sig att tycka om eller tolerera olika smaker.Här kan det hjälpa att göra barnet eller den unga delaktig i matlagningen eller använda olika provsmakningsuppgifter, där man exempelvis bekantar sig med ett livsmedel med alla sinnen.Mer information om den sinnesbaserade metoden för matfostran finns i avsnittet om smakskolan. (LÄNK TILL TEXTEN OM SMAKSKOLAN)</p>
+    <p>
+      <em type="italic">Matfostran är en gemensam vardag i matens värld </em>
+    </p>
+    <p>Vid sidan av individuella faktorer har barnets eller den ungas närmaste krets, hemmet och skolan en central betydelse för matvanornas utveckling. De människor som tillhör den närmaste kretsen, såsom föräldrarna, andra närstående vuxna och skolans personal, vägleder också barnet eller den unga genom sina egna matvanor, sitt sätt att tala om mat och sitt agerande. På så sätt fungerar alla som hör till barnets eller den ungas närmaste krets som matfostrare. Minns du någon vuxen från din egen barndom som kunde konsten att skapa trevliga matstunder? Var det kanske en mor- eller farförälder som nyfiket lyssnade på barnens berättelser vid matbordet eller en egen eller en kompis förälder som lagade mat så att det räckte även till kompisarna?</p>
+    <p type="title" xml:lang="vep">LÄS MER:</p>
+    <p type="title">Topp 5  i hemmets och skolans matfostran</p>
+    <p type="title">Matfostran i småbarnspedagogiken och grundskolan</p>
+    <p type="title" xml:lang="fkv">Matmiljön</p>
+    <p type="title">Samvaro och matglädje</p>
+  </body>
+</document>

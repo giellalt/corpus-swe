@@ -1,0 +1,30 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>198</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1132</origFileName>
+    <parallel_text xml:lang="sme" location="3334.html"/>
+    <parallel_text xml:lang="smj" location="4020.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Renmärken - Sametinget</p>
+    <p>Kalvmärkning. Foto: Marie Enoksson.</p>
+    <p type="title">Renmärken</p>
+    <p>Ett renmärke är summan av de snitt på höger och vänster öra som talar om vem som äger renen. I Sverige finns det inga vilda renar. Alla renar ägs av någon privatperson, det kan vara ett barn eller en vuxen.</p>
+    <p>Omärkta renar är samebyns kollektiva egendom. Ett renmärke är mycket personligt och går vanligtvis i arv inom släkten. Ett renmärke är registrerat för användning inom viss sameby. Ingen får samtidigt ha mer än ett renmärke registrerat. Vem kan äga ett renmärke?  Ett renmärke kan ägas av en sameby, en person som är medlem i den sameby där märket skall användas eller en person som får ha skötesrenar i den sameby där märket skall användas.</p>
+    <p><em type="italic">Hur många renägare finns det? </em>Klicka här Renmärkesregister  Alla renmärken finns samlade i ett renmärkesregister. Det är Sametingets ansvar att registrera och avregistrera renmärken. Renmärkesregistret finns på webben som en service för samebyar och enskilda renägare. Vi har även ett renmärkesregister anpassat för användning i mobiltelefonen . Handläggaren kan även skriva ut listor över renmärken för respektive sameby eller skicka pdf-filer digitalt. Blanketter  Sametinget har särskilda blanketter för renmärkeshanteringen. Läs mer under Renmärkesansökan och Blanketter .  </p>
+  </body>
+</document>

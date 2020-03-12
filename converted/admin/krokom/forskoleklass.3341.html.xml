@@ -1,0 +1,83 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Förskoleklass - Krokoms kommun</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>311</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.krokom.se/utbildningochbarnomsorg/grundskola/forskoleklass.3341.html</origFileName>
+    <parallel_text xml:lang="sma" location="forskoleklass.3341.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="ron">Translate site</p>
+    <list>
+      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
+      <p type="listitem" xml:lang="eng">Press</p>
+      <p type="listitem" xml:lang="vep">A-Ö</p>
+      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+      <p type="listitem" xml:lang="vep">Intranät</p>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem" xml:lang="sms">Lättläst</p>
+      <p type="listitem" xml:lang="ron">Translate</p>
+    </list>
+    <p xml:lang="isl">Sök</p>
+    <list>
+      <p type="listitem">Kommun och politik</p>
+      <p type="listitem">Utbildning och barnomsorg</p>
+      <p type="listitem">Bygga, bo och miljö</p>
+      <p type="listitem">Omsorg och hjälp</p>
+      <p type="listitem">Näringsliv och arbete</p>
+      <p type="listitem">Kultur, fritid och turism</p>
+      <p type="listitem">Trafik och infrastruktur</p>
+    </list>
+    <p>Mina favoriter</p>
+    <p type="title">Förskoleklass</p>
+    <p>Förskoleklassen är en frivillig skolform för sexåringar. Den ska stimulera varje barns utveckling och lärande, samt ligga till grund för den fortsatta skolgången. I kommunen erbjuds alla sexåringar förskoleklass fr o m höstterminen det år barnet fyller sex år och omfattar minst 525 timmar om året. Utbildning i förskoleklass är avgiftsfri. Förskoleklassen följer samma terminsindelning och har samma lovdagar som grundskolan. För elever i förskoleklass anordnas kommunal skolskjuts enligt fastställda regler.</p>
+    <p type="title">Ansökan/Inskrivning</p>
+    <p>Som vårdnadshavare kan du välja om ditt sexåriga barn ska börja förskoleklass eller skrivas in i grundskolan. Varje vår skickas ett erbjudande om förskoleklass ut till alla sexåringar. Ditt barn är anvisad plats på den skola som ligger närmast hemmet. Du får även en förfrågan om ditt barn behöver plats i fritidshem (skolbarnomsorg) utöver den tid som barnet vistas i förskoleklassen. Blanketten skickas sedan till områdets expedition.</p>
+    <p type="title">Tidigare skolstart</p>
+    <p>Föräldrar som önskar att deras sexåring, i stället för förskoleklass, ska börja skolan lämnar inskrivningsuppgift och önskemål om skola på samma sätt som sjuåringens föräldrar. De sexåringar som börjar skolan går in i undervisningen tillsammans med sjuåringarna. Blankett för inskrivning finns hos rektor.</p>
+    <p xml:lang="nob">Uppdaterad 2016-11-24 av Thory Andersson</p>
+    <p xml:lang="sma">Åarjelsaemien gïele</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+      <p type="listitem" xml:lang="eng">E-post</p>
+    </list>
+    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+    <p xml:lang="eng">Kontaktinformation</p>
+    <list>
+      <p type="listitem" xml:lang="fin">Sanna Palomaa</p>
+      <p type="listitem">Verksamhetschef skola 0640 161 64</p>
+    </list>
+    <p>Läs mer</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Skolskjutsregler</p>
+      <p type="listitem" xml:lang="nob">Skolverket</p>
+      <p type="listitem">
+        <em type="italic">Broschyren <span type="quote">"Förskoleklassen är till för ditt barn"</span> på olika språk: </em>
+      </p>
+      <p type="listitem">Arabiska</p>
+      <p type="listitem">Engelska</p>
+      <p type="listitem">Finska</p>
+      <p type="listitem" xml:lang="deu">Jiddisch</p>
+      <p type="listitem" xml:lang="fkv">Meänkieli</p>
+      <p type="listitem">Nordsamiska</p>
+      <p type="listitem" xml:lang="nob">Svenska</p>
+      <p type="listitem">Fler översättningar kan hämtas här:</p>
+      <p type="listitem" xml:lang="est">Skolverkets publikationsdatabas</p>
+    </list>
+    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+  </body>
+</document>

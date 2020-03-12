@@ -1,0 +1,34 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>290</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/byggnadsvard/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-byggnadsvard.html"/>
+    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-byggnadsvard.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Byggnadsvård - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Byggnadsvård</p>
+    <p><em type="italic">Byggnadsvården är en del i Länsstyrelsens långsiktiga arbete för att bevara länets kulturmiljö. </em> </p>
+    <p>För att bebyggelse och ska behålla sitt kulturhistoriska värde är det viktigt att vård och underhåll samt ombyggnader sker utifrån de enskilda husens förutsättningar. Det är också viktigt att använda kulturhistoriskt riktiga material och metoder för att ta tillvara på byggnadernas karaktär och utseende samtidigt som man värnar om de traditionella hantverken. Byggnadsvården samspelar med andra åtgärder som Länsstyrelsen är delaktig i, exempelvis kommunal planläggning, landsbygdsstöd och Eu-projekt.</p>
+    <p type="title">Vems ansvar?</p>
+    <p>Kulturmiljövården i Sverige bygger på att den tillhör oss alla och att även ansvaret vilar hos alla. Enskilda fastighetsägare som förvaltar kulturhistoriskt värdefulla byggnader och miljöer har i praktiken ett större ansvar än andra. Det kan till exempel handla om att underhålla en miljö som i övrigt inte fyller någon funktion. I andra fall måste material och hantverksmetoder vara anpassade efter sådant som byggnadens ålder eller stil. Det är ofta en källa till både tillfredställelse och merkostnad.</p>
+    <p type="title">Byggnadsvårdsbidrag</p>
+    <p>Staten kan i vissa fall ge ekonomiskt stöd till fastighetsägare som förvaltar en byggnad eller miljö och som även är ett viktigt kulturarv. Stödet går till fördyrade underhållskostnader. Statsbidrag får också ges till vård av värdefulla kulturmiljöer eller för att göra det lättare för allmänheten att ta del av kulturmiljöer. Stödet kan också gå till projekteringskostnader för kulturhistoriskt värdefulla byggnader eller för att ta fram kunskapsunderlag om kulturmiljöer. Stödet regleras enligt förordningen om bidrag till förvaltning av kulturhistoriskt värdefulla miljöer SFS 2010:1121 .</p>
+    <p>Enskilda personer, kommuner, stiftelser och bolag kan ansöka hos Länsstyrelsen om bidrag till förvaltning av kulturhistoriskt värdefulla miljöer. Byggnader eller andra egendomar som förvaltas av statlig myndighet eller där man kan söka kyrkoantikvarisk ersättning får inte komma ifråga för bidraget.</p>
+  </body>
+</document>

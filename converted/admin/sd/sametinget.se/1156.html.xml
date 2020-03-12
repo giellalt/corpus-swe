@@ -1,0 +1,44 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>149</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1156</origFileName>
+    <parallel_text xml:lang="sme" location="3086.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kulturnämnden - Sametinget</p>
+    <p type="title">Kulturnämnden</p>
+    <p>Sametingets kulturnämnd består av fem ledamöter valda av Sametingets plenum. Deras uppgift är framför allt att fördela de kulturmedel som står till samernas förfogande till kulturprojekt, forskningsprojekt, föreningar och organisationer.</p>
+    <p>Ledamöterna i Sametingets kulturnämnd 2013-2017:</p>
+    <p>
+      <em type="bold">ORDINARIE </em>
+    </p>
+    <p>
+      <em type="bold">ERSÄTTARE </em>
+    </p>
+    <p>Karin Mannela (JoF) Ordförande Tel. +47 47 34 87 36</p>
+    <p>Per-Gustav Labba (Sam)</p>
+    <p>Erik-Oscar Oscarsson (LPSS)</p>
+    <p>Helena Dådring (MG)</p>
+    <p>Ulla Alvarsson (JoF)</p>
+    <p>Louise Skerk (JoF)</p>
+    <p>Marina Nilsson Ejderlöv (Vu)</p>
+    <p>Martin Lundgren (Vu)</p>
+    <p>Ann-Christin Blind (SáR)</p>
+    <p>Matti Berg (SáR)</p>
+    <p>Sametingets kulturnämnd  Sametingets kulturnämnd består av fem ledamöter, valda av Sametingets plenum. Kulturnämnden arbetar fram ett kulturpolitiskt handlingsprogram som bestämmer inriktningen av den samiska kulturpolitiken under perioden. Handlingsprogrammets viljeinriktning debatteras i plenum innan det antas. Huvuduppgift  Kulturnämnden fördelar anslagen bland inkomna ansökningar och tar initiativ för att utveckla Sametingets kulturarbete. Nämnden sammanträder minst fyra gånger per år. Kulturhandläggarna  Sametingets kulturhandläggare ska bereda inkomna ärenden och vara sekreterare under kulturnämndens möten.</p>
+  </body>
+</document>

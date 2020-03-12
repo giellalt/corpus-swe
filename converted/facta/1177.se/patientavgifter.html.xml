@@ -1,0 +1,87 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1073</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Regler-och-rattigheter/Patientavgifter</origFileName>
+    <parallel_text xml:lang="eng" location="patientavgifter.html"/>
+    <parallel_text xml:lang="fin" location="patientavgifter.html"/>
+    <parallel_text xml:lang="fit" location="patientavgifter.html"/>
+    <parallel_text xml:lang="sma" location="patientavgift.html"/>
+    <parallel_text xml:lang="sme" location="patientavgifter.html"/>
+    <parallel_text xml:lang="smj" location="patientavgifter.html"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmy-rka"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmn"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmu"/>
+    <parallel_text location="patientavgifter.html" xml:lang="yid"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Patientavgifter</p>
+    <p type="title">Vad får du betala?</p>
+    <p>Hälso- och sjukvården i Sverige bekostas till största delen av landstings- och kommunalskatter. Den avgift som du betalar vid exempelvis ett läkarbesök är bara en liten del av vad det faktiskt kostar.</p>
+    <p>Detta gäller inte den helt privata vården, till exempel plastikkirurgi som inte är medicinskt motiverad. Då betalar du hela kostnaden själv.</p>
+    <p type="title">Olika avgifter i olika landsting och kommuner</p>
+    <p>Landstingen och kommunerna kan i stort sett själva bestämma vilka avgifter du ska betala vid läkarbesök och andra tjänster i vården. I stora drag är avgifterna ganska lika i de olika landstingen. Om du behöver mycket vård finns ett högkostnadsskydd, som beskrivs närmare i nästa kapitel.</p>
+    <p>Hälso- och sjukvård är kostnadsfri i nästan alla landsting och regioner om du är under 20 år.</p>
+    <p>Nedanstående ungefärliga avgifter gäller den offentliga vården och privata vårdgivare som har avtal med ett landsting.</p>
+    <p>När du är inlagd på sjukhus betalar du en dygnsavgift som enligt lag får vara högst 100 kronor.</p>
+    <p>Vissa landsting tar ut en avgift för transporter med ambulans eller helikopter.</p>
+    <p>En del landsting betalar tillbaka besöksavgiften om du har fått vänta en viss tid utöver den avtalade. Om du inte avbokar en tid som inte passar eller inte kommer till den avtalade tiden kan du bli skyldig att ändå betala besöksavgiften.</p>
+    <p>Om du väljer öppen eller sluten vård i ett annat landsting än där du är folkbokförd betalar du de patientavgifter som gäller i det landsting där du får vården.</p>
+    <p type="title">Andra vårdgivare kan ha andra taxor</p>
+    <p>Du som helt privat eller genom din arbetsgivare har en sjukvårdsförsäkring kan ha helt andra villkor för vilka avgifter du ska betala.</p>
+    <p>I den kommunala hälso- och sjukvården, som gäller äldre med långvarig sjukdom, finns olika taxor för vård som ges av sjuksköterskor.</p>
+    <p>På Sveriges Kommuner och Landstings webbplats, SKL , finns adresser till kommuner, landsting och regioner. Dessa har aktuell och detaljerad information om sina avgifter.</p>
+    <p type="title">Avgifter för utländska medborgare</p>
+    <p>Kommer du från ett annat EU-land, EES-land eller Schweiz ska du ha ett europeiskt sjukförsäkringskort, EU-kort, för att visa att du har rätt till akut, nödvändig vård till vanlig patientavgift. Har du inte det kan du få betala hela vårdkostnaden själv.</p>
+    <p>Om du däremot vill ha planerad vård som inte är akut och inte vill betala mer än patientavgift ska du ha ett intyg som visar att hemlandet betalar vården. Om du saknar det betalar du hela kostnaden för vården själv.</p>
+    <p>Du som söker vård i Sverige har alltid möjlighet att få ersättning i efterhand från det land du bor i, förutsatt att det är inom EU eller EES-länderna Island, Norge och Liechtenstein samt Schweiz.</p>
+    <p>Om du kommer från något land utanför EU, EES och Schweiz får du nästan alltid betala hela vårdkostnaden själv oavsett om det handlar om akut eller planerad vård.</p>
+    <p type="title">Om man som svensk blir sjuk utomlands</p>
+    <p>Det europeiska sjukförsäkringskortet, som kan beställas från Försäkringskassan , ger dig som bor i Sverige rätt till akut och nödvändig vård i andra EU-, EES-länder och Schweiz. Den vården får du på samma ekonomiska villkor som gäller för det landets egna invånare. I de nordiska länderna behöver du inte visa kortet.</p>
+    <p>Du kan också få ersättning i efterhand från Försäkringskassan för vård i annat EU/EES-land . Ersättningen motsvarar det som vården skulle ha kostat i det landsting eller den region som du bor i. Förutom vårdkostnader kan du också få utgifter för tandvård, läkemedel och hjälpmedel ersatta.</p>
+    <p>Om du behöver vård utanför EU, EES-länderna och Schweiz kan du i de allra flesta länder inte få dina kostnader ersatta, vare sig från Sverige eller från det land du vistas i. Det är därför viktigt att ha en privat reseförsäkring som täcker vård och kostnader för till exempel hemtransport. Har du en hemförsäkring brukar den ofta ha ett reseskydd som täcker en del kostnader.</p>
+    <p>Försäkringskassans webbplats har ytterligare information om att få vård när man är utomlands .</p>
+    <p type="title">Högkostnadsskydd</p>
+    <p>Det finns ett tak, ett så kallat högkostnadsskydd, för hur mycket du behöver betala för hälso- och sjukvård i ett landsting. Det gäller också om man söker vård i ett annat landsting än där man bor.</p>
+    <p>Högkostnadsskyddet innebär att du under en period på tolv månader sammanlagt betalar högst 1 100 kronor i patientavgifter. Ett landsting eller en region kan dock besluta om ett lägre belopp. Du börjar räkna vid det första besöket, oavsett när under året det görs. När du har betalat upp till den nivå som landstinget/regionen beslutat får du ett frikort som gäller under resten av tolvmånadersperioden. När tolv månader har gått börjar du betala igen för dina besök tills du nått upp till högkostnadsbeloppet nästa gång.</p>
+    <p>Högkostnadsskyddet täcker oftast inte</p>
+    <list>
+      <p type="listitem">de avgifter som du betalar per dag när du är inlagd på sjukhus</p>
+      <p type="listitem">vaccinationer</p>
+      <p type="listitem">intyg och hälsoundersökningar</p>
+      <p type="listitem">förebyggande åtgärder som till exempel mammografi</p>
+      <p type="listitem">kostnad för ett uteblivet besök</p>
+      <p type="listitem">kostnader för kopia av journalen</p>
+      <p type="listitem">expeditionsavgift, som tas ut om du betalar på kredit eller får fakturan hemskickad.</p>
+    </list>
+    <p>Inom tandvården gäller oftast inte sjukvårdens högkostnadsskydd och tandvårdens högkostnadsskydd är annorlunda än sjukvårdens.</p>
+    <p>Om du har ett stort och långvarigt behov av personlig omvårdnad i ditt dagliga liv kan sjukvårdens högkostnadsskydd gälla för tandvård. Det kan också gälla om du har en sjukdom där tandvård ingår som en del av en medicinsk behandling. Om du har en sjukdom som medför en ökad risk för tandskador eller om du har problem med att sköta din munhygien kan du också få tandvård till sjukvårdsavgift som ingår högkostnadsskyddet.</p>
+    <p>För läkemedel som skrivits ut av läkare, sjuksköterskor eller annan behörig i vården finns ett högkostnadsskydd som innebär att du behöver betala högst 2 200 kronor per tolvmånadersperiod. Receptfria läkemedel ingår inte i detta högkostnadsskydd.</p>
+    <p>Dessutom finns högkostnadsskydd för sjukresor och tekniska hjälpmedel som bestäms av landstingen. Det betyder att reglerna kan variera mellan olika landsting.</p>
+    <p type="title">Avgiftsfri hälso- och sjukvård</p>
+    <p>Viss hälso- och sjukvård kan vara helt avgiftsfri i en del landsting. Läkemedel som skrivs ut under dessa vårdbesök får man däremot betala för.</p>
+    <p>Besök på mödravårds- och barnavårdsmottagningar (MVC och BVC) är avgiftsfria i hela landet.</p>
+    <p>I skolhälsovården betalar du inte någon besöksavgift och de vaccinationer som erbjuds där är avgiftsfria.</p>
+    <p>I de flesta landsting betalar barn och ungdomar fram till 20-årsdagen inte någon avgift i öppen hälso- och sjukvård, till exempel vid besök på vårdcentral och ungdomsmottagning.</p>
+    <p>Har du en så kallad allmänfarlig sjukdom är det avgiftsfritt med undersökning, vård och behandling som minskar risken för smittspridning.</p>
+  </body>
+</document>

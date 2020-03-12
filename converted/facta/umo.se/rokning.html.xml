@@ -1,0 +1,92 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>697</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Tobak-alkohol-droger/Rokning</origFileName>
+    <parallel_text xml:lang="fin" location="tupakointi.html"/>
+    <parallel_text xml:lang="fit" location="polttaminen-eli-tupakointi.html"/>
+    <parallel_text xml:lang="sma" location="rievhkestimmie.html"/>
+    <parallel_text xml:lang="sme" location="borgguheapmi.html"/>
+    <parallel_text xml:lang="smj" location="suovastibme.html"/>
+    <parallel_text location="tyja.html" xml:lang="rmu"/>
+    <parallel_text location="te-phes-duhano.html" xml:lang="rmy-rka"/>
+    <parallel_text location="kana-pel-pe-duxano.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="thuviba.html" xml:lang="rmf"/>
+    <parallel_text location="pijbe-cigare.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Rökning</p>
+    <p>Alla undrar!  Vad undrar du?</p>
+    <p type="title">Rökning</p>
+    <p>Man kan röka tobak i cigaretter, cigarrer, cigariller, pipa eller vattenpipa. Rökning kan leda till olika skador och sjukdomar, och ungefär varannan person som röker dör tidigare än vad hen hade gjort utan rökning.</p>
+    <p>» Texten finns på de nationella minoritetsspråken</p>
+    <p>Cigaretter, cigarrer, cigariller och tobak till pipor innehåller finmalda tobaksblad. Men de innehåller också många andra ämnen. I en tänd cigarett finns fler än 4000 kemiska ämnen. Några av dem:</p>
+    <list>
+      <p type="listitem">Nikotin, ett gift som bara är tillåtet i tobak och i produkter som ska hjälpa den som vill sluta röka eller snusa.</p>
+      <p type="listitem">Cyanväte, en giftig gas.</p>
+      <p type="listitem">Kolmonoxid, en giftig gas som bland annat finns i bilavgaser.</p>
+      <p type="listitem">Tjära, som innehåller många olika ämnen, en del av dem kan orsaka cancer. Förutom i cigaretter används tjära bland annat i asfalt och målarfärg.</p>
+      <p type="listitem">Bly.</p>
+    </list>
+    <p>Många av ämnena som finns i cigaretter är farliga och kan ge cancer.</p>
+    <p>För att skydda unga personer från farorna med att använda tobak, finns en lag som säger att man inte får köpa tobak om man är under 18 år.</p>
+    <p type="title">Varför börjar man röka?</p>
+    <p>Det vanligaste är att man är med kompisar första gången man röker. Man vill pröva hur det smakar och hur det känns. Kanske tycker man att det är häftigt, ser snyggt ut eller får en att passa in. Nästan ingen tycker att det smakar gott första gången.</p>
+    <p>En del röker för att verka äldre, eller känna sig självständiga. Man kan också tycka att det gör det lättare att vara med andra personer, som också röker.</p>
+    <p type="title">Varför fortsätter man?</p>
+    <p>Det är lätt att bli beroende av rökning. Bara efter några cigaretter kan hjärnan bli beroende av nikotinet. Att vara beroende betyder att kroppen har vant sig vid att få något, och att det blir jobbigt om man inte får det. Då kan man få så kallade abstinensbesvär.</p>
+    <p>Rökning blir en vana, och ofta är det också en anledning till att det kan vara svårt att sluta.</p>
+    <p type="title">De flesta vet att det är farligt</p>
+    <p>Rökning kan leda till olika skador och sjukdomar. Ungefär varannan person som röker dör tidigare än vad hen hade gjort utan rökning.</p>
+    <p>De flesta vet att rökning är farligt. Men det är lätt att tänka att man själv inte ska få några sjukdomar, eller att man ska sluta innan det blir farligt.</p>
+    <p>Om man har börjat röka finns det vissa saker man kan märka ganska snart, till exempel att man får</p>
+    <list>
+      <p type="listitem">sämre kondition</p>
+      <p type="listitem">finnar</p>
+      <p type="listitem">hosta</p>
+      <p type="listitem">gulare tänder</p>
+      <p type="listitem">infektioner och pip i luftvägarna</p>
+      <p type="listitem">svårare att läka sår</p>
+      <p type="listitem">svårt att få stånd</p>
+    </list>
+    <p>Ju tidigare i livet man börjar röka, desto större är riskerna att bli beroende och för skador och sjukdomar. Både för att man då troligen röker längre, och för att lungorna är extra känsliga mot rök innan de har utvecklats färdigt.</p>
+    <p type="title">Att sluta röka</p>
+    <p>Det kan vara svårt att sluta röka, även om man vill. För en del går det väldigt lätt. Ju tidigare man slutar, desto bättre är det. Man kan bli av med de flesta skador och sjukdomar som rökning ger, om man slutar.</p>
+    <p type="title">Bra anledningar till att inte röka:</p>
+    <list>
+      <p type="listitem">Man kan ha pengar till annat, eftersom det är dyrt att röka.</p>
+      <p type="listitem">Konditionen är bättre om man inte röker.</p>
+      <p type="listitem">Man är friskare utan cigaretter, både nu och i framtiden.</p>
+      <p type="listitem">Troligen får man ett längre liv om man inte röker, i snitt tio år längre än rökare.</p>
+      <p type="listitem">Man slipper göra föräldrar och andra arga och besvikna.</p>
+      <p type="listitem">Det är skönt att slippa vara beroende. Man slipper abstinensbesvär som att bli röksugen, stressad eller orolig.</p>
+      <p type="listitem">Kläderna luktar godare.</p>
+      <p type="listitem">Andedräkten är bättre och tänderna vitare.</p>
+      <p type="listitem">Man slipper få rynkor i förtid.</p>
+      <p type="listitem">Man kan göra roligare saker med sin tid än att försöka få tag på tobak.</p>
+      <p type="listitem">Tobaksodling förstör miljön på många sätt och odlarna skadas av giftiga bekämpningsmedel.</p>
+      <p type="listitem">Man slipper stödja tobaksindustrin.</p>
+    </list>
+    <p>Om man är osäker på om man ska röka eller inte, kan man pröva att göra listor med fördelar och nackdelar. Det kan vara både små och stora saker som hälsan, att vara fräsch, vad andra personer tycker, pengar, miljön, vad man tycker om tobaksindustrin och annat. Man bestämmer själv vad man ska skriva, och hur man vill göra med rökningen.</p>
+  </body>
+</document>

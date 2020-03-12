@@ -1,0 +1,35 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>156</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/2425</origFileName>
+    <parallel_text xml:lang="sme" location="3333.html"/>
+    <parallel_text xml:lang="smj" location="4074.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Okända renar - Sametinget</p>
+    <p type="title">Okända renar</p>
+    <p>Här publiceras samebyarnas redovisningar av slaktade okända renar. Även renar slaktade i Norge förekommer.</p>
+    <p>Okända märken</p>
+    <p>Det händer att renar vandrar lång väg och kommer in i <span type="quote">"fel"</span> sameby. Om en ren påträffas inom en samebys betesområde med förfalskat, förstört eller okänt märke, eller med märke som inte är rätt utformat, ska renen enligt § 84 i rennäringslagen tas om hand av samebyn för slakt och försäljning. Köpeskillingen tillfaller då byn.</p>
+    <p>Blankett</p>
+    <p>Vid försäljning av okända renar skickar samebyn in en förteckning till Sametinget (blankett finns i högerspalten). Okända renmärken publiceras som pdf-filer.</p>
+    <p>Köpeskillingen</p>
+    <p>Den som inom två år från försäljningsdagen styrker sig som ägare till den påträffade renen har rätt att av samebyn få ut köpeskillingen med avdrag för kostnaden för renens omhändertagande.</p>
+    <p>Begäran om utbetalning</p>
+    <p>Alla yrkanden om utbetalning av köpeskilling ska ställas till den sameby/reindriftsförvaltning som har sålt renen. Sametinget har hand om utannonseringen av okända renar.</p>
+  </body>
+</document>

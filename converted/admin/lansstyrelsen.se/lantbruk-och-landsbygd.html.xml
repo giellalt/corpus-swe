@@ -1,0 +1,45 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>260</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Teckensprak/lantbruk-och-landsbygd/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="fin" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="fit" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="sma" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="sme" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmu"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rka"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmf"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmn"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Lantbruk och landsbygd - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Lantbruk och landsbygd</p>
+    </list>
+    <p type="title">Lantbruk och landsbygd</p>
+    <p>Länsstyrelsen arbetar för att EU:s och Sveriges jordbrukspolitik och landsbygdspolitik får genomslag på regional nivå. Det innebär att lantbruket ska bli konkurrenskraftigt och långsiktigt hållbart samtidigt som den ekologiska odlingen ökar och värdefulla natur- och kulturlandskap bevaras. En levande landsbygd innebär också att det finns alternativa sysselsättningar, god service och attraktiva boendemiljöer.</p>
+    <p type="title">Djurhållning</p>
+    <p>Länsstyrelsen arbetar med många frågor som rör djurhållning. Vi kontrollerar att djurstallar uppfyller kraven på en god djurmiljö. För att djuren, och i slutänden även vi människor, ska må bra är det viktigt att foder till djuren produceras, hanteras, lagras, transporteras och används på ett säkert sätt. Det kontrolleras i flera led av Länsstyrelsen och Jordbruksverket. För djuranläggningar med 400 eller flera djurenheter krävs tillstånd från Länsstyrelsen. Vi ger också tillstånd till andra verksamheter med djur, till exempel hunddagis och ridskolor.</p>
+    <p type="title">Landsbygdsutveckling</p>
+    <p>Vi tar tillvara varje bygds unika förutsättningar och bidrar därigenom till en god utveckling för landsbygden. Landsbygdsprogrammet är ett EU-program som ger aktörer och entreprenörer på landsbygden möjlighet att söka bidrag för att starta eller utvidga företag, men också för att höja kompetensen hos företagen.</p>
+    <p type="title">Lantbruk</p>
+    <p>Länsstyrelsen arbetar för att jordbruksnäringen i länet ska utvecklas. Ett livskraftigt jordbruk är förutsättningen för ett öppet odlingslandskap och en levande landsbygd. Vår huvuduppgift är att verka för ett hållbart, effektivt och miljövänligt lantbruk genom Sveriges och EU:s jordbrukspolitik. Detta innebär att vi ger information och råd till länets lantbrukare. Vi tar också emot ansökningar om EU-stöd, handlägger ärenden, kontrollerar och fattar beslut utifrån EU:s regelverk.</p>
+  </body>
+</document>

@@ -1,0 +1,27 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>131</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1600</origFileName>
+    <parallel_text xml:lang="sme" location="2846.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Om webbportalen - Sametinget</p>
+    <p type="title">Om webbportalen</p>
+    <p>Sametingets webbportal riktar sig till alla som söker kunskap om Sametingets verksamhet, både myndigheten och det politiska organet.</p>
+    <p>Målgrupper  Målgrupperna är vitt skilda. Det är samer som söker information om verksamheter som berör det samiska samhället och dem som individer.  Andra viktiga målgrupper  är myndigheter, departement, kommuner och journalister i det svenska samhället. Vi bortser inte heller från en sameintresserad allmänhet och studenter. För funktionshindrade  Portalen är anpassad för funktionshindrade i enlighet med Vägledningen för 24-timmarswebben (Verva 2006:5). Bilder ska ha alt-tester och du kan förstora texten genom att trycka på Ctrl och plustecknet samtidigt.  Hjälp oss   Informatören ansvarar för webbportalens innehåll i samarbete med respektive handläggare. Vi vill ge aktuell och korrekt information och är tacksamma om du meddelar oss om du upptäcker felaktigheter.</p>
+  </body>
+</document>

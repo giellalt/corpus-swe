@@ -1,0 +1,42 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>122</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/14949</origFileName>
+    <parallel_text xml:lang="sme" location="17393.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Filer för renmärkesböcker - Sametinget</p>
+    <p type="title">Filer för renmärkesböcker</p>
+    <p>Vi har underlag till nya renmärkesböcker som samebyar och sameföreningar kan ansöka om.</p>
+    <p>Sametinget har vidareutvecklat renmärkesregistret och kan nu göra utdrag för renmärkesböcker.</p>
+    <p><em type="italic">För samebyar och sameföreningar </em>Samebyar och sameföreningar får kostnadsfritt ansöka om underlag för renmärkesbok. Underlaget är en word- eller pdf-fil som kan skickas direkt till valfritt tryckeri, t.ex. ett lokalt tryckeri eller ett <span type="quote">”print-on-demand”</span> tryckeri på Internet. </p>
+    <p>
+      <em type="italic">Om ni vill trycka en renmärkesbok: </em>
+    </p>
+    <list>
+      <p type="listitem">Lämna in en ansökan (blankett finns i högerspalten)</p>
+      <p type="listitem">Underlag för önskade samebyar levereras till er e-postadress</p>
+      <p type="listitem">Förordet skriver ni själva</p>
+      <p type="listitem">Det är tillåtet att lägga till reklam med mera</p>
+      <p type="listitem">Underlaget får för övrigt inte ändras</p>
+      <p type="listitem">Priset vid ev. försäljning bestämmer ni själva</p>
+    </list>
+    <p>
+      <em type="italic">OBS! Sametinget trycker INTE renmärkesböcker! </em>
+    </p>
+  </body>
+</document>

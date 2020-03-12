@@ -1,0 +1,78 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>740</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Teckensprak/om-lansstyrelsen/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="om-lansstyrelsen.html"/>
+    <parallel_text xml:lang="fin" location="om-lansstyrelsen.html"/>
+    <parallel_text xml:lang="fit" location="om-lansstyrelsen.html"/>
+    <parallel_text xml:lang="sma" location="om-lansstyrelsen.html"/>
+    <parallel_text xml:lang="sme" location="om-lansstyrelsen.html"/>
+    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmu"/>
+    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmy-rka"/>
+    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmf"/>
+    <parallel_text location="om-lansstyrelsen.html" xml:lang="rmn"/>
+    <parallel_text location="om-lansstyrelsen.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Om Länsstyrelsen - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Om Länsstyrelsen</p>
+    </list>
+    <p type="title">Om Länsstyrelsen</p>
+    <p>Länsstyrelsen är en statlig myndighet som finns nära människorna i varje län. Vi är en viktig länk mellan människor och kommuner å ena sidan och regering, riksdag och centrala myndigheter å den andra. Landshövdingen är chef för Länsstyrelsen och har i uppdrag att följa utvecklingen och informera regeringen om länets behov.</p>
+    <p type="title">Vårt uppdrag</p>
+    <p>Länsstyrelsens uppdrag är att arbeta för en utveckling där miljö, tillväxt och goda levnadsvillkor går hand i hand. Kort sagt arbetar vi för en hållbar utveckling i länet. Länsstyrelsen ansvarar för att beslut från riksdagen och regeringen genomförs i länet och vi samordnar den statliga verksamheten. När det gäller länets utveckling ska vi tillvarata och arbeta för både enskilda människors och samhällets intressen.</p>
+    <p>Enligt länsstyrelseinstruktionen ska vi bland annat arbeta med</p>
+    <list>
+      <p type="listitem">livsmedelskontroll, djurskydd och allmänna veterinära frågor</p>
+      <p type="listitem">regional tillväxt</p>
+      <p type="listitem">infrastrukturplanering</p>
+      <p type="listitem">hållbar samhällsplanering och boende</p>
+      <p type="listitem">energi och klimat</p>
+      <p type="listitem">kulturmiljö</p>
+      <p type="listitem">skydd mot olyckor samt krisberedskap och civilt försvar</p>
+      <p type="listitem">naturvård samt miljö- och hälsoskydd</p>
+      <p type="listitem">lantbruk och landsbygd</p>
+      <p type="listitem">fiske</p>
+      <p type="listitem">jämställdhet</p>
+      <p type="listitem">integration.</p>
+    </list>
+    <p type="title">Landshövdingen och länsledningen</p>
+    <p>Landshövdingen är regeringens företrädare i länet och utses direkt av regeringen. En viktig uppgift för landshövdingen är att samordna den statliga verksamheten i länet, följa länets utveckling och informera regeringen om länets behov. I Stockholms, Skånes och Västa Götalands län finns en länsöverdirektör och i de andra länen ett länsråd som leder det dagliga arbetet vid Länsstyrelsen och som också är landshövdingens närmaste medarbetare och ersättare när hon eller han inte är i tjänst.</p>
+    <p type="title">Diarium</p>
+    <p>I diariet registrerar Länsstyrelsen dagligen nya ärenden, handlingar i pågående ärenden samt beslut i ärenden. Ärenderegistret är offentligt och publiceras på internet via Länsstyrelsens diarium. I vissa fall kan publicering av informationen begränsas med stöd av personuppgiftslagen.</p>
+    <p>&gt;&gt; Gå till länsstyrelsernas diarier</p>
+    <p type="title">Kungörelser och delgivningar</p>
+    <p>Länsstyrelsen fattar många olika beslut som direkt eller indirekt berör länets invånare och företag. Vissa beslut måste delges den som är berörd av ett ärende. När kretsen av berörda personer är stor kan annonsering ske i ortspressen, en så kallad kungörelseannonsering, istället för att göra ett utskick per brev.</p>
+    <p type="title">Överklaga</p>
+    <p>Om du påverkas av ett beslut som Länsstyrelsen har fattat kan du oftast överklaga det. Med beslutet får du information som förklarar hur du går tillväga. Länsstyrelsen skickar sedan ditt överklagande vidare till den myndighet som ska avgöra frågan. Vi kan också rätta eller ompröva våra egna beslut.</p>
+    <p>Många typer av beslut som fattas av en kommun, till exempel om bygglov, kan överklagas till Länsstyrelsen. Du som vill överklaga ett kommunalt beslut ska skicka ditt brev till den kommun som har fattat beslutet. Du måste vara berörd av ett beslut för att ha rätt att överklaga det.</p>
+    <p type="title">Författningar</p>
+    <p>Författningar är rättsregler som räknas som föreskrifter. De riktar sig inte till någon bestämd person utan till allmänheten. Lokala föreskrifter är bland annat beslut om vattenskydd, naturreservat, sjötrafik och älgjakt. Länsstyrelsen ger ut länets författningssamling som innehåller både föreskrifter som vi har beslutat om och föreskrifter som kommunerna eller Trafikverket har utfärdat.</p>
+    <p type="title">Remisser</p>
+    <p>Varje år kommer det in en stor mängd remisser till Länsstyrelsen. Det innebär att vi får möjlighet att lämna synpunkter på förslag från olika departement, statliga verk med flera. Länsstyrelsen skickar också många av sina förslag till beslut på remiss till berörda intressenter i länet.</p>
+    <p type="title">Pressrum</p>
+    <p>Länsstyrelsen arbetar aktivt med att sprida viktig samhällsinformation till medborgarna och medierna. Webbplatsen och våra pressmeddelanden är ett sätt att ge dig service och insyn i vårt arbete.</p>
+    <p type="title">EU och internationellt</p>
+    <p>Medlemskapet i EU påverkar oss som medborgare på flera sätt, både i stort och i smått. För Länsstyrelsen innebär det möjlighet att nyttja gemensamma resurser, men också att ta hänsyn till gemensamma regler. Flera länsstyrelser har internationella kontakter och utbyten eller deltar i olika samarbetsprojekt över nationsgränserna som på olika sätt gynnar länets utveckling. Samarbete i olika former sker även med länder utanför EU.</p>
+    <p type="title">Jobba hos oss</p>
+    <p>Länsstyrelsen är en arbetsplats med mångsidig verksamhet. Vi är en kunskaps- och tillsynsorganisation med bred kompetens inom många olika områden. Vårt dagliga arbete går ut på att se till att riksdagens och regeringens beslut genomförs i länet, samt att samordna olika intressen och föra fram invånarnas behov för ett hållbart samhälle – där ekonomisk utveckling, miljö och social välfärd förenas.</p>
+    <p type="title">Upphandlingar</p>
+    <p>Varje länsstyrelse är en egen upphandlande myndighet. Vi har fastställda riktlinjer för hur vi ska köpa eller hyra varor och tjänster och vi följer lagen om offentlig upphandling. Vi använder oss också av möjligheten att göra avrop på de statliga ramavtalen.</p>
+  </body>
+</document>

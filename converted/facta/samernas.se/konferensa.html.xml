@@ -1,0 +1,37 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Konferenser |  Samernas Utbildningscentrum</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>87</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.samernas.se/konferenser/</origFileName>
+    <parallel_text xml:lang="sme" location="konferensa.html"/>
+    <parallel_text xml:lang="smj" location="konferensa.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">
+      <em type="bold">Lokaler </em>
+    </p>
+    <p>Samernas utbildningscentrum kan erbjuda en fin miljö för konferenser, seminarier och kurser. Skolan har en aula som kan möbleras för upp till 80 personer. Flera av skolans lektionssalar har nyligen renoverats och fått nya möbler. Skolan erbjuder även rum för mindre konferenser.</p>
+    <p>Vi har eget elevhem och kan i erbjuda boende.</p>
+    <p>I skolområdet finns en trevlig och nyrenoverad torvkåta som kan användas för kvällsarrangemang och dyl.</p>
+    <p>Samernas utbildningscentrum kan tillsammans med beställare skapa kringaktiviteter.</p>
+    <p>För att göra en bokningsförfrågan klicka här!</p>
+    <p type="title" xml:lang="deu">Språkstudier</p>
+    <p type="title" xml:lang="fin">Slöjdlinjen</p>
+    <p type="title">Rennäringslinje</p>
+    <p type="title" xml:lang="nno">Samisk Mat</p>
+  </body>
+</document>

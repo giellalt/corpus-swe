@@ -1,0 +1,39 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>262</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/lantbruk-och-landsbygd/djurhallning/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="lantbruk-och-landsbygd-djurhallning.html"/>
+    <parallel_text xml:lang="sma" location="lantbruk-och-landsbygd-djurhallning.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Djurhållning - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Djurhållning</p>
+    <p>Kristina Hansson</p>
+    <p>
+      <em type="italic">Länsstyrelsen arbetar med många frågor som berör djurhållningen Vi kontrollerar primärproduktion och att djurstallar uppfyller kraven på en god djurmiljö. Vi ger tillstånd för olika verksamheter med djur. </em>
+    </p>
+    <p>Djuren på landsbygden bidrar till matproduktionen men ger också möjlighet till motion och rekreation. Djuren håller dessutom landskapet öppet och bidrar till biologisk mångfald och vackra miljöer. Djurhållningen skapar på detta sätt arbetstillfällen både i städer och på landsbygden, inom vitt skilda områden som jordbruk, livsmedelsindustri och turism.</p>
+    <p type="title">Förprövning av djurstallar</p>
+    <p>Djurskyddslagen anger hur djurstallar ska se ut. Vi granskar ritningar över olika typer av stallbyggnader innan de byggs för att se till att de lever upp till djurskyddslagens krav.</p>
+    <p type="title">Primärproduktion av foder och livsmedel</p>
+    <p>För att djuren, och i slutänden även vi människor, ska må bra är det viktigt att foder till djuren produceras, hanteras, lagras, transporteras och används på ett säkert sätt. Den så kallade primärproduktionen är första ledet i livsmedelskedjan. Exempel på primärproduktion är odling och skörd av frukt och grönsaker, spannmål och grovfoder, uppfödning av djur och mjölkning. Primärproduktionen kontrolleras i flera led av länsstyrelsen och Jordbruksverket. Alla anläggningar för primärproduktion ska vara registrerade, och det finns regler om vilka tillsatser, läkemedel, genmodifieringar med mera som är tillåtna.</p>
+    <p type="title">Tillstånd för olika verksamheter med djur</p>
+    <p>Om antalet djurenheter på en produktionsplats överstiger 100 ska anmälan göras till kommunen. För djuranläggningar med 400 eller flera djurenheter krävs tillstånd från Länsstyrelsen. Djurenheter beräknas enligt förordningen (SFS 1998:899) om miljöfarlig verksamhet och hälsoskydd.</p>
+    <p>Vi ger tillstånd till andra verksamheter med djur till exempel hunddagis och ridskolor.</p>
+  </body>
+</document>

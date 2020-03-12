@@ -1,0 +1,42 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>370</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/72119</origFileName>
+    <parallel_text xml:lang="sme" location="72953.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Språkspärrprojektet - Sametinget</p>
+    <p type="title">Språkspärrprojektet</p>
+    <p>Många samer har passiva kunskaper i samiska men kommer inte igång med att prata. Jane Juuso vid språkcentret Isak Saba Guovddáš i Unjárga/Nesseby, Norge, har utvecklat en metod för att bryta språkspärren. Språkcentrum har i samarbete med Jane Juuso drivit ett ettårigt projekt, där vi anpassade metoden till det sydsamiska området.</p>
+    <p><em type="italic">Det är välkänt </em>att många samer har en tyst tvåspråkighet, eller passiva kunskaper i samiska. Man förstår, man går kurser, men kommer inte igång med att prata annat än i vissa trygga situationer. Vad beror detta på? Det måste handla om annat än språkkunskaper. </p>
+    <p><em type="italic">Detta fenomen </em>kallas ibland språkspärr. Många säger: - Det är ju bara att börja prata – du som kan samiska. Men att våga börja tala är ett steg som kan vara mycket svårt att ta. Det kan vara för smärtsamt att försöka, så att man tänker <span type="quote">”jag gör det sedan, just nu har jag inte tid”</span> - eller någon annan undvikande strategi. </p>
+    <p><em type="italic">I språkcentrums språkspärrprojekt </em>samarbetade vi med Jane Juuso. Hon har utarbetat en KBT-metod för att komma till rätta med alla negativa känslor och ge deltagarna verktyg att övervinna sig själva. Vi anpassade metoden till det sydsamiska området. Målgruppen var passiva sydsamiska talare i Jämtlands och Västerbottens län. </p>
+    <p><em type="italic">Våra tankar påverkar </em>våra känslor. Om vi ändrar våra tankar kan vi förändra känslorna. För att kunna förändra våra tankemönster måste vi lära oss att det går att tänka annorlunda kring en viss situation. Alternativa tankar är kunskapen om vilka tankar som hämmar och vilka som främjar vår förmåga att tala samiska. </p>
+    <p><em type="italic">För att behärska ett språk </em>man inte har vågat tala <span type="quote">”offentligt”</span> krävs mycket hårt arbete och mycket träning. Om det <span type="quote">”inre samtalet”</span> – kognitionen – har fokus på hur obegåvad man är därför att man aldrig lyckas komma igång med att tala samiska, är det viktigt att sträva efter att förflytta det inre samtalets fokus till <span type="quote">”det här klarar jag – det är inte farligt”</span>. </p>
+    <p>
+      <em type="italic">Kännetecken på alternativa tankar: </em>
+    </p>
+    <list>
+      <p type="listitem">Hur kan man tänka annorlunda kring sin förmåga att tala samiska?</p>
+      <p type="listitem">Testa om tolkningar av situationer är realistiska och sanna.</p>
+      <p type="listitem">Vad skulle någon annan ha tänkt om den här situationen?</p>
+    </list>
+    <p>
+      <em type="italic">Läs mer om projektet i rapporten som du hittar i högerspalten! </em>
+    </p>
+  </body>
+</document>

@@ -1,0 +1,38 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>318</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1127</origFileName>
+    <parallel_text xml:lang="sme" location="3083.html"/>
+    <parallel_text xml:lang="smj" location="4072.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Renskötselns historia - Sametinget</p>
+    <p>Detalj från skulptur med illustrationer av traditionellt sameliv, slöjdad av Lars Levi Sunna. Foto: Sametinget.</p>
+    <p type="title">Renskötselns historia</p>
+    <p>Det samiska kulturarvet bygger till stora delar på renen. I jakt- och fångstsamhället jagade man vildrenar tillsammans med andra vilda djur. Renskötsel i större skala har funnits sedan 1600-talet.</p>
+    <p>Vildrensjakt</p>
+    <p>Vi vet genom hällmålningar och bevarade jaktgropssystem i naturen&#13; att jakt på vildren, älg och björn förekommer flera tusen år före vår tid.&#13; År 98 e. Kr. skriver romerska och grekiska historieskrivare om det märkvärdiga pälsklädda folket i Thule som jagar renar och tar sig fram på skidor.</p>
+    <p>Tamrenskötsel</p>
+    <p>På 800-talet besöker den norske storbonden Ottar det engelska hovet. Han berättar för kungen om samerna och att renar tämjdes och sköttes i hjordar. Hans berättelse blir nedskriven och därför vet vi att tamrenskötsel förekommer.</p>
+    <p>Renskötseln förändras</p>
+    <p>Under 1500-, 1600- och 1700-talen utvecklas renskötseln till att bli mer storskalig och en grundval för samernas försörjning. Detta beror delvis på ett ökat skattetryck från kronan på grund av Sveriges stormaktsambitioner. Samerna är nomader och flyttar tillsammans med renarna till fots eller på skidor. En intensiv renskötsel bedrivs. Renarna används för transporter, mjölk- och köttproduktion. I skogslandet utvecklas en mer stationär renskötsel, skogsrenskötseln.</p>
+    <p>Moderna hjälpmedel</p>
+    <p>Under 1900-talet blir renskötseln mer inriktad på köttproduktion och&#13; den extensiva renskötseln tar över. Från 1960-talet har renskötseln blivit mer beroende av tekniska hjälpmedel, precis som det övriga samhället. Idag är snöskoter och fyrhjuling oumbärliga hjälpmedel. Helikopter används för transporter och för att driva ren under vissa omständigheter. I fjällvärlden är satellittelefonen nödvändig för kontakter med omvärlden.</p>
+    <p>Köttproduktion</p>
+    <p>Dagens&#13; moderna renskötsel bygger på köttproduktion och är arealkrävande. Renarna behöver inte daglig bevakning under hela&#13; året utan vandrar fritt under vissa perioder. I&#13; Sverige bedrivs renskötsel i Norrbottens, Västerbottens och Jämtlands&#13; län, samt i delar av Dalarnas, Västernorrlands och Gävleborgs län. (I&#13; Gävleborg finns vinterbetemarker som ifrågasätts av markägare men där&#13; samer menar att betesrätt föreligger.)</p>
+  </body>
+</document>
