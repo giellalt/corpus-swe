@@ -1,0 +1,57 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>283</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/lantbruk-och-landsbygd/landsbygdsutveckling/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="lantbruk-och-landsbygd-landsbygdsutveckling.html"/>
+    <parallel_text xml:lang="sma" location="lantbruk-och-landsbygd-landsbygdsutveckling.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Landsbygdsutveckling - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Landsbygdsutveckling</p>
+    <p>Bondens egen marknad i Falun Foto: Märta Ohlsson</p>
+    <p>
+      <em type="italic">Länsstyrelsens arbete med att utveckla landsbygden går bland annat ut på att stödja olika aktörers idéer och engagemang så att det blir lättare att driva företag, finna sysselsättning och få en attraktiv livsmiljö. Vi tar tillvara varje bygds unika förutsättningar och bidrar därigenom till en god utveckling. </em>
+    </p>
+    <p type="title">Landsbygdsprogrammet 2014-2020</p>
+    <p>Landsbygdsprogrammet ska bidra till lönsamma och livskraftiga företag, aktiva bönder som ger oss öppna marker med betande djur och en modern landsbygd. Regeringen har överlämnat förslaget till nytt landsbygdsprogram för perioden 2014-2020 till EU-kommissionen. Därefter granskar kommissionen programmet. Ett godkänt program kan finnas i juni 2015.</p>
+    <p type="title">Vad gäller för 2014?</p>
+    <p>Regeringen fattade i september 2013 beslut om att, som en övergångslösning, förlänga vissa miljöåtgärder från det tidigare landsbygdsprogrammet under 2014. De miljöersättningar som omfattas av detta beslut är miljöersättningar för skötsel av betesmarker och slåtterängar, vallersättning och ersättning för ekologisk produktion. Därutöver kommer också kompensationsbidraget förlängas under 2014 liksom Greppa Näringen och stöd till stängsel mot rovdjur. Åtgärderna i det nya landsbygdsprogrammet kommer öppnas för ansökan successivt under perioden 2014 till 2016.</p>
+    <p>Läs gärna mer om nya Landsbygdsprogrammet 2014-2020 på Jordbruksverkets webbplats.</p>
+    <p type="title">Kontakta oss</p>
+    <p>Madeleine Törnblom</p>
+    <p>Funktionssamordnare- Landsbygdsutveckling</p>
+    <p>madeleine punkt tornblom snabela lansstyrelsen punkt se¤madeleine punkt tornblom snabela lansstyrelsen punkt se</p>
+    <p>010-2250301</p>
+    <p>Björn Forsberg</p>
+    <p>Landsbygdsdirektör</p>
+    <p>tjänstledig 1/1-30/6 2015</p>
+    <p>Bjorn punkt Forsberg snabela lansstyrelsen punkt se¤Bjorn punkt Forsberg snabela lansstyrelsen punkt se</p>
+    <p>010-2250239</p>
+    <p>Mikael Selander</p>
+    <p>Vik. enhetschef landsbygsenheten 1/1-30/6 2015. Enhetschef Näringslivsenheten</p>
+    <p>Mikael punkt Selander snabela lansstyrelsen punkt se¤Mikael punkt Selander snabela lansstyrelsen punkt se</p>
+    <p>010-2250388</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

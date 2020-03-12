@@ -1,0 +1,48 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>142</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Nationella-minoritetssprak</origFileName>
+    <parallel_text xml:lang="fin" location="ruotsin-kansalliset-vahemmistot-ja-vahemmistokielet.html"/>
+    <parallel_text xml:lang="fit" location="ruottin-kansaliset-vahemistot-ja-niitten-kielet.html"/>
+    <parallel_text xml:lang="sma" location="sveerjen-nasjovnelle-unnebelahkoeh-jih-dej-gielh.html"/>
+    <parallel_text xml:lang="sme" location="ruoa-nauvnnala-minoritehtat-ja-sin-giella.html"/>
+    <parallel_text xml:lang="smj" location="minoritetssprakstext.html"/>
+    <parallel_text location="svedijos-nacionalikano-haripar-ta-dovas-rakkrepra.html" xml:lang="rmu"/>
+    <parallel_text location="vedoske-nationalne-minoritetori-aj-lenge-iba-.html" xml:lang="rmy-rka"/>
+    <parallel_text location="minoritetssprakstext.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="svedosko-nationelne-minoriteturi-ta-lengo-tibja.html" xml:lang="rmf"/>
+    <parallel_text location="e-vedskakere-nacionalno-minoritetia-hem-olengere-hibja.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Nationella minoritetsspråk</p>
+    <p>Alla undrar!  Vad undrar du?</p>
+    <p type="title">Nationella minoritetsspråk</p>
+    <p>Om Sveriges nationella minoritetsspråk på 1177 Vårdguiden och UMO.se</p>
+    <p>Sverigefinnar, judar, romer, samer och tornedalingar är Sveriges nationella minoriteter. Det innebär att de har en långvarig språk- och kulturgemenskap innanför den nationella gemenskapen.</p>
+    <p>Det är upp till varje person att avgöra om man tillhör en av dessa nationella minoriteter eller inte. Det handlar om vilken grupp man identifierar sig med och känner samhörighet med.</p>
+    <p>1999 erkändes de fem grupperna som nationella minoriteter av riksdagen. 2010 kom en ny lag som stärker de nationella minoriteternas rättigheter och minoritetsspråkens ställning.</p>
+    <p>1177 Vårdguiden och UMO.se publicerar ett antal texter om hälsa, vård och rättigheter i vården på tolv erkända varieteter av de fem nationella minoriteternas språk.</p>
+    <p>Vi har följt Språkrådets rekommendationer när vi har gjort översättningarna, och texterna är granskade i samråd med företrädare för minoriteterna.</p>
+  </body>
+</document>

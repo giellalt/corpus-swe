@@ -1,0 +1,40 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>313</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/energi/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-energi.html"/>
+    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-energi.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Energi - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Energi</p>
+    <p>Stefan Rystedt</p>
+    <p>
+      <em type="italic">Länsstyrelsen samordnar det regionala arbetet för en långsiktigt trygg och hållbar energiförsörjning. Tillsammans med länets aktörer har vi tagit fram en klimat- och energistrategi som visar hur vi ska arbeta för att klara Sveriges klimatmål och energiomställningen. </em>
+    </p>
+    <p>Förnybara energikällor som vindkraft, solenergi och bioenergi är ett viktigt steg mot ett långsiktigt hållbart samhälle. Men för att klara energiomställningen behöver vi också använda energin betydligt effektivare än i dag, bland annat när det gäller transporter, uppvärmning och kylning, belysning och industriprocesser. Det behövs både ny teknik och ändrade beteenden. Länsstyrelsen driver olika projekt för att främja en hållbar utveckling och tar fram planeringsunderlag för att bland annat stödja kommunernas energiplanering.</p>
+    <p type="title">Miljötillstånd och tillsyn</p>
+    <p>Länsstyrelsens miljöprövningsdelegation beslutar om tillstånd för stora energianläggningar som vindkraftsparker och fjärrvärmeverk. Delegationen fastställer också villkoren för verksamheten. När det gäller att anlägga kraft- och gasledningar bevakar vi frågor som rör hälsa och säkerhet samt ser till att natur- och kulturvärden inte skadas. Viljan och förmågan att hushålla med energi är viktiga aspekter, både när vi beviljar tillstånd för olika verksamheter och ser till att miljölagstiftningen efterlevs. Tillsynen genomförs även av kommunerna.</p>
+    <p type="title">Energistöd</p>
+    <p>Det finns olika typer av statliga bidrag för energieffektivisering och övergång till förnybar energi, och Länsstyrelsen beslutar om flera av dem. Stöden till lantbrukare och andra företagare kan bland annat gälla dem som vill odla energigrödor eller göra vissa energirelaterade investeringar.</p>
+    <p type="title">Näringslivsutveckling</p>
+    <p>Länsstyrelsen stödjer utvecklingen av miljövänlig och effektiv teknik i näringslivet, och vi stödjer en ökad produktion av förnybar energi. Två utmaningar är att stimulera företagen till affärsutveckling utifrån miljöfrågor och till att använda miljöhänsyn som ett sätt att stärka sin konkurrenskraft.</p>
+    <p type="title">Samhällsplanering</p>
+    <p>En hållbar samhällsplanering är avgörande för att vi på lång sikt ska klara klimat- och energimålen. Länsstyrelsen kan visa hur energi- och klimataspekter kan arbetas in i bland annat den regionala transportplaneringen och kommunernas fysiska planering.</p>
+  </body>
+</document>

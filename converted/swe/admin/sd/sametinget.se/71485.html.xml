@@ -1,0 +1,32 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>175</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/71485</origFileName>
+    <parallel_text xml:lang="sme" location="71617.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Språknämnden stöder Malmös ansökan att bli förvaltningskommun för samiska - Sametinget</p>
+    <p type="title">Språknämnden stöder Malmös ansökan att bli förvaltningskommun för samiska</p>
+    <p>Sametingets språknämnd har beslutat att stödja Malmö kommuns ambitioner att bli förvaltningskommun för samiska. De ser gärna att fler svenska kommuner engagerar sig i arbetet med att revitalisera och synliggöra samisk språkanvändning.</p>
+    <p><em type="italic">De nationella minoritetsspråken </em>har existerat sida vid sida med det svenska språket under mycket lång tid. Under 1900-talet drev staten en omfattande försvenskningsprocess, särskilt via skolväsendet, och de nationella minoritetsspråken tappade status och användbarhet i den offentliga miljön. Samiska blev till exempel ett skolämne först i 1962 års läroplan och då endast två timmar i veckan. </p>
+    <p><em type="italic">Sedan minoritetsreformen 2010 </em>finns nya möjligheter för kommuner och myndigheter att stärka samisk språkanvändning och samråda med samer boende i kommunen. För närvarande finns 19 förvaltningskommuner för samiska. Fler kommuner kan frivilligt ansöka om att bli förvaltningskommuner. Sametingets språknämnd vill därför uppmuntra kommuner med samiska invånare att överväga möjligheten att bli en förvaltningskommun för det samiska språket. </p>
+    <p>
+      <em type="italic">För språknämnden </em>
+    </p>
+    <p>Josefina Lundgren Skerk, Ordförande 070-582 21 21 josefina.skerk@sametinget.se</p>
+  </body>
+</document>

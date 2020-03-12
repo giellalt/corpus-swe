@@ -1,0 +1,34 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>271</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1043</origFileName>
+    <parallel_text xml:lang="sme" location="2844.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Organisation - Sametinget</p>
+    <p>Marie Enoksson.</p>
+    <p type="title">Organisation</p>
+    <p>Sametinget är både ett folkvalt parlament och en statlig myndighet. Sametingets arbetsuppgifter är reglerade i sametingslagen (SFS 1992:1433). Det finns ett kansli med tjänstemän som sköter de dagliga myndighetsuppgifterna och en politisk nivå med folkvalda politiker.</p>
+    <p>Samernas riksdag  Sametingets struktur liknar ingen annan myndighet i Sverige. Dels kan Sametinget ses som samernas riksdag. Dels kan organisationen jämföras med den kommunala organisationen. Men Sametinget har inte beskattningsrätt och kan inte stifta lagar. <em type="italic">Det politiska styret </em>Det politiska styret består av Sametingets plenum (<span type="quote">"samernas riksdag"</span>) och Sametingets styrelse (<span type="quote">"regeringen"</span>). Sametingets plenum har ett presidium som förbereder och ansvarar för plenums möten. Kansliet  Sametingets kansli har det dagliga ansvaret för att sköta myndighetsuppgifterna. Sametinget som statlig myndighet lyder direkt under Landsbygdsdepartementet. Huvudkansliet finns i Kiruna. Vi har lokalkontor i Jokkmokk, Tärnaby och Östersund. Kansliet är organiserat i tre avdelningar (se skiss i högerspalten). Arbetsuppgifter  Sametingets grundläggande arbetsuppgift är att verka för en levande samisk kultur. Med samisk kultur innefattas även den samiska näringsverksamheten. Arbetsuppgifterna är reglerade i Sametingslagen (SFS 1992:1433), där det står att Sametinget skall: </p>
+    <p>1. Besluta om fördelningen av statens bidrag och av medel ur Samefonden till samisk kultur och samiska organisationer samt av andra medel som ställs till samernas gemensamma förfogande</p>
+    <p>2. Utse den styrelse för sameskolan som avses i 8 kap. 6 § Skollagen</p>
+    <p>3. Fastställa mål för och leda det samiska språkarbetet</p>
+    <p>4. Medverka i samhällsplaneringen och bevaka att samiska behov beaktas, däribland rennäringens intressen vid utnyttjande av mark och vatten</p>
+    <p>5. Informera om samiska förhållanden samt</p>
+    <p>6. utföra de övriga uppgifter som ankommer på Sametinget enligt lag eller annan författning (Lag 2006:803).</p>
+  </body>
+</document>

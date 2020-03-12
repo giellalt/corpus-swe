@@ -1,0 +1,51 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>310</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Tema/Tander/Skotsel/Borsta-tander</origFileName>
+    <parallel_text xml:lang="eng" location="borsta-tander1.html"/>
+    <parallel_text xml:lang="fin" location="borsta-tander1.html"/>
+    <parallel_text xml:lang="rus" location="borsta-tander1.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Borsta tänder - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Tänder</p>
+    <list>
+      <p type="listitem">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title">Borsta tänder</p>
+    <p type="title">Borsta tänder rätt</p>
+    <p type="title">Steg 1</p>
+    <p>Vinkla borsten så att de översta stråna når ända till tandköttskanten. Bakteriebeläggningar finns framför allt vid tandköttskanten och mellan tänderna.</p>
+    <p type="title">Steg 2</p>
+    <p>För borsten fram och tillbaka i sidled, med mycket små lätta rörelser, tand för tand.</p>
+    <p type="title">Steg 3</p>
+    <p>Borsta insidan, utsidan och tuggytorna.</p>
+    <p>När insidan av de främre tänderna i över- och underkäke borstas, hålls skaftet rakt ut.Se till att borsten når tandköttet.Tryck inte för hårt med borsten och behåll små rörelser hela tiden.</p>
+    <p>Hela tandborstningen bör ta ungefär 2 minuter.</p>
+    <p type="title">Två gånger om dagen</p>
+    <p>Bakterier i munnen kan orsaka både hål i tänderna och tandköttsinflammation. Det är därför bra att ta som vana att borsta tänderna två gånger om dagen, efter frukosten och efter sista målet på kvällen. Använd en mjuk, tät tandborste och en till två centimeter tandkräm. Det är viktigt att tandkrämen innehåller fluor, som stärker tänderna.</p>
+    <p type="title">Sila tandkrämen</p>
+    <p>Fluorets verkan blir bättre om du silar tandkrämen mellan tänderna och sköljer munnen med endast en liten mängd vatten efteråt.</p>
+    <p type="title">Eltandborste</p>
+    <p>Det finns många olika slags eltandborstar. En typ av eltandborste har visat sig ta bort bakteriebeläggningar mer effektivt än en vanlig tandborste. Det är den som har ett runt borsthuvud som roterar, egentligen rör sig borsthuvudet snabbt i halvcirklar fram och tillbaka – oscillerar. Du måste själv anpassa borstens tryck mot tandytan och flytta borsten metodiskt tand för tand precis som när du borstar med en vanlig borste. Rådgör med tandläkare eller tandhygienist om vilken eltandborste som passar bäst.</p>
+    <p type="title">Även tandtråd och tandstickor behövs</p>
+    <p>Det är också viktigt att du gör rent mellan tänderna med hjälp av tandtråd, tandstickor eller mellanrumsborste en gång om dagen. Du bör helst göra detta före tandborstningen om du väljer att göra all rengöring på en gång.</p>
+  </body>
+</document>

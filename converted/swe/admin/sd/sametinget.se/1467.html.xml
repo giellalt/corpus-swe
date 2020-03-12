@@ -1,0 +1,36 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>225</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1467</origFileName>
+    <parallel_text xml:lang="sme" location="5242.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Samisk litteratur - Sametinget</p>
+    <p>Det finns flera kända samiska författare. Foto: Sametinget.</p>
+    <p type="title">Samisk litteratur</p>
+    <p>Det man har skrivit om samer är numera ganska omfattande. Det mesta som skrivits är skildringar som man sett på samerna utifrån. Författare som</p>
+    <p>
+      <em type="bold">Tacitus, Adam av Bremen, Olaus Magnus </em>
+    </p>
+    <p>gav fragmentariska skildringar av samerna.</p>
+    <p>Några av de tidigaste verken på samiska är översättningar av religiös litteratur, som tex <em type="italic">ABC-Book på Lappesko Tungomål </em>, som också är en katekes (utkom 1619). </p>
+    <p>Då det samiska språket länge var ett muntligt språk, kan man säga att det till stor del är i jojken som vi finner ett litterärt arv. Här finns det uppteckningar från <em type="italic">Olof Sirmas </em>jojkar <em type="italic">i Schefferus: Lapponia </em>(1673) till senare tiders uttryck av samisk poesi. <em type="italic">Just Qvigstad </em>dokumenterade samiska folksagor och sägner i <em type="italic">Lappiske eventyr og sagn </em>(1-4, 1927-29). </p>
+    <p>Man kan säga att <em type="italic">Johan Turis </em>bok <em type="italic">Muittalus samiid birra </em>(Berättelser om samerna, som utkom 1910) var början till att samerna berättade om sig själva. Han illustrerade också boken med egna teckningar. <em type="italic">Matti Aikio, Andreas Larsen </em>och <em type="italic">Pedar Jalvi </em>från norsk och finsk sida av Sápmi var samtida med Johan Turi. </p>
+    <p>Till senare författargenerationer hör Andreas <em type="italic">Labba, Per Idivuoma, Erik Nilsson Mankok, </em><em type="italic">Annok Sarri Nordrå, </em>samt <em type="italic">Paulus Utsi. </em></p>
+    <p>Sedan kom <em type="italic">Nils Aslak Valkeapää </em>(Áilluhaš ) som för sin bok <em type="italic">Beaivi, áh </em><em type="italic">ž </em><em type="italic">ášan </em>(Solen, min far) fick Nordiska rådets litteraturpris 1991. </p>
+  </body>
+</document>

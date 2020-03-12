@@ -1,0 +1,58 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>417</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1498</origFileName>
+    <parallel_text xml:lang="sme" location="3325.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Katastrofskadeskydd - Sametinget</p>
+    <p>Om renbetet är låst kan renarna utfodras med pellets. Foto: Carl-Johan Utsi.</p>
+    <p type="title">Katastrofskadeskydd</p>
+    <p>Vintern är en känslig tid för renarna. Det händer att betesmarker blir helt låsta på grund av isbildning närmast marken. Oftast finns det reservområden att ta till och det är sällan hela renbetesområdet drabbas samtidigt.</p>
+    <p>Sametinget är den myndighet som behandlar samebyarnas ansökningar om medel för katastrofskadeskydd. I allmänhet finns i Sametingets anslag <span type="quote">"Främjande av rennäringen"</span> visst utrymme för katastrofstöd till områden med låst vinterbete. I extrema situationer måste extra medel för katastrofskadeskydd begäras av regeringen.</p>
+    <p><em type="italic">Regler för ansökan </em>Samebyar kan ansöka om bidrag till kostnader för utfodring som uppstått på grund av synnerligen svåra betesförhållanden. </p>
+    <list>
+      <p type="listitem">Kostnader för utfodringar som normalt förekommer i en sameby ersätts inte.</p>
+      <p type="listitem">Bidrag lämnas med högst hälften av verifierade kostnader för foder, ensilage eller lav.</p>
+      <p type="listitem">Betesförhållandena ska <em type="italic">bedömas </em>medföra ett utfodringsbehov om minst 60 dagar. (Samebyn blir dock inte återbetalningsskyldig om det visar sig att utfodringsbehovet inte kommer upp i 60 dagar.) </p>
+      <p type="listitem">Bidrag kan också lämnas för lastbilstransport av foder till upplagsplats samt lossning (F-skattsedel gäller).</p>
+    </list>
+    <p>
+      <em type="italic">OBS! Ansökan ska vara skriftlig och bidrag utbetalas i förekommande fall från och med den dag ansökan inkommit till Sametinget. </em>
+    </p>
+    <list>
+      <p type="listitem">Ett utfodringsbehov om minst 60 dagar måste finnas, dvs de dåliga betesförhållandena måste vara långvariga.</p>
+      <p type="listitem">Bidrag lämnas i efterskott med högst hälften av verifierade kostnader, inklusive lastbilstransport av fodret.</p>
+      <p type="listitem">Innan Sametinget fattar beslut ska betesundersökningar genomföras av särskild fältpersonal.</p>
+      <p type="listitem">Utfodringar som normalt förekommer i en sameby ersätts inte.</p>
+    </list>
+    <p>Bidrag lämnas inte för utfodring efter 30 april. Ansökan ska undertecknas av samebyns firmatecknare. Efter att ansökan inkommit utförs betesundersökningar av Sametingets utsedda betesundersökningsgrupp. Betesgruppens samlade bedömning utgör tillsammans med samebyns ansökan underlag för Sametingets beslut om bidrag. <em type="italic">Ansökan ska innehålla: </em></p>
+    <list>
+      <p type="listitem">om ansökan gäller hela eller delar av samebyn</p>
+      <p type="listitem">antal renar som ska utfodras</p>
+      <p type="listitem">redogörelse för väder, betesförhållanden och renskötseln i samebyn</p>
+      <p type="listitem">karta över betesområdena med beskrivning</p>
+      <p type="listitem">om beredskap finns för försvårade betesförhållanden</p>
+      <p type="listitem">om reservbete finns</p>
+      <p type="listitem">redovisning om var samebyns renar betat och om renar transporterats till nya områden</p>
+      <p type="listitem">påverkande faktorer som försvårar användandet av renbete</p>
+      <p type="listitem">hur man säkrar vattentillgång vid utfodring av renar samt</p>
+      <p type="listitem">hur man värnar om renarnas bästa vid utfodring</p>
+    </list>
+    <p>Om ansökan inte är fullständig kommer Sametinget att begära in kompletterande uppgifter. Om betesproblem råder i flera samebyar kan Sametinget behöva att avvakta resultaten innan beslut kan tas till alla inkomna ansökningar. När ansökan kommit in kontaktar Sametinget samebyn för att bestämma tid för betessyn. <em type="italic">Rekvisition </em>Vid rekvisition av medel skall blanketten i högerspalten fyllas i och skickas in. </p>
+  </body>
+</document>

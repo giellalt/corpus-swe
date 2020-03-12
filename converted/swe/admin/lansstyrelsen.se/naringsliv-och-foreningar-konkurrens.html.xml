@@ -1,0 +1,34 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>135</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/konkurrens/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar-konkurrens.html"/>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-konkurrens.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Konkurrens - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Konkurrens</p>
+    <p>
+      <em type="italic">Länsstyrelsen ska främja en effektiv konkurrens i privata och offentliga verksamheter till nytta för dig som konsument och skattebetalare. Arbetet görs i nära samarbete med Konkurrensverket. </em>
+    </p>
+    <p>Vi ska informera om konkurrensfrågor och uppmärksamma Konkurrensverket om det finns tecken på att konkurrensbestämmelserna inte följs.</p>
+    <p>Konkurrens stimulerar till en bättre användning av samhällets resurser och gör det möjligt för nya företag att komma in på marknaden. För att konkurrensen ska fungera behövs effektiva spelregler. Konkurrenslagen anger ramarna för vad som är tillåtet.</p>
+    <p>Den offentliga sektorns inköp av varor och tjänster ska gå rätt till. Avsikten är att leverantörer ska få lika konkurrensvillkor och att skattemedlen ska användas på bästa sätt.</p>
+    <p>Misstänker du att några anbudsgivare har kommit överens om att sätta konkurrensen ur spel? Då ska du kontakta oss eller Konkurrensverket.</p>
+  </body>
+</document>

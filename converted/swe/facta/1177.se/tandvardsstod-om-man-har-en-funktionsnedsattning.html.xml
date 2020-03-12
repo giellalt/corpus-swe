@@ -1,0 +1,65 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>660</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Regler-och-rattigheter/Tandvardsstod-om-man-har-en-funktionsnedsattning</origFileName>
+    <parallel_text xml:lang="eng" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/>
+    <parallel_text xml:lang="fin" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/>
+    <parallel_text xml:lang="fit" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/>
+    <parallel_text xml:lang="sme" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Tandvård om man har en funktionsnedsättning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Tandvård om man har en funktionsnedsättning</p>
+    <p type="title">Om man behöver mycket tandvård</p>
+    <p type="title">﻿﻿Guide om hur du ansöker om det ekonomiska stödet</p>
+    <p type="title">Så här gör du</p>
+    <p type="title">Steg 1</p>
+    <p>Hör efter med din läkare om du har rätt till tandvårdsstöd.</p>
+    <p>Om du är berättigad till detta ska din läkare skriva ett speciellt intyg som beskriver både din sjukdom och din funktionsnedsättning.</p>
+    <p type="title">Steg 2</p>
+    <p>Läkarintyget skickas av läkaren, tandvården eller dig själv till landstinget eller regionen som har hand om tandvården där du bor.</p>
+    <p>Ett beslut fattas om du har rätt till tandvårdsstödet.</p>
+    <p type="title">Steg 3</p>
+    <p>Om du har rätt till stöd får du ett tandvårdskort.</p>
+    <p>Visa alltid upp kortet när du går till din tandläkare eller tandhygienist. Då betalar du samma avgift som för ett besök i sjukvården. Dessutom gäller sjukvårdens högkostnadsskydd och frikort.</p>
+    <p>Om man har vissa långvariga sjukdomar och funktionsnedsättningar behöver man ofta mer tandvård än andra. Det kan bero på att sjukdomen i sig medför en ökad risk för tandskador eller problem med att sköta sin munhygien, till exempel för att man skakar eller är helt eller delvis förlamad i ansiktet.</p>
+    <p>Man kan på grund av en sjukdom även ha svårt att gapa och då kan det vara svårt för tandläkaren eller tandhygienisten att utföra tandvård. Tandvården kostar då som sjukvård . Det innebär att avgiften får räknas samman med andra avgifter för hälso- och sjukvård och därmed ingå i sjukvårdens högkostnadsskydd.</p>
+    <p>Det är inte all tandvård som ingår i stödet. Den tandvård som ingår är undersökningar, förebyggande vård, lagningar, behandling av tandlossningssjukdom, rotfyllningar och utdragning av tänder. Avtagbara proteser ingår också i tandvårdsstödet. Däremot ingår inte fasta proteser som kronor, broar och implantat.</p>
+    <p>Man väljer själv vilken tandläkare och tandhygienist man vill gå till.</p>
+    <p type="title">Vem har rätt till tandvårdsstödet?</p>
+    <p>Det är landstinget eller regionen där man bor som bedömer om man har rätt till tandvårdsstödet. Varje ansökan bedöms individuellt. Det räcker i regel inte att man har fått en diagnos på sin sjukdom eller sitt tillstånd. Funktionsnedsättningen ska också bedömas, det vill säga hur sjukdomen påverkar möjligheten att sköta den egna munhygienen och vilka problem som kan uppstå vid tandvårdsbehandling.</p>
+    <p>Till de långvariga sjukdomar och funktionsnedsättningar som kan ge rätt till tandvårdsstöd hör:</p>
+    <list>
+      <p type="listitem">Psykisk sjukdom som leder till att man har svårt att sköta sin munhygien.</p>
+      <p type="listitem">Parkinsons sjukdom , multipel skleros, MS och amyotrofisk lateralskleros, ALS , som alla är sjukdomar i nervsystemet.</p>
+      <p type="listitem">Cerebral pares, CP .</p>
+      <p type="listitem">De reumatiska sjukdomarna reumatoid artrit, sklerodermi och systemisk lupus erythematosus, SLE .</p>
+      <p type="listitem">Missbildningar eller skador i käkarna.</p>
+      <p type="listitem">Funktionsnedsättning efter stroke .</p>
+      <p type="listitem">Ovanliga diagnoser .</p>
+    </list>
+    <p type="title">Hur ansöker man om tandvårdsstödet?</p>
+    <p>För att kunna ansöka om stödet behöver man ett speciellt läkarintyg där läkaren beskriver sjukdomen och ofta också funktionsnedsättningen. Det är läkaren man behandlas av som har information om vilka uppgifter som landstingen eller regionerna kräver i läkarintyget.</p>
+    <p>Läkarintyget skickas antingen av läkaren, tandläkaren eller patienten till den enhet som ansvarar för tandvården i landstinget eller regionen där man bor. Ibland kallas det för tandvårdsenheten, men det kan skilja beroende på var man bor. Därefter fattar bedömningstandläkaren beslut om man har rätt till tandvårdsstödet och hur länge det gäller.</p>
+    <p>Om man har fått rätt till tandvårdsstöd får man ett kort eller intyg, som man visar upp hos tandläkaren eller tandhygienisten. Tandvårdskortet kan ha olika giltighetstid beroende på hur funktionsnedsättningen bedöms och ska alltid visas upp när man går till tandvården. Då betalar man för sitt tandvårdsbesök på samma sätt som inom sjukvården. Man får också en stämpel i högkostnadskortet och har man frikort gäller det även vid tandvårdsbesök.</p>
+    <p type="title">Vart kan man vända sig om man har frågor?</p>
+    <p>Om man har frågor eller vill veta mer om tandvård i samband med vissa långvariga sjukdomar och funktionsnedsättningar ska man i första hand fråga sin tandläkare eller behandlande läkare. I andra hand vänder man sig med sina frågor till den enhet som ansvarar för tandvården i landstinget eller regionen där man bor.</p>
+  </body>
+</document>

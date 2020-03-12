@@ -1,0 +1,29 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>100</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/4986</origFileName>
+    <parallel_text xml:lang="sma" location="5044.html"/>
+    <parallel_text xml:lang="sme" location="4990.html"/>
+    <parallel_text xml:lang="smj" location="4988.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Arbetsstipendier till samiska författare - Sametinget</p>
+    <p type="title">Arbetsstipendier till samiska författare</p>
+    <p>Sametingets kulturråd vill uppmuntra samisk litteraturutgivning i Sverige och utlyser därför fem arbetsstipendier på vardera 50 000 kr.</p>
+    <p>Kulturrådet vill ge fler samer möjligheten att söka stipendiet och har inget krav på tidigare publicering. Villkoren är att sökande ska skriva på någon av de samiska varieteterna och vara verksam i Sverige. Sista ansökningsdatum är 1 november 2008. Ansökningsblankett finns i högermenyn. <em type="italic">Vid frågor kontakta: </em>Kulturhandläggare Susanne Idivuoma, tel. nr. 0980-780 57, eller vik. kulturhandläggare Anna Sarri, tel.nr. 0980-780 37 eller kulturrådets ordförande Per Gustav Labba, tel. nr. 073-817 71 02. </p>
+  </body>
+</document>

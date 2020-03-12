@@ -1,0 +1,51 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>285</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/rennaring/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar-rennaring.html"/>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-rennaring.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Rennäring - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Rennäring</p>
+    <p>
+      <em type="italic">Länsstyrelsen förvaltar och ansvarar för skötseln av landets fjällområden. Vi har ett nära samarbete med samebyarna, exempelvis vid rovdjursinventeringar, samhällsplanering och registerhållning. </em>
+    </p>
+    <p>I Sverige finns i dag 51 samebyar uppdelade på tre typer: skogssamebyar, fjällsamebyar och koncessionssamebyar. De renskötande samerna har renskötselrätt inom cirka 40 procent av landets yta. Länsstyrelsen ska främja rennäringens utveckling, bland annat genom att stödja utvecklingsprojekt och bevaka rennäringens intressen i samhällsplaneringen.</p>
+    <p>Våra viktigaste uppgifter inom rennäringen är att</p>
+    <list>
+      <p type="listitem">fastställa det högsta renantal som varje sameby får ha och se till att det följs</p>
+      <p type="listitem">se till att samebyarna tar hänsyn till naturvårdens och kulturmiljövårdens intressen</p>
+      <p type="listitem">bevaka rennäringens riksintressen i samhälls- och miljöplaneringen</p>
+      <p type="listitem">sammanställa och uppdatera rennäringens redovisningar av markanvändning.</p>
+    </list>
+    <p>Den 1 januari 2007 tog Sametinget över vissa uppgifter som Länsstyrelsen tidigare hanterade, till exempel renmärken och samebygränser. Mer information finns på www.sametinget.se .</p>
+    <p type="title">Fjällförvaltning</p>
+    <p>Huvuddelen av landets vidsträckta fjällområden finns i Norrbotten, Västerbotten, Jämtland och Dalarna – en yta på nära sju miljoner hektar. Länsstyrelsen förvaltar statens mark ovanför odlingsgränsen och ansvarar för de statliga lederna med broar, vindskydd samt markeringar av vinter- och sommarleder. Lederna är viktiga för fjällsäkerheten och för att besökarna inte ska skada känsliga områden. Vi ger även tillstånd till småviltsjakt och fiske genom exempelvis försäljning av jakt- och fiskekort. Vi har också naturvårdsvakter som sköter tillsynen av fjällreservaten samt inventerar och bevakar de stora rovdjuren.</p>
+    <p>I Länsstyrelsens arbete med fjällförvaltning ingår att</p>
+    <list>
+      <p type="listitem">upplåta jakt- och fiskerätter</p>
+      <p type="listitem">sköta fiskevård och viltvård</p>
+      <p type="listitem">förvalta naturreservat</p>
+      <p type="listitem">informera om rättigheter och skyldigheter;</p>
+      <p type="listitem">ha tillsyn över stugor och broar;</p>
+      <p type="listitem">sköta underhåll av anläggningar</p>
+    </list>
+    <p>Vår förvaltning och tillsyn styrs av bestämmelser i miljöbalken (SFS 1998:808), rennäringslagen (SFS 1971:437) och rennäringsförordningen (SFS 1993:384), men också av andra lagar.</p>
+  </body>
+</document>

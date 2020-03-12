@@ -1,0 +1,126 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1976</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/Koloskopi</origFileName>
+    <parallel_text xml:lang="eng" location="koloskopi.html"/>
+    <parallel_text xml:lang="fin" location="koloskopi.html"/>
+    <parallel_text xml:lang="rus" location="koloskopi.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Koloskopi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Cancer</p>
+    <list>
+      <p type="listitem">Cancerformer och fakta</p>
+      <p type="listitem">Första tiden efter beskedet</p>
+      <p type="listitem">Behandling vid cancer</p>
+      <p type="listitem">Att vara den som står bredvid</p>
+      <p type="listitem">Hjälp och stöd</p>
+      <p type="listitem">Barncancer</p>
+      <p type="listitem">Kris och sorg</p>
+      <p type="listitem">Andra språk/Translations</p>
+    </list>
+    <p type="title">Koloskopi</p>
+    <p type="title">Sammanfattning</p>
+    <p type="title">Sammanfattning</p>
+    <p type="title">Allmänt</p>
+    <p>En koloskopi innebär att tjocktarmen undersöks med hjälp av en böjlig slang, ett så kallat koloskop. Man kan bland annat behöva gå igenom undersökningen om man har blod i avföringen, förstoppning eller diarré. Med koloskopet kan läkaren även ta vävnadsprover och genomföra olika behandlingar.</p>
+    <p>Koloskopin kan till exempel visa om det finns sår eller tumörer i tjocktarmen eller om tarmen är inflammerad.</p>
+    <p>Om man har problem med hjärtat eller lungorna ska man berätta det för läkaren. Detsamma gäller om man använder insulin eller tar blodförtunnande medicin.</p>
+    <p type="title">Förberedelser</p>
+    <p>Innan undersökningen måste innehållet i tarmen tömmas med hjälp av laxermedel. Om man tar mediciner som innehåller fibrer eller järnmedicin ska man sluta ta dem en vecka innan.</p>
+    <p type="title">Hur går undersökningen till?</p>
+    <p>Innan undersökningen får man lite salva för att bedöva ändtarmsöppningen. Därefter ligger man på en brits medan läkaren för in koloskopet genom ändtarmen.</p>
+    <p>Undersökningen kan ibland göra ont eller vara obehaglig just när koloskopet förs in, men om det behövs får man avslappnande och smärtstillande mediciner.</p>
+    <p>En undersökning kan ta alltifrån en kvart till en timme.</p>
+    <p type="title">Hur mår man efteråt?</p>
+    <p>Efter undersökningen kan man känna sig spänd och uppblåst i magen på grund av luft som kommit in. Man kan också känna magknip. Obehagen brukar försvinna när luften kommer ut. Man kan äta och dricka som vanligt efter undersökningen.</p>
+    <p>Om man fått lugnande medicin får man stanna kvar på mottagningen i en till två timmar. Man ska inte köra bil förrän nästa dag.</p>
+    <p>Det kan vara bra att ha någon med sig till undersökningen och man kan behöva ta ledigt från arbetet under resten av dagen.</p>
+    <p>Visa mer</p>
+    <p type="title">Varför behöver man undersökas?</p>
+    <list/>
+    <p type="title">Tjocktarmen inspekteras inifrån</p>
+    <p>Koloskopi görs om man till exempel har problem med avföringen eller har ont i magen. Med ett mjukt och böjligt instrument, koloskopet, kan läkaren se in i tjocktarmen, kolon, och upptäcka om sjukliga förändringar i tarmen kan vara orsaken till problemen. Koloskopet är format som en lång slang och förs in via ändtarmsöppningen och följer veckningarna genom hela tjocktarmen, som normalt är drygt en meter lång.</p>
+    <p>Instrumentet överför bilder av slemhinnan till en bildskärm. Läkaren inspekterar tarmens inre genom att styra instrumentet och samtidigt studera bilderna på bildskärmen. Koloskopet används även för att ta prover av vävnaden och för olika behandlingar.</p>
+    <p type="title">Koloskopi görs av flera olika skäl</p>
+    <p>Den vanligaste anledningen till att läkaren gör en koloskopi är att man har problem med avföringen. Symtomen kan vara</p>
+    <list>
+      <p type="listitem">blod eller slem i avföringen</p>
+      <p type="listitem">diarré</p>
+      <p type="listitem">förstoppning.</p>
+    </list>
+    <p>Ibland görs också en koloskopi om man har ont i magen och läkaren tror att orsaken är någon sjukdom i tjocktarmen eller nedre delen av tunntarmen. Ibland kan prover visa att man har blod i avföringen utan att det ses med blotta ögat. I sådana fall kan koloskopi också vara nödvändigt.</p>
+    <p>Dessutom görs ofta en koloskopi då polyper, det vill säga stjälk- eller knoppformade utväxter, upptäckts genom röntgen av tjocktarmen, eller då röntgen inte räckt till för att säkert avgöra om det finns sjukliga förändringar i tjocktarmen.</p>
+    <p type="title">I vissa fall krävs upprepade undersökningar</p>
+    <p>Ibland behöver läkaren göra koloskopi flera gånger i rad för att upptäcka cellförändringar. Det gäller</p>
+    <list>
+      <p type="listitem">om man löper risk att utveckla vissa ovanliga former av cancer i tjocktarmen</p>
+      <p type="listitem">om man tidigare har haft polyper med cellförändringar i tjocktarmen</p>
+      <p type="listitem">om man har vissa former av tarmsjukdomen ulcerös kolit, vilka ger ökad risk för cancer i tjocktarmen.</p>
+    </list>
+    <p type="title">Tumörer, polyper och inflammation avslöjas i slemhinnan</p>
+    <p>Läkaren studerar insidan av ändtarmen, tjocktarmen och ibland även nedre delen av tunntarmen. Förutom polyper kan tumörer, fickbildningar, inflammation, sår, förträngningar och kärlmissbildningar avslöjas vid undersökningen.</p>
+    <p>Genom att föra in en speciell tång genom koloskopet, kan läkaren också ta provbitar från slemhinnan för undersökning i mikroskop. Ibland kan slemhinnan verka helt normal, men prover tas ändå för att se om det kan finnas mikroskopiska förändringar som ger upphov till vissa symtom.</p>
+    <p>Med hjälp av koloskopet är det även möjligt att ta bilder vid undersökningen. Dessa sparas och kan senare användas för att följa resultatet av en behandling eller förklara vad som har hänt i kroppen för den som har undersökts.</p>
+    <p type="title">Man bestämmer själv om provet ska sparas</p>
+    <p>Vid provtagningen blir man tillfrågad om man samtycker till att provet från slemhinnan sparas för framtiden. Att spara provet innebär bättre möjligheter att följa upp eventuella förändringar och jämföra senare prover med gamla. Proverna kan dessutom användas till forskning eller annat ändamål som godkänts av en forskningsetisk kommitté. Men om man önskar kan provet förstöras efter första bedömningen på laboratoriet.</p>
+    <p type="title">Koloskopi kan ge omedelbar hjälp</p>
+    <p>Koloskopi kan också användas för att direkt avhjälpa besvär i ändtarmen eller tjocktarmen. Det går till exempel att:</p>
+    <list>
+      <p type="listitem">Stoppa olika blödningar i slemhinnan genom att spruta in särskilda ämnen, använda värmebehandling, snaror eller små nypor.</p>
+      <p type="listitem">Bränna bort små polyper.</p>
+      <p type="listitem">Ta bort större polyper genom att lägga en särskild snara runt polypen och bränna av den med svag elektrisk ström. Polypen kan därefter plockas ut med ett särskilt instrument, som har förts in genom koloskopet. Polypen skickas sedan för mikroskopisk undersökning.</p>
+      <p type="listitem">Vidga förträngningar med hjälp av speciella uppblåsbara ballongliknande instrument.</p>
+      <p type="listitem">Sätta in särskilda rörliknande proteser förbi förträngningar som orsakas av cancer.</p>
+    </list>
+    <p type="title">Mer på 1177 Vårdguiden</p>
+    <list>
+      <p type="listitem">Biobankslagen</p>
+    </list>
+    <p type="title">Så går det till</p>
+    <p type="title">Med koloskopet kan läkaren se in i tjocktarmen</p>
+    <p>Ett koloskop är ett instrument som består av en böjlig slang som är en och en halv meter lång och drygt en centimeter i diameter. Slangen förs in genom ändtarmsöppningen och genom hela tjocktarmen. Längst fram finns en liten lins med belysning och ett datachip som överför bilder av tarmens inre till en bildskärm. På så sätt kan läkaren granska slemhinnans utseende på bildskärmen samtidigt som instrumentet styrs med hjälp av reglage.</p>
+    <p>Läkaren kan även ta prover och behandla sjukliga förändringar i slemhinnan med hjälp av instrumentet. Då utnyttjas inbyggda kanaler i koloskopet. Genom dessa sugs luft och vätska upp, eller så förs specialinstrument in för provtagning. Läkaren kan även blåsa in luft så att det som undersöks framträder tydligare, samt spruta in vatten så mindre avföringsrester sköljs bort.</p>
+    <p>Om endast nedre delen av tjocktarmen undersöks och instrumentet förs in cirka en halv meter från ändtarmsöppningen, kallas samma slags undersökning sigmoideoskopi. Sigmoideum är den s-formade nedre delen av tjocktarmen.</p>
+    <p>På en del mottagningar kan ett ofarligt färgämne sprutas in via koloskopet så att läkaren tydligare kan se detaljer i slemhinnan. Andra mottagningar har numera nya typer av koloskop som ger ifrån sig en viss typ av ljus. Ljuset gör det möjligt för läkaren att se små detaljer i slemhinnan utan att spruta in något färgämne.</p>
+    <p type="title">Vissa mediciner ska man inte ta före undersökningen</p>
+    <p>De flesta mediciner kan man ta som vanligt före undersökningen. Järnmedicin och vissa läkemedel som innehåller fibrer kan skymma tarmens slemhinna. Därför får man inte ta dessa läkemedel veckan före undersökningen.</p>
+    <p type="title">Först måste tarmen tömmas</p>
+    <p>Innan man undersöks med koloskopi måste tjocktarmen vara ren så att läkaren kan se slemhinnan. Därför måste man tömma tarmen på innehåll, laxera. Det vanligaste sättet att få ut tarmens innehåll är att dricka upp till fyra liter saltbalanserad vätska, som gör så att magen sätts igång och man får diarré. Beroende på när på dagen koloskopin ska göras börjar man med laxeringen antingen dagen före undersökningen eller på morgonen samma dag. Mer noggrann information om hur laxeringen går till brukar i god tid skickas hem till den som ska undersökas.</p>
+    <p type="title">Undersökningen tar en kvart till en timme</p>
+    <p>Omedelbart före undersökningen bedövas ändtarmsöppningen med salva som innehåller lokalbedövning. Ofta får man också en liten nål insatt i armvecket eller på underarmen. Det känns som en vanlig blodprovstagning. Nålen används för att spruta in lugnande, avslappnande och smärtstillande medicin om man skulle uppleva undersökningen som obehaglig.</p>
+    <p>Vid undersökningen ligger man oftast på vänstra sidan på en brits. Efter ett tag kan man behöva ligga på rygg eller på höger sida för att instrumentet ska kunna föras in lättare. Själva undersökningen varar från en kvart till en timme. Tiden varierar eftersom tarmen är olika från person till person. Den kan till exempel vara väldigt slingrig, sammanväxt, eller trång på något ställe.</p>
+    <p type="title">Ibland kan man känna obehag och smärta</p>
+    <p>Två olika moment vid koloskopi kan upplevas som obehagliga. För att läkaren överhuvudtaget ska kunna granska insidan av tarmen måste luft blåsas in. Det kan ge spänningar i magen. Det andra momentet som kan kännas obehagligt är när instrumentet förs in och tarmen sträcks, i synnerhet om den är mycket slingrig. Ibland kan det göra ont. Då kan man behöva smärtstillande medicin som sprutas in via den insatta nålen. Läkaren brukar försöka informera om när tarmen börjar göra en skarp krök eftersom det kan ge en del obehag.</p>
+    <p>Undersökningen brukar upplevas som mest besvärande när instrumentet är på väg in i tarmen. Det brukar inte vara lika obehagligt när instrumentet dras ut. Eftersom slemhinnan saknar smärtnerver känner man inte om läkaren tar prover från slemhinnan eller skär bort polyper.</p>
+    <p type="title">Vissa måste förbereda sig särskilt</p>
+    <p>Om man har diabetes som behandlas med insulin meddelar man det till mottagningen före undersökningen. Ofta får personer med diabetes en tidig morgontid. Om man tar blodförtunnande medicin ska man meddela detta i god tid, minst en vecka innan undersökningen. PK-värdet, som är ett mått på blodets förmåga att levra sig, måste hinna korrigeras.</p>
+    <p>Man måste också meddela i god tid om man har fel på hjärtklaffarna, medfött hjärtfel eller en konstgjord hjärtklaff. Samma sak gäller om man har haft bakterieinfektion i hjärtklaffarna. I dessa fall kan man behöva ta en dos antibiotika en timme före undersökningen.</p>
+    <p type="title">Viktigt att tänka på efter undersökningen</p>
+    <p>Läkaren som har gjort undersökningen ger besked om resultatet direkt efteråt. Om vävnadsbitar skickas för mikroskopisk undersökning kommer svar efter någon eller några veckor, beroende på vad läkaren har frågat efter.</p>
+    <p>Efter undersökningen kan man uppleva att magen känns spänd och uppblåst. Man kan även känna knip i magen. Det beror på den luft som läkaren blåste in vid undersökningen. Obehagen försvinner allt eftersom luften kommer ut. Man kan vanligtvis äta och dricka som vanligt efter undersökningen.</p>
+    <p>Om man i samband med koloskopin har fått lugnande, avslappnande eller smärtstillande mediciner får man stanna kvar på mottagningen i en till två timmar för övervakning. Man får oftast reda på resultatet av undersökningen innan man lämnar mottagningen. Men efter en omfattande undersökning är det ofta svårt att direkt ta till sig all information. I vissa fall kan medicineringen ha sådan effekt att man glömmer vad läkaren sagt. Därför kan man kontakta mottagningen nästa dag för att få information igen.</p>
+    <p>Om man har fått lugnande, avslappnande och smärtstillande medicin kan man inte heller köra bil eller cykla förrän nästa dag, eftersom reaktionsförmågan är nedsatt även om man själv känner sig pigg och alert. För att komma säkert hem kan det vara bra att ha en följeslagare med sig. Man kan även behöva ta ledigt från arbetet för resten av dagen.</p>
+    <p type="title">Komplikationer och risker är ovanliga</p>
+    <p>Det är mycket ovanligt med komplikationer i samband med koloskopi. Om de inträffar är det i så fall oftast i anslutning till olika behandlingar som läkaren gör med hjälp av koloskopet, till exempel tar bort polyper eller stoppar blödningar. Exempel på mycket ovanliga komplikationer är blödningar och hål i tarmväggen. Om någon komplikation trots allt skulle uppstå räcker det ofta med att man observeras på sjukhus och vilar tarmen. Ibland får man också antibiotika. Blodtransfusion eller operation behövs i ytterst få fall.</p>
+    <p type="title">Vem bör inte undersökas?</p>
+    <p>Nästan alla människor kan genomgå koloskopi. För personer som har mycket svår kärlkramp eller som nyligen har haft en hjärtinfarkt kan undersökningen innebära en ökad påfrestning på hjärtat. Nyttan med undersökningen måste då vägas mot riskerna. Läkaren gör här en individuell bedömning. Har man dåligt fungerande lungor måste läkaren också noga bedöma riskerna med en koloskopiundersökning.</p>
+  </body>
+</document>

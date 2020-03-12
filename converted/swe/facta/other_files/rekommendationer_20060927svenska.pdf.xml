@@ -1,0 +1,40 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>317</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <origFileName>http://www.manskligarattigheter.gov.se/dynamaster/file_archive/061221/40b494b177129c8f8ce920bcb42c292f/Rekommendationer%2020060927svenska.pdf</origFileName>
+    <parallel_text xml:lang="sme" location="rekspraakstadgan20060927_-_nordsamiska.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 32698 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Europarådet</p>
+    <p>Ministerkommittén</p>
+    <p>Ministerkommitténs rekommendation RecChL(2006)4 om Sveriges tillämpning av europeiska stadgan om landsdels- eller minoritetsspråk</p>
+    <p>(Antagen av ministerkommittén vid det 974:e ställföreträdarmötet den 27 september 2006)</p>
+    <p>Ministerkommittén,</p>
+    <p>i enlighet med artikel 16 i europeiska stadgan om landsdels- eller minoritetsspråk,</p>
+    <p>som beaktar ratifikationsinstrumentet som Sverige inlämnade den 9 februari 2000,</p>
+    <p>som har tagit ställning till expertkommitténs rapport om Sveriges tillämpning av stadgan,</p>
+    <p>som beaktar att denna rapport är grundad på uppgifter som Sverige lämnat i sin andra rapport, tilläggsuppgifter från svenska myndigheter, uppgifter lämnade av organ och sammanslutningar som är lagligen upprättade i Sverige samt uppgifter som expertkommittén inhämtat vid platsbesök,</p>
+    <p>som har beaktat de svenska myndigheternas kommentarer om innehållet i expertkommitténs rapport,</p>
+    <p>rekommenderar att de svenska myndigheterna beaktar alla expertkommitténs anmärkningar med prioritet, nämligen följande:</p>
+    <p>1. Genomföra förslagen från Utredningen om finska och sydsamiska språken avseende att utvidga förvaltningsområdena för finska och samiska och att anta särskild lagstiftning om landsdels- eller minoritetsspråk samt upprätta en nationell myndighet med ansvar för att övervaka genomförandet.</p>
+    <p>2. Vidta praktiska åtgärder för att förstärka tillgång till undervisning på landsdels- eller minoritetsspråk genom att avhjälpa de rådande strukturella problemen och resursproblemen samt särskilt utforma strategier för att öka tillgången till lärare och erbjuda högstadieundervisning på landsdels- eller minoritetsspråk.</p>
+    <p>3. Anpassa de existerande formerna för undervisning på landsdels- eller minoritetsspråk till Sveriges åtaganden enligt stadgan, däribland genom att höja kvaliteten på och tillgången till <span type="quote">”modersmåls”</span>-undervisning samt vidta lämpliga åtgärder för tvåspråkig undervisning.</p>
+    <p>4. I brådskande ordning anta flexibla och innovativa åtgärder för att bevara det sydsamiska språket.</p>
+    <p>5. Upprätta en strukturerad policy och vidta organisatoriska åtgärder för att uppmuntra muntlig och skriftlig användning av samiska, finska och meänkieli vid kontakter med domstolar och förvaltningsmyndigheter inom de angivna förvaltningsområdena.</p>
+    <p>6. Uppmuntra och/eller underlätta bildandet och/eller upprätthållandet av minst en tidning på samiska och meänkieli.</p>
+    <p>7. Vidta åtgärder för att öka medvetenheten om och förståelsen av landsdels- och minoritetsspråk i det svenska samhället i stort.</p>
+  </body>
+</document>

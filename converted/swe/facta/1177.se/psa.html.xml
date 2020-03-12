@@ -1,0 +1,102 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1147</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/PSA</origFileName>
+    <parallel_text xml:lang="eng" location="psa.html"/>
+    <parallel_text xml:lang="fin" location="psa.html"/>
+    <parallel_text xml:lang="fit" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="rus" location="psa.html"/>
+    <parallel_text xml:lang="sma" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="sme" location="blodprov-psa.html"/>
+    <parallel_text xml:lang="smj" location="blodprov-psa.html"/>
+    <parallel_text location="psa-blodprov.html" xml:lang="rmf"/>
+    <parallel_text location="blodprov-psa1.html" xml:lang="rmu"/>
+    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rka"/>
+    <parallel_text location="blodprov.html" xml:lang="rmn"/>
+    <parallel_text location="psa-blodprov.html" xml:lang="yid"/>
+    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>PSA - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Cancer</p>
+    <list>
+      <p type="listitem">Cancerformer och fakta</p>
+      <p type="listitem">Första tiden efter beskedet</p>
+      <p type="listitem">Behandling vid cancer</p>
+      <p type="listitem">Att vara den som står bredvid</p>
+      <p type="listitem">Hjälp och stöd</p>
+      <p type="listitem">Barncancer</p>
+      <p type="listitem">Kris och sorg</p>
+      <p type="listitem">Andra språk/Translations</p>
+    </list>
+    <p type="title">PSA</p>
+    <p type="title">Varför behöver man lämna provet?</p>
+    <p type="title">När lämnar man ett prov för PSA?</p>
+    <p>PSA är ett blodprov som ingår i de undersökningar som man kan få göra när prostatan undersöks.</p>
+    <p>Ibland lämnar man ett PSA-prov om man har urinvägsbesvär som läkaren misstänker beror på prostatan, till exempel om man ofta behöver gå och kissa samtidigt som strålen är svag.</p>
+    <p>Man kan också få lämna ett PSA-prov om läkaren känner några förändringar av prostatan när den undersöks, förändringar som kan orsaka flera olika slags besvär och sjukdomar.</p>
+    <p>Det är viktigt att veta att en förhöjning av PSA-värdet inte är samma sak som att man har prostatacancer. Det är vanligt att lätta till måttliga ökningar av PSA har andra orsaker.</p>
+    <p>På samma sätt kan ett normalt värde inte helt och hållet utesluta prostatacancer. Resultatet måste alltid värderas utifrån vilka besvär man har och vad andra undersökningar visar.</p>
+    <p>Om man har två eller fler nära manliga släktingar med prostatacancer, är risken att man får sjukdomen större. I så fall rekommenderas man att ta regelbundna PSA-prov från 40-50 års ålder fram till 70 års ålder</p>
+    <p>PSA mäts också under pågående behandling av prostatacancer. Om behandlingen hjälper märks det genom att PSA-värdet sjunker.</p>
+    <p type="title">Fördelar och nackdelar med ett PSA-prov</p>
+    <p>PSA-prov görs inte rutinmässigt som en allmän hälsokontroll för män för att se om de har en mycket tidig form av prostatacancer. Det beror på att det inte alltid är en fördel med att upptäcka och behandla de tidiga formerna av just prostatacancer. Behandlingarna kan ge bestående biverkningar som impotens och inkontinens hos män där prostatacancern aldrig skulle ha hunnit utvecklats till någon allvarlig sjukdom.</p>
+    <p>En cancertumör i prostatan kan antingen växa långsamt utan att ge några besvär eller växa snabbt och sprida sig till andra delar av kroppen. I ett tidigt skede går det inte att skilja de två cancerformerna åt och man riskerar därför att behandlas för en cancerform man inte skulle ha fått några besvär av under sin livstid.</p>
+    <p>Många män vill ändå genomgå undersökningar för att få klarhet i om de har prostatacancer. Innan man bestämmer sig för om man ska lämna ett prov för PSA är det bra att ta reda på mer om fördelar och nackdelar med en behandling av en tidigt upptäckt tumör. Vill man sedan gå vidare och diskutera med en läkare ska man beställa tid på en vårdcentral eller på företagshälsovården.</p>
+    <p type="title">Vad är PSA och var finns det?</p>
+    <p>PSA är en förkortning för prostataspecifikt antigen. Det är ett protein som tillverkas i prostatakörteln och som följer med sädesvätskan när man får utlösning och gör så att spermierna blir rörligare.</p>
+    <p>PSA finns vanligen i små mängder även i blodet, och det är den mängden som mäts genom PSA-provet. Förutom cancer finns det flera vanliga förändringar i prostatan som kan göra att PSA-halten i blodet ökar. Till exempel kan godartad prostataförstoring och inflammation i prostatakörteln, så kallad prostatit, leda till att det läcker ut mer PSA i blodet från prostatan.</p>
+    <p>Med åren ökar PSA-halten något hos de flesta män därför att prostatakörteln blir lite större med stigande ålder.</p>
+    <p>Den största mängden PSA i blodet är bundet till olika proteiner. Men det finns även en liten mängd fritt, obundet PSA. När det ligger andra orsaker än cancer bakom en måttlig PSA-höjning, brukar det finnas mer av fritt PSA i blodet. Därför kan det ge läkaren en viss vägledning att mäta förhållandet mellan bundet och fritt PSA.</p>
+    <p type="title">Hur tas provet?</p>
+    <p>Provet brukar tas i armen med hjälp av en tunn nål som sticks in i ett blodkärl, en ven. Därför kallas denna typ av blodprov för ett venöst prov.</p>
+    <p>Provet kan tas när som helst på dygnet. Man ska sitta ner i 15 minuter innan provet tas. För övrigt behövs inga förberedelser.</p>
+    <p>Om man gör ett kirurgiskt ingrepp i prostata stiger PSA-värdet. Man får då vänta minst 10 dagar innan det är meningsfullt att ta ett PSA-prov. Om läkaren däremot bara känner på prostatan påverkas inte PSA-värdet.</p>
+    <p type="title">När får man svar?</p>
+    <p>Provet skickas till ett sjukhuslaboratorium där det analyseras. Man kan komma överens med sin läkare om när och hur man ska få veta resultatet av provet. Läkaren brukar få svar från laboratoriet inom en till två dagar.</p>
+    <p type="title">Hur tolkas provsvaret?</p>
+    <p>Ett provsvar måste alltid vägas samman med vilka besvär man har och vad andra undersökningar visar.</p>
+    <p>PSA-värdet i blodet varierar mellan olika män, även mellan män som inte har prostatabesvär. För att läkaren ska ha något att jämföra med då provsvaren ska tolkas används så kallade referensvärden. För PSA brukar värden över 3 mikrogram per liter räknas som en ökning.</p>
+    <p type="title">Höga värden, vad kan det bero på?</p>
+    <p>Ungefär en av tio medelålders män har förhöjt PSA-värde. En vanlig orsak till lätt förhöjda värden är godartad prostataförstoring.</p>
+    <p>Förhöjda värden kan man också få om man har en prostatainflammation, så kallad kronisk prostatit.</p>
+    <p>En vanlig urinvägsinfektion kan ge en övergående, men kraftig stegring av PSA. Om man av någon anledning inte kan kissa och tömma urinblåsan ordentligt, kan man också få ett tillfälligt ökat PSA-värde. Har man svårt att tömma blåsan så att en större mängd urin hela tiden finns kvar brukar det kallas urinstämma.</p>
+    <p>Förhöjda värden kan även bero på prostatacancer. Av de som har förhöjda PSA hittas cancer hos ungefär en tredjedel. Förhållandet mellan fritt och bundet PSA kan ge läkaren viss vägledning när det gäller att skilja godartade prostatabesvär från prostatacancer.</p>
+    <p>Av de som testar sig upprepade gånger under många år, kommer ungefär en av fyra ha ett PSA-värde som motiverar ytterligare undersökningar.</p>
+    <p>Om ett resultat av ett PSA-prov visar på ett högt värde, brukar läkaren göra ytterligare en undersökning med ultraljud och vävnadsprov från prostatakörteln. Om läkaren upptäcker cancer går det att få behandling med operation, strålning, eller hormonbehandling.</p>
+    <p type="title">Låga värden, vad kan det bero på?</p>
+    <p>Låga värden talar mot att man skulle ha prostatacancer, även om endast ett PSA-prov inte med fullständig säkerhet kan utesluta detta.</p>
+    <p>Om man får prostatan borttagen genom en operation sjunker PSA-värdet till en knappt mätbar nivå. Ett lågt PSA-värde kan alltså användas som mått på att operationen haft en bra effekt. Även vid två andra behandlingsmetoder, strålning och hormonbehandling, brukar ett sänkt PSA-värde vara ett tecken på att behandlingen fungerat bra.</p>
+    <p type="title">Mer på 1177 Vårdguiden</p>
+    <list>
+      <p type="listitem">Godartad prostataförstoring</p>
+      <p type="listitem">Prostatacancer</p>
+      <p type="listitem">Prostatit</p>
+      <p type="listitem">Vävnadsprov av prostata – prostatabiopsi</p>
+    </list>
+    <p type="title">Mer information</p>
+    <p type="title">Information från Socialstyrelsen om PSA-test och cancer</p>
+    <p>Broschyren <span type="quote">"Om PSA-prov för att kunna upptäcka prostatacancer i ett tidigt skede - fördelar och nackdelar"</span> vänder sig till alla män som känner oro för att få prostatacancer och därför funderar på att göra ett PSA-test. Den ger underlag för en diskussion med läkaren om man ska gå igenom en prostatakontroll eller inte.</p>
+    <p type="title">Mer på andra webbplatser</p>
+    <list>
+      <p type="listitem">Socialstyrelsen: Om PSA-prov</p>
+    </list>
+  </body>
+</document>

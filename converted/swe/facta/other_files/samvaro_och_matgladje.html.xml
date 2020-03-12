@@ -1,0 +1,60 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Samvaro och matglädje</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2018</year>
+    <wordcount>935</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/ruokakasvatus/yhdessa-tekemista-ja-ruokailoa/</origFileName>
+    <parallel_text xml:lang="fin" location="yhdessa_tekemista_ja_ruokailoa.html"/>
+    <parallel_text xml:lang="sme" location="ovttas_dahkan_ja_borramusillu.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Hoppa över till innehållet</p>
+    <p xml:lang="fkv">RuokaTutka</p>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <p type="title">Samvaro och matglädje</p>
+    <p>
+      <em type="italic">Vi äter tillsammans </em>
+    </p>
+    <p>En måltid som avnjuts hemma tillsammans med familjens barn är inte en självklarhet i dagens hektiska livsrytm. Arbete, läxor och fritidsintressen tar sin tid och alla familjemedlemmar är kanske inte hemma vid mattiderna, exempelvis på grund av skiftesarbete. Det är ändå bra att satsa på gemensamma måltider i den utsträckning det är möjligt, eftersom de ger dagen en rytm och ger möjlighet att slappna av och göra någonting tillsammans, vilket stärker relationerna och samhörigheten mellan familjemedlemmarna. Hur skulle det till exempel vara om en familjemedlem förberedde en deg till semlor och en annan gräddade dem? Och alla sedan åt dem till kvällsmat tillsammans?</p>
+    <p>Även i skolorna kan man gärna äta tillsammans med eleverna. Gemensamma måltider, stämningen vid måltiden och hur man talar om maten har betydelse för utvecklingen av barns och ungas matvanor såväl hemma som i skolan. Gemensamma måltider är viktiga även för äldre barn och ungdomar. Att äta tillsammans är också ett sätt att bry sig och ger barnet eller den unga en känsla av trygghet.</p>
+    <p>En avslappnad och uppmuntrande stämning främjar ett positivt förhållande till mat. Därför är det bra att redan i förväg tänka ut olika sätt att skapa en positiv stämning vid måltiderna. Gemensamma måltider ger även utmärkta möjligheter att lära sig att komponera en balanserad måltid. Föräldrar och lärare kan genom sitt eget exempel, även utan ord, styra barns och ungas val och ätande.</p>
+    <p>
+      <em type="italic">Gör tillsammans </em>
+    </p>
+    <p>Vid sidan av gemensamma måltider kan man genom att göra barn och unga delaktiga i och ge dem ansvar för sådant som gäller måltider stärka deras känsla av att de kan samt främja gemenskapen inom familjen eller skolan. Man kan till exempel låta dem laga mat eller hjälpa till med det, planera menyer eller följa med och handla. I skolan kan de kanske få hjälpa till i köket eller bekanta sig med matens väg från jord till bord. De uppgifter som erbjuds barnet eller den unga bör dock alltid väljas omsorgsfullt så att de motsvarar kunskapsnivån, så att barnet eller den unga genom att klara av dem får upplevelser av att lyckas.</p>
+    <p>Olika uppgifter som har med mat och måltider att göra kan också ge yngre barn möjlighet att bekanta sig med nya livsmedel och samla mod till att smaka på dem – när man hanterar ett nytt livsmedel är vägen till munnen kortare. En särskilt givande uppgift kan vara att planera dagens meny så att de rätter som planeras ska innehålla något nytt livsmedel. Genom måltidsrelaterade uppgifter kan man även öka uppskattningen för mat och lära ut bordsskick. Att duka fint ökar exempelvis uppskattningen för maten, och här kan även små barn vara med, exempelvis genom att vika servetter på sitt eget sätt och lägga bestick på sina rätta platser.Hur främjar ni samvaron och matglädjen hos er?</p>
+    <p>
+      <em type="italic">Gränser och frihet i lämpliga mängder </em>
+    </p>
+    <p><span type="quote">”Gränser är kärlek”</span> brukar man säga, och det gäller även för matfostran, men i många hem når man det bästa slutresultatet genom att också lita på barnets eller den ungas eget omdöme. Barnets eller den ungas närmaste krets, föräldrarna och skolan bör ställa upp ramar för måltidsrytmen och vilka livsmedel som erbjuds. Här kan man ta hjälp av de finländska näringsrekommendationerna samt måltidsrekommendationerna för skolan och småbarnspedagogiken (LÄNKAR). Till de mest konkreta exemplen hör kostpyramiden och tallriksmodellen. Inom dessa ramar är det sedan bra att även ge barn och unga möjlighet att påverka vilken mat som serveras. De kan till exempel få vara med och planera menyn. Ska det vara ett äpple eller en banan på morgonen? Ska vi laga fisksoppa eller ugnslax till middag? Vill tonåringen steka spenat- eller morotsplättar till kvällsmat?</p>
+    <p>Det är också viktigt att lita på barnets eller den ungas förmåga att reglera den mängd mat som han eller hon äter vid en måltid. Barn äter sällan med god aptit vid varje måltid, utan ibland smakar maten bättre och ibland sämre. Att tvinga barn eller unga att äta, locka med belöningar eller begränsa mängden mat kan störa deras naturliga förmåga att reglera sitt ätande, vilket kan leda till oro kring vikten eller till och med ett stört ätbeteende. Med tanke på förebyggandet av sådana problem har det också betydelse hur man talar med barn och unga om kroppen – såväl sin egen som deras – som maten är näring för. De vuxna är viktiga förebilder även i detta avseende och en positiv bild av kroppen stödjer också balanserade matvanor.</p>
+    <p>Men godisdagen då? För vissa passar det bättre och för andra sämre, och det gäller både barn och vuxna. Beklagligt ofta går det dock så ett förbud bara ökar lockelsen. Godisdagen kan bli föremål för stor press och mängden godis kan till och med bli ännu större än om man inte hade någon särskild godisdag. Att begränsa söta produkter till en dag i veckan kan också förvränga barnets eller den ungas attityder till sådana livsmedel, även om tanken var god. När ätandet av söta godsaker inte är föremål för alltför stor press, växer barnet eller den unga med större sannolikhet upp till en vuxen som förhåller sig neutralt till sötsaker. En godisstund då och då i kombination med en regelbunden måltidsrytm och balanserade måltider kan därmed stödja en god hälsa. Om familjen ändå har konstaterat att en godisdag fungerar i den egna vardagen bör man tillsammans med barnen fundera på vilken mängd som är rimlig och ger njutning. Smakar den sista biten i godispåsen lika gott som den första?</p>
+    <p type="title" xml:lang="vep">LÄS MER:</p>
+    <p type="title">Topp  5  i hemmets och skolans matfostran</p>
+    <p type="title">Matvanorna utvecklas genom hela livet</p>
+    <p type="title">Matfostran i småbarnspedagogiken och grundskolan</p>
+    <p type="title" xml:lang="fkv">Matmiljön</p>
+  </body>
+</document>

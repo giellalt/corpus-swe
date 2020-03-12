@@ -1,0 +1,46 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>93</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/kungorelser-och-delgivningar/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="om-lansstyrelsen-kungorelser-och-delgivningar.html"/>
+    <parallel_text xml:lang="sma" location="om-lansstyrelsen-kungorelser-och-delgivningar.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kungörelser och delgivningar - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Kungörelser och delgivningar</p>
+    <p>
+      <em type="italic">Länsstyrelsen fattar många olika beslut som direkt eller indirekt berör länets invånare och företag. Tidpunkten och formen för tillkännagivandet av dessa beslut och andra åtgärder har stor betydelse från informations- och rättssäkerhetssynpunkt. </em>
+    </p>
+    <p>Vissa beslut måste delges den som är berörd av ett ärende. När kretsen av berörda personer är stor, kan annonsering ske i ortspressen istället för att göra utskick per brev, så kallad kungörelseannonsering. Länsstyrelsen gör exempelvis kungörelser i ärenden som rör miljöskydd, naturvård, vattenvård, jakt och fiske samt allmänna val.</p>
+    <p type="title">Kungörelser</p>
+    <list>
+      <p type="listitem">
+        <list/>
+      </p>
+      <p type="listitem">
+        <list/>
+      </p>
+      <p type="listitem">
+        <list/>
+      </p>
+      <p type="listitem">
+        <list/>
+      </p>
+    </list>
+  </body>
+</document>

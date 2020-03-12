@@ -1,0 +1,37 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>219</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/24401</origFileName>
+    <parallel_text xml:lang="sme" location="24773.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Att skydda och främja - Sametinget</p>
+    <p type="title">Att skydda och främja ett minoritetsspråk</p>
+    <p>I minoritetsspråklagen har alla som bedriver offentlig verksamhet en skyldighet att skydda och främja de nationella minoritetsspråken.</p>
+    <p><em type="italic">Att skydda och främja </em>Att skydda innebär till exempel att en myndighet eller en kommun inte får förbjuda eller försvåra användandet av minoritetsspråken. Att främja betyder att myndigheter och kommuner bör arbeta aktivt för att stärka och synliggöra språken. </p>
+    <p><em type="italic">Att synliggöra </em>Ett sätt att göra människor medvetna om de nationella minoritetsspråk som talas i regionen är att synliggöra dem. Det ger samtidigt talarna av språket en signal att deras språk är lika mycket värt som andras. Man kan exponera språken till exempel genom att: </p>
+    <list>
+      <p type="listitem">sätta upp skyltar</p>
+      <p type="listitem">översätta viss information även om brukaren förstår svenska</p>
+      <p type="listitem">utbilda personal om minoriteternas ställning och rättigheter enligt lag</p>
+      <p type="listitem">värdera meriter i minoritetsspråk vid nyanställningar</p>
+      <p type="listitem">ha ett minoritetsperspektiv i politiska beslut</p>
+    </list>
+    <p><em type="italic">Skyltar på minoritetsspråken </em>I minoritetsreformen ingår ett uppdrag till Vägverket att öka arbetet med att skylta ortnamn på minoritetsspråken. Ortnamn är en värdefull del av kulturarvet. Statliga och kommunala myndigheter bör värna ortnamnen och synliggöra minoritetsspråkens närvaro på skyltar och annan utmärkning. </p>
+    <p><em type="italic">Samråd </em>Alla beslut som rör nationella minoriteter ska kommunen helst ta i samråd med representanter för minoritetsgrupperna själva. Som kommun kan man ta kontakt med en förening eller skapa en egen referensgrupp. </p>
+  </body>
+</document>

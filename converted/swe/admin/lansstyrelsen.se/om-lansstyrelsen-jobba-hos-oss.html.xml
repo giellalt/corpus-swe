@@ -1,0 +1,51 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>168</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/jobba-hos-oss/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="om-lansstyrelsen-jobba-hos-oss.html"/>
+    <parallel_text xml:lang="sma" location="om-lansstyrelsen-jobba-hos-oss.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Jobba hos oss - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Jobba hos oss</p>
+    <p type="title">Våra lediga jobb</p>
+    <p><em type="italic">Länsstyrelsen är en arbetsplats med mycket och varierad kompetens. Här finns bland annat jurister, samhällsplanerare, arkeologer, statsvetare, miljövetare, ekonomer, ingenjörer, veterinärer, biologer och agronomer. </em> </p>
+    <p>Länsstyrelsen Dalarna har sitt huvudkontor på Åsgatan i centrala Falun. Vi är runt 240 personer som tillsammans jobbar för att Dalarna ska utvecklas på ett så hållbart sätt som möjligt.</p>
+    <p>Våra aktuella lediga jobb hittar du här ovanför. Söker gör du via Offentliga jobb.</p>
+    <p>Vill du veta mer om vilka som jobbar här? Här har vi samlat korta intervjuer med flera av våra medarbetare .</p>
+    <p type="title">Kontakta oss</p>
+    <p>Mattias Strömberg</p>
+    <p>Personalchef</p>
+    <p>Ekonomi och personalenheten</p>
+    <p>mattias punkt stromberg snabela lansstyrelsen punkt se¤mattias punkt stromberg snabela lansstyrelsen punkt se</p>
+    <p>010-2250230</p>
+    <p>072-5422270</p>
+    <p>Anders Stål</p>
+    <p>Personalhandläggare</p>
+    <p>Personalfrågor</p>
+    <p>Anders punkt Stal snabela lansstyrelsen punkt se¤Anders punkt Stal snabela lansstyrelsen punkt se</p>
+    <p>010-2250231</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

@@ -1,0 +1,48 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>223</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1157</origFileName>
+    <parallel_text xml:lang="sme" location="3085.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kulturpolitik - Sametinget</p>
+    <p>Kulturrådet vill öka ungdomarnas engagemang i samhällslivet. Foto: Carl-Johan Utsi.</p>
+    <p type="title">Kulturpolitik</p>
+    <p>Sametingets kulturråds handlingsprogram för de kommande åren prioriterar områden som språkutveckling och ungdomars engagemang i samhällslivet.</p>
+    <p>Sex prioriterade områden</p>
+    <p>Sametingets kulturråd har för verksamhetsåren 2007-2009 identifierat sex målbilder som utgör ramarna och inriktningen för vilka slags projekt och verksamheter kulturrådet önskar prioritera i bidragsgivningen.</p>
+    <p>De är utan inbördes rangordning:</p>
+    <list>
+      <p type="listitem">främjande av samisk språkutveckling</p>
+      <p type="listitem">ökad jämställdhet i det samiska samhället</p>
+      <p type="listitem">samisk barn- och ungdomsverksamhet</p>
+      <p type="listitem">utveckling av samiskt näringsliv</p>
+      <p type="listitem">främjande av nyskapande samisk kulturverksamhet</p>
+      <p type="listitem">verksamhet som når många människor och främjar samverkan</p>
+    </list>
+    <p>Sametingets handlingsprogram</p>
+    <p>Genom dessa målbilder vill kulturrådet jämka samman Sametingets handlingsprogram <span type="quote">"Sametingets jämställdhetsprogram"</span> (2004), <span type="quote">"Start för en offensiv samisk språkpolitik"</span> (2004) <span type="quote">”Ungdomspolitiskt handlingsprogram”</span> (2007) och <span type="quote">”Näringspolitisk strategi”</span> (2006).</p>
+    <p>Språk</p>
+    <p>I främjandet av samisk språkutveckling tar kulturrådet utgångspunkt i språkhandlingsplanens fastställande att alla samer ska ha rätt till sitt språk; samiska som modersmål eller samiska som senare förvärvat språk. Kulturrådet prioriterar därför projekt och verksamhet som verkar för att stärka och utveckla den samiska språkanvändningen.</p>
+    <p>Jämställdhet</p>
+    <p>I enlighet med Sametingets jämställdhetsprogram vill kulturrådet systematiskt jobba för ökad jämställdhet i det samiska samhället  .</p>
+    <p>Barn &amp; ungdom</p>
+    <p>Kulturrådet vill stärka samiska barns och ungdomars medbestämmande och aktiva deltagande i samhällslivet genom att prioritera sådan verksamhet.</p>
+    <p>Samiskt näringsliv</p>
+    <p>Kulturrådet avser att stödja utveckingen av samiskt näringsliv i enlighet med Sametingets näringspolitiska strategi.</p>
+  </body>
+</document>

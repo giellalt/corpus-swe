@@ -1,0 +1,37 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>212</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/begravningar/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="manniska-och-samhalle-begravningar.html"/>
+    <parallel_text xml:lang="sma" location="manniska-och-samhalle-begravningar.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Begravningar - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Begravningar</p>
+    <p>
+      <em type="italic">Länsstyrelsen kontrollerar att personer som inte är medlem i Svenska kyrkan också kan begravas på ett värdigt sätt. Vi kan även ge tillstånd till att sprida askan efter en avliden person. </em>
+    </p>
+    <p type="title">Begravningsombud och begravningsplatser</p>
+    <p>Oftast är det en eller flera församlingar som ansvarar för att ordna begravningsplatser. Länsstyrelsen utser ombud som ska granska församlingarna och se till att de som inte tillhör Svenska kyrkan får begravas på ett sätt som passar dem. Ombuden kontrollerar till exempel begravningsavgifter och utformningen av begravningsplatser.</p>
+    <p>Om du vill veta vem som är begravningsombud där du bor kan du vända dig till din församling eller till Länsstyrelsen.</p>
+    <p type="title">Sprida aska</p>
+    <p>Om du vill strö ut aska efter en avliden person någon annanstans än på en begravningsplats måste du ha tillstånd från Länsstyrelsen. Vi kan bara ge tillstånd för att sprida aska när någon har avlidit. Det går alltså inte att söka tillståndet i förväg.</p>
+    <p type="title">Länsstyrelsen prövar begravningsfrågor</p>
+    <p>Ibland händer det att de efterlevande är oeniga om gravsättningen och att den församling eller kommun som sköter begravningsverksamheten inte lyckas medla mellan dem. Då kan frågan överlämnas till Länsstyrelsen för prövning. Du kan också vända dig till oss för att överklaga ett beslut om rätt till gravplats eller flyttning av gravsatt stoft eller aska.</p>
+  </body>
+</document>

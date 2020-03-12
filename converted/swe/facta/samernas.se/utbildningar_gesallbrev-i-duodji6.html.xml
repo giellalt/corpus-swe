@@ -1,0 +1,41 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Gesällbrev i Duodji |  Samernas Utbildningscentrum</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>243</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.samernas.se/utbildningar/gesallbrev-i-duodji</origFileName>
+    <parallel_text xml:lang="smj" location="799-2_747-2_lang_ls6.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>
+      <em type="bold">Gesäll- och mästarbrev i duodji </em>
+    </p>
+    <p>Vi har nu gesäll- och mästarbrev i Duodji på svensk sida av Sápmi! Detta beviljades i mars 2010 av Gesäll- och mästarbrevskansliet i Leksand. Riktlinjerna för detta togs fram av en arbetsgrupp inom ramen för ett förprojekt finansierat av Socialfonden, Samernas utbildningscentrum och Kunskapens Hus i Jokkmokk. I arbetsgruppen fanns representanter från duodjilärarna på Samernas samt</p>
+    <p>Sámi Duodji kommer att sköta det administrativa arbetet kring detta.</p>
+    <p>För att erhålla gesällbrev fodras yrkesutbildning eller yrkeserfarenhet motsvarande minst 3 år. Utbildningsvägar är den 2-åriga duodjilinjen på Samernas eller likvärdig utbildning samt minst ett års praktik.</p>
+    <p>Själva provet kommer att bestå av 3 delar. Dels ett praktiskt prov som man gör i sin verkstad under ett antal månader. Sen kommer det att anordnas en provvecka i Jokkmokk där ytterligare ett praktiskt prov kommer att genomföras. Det avslutande provet är teoretiskt. De som blir godkända kommer att få möjlighet att ställa ut sina alster under sommaren hos Sámi Duodji. I dagsläget är inga prov inplanerade.</p>
+    <p>För Samernas utbildningscentrums del så är vi nu glada för att det finns ett yrkesbevis inom duodji. Duodjilinjen ger efter ytterligare ett års praktik möjlighet att anmäla sig till gesällprov. Vi vill peka på möjligheten att söka till den lärlingsutbildning i duodji som vi samverkar med stiftelsen Hantverk &amp; Utbildning i Leksand.</p>
+    <p>För ytterligare frågor kontakta</p>
+    <p>Sanna Larsson, sameslöjdskonsulent, Sámi Duodji, 0971-128 99, 070-394 93 06</p>
+    <p>Henrik Micael Kuhmunen, rektor, Samernas utbildningscentrum</p>
+    <p type="title">Språkstudier</p>
+    <p type="title">Slöjdlinjen</p>
+    <p type="title">Rennäringslinje</p>
+    <p type="title">Samisk Mat</p>
+  </body>
+</document>

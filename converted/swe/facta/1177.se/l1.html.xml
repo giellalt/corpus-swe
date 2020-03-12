@@ -1,0 +1,78 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>533</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Tema/Barn-och-foraldrar/Sjukdomar-och-besvar1/Sjukdomar-och-besvar-A-O/l1</origFileName>
+    <parallel_text xml:lang="eng" location="ont-i-orat-hos-barn.html"/>
+    <parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/>
+    <parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="d.html"/>
+    <parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="ont-i-orat-hos-barn---egenvard.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Ont i örat hos barn – vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Barn och föräldrar</p>
+    <list>
+      <p type="listitem">Sjukdomar och besvär</p>
+      <p type="listitem">Mat, sömn och praktiska råd</p>
+      <p type="listitem">Skador och olycksfall</p>
+      <p type="listitem">Växa och utvecklas</p>
+      <p type="listitem">Barn och föräldrar i vården</p>
+      <p type="listitem">Familj och relationer</p>
+      <p type="listitem">Frågor och svar om barn</p>
+      <p type="listitem">Barnavdelningen</p>
+      <p type="listitem">Barnets tänder</p>
+      <p type="listitem">Läsare berättar</p>
+    </list>
+    <p type="title">Ont i örat hos barn – vad kan man göra själv?</p>
+    <list>
+      <p type="listitem">Om barnet ligger högt med huvudet minskar svullnaden i örat och det gör mindre ont. Ett sätt att höja huvudändan är att lägga in kuddar under madrassen.</p>
+    </list>
+    <p type="title">Ofta värk på natten</p>
+    <p>Många barn får någon gång ont i örat. Smärtan kan bero på flera olika saker. Barn som är förkylda kan exempelvis få ont i örat av att slemhinnorna i örat svullnar. De kan också få värk av en varig inflammation i mellanörat, det vill säga öroninflammation . Både förkylning och öroninflammation är vanliga infektionssjukdomar hos barn. Ofta vaknar barnen på natten av värken eftersom svullnaden i örat ökar ännu mer när de ligger ner. Det kan kännas lättare att sova om man har en extra kudde under huvudet.</p>
+    <p>Andra besvär som kan ge öronvärk är</p>
+    <list>
+      <p type="listitem">inflammation i hörselgången som leder in mot trumhinnan</p>
+      <p type="listitem">en vaxpropp</p>
+      <p type="listitem">besvär med käklederna.</p>
+    </list>
+    <p type="title">Öroninflammation utvecklas i mellanörat</p>
+    <p>En öroninflammation i mellanörat börjar ofta plötsligt och är kortvarig. Förutom ont i örat kan barnet ha en känsla av lock för örat och sämre hörsel. Det är också vanligt med feber . Ibland spricker trumhinnan och vätska rinner ut i hörselgången. Då brukar värken minska. Barn kan även ha öroninflammation utan värk.</p>
+    <p type="title">Smärtstillande läkemedel</p>
+    <p>Om man vet att barnet har öroninflammation kan man ge smärtstillande läkemedel som innehåller paracetamol, till exempel Alvedon och Panodil, eller läkemedel som innehåller ibuprofen, exempelvis Ipren och Ibumetin. Medicinerna finns i flytande form, som stolpiller och som tabletter. Det finns noggranna anvisningar på förpackningen.</p>
+    <p>När det gäller barn som är under sex månader bör man inte ge smärtstillande utan att först rådgöra med sjuksköterska eller läkare.</p>
+    <p>Barn under 18 år som har feber ska inte använda smärtstillande och febernedsättande medel med acetylsalicylsyra, till exempel Magnecyl, Treo eller Albyl minor, om inte en läkare har rekommenderat det.</p>
+    <p type="title">Nässprej</p>
+    <p>Avsvällande nässprej minskar nästäppa och gör det lättare för barnet att andas. Däremot hjälper inte nässprej mot själva öroninflammationen.</p>
+    <p type="title">Öronproblem och bad</p>
+    <p>Om det har gått hål i trumhinnan bör man vänta med att bada tills det har slutat rinna ur hörselgången. När trumhinnan har läkt, vilket brukar gå ganska snabbt, kan man bada som vanligt. Har man rör i öronen eller en pågående öroninflammation ska man inte bada med huvudet under vattenytan.</p>
+    <p type="title">Man kan behöva kontakta vården</p>
+    <p>Barn kan få tillfällig öronvärk i samband med en förkylning . Men om värken inte går över, trots behandling med smärtstillande läkemedel och huvudet i högläge, bör barnet undersökas på vårdcentral eller jourmottagning inom två-tre dygn.</p>
+    <p>Man bör alltid kontakta vårdcentralen om det rinner vätska ur hörselgången på ett barn, oavsett om barnet har ont eller inte.</p>
+    <p>Om barnet är slött, inte orkar leka och inte vill dricka eller är under sex månader ska man kontakta vårdcentralen eller akuten direkt.</p>
+    <p>Det går alltid att ringa sjukvårdsrådgivningen på telefon 1177 för att få råd.</p>
+  </body>
+</document>

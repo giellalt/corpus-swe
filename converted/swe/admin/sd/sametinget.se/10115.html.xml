@@ -1,0 +1,37 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>267</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/10115</origFileName>
+    <parallel_text xml:lang="sme" location="10151.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Samiskt jubel över Umeås seger i kampen om kulturhuvudstad - Sametinget</p>
+    <p type="title">Samiskt jubel över Umeås seger i kampen om kulturhuvudstad</p>
+    <p>Idag kom det efterlängtade beskedet att allt hårt slit lönat sig. Umeå vann kampen mot Lund och blir Sveriges nominering till Europas kulturhuvudstad 2014. Det meddelade urvalsjuryn idag. Sara Larsson hoppas att det blir en chans för Umeå att profilera sig som en stad i Sápmi.</p>
+    <p><em type="italic">Nordliga rummet </em>Umeås ledord har hela tiden varit det nordliga rummet, mångfald och gränsöverskridande. I det arbetet har även den samiska kulturen uppmärksammats och Sametingets plenum har uttalat sitt stöd för Umeås planer. Umeå blir den första kulturhuvudstaden där ett ursprungsfolk synliggörs. </p>
+    <p>
+      <em type="bold">Rätt att vara den man är </em>
+    </p>
+    <p>Kultur är inte bara något som man visar upp, utan grundar sig på människans rätt att få vara den man är och få vara stolt över sin kultur. Det har Umeå tagit fasta på. Samerna är en naturlig del av Umeå och något som kommunen ser som en positiv tillgång, kommenterar Sara Larsson, Sametingets nya styrelseordförande, själv är umebo sedan nio år.</p>
+    <p>
+      <em type="bold">Samisk närvaro </em>
+    </p>
+    <p>Som ett exempel lyfter Sara fram den samiska veckan i Umeå som förra året firade 10-årsjubileum. Under den veckan samlas samer från olika håll för att delta på ett rikt utbud av arrangemang. Då blir Umeå en naturlig samlingsplats och en tillfällig samisk huvudstad i det sydsamiska området. Umeå har sedan 1642 tre renhuvuden i sitt stadsvapen och Västerbottens landskapsvapen har en hel ren.</p>
+    <p>- Det om något visar på att den samiska närvaron i Umeå historiskt sett varit betydande, säger Larsson.</p>
+    <p><em type="italic">Kontakt </em>Sara Larsson, styrelseordförande, 070-378 88 24 </p>
+  </body>
+</document>

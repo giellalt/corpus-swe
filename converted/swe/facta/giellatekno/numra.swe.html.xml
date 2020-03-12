@@ -1,0 +1,41 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Numra</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>50</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/useoahpa/numra.swe.html</origFileName>
+    <parallel_text xml:lang="eng" location="numra.eng.html"/>
+    <parallel_text xml:lang="fin" location="numra.fin.html"/>
+    <parallel_text xml:lang="nob" location="numra.nob.html"/>
+    <parallel_text xml:lang="sme" location="numra.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="kal">Numra</p>
+    <list>
+      <p type="listitem">Valmöjligheter</p>
+    </list>
+    <p>Numra är ett program för att öva på räkneord, klockan och daton. Numra passar för alla; skall man lära ett språk måste man kunna räkna.</p>
+    <p type="title">Valmöjligheter</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Tallområde: 0-10, 0-20, 0-100 eller 0-1000.</p>
+      <p type="listitem">Modus: Från tal till räkneord, och från räkneord till tal.</p>
+      <p type="listitem" xml:lang="dan">Ordningstal</p>
+      <p type="listitem">Klockan</p>
+      <p type="listitem" xml:lang="nob">Dato</p>
+    </list>
+    <p xml:lang="nob">Link til Numra</p>
+  </body>
+</document>

@@ -1,0 +1,51 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Giella – Språkstudier |  Samernas Utbildningscentrum</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>335</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.samernas.se/utbildningar/giella-sprakstudier</origFileName>
+    <parallel_text xml:lang="sme" location="oahpahusat_giella-samigieloahppa_lang_sm2.html"/>
+    <parallel_text xml:lang="smj" location="799-2_756-2_lang_ls2.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Giella – Samiska Språkstudier</p>
+    <p>Samiska språket är en röd tråd i samisk kultur. Sámij åhpadusguovdásj /Samernas utbildningscentrum är en institution som verkar för en levande samisk språkmiljö. Vid sidan av Dina språkstudier ges Du här även möjlighet att på fritiden utveckla Dina muntliga språkfärdigheter.</p>
+    <p>Skolan erbjuder olika former av språkstudier enligt nedan. Välj den modell som passar Dig bäst! Kurserna startar upp under förutsättning att det är nog antal sökande samt inom ramen för befintliga lärarresurser.</p>
+    <p><em type="italic">Samiska skrivkurs h.t. 2015 </em><em type="italic">Skrivarkurs </em>är för dig som vill utveckla ditt kunnande i att använda det skrivna språket. Du bör ha läst samiska tidigare och har därmed grunderna i samiska och kan använda det muntligt eller till viss del muntligt i din vardag. Kursen erbjuds under höstterminen 2015 med totalt 120 timmar lärarledd undervisning. Denna kurs kan vara decentraliserad vad gäller sydsamiska, d.v.s. kursen kan bedrivas på annan ort än Jåhkåmåhkke. </p>
+    <p>Kursinnehåll: Grunderna i samiska språket, grammatik, samiska som muntligt och skriftligt språk.</p>
+    <p>– Samiska språket (samisktalande alt. fortsättning) – Nordsamiska – Lulesamiska – Sydsamiska</p>
+    <p>Vi erbjuder studieplatser för kurs i samiska språket under höstterminen 2015, totalt 6 veckor. Kursstart 25 augusti.</p>
+    <p>
+      <em type="italic">Distansutbildningar utan träffar på kvartsfart (25%)/distans 1 år </em>
+    </p>
+    <p>– Samiska språket (grund/forts eller samisktalande) – Nordsamiska – Lulesamiska – Sydsamiska</p>
+    <p>Ett normalt läsår omfattar 16 veckor på hösten samt 20 veckor på våren, totalt 36 veckor. 25% studiefart motsvarar 10 tim/veckan i nedlagt elevarbete vilket blir 360 timmar under läsåret. I nätkursen läser studenten 2 steg i Moderna språk under ett läsår. På grundnivå motsvarar detta steg 1-2.</p>
+    <p>
+      <em type="italic">Antagningsvillkor </em>
+    </p>
+    <p>Minimiålder är 18 år. Du kan anmäla Dig antingen som nybörjare, fortsättningselev eller samisktalande. Antal platser: 15/ inriktning.</p>
+    <p><em type="italic">Kursavgift </em>Se under länken <span type="quote">”Om skolan-Att studera på Samernas”</span>. Läroböcker samt studiematerial står eleven själv för. </p>
+    <p><em type="italic">Övrigt </em>Du bör ha tillgång till egen pc med internetanslutning . </p>
+    <p>Webbansökan! (rahppo njukčamánu 23 beaivvi/öppnas 23 mars).</p>
+    <p><em type="italic">FUOMIT/OBS: </em>Ansökan till språkutbildningarna skall vara inlämnade den 15 maj. Beslut om ev. senarelagt ansökningsdatum meddelas senast den 15 maj. </p>
+    <p type="title">Språkstudier</p>
+    <p type="title">Slöjdlinjen</p>
+    <p type="title">Rennäringslinje</p>
+    <p type="title">Samisk Mat</p>
+  </body>
+</document>

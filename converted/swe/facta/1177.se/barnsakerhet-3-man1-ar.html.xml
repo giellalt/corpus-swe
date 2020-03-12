@@ -1,0 +1,138 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>912</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Tema/Barn-och-foraldrar/Mat-somn-och-praktiska-rad/Tips-och-rad-om-barnsakerhet/Barnsakerhet-3-man1-ar</origFileName>
+    <parallel_text xml:lang="eng" location="barnsakerhet-3---12-man.html"/>
+    <parallel_text xml:lang="fin" location="barnsakerhet-3---12-man.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Barnsäkerhet, 3 mån–1 år - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Barn och föräldrar</p>
+    <list>
+      <p type="listitem">Sjukdomar och besvär</p>
+      <p type="listitem">Mat, sömn och praktiska råd</p>
+      <p type="listitem">Skador och olycksfall</p>
+      <p type="listitem">Växa och utvecklas</p>
+      <p type="listitem">Barn och föräldrar i vården</p>
+      <p type="listitem">Familj och relationer</p>
+      <p type="listitem">Frågor och svar om barn</p>
+      <p type="listitem">Barnavdelningen</p>
+      <p type="listitem">Barnets tänder</p>
+      <p type="listitem">Läsare berättar</p>
+    </list>
+    <p type="title">Barnsäkerhet, 3 mån–1 år</p>
+    <p type="title">Tips och råd</p>
+    <list>
+      <p type="listitem">Man behöver ha hällskydd på spisen och vända kastrullhandtaget inåt när barnet blir allt mer nyfiket och börjar resa sig upp.</p>
+      <p type="listitem">Dra regelbundet i nappens gummiknopp för att kontrollera att den är hel.</p>
+    </list>
+    <p type="title">För att förhindra fallskador är det bra att</p>
+    <list>
+      <p type="listitem">alltid ha uppsikt över barnet när det ligger på skötbordet och att hålla i barnet om man måste vända sig bort</p>
+      <p type="listitem">endast använda gåstolar med trappstopp som hindrar stolen från att åka ut över kanten på en trappa</p>
+      <p type="listitem">alltid ha uppsikt över barnet i barnvagnen</p>
+      <p type="listitem">använda sele i vagnen när barnet blir rörligare</p>
+      <p type="listitem">förankra höga barnstolar i bordet med särskilt ankare</p>
+      <p type="listitem">lyfta ner barnet ur barnstolen när man inte har det under uppsikt</p>
+      <p type="listitem">använda grindar både uppe och nere om man har trappor hemma</p>
+      <p type="listitem">inte ha öppningar större än tio centimeter mellan till exempel räcken, staket och trappsteg</p>
+      <p type="listitem">sänka botten i spjälsängen innan barnet kan resa sig</p>
+      <p type="listitem">inte låta barnet sova utan uppsikt i föräldrarnas säng</p>
+      <p type="listitem">förankra tunga möbler i väggen med möbelankare</p>
+      <p type="listitem">se till att fönster och balkongdörrar har spärrar så att barnet inte kan öppna dem</p>
+      <p type="listitem">ha halkskydd i badkaret.</p>
+    </list>
+    <p type="title">För att förhindra brännskador ska man</p>
+    <list>
+      <p type="listitem">undvika att dricka hett kaffe eller te med barnet i knäet</p>
+      <p type="listitem">kontrollera barnets badtemperatur så att det inte är för varmt, man kan använda en termometer eller känna efter med armbågen</p>
+      <p type="listitem">alltid ha barnet under uppsikt i badkaret så att det inte sätter på varmvattenkranen</p>
+      <p type="listitem">kontrollera att elementen inte är varmare än 60 grader, eller att de har skydd</p>
+      <p type="listitem">använda hällskydd på spisen och se till att tippskyddet är installerat</p>
+      <p type="listitem">använda lås på ugnsluckan och ugnsskydd om spisluckan blir varmare än 60 grader</p>
+      <p type="listitem">placera heta föremål utom räckhåll för barnet</p>
+      <p type="listitem">skydda barnet från stark sol genom att låta det vistas i skuggan eller använda solhatt och skyddande kläder.</p>
+    </list>
+    <p type="title">För att undvika kvävning bör man</p>
+    <list>
+      <p type="listitem">plocka undan småsaker som kan fastna i halsen</p>
+      <p type="listitem">se till att barnet inte kan få tag på plastpåsar</p>
+      <p type="listitem">alltid låta barnet sitta när det äter</p>
+      <p type="listitem">förvara nötter så att barnet inte får tag på dem</p>
+      <p type="listitem">ofta dra i nappens gummiknopp för att se att den är hel.</p>
+    </list>
+    <p>Det finns en speciell smådelscylinder som kan vara till hjälp för att bedöma om en sak är för liten för barnet och riskerar att fastna i halsen. Cylindern finns att hämta på barnavårdscentralen eller hos konsumentvägledaren.</p>
+    <p type="title">För att skydda hörseln är det bra att</p>
+    <list>
+      <p type="listitem">undvika höga ljudvolymer, till exempel hög musik eller höga, plötsliga ljud</p>
+      <p type="listitem">se till att leksaker inte har för höga, gälla ljud – testa dem före köp.</p>
+    </list>
+    <p type="title">För att undvika förgiftningar bör man</p>
+    <list>
+      <p type="listitem">förvara kemikalier och läkemedel utom räckhåll för barnet, till exempel i ett låsbart medicinskåp</p>
+      <p type="listitem">se till att barnet inte kan få tag på cigaretter eller snus</p>
+      <p type="listitem">kontrollera att man inte har några giftiga växter hemma.</p>
+    </list>
+    <p type="title">För att minska risken för elolycksfall är det bra att</p>
+    <list>
+      <p type="listitem">alla eluttag är petskyddade</p>
+      <p type="listitem">sladdar, elapparater och lampor är oskadade</p>
+      <p type="listitem">barnet inte kan få tag på hängande elsladdar</p>
+      <p type="listitem">försäkra sig om att en jordfelsbrytare finns installerad av en auktoriserad elektriker.</p>
+    </list>
+    <p type="title">För att minska risken för olyckor i köket ska man</p>
+    <list>
+      <p type="listitem">förvara vassa föremål så att barnet inte kommer åt dem</p>
+      <p type="listitem">använda hällskydd och se till att tippskydd på spisen är installerat</p>
+      <p type="listitem">använda lås på ugnsluckan och ugnsskydd om spisluckan blir varmare än 60 grader</p>
+      <p type="listitem">se till att barnet inte kommer åt maskindiskmedel eller kemikalier</p>
+      <p type="listitem">dra ur kontakten när man inte använder elapparater.</p>
+    </list>
+    <p type="title">För att färdas säkert i bil ska man</p>
+    <list>
+      <p type="listitem">se till att barn under nio månader alltid sitter fastspända i ett godkänt babyskydd</p>
+      <p type="listitem">från nio månaders ålder använda en godkänd bilbarnstol som monteras bakåtvänd</p>
+      <p type="listitem">vid köp av ett begagnat babyskydd eller bilbarnstol förvissa sig om att den är oskadad</p>
+      <p type="listitem">kontrollera att det inte finns några lösa föremål som kan kastas omkring i bilen om man skulle behöva bromsa hastigt.</p>
+    </list>
+    <p>Det finns både babyskydd och bilbarnstolar som är godkända för montering i både fram- och baksätet. Följ alltid monteringsanvisningarna för respektive stol.</p>
+    <p type="title">För att minska olycksrisken vid vatten ska man</p>
+    <list>
+      <p type="listitem">alltid vara hos barnet när det badar eller leker vid vatten för att undvika drunkningsolyckor</p>
+      <p type="listitem">tänka på att stora vattenpölar, vattenfyllda diken, fågelbad och små dammar också kan utgöra risker för att ett litet barn drunknar</p>
+      <p type="listitem">tömma små flyttbara småbarnspooler på vatten när de inte används</p>
+      <p type="listitem">se till att barnet använder flytväst i rätt storlek, anpassad för barnets vikt.</p>
+    </list>
+    <p>Det finns regler för hur pooler och andra typer av bassänger ska täckas eller inhägnas för att undvika olyckor. Enligt Konsumentverket ska simbassänger, pooler, grunda dammar samt trädgårdsdammar vara inhägnade och ha barnsäker låsning.</p>
+    <p type="title">För att säkra cykelturen bör man</p>
+    <list>
+      <p type="listitem">använda cykelhjälmar, barnsits och ekerskydd om man skjutsar barnet på cykel.</p>
+    </list>
+    <p>För barn under sju år finns speciella småbarnshjälmar med grönt hakband som utlöses vid belastning.</p>
+    <p type="title">För att förhindra andra olyckor</p>
+    <p>För att förebygga olyckor av andra slag kan man regelbundet kontrollera barnets utrustning och leksaker, till exempel barnvagnens bromsar och nappens gummiknopp.</p>
+    <p type="title">Passiv rökning</p>
+    <p>Passiv rökning utsätter barnet för hälsorisker. Om man inte kan sluta röka helt så kan man ändra sina rökvanor och inte röka i hemmet. En helt rökfri miljö är bäst för barnet.</p>
+    <p type="title">Mer på andra webbplatser</p>
+    <list>
+      <p type="listitem">Konsumentverkets regler för olyckor vid vatten</p>
+    </list>
+  </body>
+</document>

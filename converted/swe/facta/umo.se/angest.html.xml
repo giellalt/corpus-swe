@@ -1,0 +1,82 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1072</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Att-ma-daligt/Angest</origFileName>
+    <parallel_text xml:lang="fin" location="ahdistus.html"/>
+    <parallel_text xml:lang="fit" location="ahistus.html"/>
+    <parallel_text xml:lang="sma" location="asve.html"/>
+    <parallel_text xml:lang="sme" location="aestus.html"/>
+    <parallel_text xml:lang="smj" location="goavgge.html"/>
+    <parallel_text location="nervolo.html" xml:lang="rmu"/>
+    <parallel_text location="dar.html" xml:lang="rmy-rka"/>
+    <parallel_text location="ongesto.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="dar.html" xml:lang="rmf"/>
+    <parallel_text location="baridar.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Ångest</p>
+    <p>Alla undrar!  Vad undrar du?</p>
+    <p type="title">Ångest</p>
+    <p>Ångest är starka känslor av oro och rädsla som kan kännas i hela kroppen, och som de flesta får någon gång. Ångest kan vara obehagligt, men man ska försöka att ändå göra det man vill och inte undvika situationer som man tror ska ge ångest.</p>
+    <p>» Texten finns på de nationella minoritetsspråken</p>
+    <p>Ångest är reaktioner i nervsystemet som man inte kan styra själv. Det är bra att känna till att ångest inte är farligt och att det alltid går över efter ett tag.</p>
+    <p type="title">Kan kännas i hela kroppen</p>
+    <p>Att ha ångest är att känna sig mycket rädd och orolig. Det är en stark känsla som kan kännas i hela kroppen. Samtidigt som man blir orolig kan hjärtat slå snabbare och hårdare, andningen bli snabbare och musklerna dra ihop sig. Man kan börja svettas, bli yr, darrig eller må illa, eller känna ett tryck över bröstet, som att det är svårt att andas.</p>
+    <p>Först blir känslan starkare och starkare, men efter en stund blir den inte starkare. Då brukar man börja slappna av, och ångesten minskar.</p>
+    <p>Ångest kan kännas skrämmande. Men det känns alltid lugnare efter ett tag, och det är inte farligt.</p>
+    <p>Ångest kan kännas olika olika gånger. Och det är inte alltid man vet att det man känner i kroppen är ångest.</p>
+    <p>Ibland används ordet ångest när man tycker att något är jobbigt. Man säger att man har ångest för till exempel ett prov i skolan eller för att det är mycket på jobbet. Men ångest är något mer än den här vardagliga oron, som kanske ofta handlar om stress .</p>
+    <p type="title">Man vet inte alltid varför man får ångest</p>
+    <p>De flesta får ångest någon gång, men det är olika hur mycket och hur ofta. En del får ångest bara någon enstaka gång. Andra kan ha stark ångest som ofta kommer tillbaka, eller ångest som håller i sig länge. Man kan också få korta ångestattacker som går över snabbt.</p>
+    <p>Ibland vet man varför man får ångest. Den kan komma när man är med om något jobbigt, som att någon man känner dör. Man kan få ångest om man har utsatts för ett övergrepp. Eller om någon har varit taskig på nätet, eller försökt lura eller utnyttja en.</p>
+    <p>En del får ångest före ett prov eller en anställningsintervju. Eller när man ska göra något särskilt som man tycker är läskigt. Det kan vara mycket jobbigt, men man vet i alla fall varför man har ångest. Det kan göra den lite lättare att stå ut med.</p>
+    <p>Man kan också få ångest av att dricka alkohol eller använda droger.</p>
+    <p>Ångest kan också komma utan att man vet varför, eller av saker som man inte tänker borde ge ångest. Det kan ibland göra ångesten jobbigare och göra en mer rädd.</p>
+    <p>Det finns ingen tydlig gräns mellan de här formerna av ångest. Det kan också vara så att man vet vad ångesten beror på, men ändå tycker att den är för stark, till exempel om man får hjärtklappning, yrsel och svettningar inför prov eller tentor.</p>
+    <p type="title">Påverkar sömn och känslor</p>
+    <p>Ångest kan göra att man får svårt att slappna av och att sova bra. Man kan vakna på nätterna och på så sätt få sömnen störd, eller få för lite sömn . Ångesten kan också göra så att man blir rastlös, otålig och lättirriterad, eller så att man lättare blir ledsen och börjar gråta.</p>
+    <p type="title">Ångest för ångesten</p>
+    <p>Ångest kan ge så starka känslor och reaktioner i kroppen att man kan tro att man håller på att dö eller bli galen. Det kan vara så jobbigt att man gör allt för att undvika att det ska hända igen. Då kan man få ångest av att man är rädd för att få ångest. Det kallas för förväntansångest.</p>
+    <p>Man kan vara orolig för att få ångest när andra är med, och tycka att det är svårt att berätta om det. Det kan göra att man börjar undvika att träffa personer man egentligen vill träffa eller att göra saker man egentligen vill göra. Rädslan för att få ångest gör att man blir begränsad i sitt dagliga liv.</p>
+    <p>Att undvika sånt som man tror ska ge ångest är inte bra, eftersom det kan göra ångesten värre. Istället ska man söka hjälp tidigt. Det finns bra hjälp.</p>
+    <p type="title">Vad kan man göra själv?</p>
+    <p>Det går att bli av med ångest. Ofta kan man hitta egna sätt att hantera sin ångest. Här är några tips.</p>
+    <list>
+      <p type="listitem">Det brukar hjälpa att berätta om sin ångest för någon man känner sig trygg med. Att sätta ord på sina jobbiga känslor kan göra det lättare att tänka och att förstå dem.</p>
+      <p type="listitem">För många hjälper det också att skriva om de jobbiga känslorna, eller att måla eller skapa på andra sätt.</p>
+      <p type="listitem">Stress kan öka ångest. Om man är stressad kan man därför fundera på hur man kan minska stressen, och på så sätt också minska sin ångest.</p>
+      <p type="listitem">Man kan göra avslappningsövningar. Det finns att ladda ner på internet eller att köpa på cd på apotek.</p>
+      <p type="listitem">Ångest gör ofta att man sover sämre. Men om man lyckas sova bra kan den minska. Därför är det viktigt att försöka sova ordentligt.</p>
+      <p type="listitem">Ångesten kan minska om man rör på sig, genom att träna eller promenera.</p>
+      <p type="listitem">Om man röker, snusar, dricker alkohol eller dricker mycket kaffe kan man pröva att minska på det och se om det hjälper. Mycket nikotin och koffein kan öka ångesten och göra att man sover sämre.</p>
+      <p type="listitem">Man kan läsa om ångest eller få tips av andra, till exempel på internet. Det finns föreningar man kan gå med i som kan stödja med tips och råd.</p>
+      <p type="listitem">Om man vill prata med någon, kan man ringa någon av de telefonjourer som finns.</p>
+    </list>
+    <p>Man ska inte dricka alkohol eller ta andra droger för att minska sin ångest. Det kan kännas som om det hjälper för stunden, men ångesten kommer tillbaka och då kan den bli ännu värre.</p>
+    <p type="title">Vilken hjälp kan man få?</p>
+    <p>Man kan också få hjälp att hitta sätt att bli av med ångesten. Den vanligaste behandlingen är någon form av samtalsterapi, medicin eller avslappning.</p>
+    <p>Det som funkar för en person kanske inte funkar för en annan. Därför är det viktigt att man får hjälp som är anpassad efter vad man själv behöver.</p>
+    <p>Man kan börja med att kontakta en ungdomsmottagning , elevhälsan eller en vårdcentral. Om det behövs kan den man träffar hjälpa en att få kontakt med till exempel en psykolog eller läkare.</p>
+  </body>
+</document>

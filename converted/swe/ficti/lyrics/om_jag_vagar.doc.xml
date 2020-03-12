@@ -1,0 +1,29 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title> 
+Untitled
+</title>
+    <genre code="ficti"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>150</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
+    <parallel_text xml:lang="fkv" location="porsanger_kulturskole_jos_mie_tohdin_22.12.2009.doc"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p><em type="bold">Om Jag Vågar </em>Jag kännar du tittar på mig med dit varma ögonblick Jag vet inte om jag vågar titta på deg. </p>
+    <p>Du räkker mig din hand, den smältar inn i huden min, Jag vet inte om jag vågar röra ved dig.</p>
+    <p>Men når solen kommar fram känner jag din varme i mitt bröst Og en liten stund är jag säker på att du älskar mig.</p>
+    <p>Du leder mig iväg till ditt vackra drömmarland, jag vet inte om jag vågar fölga med dig. Du kysser mig på min kinn, jag känner dina varma läppar Jag vet inte om jag vågar att elska dig. Men når solen kommer fram kännar jag din varme i mitt bröst Og en liten stund är jag säker på att du älskar mig. Du älskar mig, jaaieiei...</p>
+    <p>Jag kännar du tittar på mig med ditt varma ögonkast, Jag vet inte om jag vågar titta på deg.</p>
+  </body>
+</document>

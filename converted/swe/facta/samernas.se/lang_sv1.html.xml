@@ -1,0 +1,50 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Samernas Utbildningscentrum</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>105</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.samernas.se/index.php</origFileName>
+    <parallel_text xml:lang="sme" location="lang_sm1.html"/>
+    <parallel_text xml:lang="smj" location="lang_ls1.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Det finns ett samiskt utbildningsalternativ</p>
+    <list/>
+    <list>
+      <p type="listitem">Presentation</p>
+      <p type="listitem">Kontaktinformation</p>
+      <p type="listitem">Boende</p>
+    </list>
+    <p>Sámij åhpadusguovdásj är en samisk utbildningsinstitution med gamla anor. Sedan starten 1942 har skolan med det dåvarande namnet Samernas Folkhögskola gett utbildningar till det samiska folket. Skolan har haft en mycket stor betydelse för det samiska samhället.</p>
+    <p>Samernas Utbildningscentrum Borgargatan 2 S-962 32 JÅHKÅMÅHKKE Tel: +46 (0)971 440 00 Fax: +46 (0)971 440 01 info@samernas.se</p>
+    <p>För information om boende på Samernas under din studietid, se: Boende</p>
+    <p type="title">Aktuellt</p>
+    <list>
+      <p type="listitem">Ohcan lea rahppon/Ansökan öppen fr.o.m. måndag 23/3</p>
+      <p type="listitem">Sámij Åhpadusguovdásj ohcá davvisámigieloahpaheaddji 100% virgái</p>
+      <p type="listitem">Samisk Mat</p>
+      <p type="listitem">Giellaj hilá</p>
+      <p type="listitem">Samiska i gymnasieskolan</p>
+      <p type="listitem">Gesäll- och mästarbrev i duodji</p>
+    </list>
+    <p type="title">Språkstudier</p>
+    <p type="title">Slöjdlinjen</p>
+    <p type="title">Rennäringslinje</p>
+    <p type="title">Samisk Mat</p>
+  </body>
+</document>

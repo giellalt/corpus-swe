@@ -1,0 +1,37 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>206</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/71631</origFileName>
+    <parallel_text xml:lang="sme" location="71695.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Nya landsbygdsprogrammet - Sametinget</p>
+    <p type="title">Nya landsbygds-programmet</p>
+    <p>Sveriges förslag till nytt landsbygdsprogram för perioden 2014-2020 presenterades den 2 april. Nu ska regeringens förslag skickas till EU-kommissionen för godkännande. Totalt omfattar programmet 36 miljarder kronor och den svenska medfinansieringen uppgår till 59 %.</p>
+    <p>Utöver regeringsbeslut, krävs en nationell förordning och beslut om viss EU-lagstiftning. Slutligen måste EU-kommissionen godkänna Sveriges förslag innan beslut om stöd kan fattas.</p>
+    <p>Länsstyrelserna, Sametinget och Jordbruksverket arbetar vidare med förberedelserna. Det finns en tidplan och det Sametinget vet är att:</p>
+    <list>
+      <p type="listitem"><em type="italic">Investeringsstöd </em>öppnas för ansökningar någon gång under perioden september till oktober 2014. Beslut kan däremot inte fattas förrän efter EU-kommissionens godkännande. Först efter att stöd beviljats är det möjligt att ansöka om utbetalning av stöd. Stöd kommer endast att lämnas utifrån nationella urvalskriterier. Det kommer att vara fokuserat och riktat till vissa typer av investeringar. </p>
+    </list>
+    <list>
+      <p type="listitem"><em type="italic">I maj 2015 startar hela investeringsstödet. </em>Samiska företag ska vända sig till Sametinget. I maj 2015 startar också investeringsstödet till annan verksamhet än jordbruk, trädgård, rennäring och skog. </p>
+      <p type="listitem"><em type="italic">Startstöden </em>kommer att komma igång i början av 2015. </p>
+      <p type="listitem"><em type="italic">Övriga projekt- och företagsstöd </em>som regeringen beslutar ska ingå i landsbygdsprogrammet, öppnas upp för ansökningar under perioden från sommaren 2015 till början av 2016. </p>
+      <p type="listitem">I dagsläget finns inga besked om samiska <em type="italic">miljöinvesteringar. </em></p>
+    </list>
+  </body>
+</document>

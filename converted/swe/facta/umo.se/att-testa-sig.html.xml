@@ -1,0 +1,77 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>868</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Sex/Konssjukdomar/Att-testa-sig</origFileName>
+    <parallel_text xml:lang="fin" location="seksitautitestit.html"/>
+    <parallel_text xml:lang="fit" location="testata-ittea.html"/>
+    <parallel_text xml:lang="sma" location="teestedh.html"/>
+    <parallel_text xml:lang="sme" location="testet-ieas.html"/>
+    <parallel_text xml:lang="smj" location="ietjas-atsadit.html"/>
+    <parallel_text location="te-rodepha-siro.html" xml:lang="rmu"/>
+    <parallel_text location="te-probilpe-o-manu.html" xml:lang="rmy-rka"/>
+    <parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="te-lel-frestiba.html" xml:lang="rmf"/>
+    <parallel_text location="testiribe-korkori-pes.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Att testa sig</p>
+    <p>Alla undrar!  Vad undrar du?</p>
+    <p type="title">Att testa sig</p>
+    <p>Om du har haft oskyddat sex är det bra om du testar dig för könssjukdomar. Hur det går till beror på vilken könssjukdom du testar dig för. Vanligt är att få lämna ett urin- eller blodprov. Testar du dig för en sjukdom som ingår i smittskyddslagen behöver du inte betala något.</p>
+    <p type="title">Varför ska du testa dig för könssjukdomar?</p>
+    <p>Du kan ha fått en könssjukdom fast du känner dig frisk. Inte alla könssjukdomar syns eller känns.</p>
+    <p>Har du träffat någon eller några som du vill ha ett fast förhållande med och planerar att sluta skydda dig med kondom eller femidom , är det bra om ni går och testar er först.</p>
+    <p>Om någon du haft sex med har testat sig och visat sig ha en könssjukdom som ingår i smittskyddslagen , kan du få ett brev eller telefonsamtal från någon mottagning som ber dig att gå och testa dig.</p>
+    <p>Det är inte säkert att du själv fått en könssjukdom men du är enligt lagen skyldig att gå och testa dig för att minska risken att sjukdomen sprids vidare.</p>
+    <p type="title">När ska du testa dig för könssjukdomar?</p>
+    <p>Det är bra att testa sig för könssjukdomar om du har haft oskyddat sex och har besvär, till exempel annorlunda flytningar eller att det svider när du kissar. Om du vet att någon du har haft oskyddat sex med har en könssjukdom kan du ibland få behandling innan provsvaren är klara.</p>
+    <p>Det är också bra att testa sig även om du inte har besvär, alla könssjukdomar märks inte.</p>
+    <p>När du tidigast kan testa dig för könssjukdomar kan vara olika men oftast räcker det att det har gått en vecka sedan du hade oskyddat sex.</p>
+    <p>Det är aldrig för sent att testa sig. En del könssjukdomar kan dröja flera månader och ibland till och med år från det att du fick dem tills att du märker något.</p>
+    <p>Om du inte har haft sex med någon kan du inte ha en könssjukdom. Då behöver du inte heller gå och testa dig.</p>
+    <p type="title">Var kan du testa dig för könssjukdomar?</p>
+    <p>Om du vill testa dig för könssjukdomar kan du:</p>
+    <list>
+      <p type="listitem">Gå till en ungdomsmottagning, hud- och könsmottagning eller vårdcentral.</p>
+      <p type="listitem">På vissa orter finns också särskilda mottagningar där killar som har sex med killar kan testa sig.</p>
+      <p type="listitem">Tjejer kan också gå till en barnmorskemottagning eller privat gynmottagning.</p>
+      <p type="listitem">I de flesta landsting går det att beställa hem ett klamydia- och gonorrétest gratis på nätet genom Mina vårdkontakter . Klamydiatest finns också att köpa på Apoteket.</p>
+    </list>
+    <p>För att få reda på vart du kan gå och testa dig där du bor kan du ringa till sjukvårdsrådgivningen på telefonnummer 1177.</p>
+    <p type="title">Hur går tester till?</p>
+    <p>Att testa sig för könssjukdomar går snabbt och är enkelt. Hur själva testet går till beror på vad du testar dig för och på vilket sätt du haft sex. Hur provtagningarna går till kan också vara lite olika på olika mottagningar.</p>
+    <p>Ett vanligt sätt att testa sig på är att lämna ett urinprov. Då är det viktigt att du inte har kissat på två timmar innan du testar dig.Tjejer kan ibland få lämna ett prov från slidan. En sån provtagning går bra att göra själv inne på toaletten på mottagningen.</p>
+    <p>Ibland tas prover med en tunn provtagningspinne som ser ut som en tunn tops. Provtagningspinnen snurras försiktigt mot slemhinnan i slidan, urinröret, halsen, eller längst ut i analöppningen. Var provet tas beror på hur du har haft sex. Det kan låta obehagligt men brukar vara snabbt avklarat och inte kännas så mycket.</p>
+    <p>För vissa könssjukdomar kan du få lämna ett blodprov när du testar dig. Det tas genom ett stick med en tunn nål i ett av armveckens blodkärl.</p>
+    <p>Om den som undersöker dig misstänker att du har herpes, tas ibland ett prov från en herpesblåsa med en bomullspinne. Ofta kan den som undersöker också se att det är herpes.</p>
+    <p>Om du har synliga kondylom görs en undersökning genom att någon tittar på hur det ser ut. Det finns inga prover för att undersöka kondylom.</p>
+    <p type="title">När får du svar?</p>
+    <p>På de flesta prover får du svar inom en vecka. När du lämnar provet kommer du överens med mottagningen om hur du ska få ditt besked.</p>
+    <p>Att vänta på ett provsvar kan vara jobbigt. Det är naturligt om du är orolig och att tiden tills svaret kommer känns lång. Om du mår dåligt så kan det vara bra att prata med någon om dina tankar och känslor. Det kan vara en kompis, någon i familjen eller någon annan som står dig nära.</p>
+    <p>Du kan även kontakta en ungdomsmottagning. Personalen där kan hjälpa till om det känns jobbigt och är vana vid frågor och funderingar kring könssjukdomar.</p>
+    <p type="title">Vad kostar det att testa sig?</p>
+    <p>För de könssjukdomar som ingår i smittskyddslagen, som till exempel klamydia, gonorré och hiv kostar det aldrig någonting att testa sig oavsett hur gammal du är eller var du gör det.</p>
+    <p>Att testa sig för andra könssjukdomar kan kosta olika beroende på var du bor och vilken mottagning du går till. Ofta brukar man testa sig för flera sjukdomar samtidigt. Då räcker det med att en av dem omfattas av smittskyddslagen för att du ska slippa betala.</p>
+  </body>
+</document>

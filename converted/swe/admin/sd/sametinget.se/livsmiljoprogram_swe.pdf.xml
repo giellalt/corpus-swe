@@ -1,0 +1,674 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Sametingets Livsmiljöprogram EALLINBIRAS</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2009</year>
+    <publChannel>
+      <publication>
+        <publisher>svenske Sametinget</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>7733</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
+    <origFileName>http://www.samediggi.se/7366</origFileName>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location=""/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location="eallinbiras_oarjelsam.pdf"/>
+    <parallel_text xml:lang="sme" location=""/>
+    <parallel_text xml:lang="smj" location="iellembiras_julev.pdf"/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p><em type="bold">                    Sametingets Livsmiljöprogram </em>EALLINBIRAS  IELLEMBIRÁS/ JIELEMEN BIJRE<em type="bold"> </em></p>
+    <p>____________________________________<em type="bold"> </em> </p>
+    <p>
+      <em type="italic">Ur ett samiskt  perspektiv är alla frågor miljöfrågor – eftersom miljön berör alla aspekter av våra liv och vår omgivning. Därför har detta program fokus på eallinbiras - vår livsmiljö - och hur vi aktivt kan verka för att bevara en bärkraftig livsmiljö i framtiden. </em>
+    </p>
+    <p>Antagen av Sametingets plenum 090219 §11</p>
+    <p>
+      <em type="bold">Vårt mål: En livskraftig &amp; hållbar samisk livsmiljö </em>
+    </p>
+    <p>Vi önskar att leva i ett livskraftigt Sápmi som är rotat i både en bärkraftig natur och i en levande samisk kultur. Människan och naturen ska ha en långsiktig förmåga att förnya sig och hållbart vidareutvecklas även i tider av betydande förändringar. Både natur och kultur i Sápmi ska upplevas som berikande för omvärlden.</p>
+    <p>Marie Enoksson.</p>
+    <p>2</p>
+    <p>
+      <em type="bold">Innehåll  </em>
+    </p>
+    <p><em type="italic">Mu biras – mu váimu!</em><em type="italic">∗</em> </p>
+    <p><em type="italic">1 Sametingets miljösyn  ...................................................................................................................... 5</em> <em type="italic">Sápmi  .................................................................................................................................................. 5</em> <em type="italic">Vår gemensamma värdegrund  ....................................................................................................... 6</em> <em type="italic">Livskraft  ............................................................................................................................................. 6</em> <em type="italic">Förändring  ......................................................................................................................................... 7</em> <em type="italic">Sårbarhet  ............................................................................................................................................ 7</em> <em type="italic">En enda jord – vidare perspektiv  ................................................................................................... 8</em> <em type="italic">Vårt ansvar  ........................................................................................................................................ 9</em> <em type="italic">Vägen framåt  ................................................................................................................................... 10</em> <em type="italic">2. Syfte /Prioritering / Tidsperspektiv  ........................................................................................... 11</em> </p>
+    <p><em type="italic">3. Eallinbiras: Sametingets mål och delmål  .................................................................................. 12</em> <em type="italic">Vårt övergripande mål: En livskraftig &amp; hållbar samisk livsmiljö  .......................................... 12</em> <em type="italic">Våra tre delmål  ............................................................................................................................... 12</em> <em type="italic">Vem har ansvar för vad?  ............................................................................................................... 14</em> <em type="italic">Sametingets ansvar  ......................................................................................................................... 14</em> <em type="italic">Ditt ansvar  ....................................................................................................................................... 16</em> <em type="italic">Allas ansvar  ..................................................................................................................................... 17</em> </p>
+    <p>
+      <em type="italic">Mu biras – mu ovddasvástadus!** </em>
+    </p>
+    <p><em type="italic">4. Tidplan – Handlingsprogram 2009-2012  ................................................................................... 20</em> <em type="italic">2009-2011  .......................................................................................................................................... 20</em> <em type="italic">  ................................................................................................................................................... 20</em> <em type="italic">4.1. Målgrupp 1 Det samiska samhället  ........................................................................................ 21</em> <em type="italic">Syfte  .................................................................................................................................................. 21</em> <em type="italic">Mål  .................................................................................................................................................... 21</em> <em type="italic">Sametingets roll  .............................................................................................................................. 21</em> <em type="italic">Aktiviteter 2009 – 2010  ................................................................................................................... 21</em> <em type="italic">Aktiviteter 2010 - 2012  ................................................................................................................... 21</em> <em type="italic">4.2. Målgrupp 2 Sametingets verksamhet  ..................................................................................... 22</em> <em type="italic">Syfte  .................................................................................................................................................. 22</em> <em type="italic">Mål  .................................................................................................................................................... 22</em> <em type="italic">Sametingets roll  .............................................................................................................................. 22</em> <em type="italic">Aktiviteter 2009 - 2012  ................................................................................................................... 22</em> <em type="italic">Aktiviteter 2011 - 2012  ................................................................................................................... 23</em> </p>
+    <p>∗<em type="italic"> Min miljö  - mitt hjärta! </em></p>
+    <p>
+      <em type="italic">*Min miljö – mitt ansvar! </em>
+    </p>
+    <p>3</p>
+    <p><em type="italic">4.3. Målgrupp 3 Sametingets administration  ............................................................................... 24</em> <em type="italic">Syfte  .................................................................................................................................................. 24</em> <em type="italic">Mål  .................................................................................................................................................... 24</em> <em type="italic">Sametingets roll  .............................................................................................................................. 24</em> <em type="italic">Aktiviteter 2009 - 2010  ................................................................................................................... 24</em> <em type="italic">Aktiviteter 2011 - 2012  ................................................................................................................... 24</em> <em type="italic">5. Budget 2009-2012  ............................................................................................................................ 25</em> <em type="italic">6. Uppdrag  ........................................................................................................................................... 26</em> <em type="italic">7. Tidigare samiskt miljöarbete  ...................................................................................................... 26</em> <em type="italic">8. Referenser  ....................................................................................................................................... 27</em> </p>
+    <p>4</p>
+    <p>
+      <em type="bold">1 Sametingets miljösyn </em>
+    </p>
+    <p>
+      <em type="italic">Från en höjd på ett högt fjäll en syn svår att berätta om </em>
+    </p>
+    <p>
+      <em type="italic">Bortom höjderna virvlade ett moln Jojken kom Nere i dalen brusade forsen </em>
+    </p>
+    <p>
+      <em type="italic">O jord du vackra Mitt eget land </em>
+    </p>
+    <p>
+      <em type="italic">Du knyter mig till dig med mjuka band och älskar mig i din varma famn </em>
+    </p>
+    <p>
+      <em type="italic">(Paulus Utsi) </em>
+    </p>
+    <p>
+      <em type="bold">Sápmi </em>
+    </p>
+    <p>
+      <em type="italic">EALLINBIRAS = den samiska livsmiljön </em>
+    </p>
+    <p>
+      <em type="italic">= socialt                       &amp;                naturens kapital                           kapital </em>
+    </p>
+    <p>
+      <em type="italic">Relationer  Jord Språk  Vind  Samarbete               Luft Kunskap                 Stillhet Förtroende   Ro Aktsam levnadssätt              Sol Ansvar  Vatten Jojk   Värme Medvetenhet                Material Gemenskap  Årstider/Rytm </em>
+    </p>
+    <p>Vi samer är ursprungsfolket i Sápmi. Vårt folk har sedan urminnes tider bott i och förvaltat dess land och vatten med stor respekt och försiktighet. Vi är en del av landskapet i Sápmi. Våra liv – våra näringar och kulturyttringar – anpassas för att flexibelt balansera mellan vad naturen kan ge och vad vi kan ta (bruka) utan att förbruka naturen.  Vår djupa relation till naturen är svår att fånga med ord. Att leva i naturen och att försörja oss direkt på det naturen kan ge, skapar en omedelbar relation mellan oss och naturen (djuren, varandra). Vi litar till ett levande förhållningssätt till Sápmi, vårt hem. Om vi</p>
+    <p type="listitem">– eller någon annan – förstör naturen</p>
+    <p>skadas också vår kultur. Miljön i Sápmi är känslig. En livskraftig natur förutsätter att vi brukar den med stor försiktighet. De traditionella formerna för våra näringar har alltid tagit sin utgångspunkt i långsiktighet och utifrån ett hållbart levnadssätt. Om de naturliga förutsättningarna sviktade på ett visst område fanns möjligheten att nyttja alternativa resurser samtidigt som de försvagade resurserna fick återhämta sig. Denna naturliga självreglering finns fortfarande inbyggd i vår näringsstruktur genom ett kombinationsutnyttjande av både traditionella och moderna näringar, dock är de hotade eller på väg att upphöra. Det samiska kombinationsnäringsfånget ersätts allt mer av ett ensidigt utnyttjande av naturresurserna.</p>
+    <p>5 <em type="italic">Faktorer som ökar naturens kapital och det sociala kapitalet ökar samtidigt livskraften i Sápmi. Följande indikatorer är exempel på vad som kan stärka hela systemet: </em></p>
+    <p type="listitem">•  <em type="italic">En livsstil som lever på räntan  </em></p>
+    <p type="listitem">•  <em type="italic">Lokal förvaltning </em></p>
+    <p>
+      <em type="italic">Mångfald av  </em>
+    </p>
+    <p type="listitem">•  <em type="italic">småskaliga hållbara företag </em></p>
+    <p type="listitem">•  <em type="italic"> lokal elförsörjning från småskaliga, förnyelsebara energikällor  </em></p>
+    <p type="listitem">•  <em type="italic">lokal matproduktion </em></p>
+    <p type="listitem">•  <em type="italic">traditionell kunskap </em></p>
+    <p type="listitem">•  <em type="italic">adaptiv förvaltning </em></p>
+    <p type="listitem">•  <em type="italic">gemenskap </em></p>
+    <p type="listitem">•  <em type="italic">rytm </em></p>
+    <p>
+      <em type="bold">Vår gemensamma värdegrund </em>
+    </p>
+    <p>Vårt språk är ett uttryck för vårt förhållningssätt till naturen och till varandra. Det är ett nödvändigt redskap vid överföringen av kunskaper från generation till generation. Språket bibehåller kontinuitet vid kulturella förändringar. Att bryta språkstrukturen gör det svårare, ibland omöjligt, att föra vidare den så viktiga kunskapen om hur vi bevarar vår miljö. Språket är den främsta förutsättningen för att uttrycka allas vårt ansvar i upprätthållandet av den ekologiska balansen i naturen. Vår syn på livet bildar vår gemensamma värdegrund och är mycket mer omfattande än enbart det samiska språket. Den samiska synen på naturen som ett besjälat, levande väsen står i stark kontrast till den västerländska natursynen. Vår natursyn har präglat våra värderingar, sedvänjor, sociala strukturer och relationer.  Värdegrundsförståelsen och respekten för varandra måste vara ömsesidig. Få om ens någon västerländsk kultur har lärt sig vårt språk och vår värdegrund – vilket ger oss en känsla av att inte tas på allvar. Därför finns det också många fördomar, de flesta är baserade på okunskap eller missförstånd</p>
+    <p type="listitem">– även idag.</p>
+    <p>Den gemensamma värdegrunden skapar relationer till andra människor och gör det möjligt att förstå varandra. Vi var tvungna att lära oss den västerländska värdegrunden som den koloniserande makten förde med sig; den kristna religionen, skriftspråket, kroppsspråket, det naturvetenskapliga, pedagogiska, juridiska och kapitalistiska språket och sist men inte minst svenska (norska, finska, engelska m m). Det gör ont att vara osynlig och isolerad. Vi hedrar våra förfäder och respekterar deras kunskap och visdom. Det är dags att vi återerövrar vår rätt till existens. Vi är glada och stolta över vår vackra kultur, vår djupa relation till naturen och vår rika kunskap om ett aktsamt nyttjande av naturen. Vi strävar efter att berika debatten om en hållbar framtid med vår kunskap – framförallt i Sápmi men även utanför. Bara genom ökad förståelse och samarbete kan vi skapa en gemensam framtid.</p>
+    <p>
+      <em type="bold">Livskraft  </em>
+    </p>
+    <p>Vår förmåga att klara av betydliga förändringar och vidareutvecklas beror på många faktorer. En bärkraftig natur med hög biologisk mångfald och ett intakt, sammanhållet landskap är en viktig förutsättning (naturens kapital). Samtidigt bygger vår förmåga att hållbart och långsiktigt vidareutvecklas på vårt sociala kapital som innebär ekonomisk mångfald, kulturell mångfald och verksamhetsmångfald.</p>
+    <p>6</p>
+    <p>
+      <em type="bold">Förändring </em>
+    </p>
+    <p>Naturen utsätts allt mer för slitage och skador som inte kan återställas inom en överskådlig framtid. Den samiska sedvanerätten ifrågasätts och minskar även genom domstolsbeslut. Marker har förändrats till följd av exempelvis skogsbrukets utbredning och försvunnit genom vattenkraftsutbyggnader.</p>
+    <p>
+      <em type="italic">Så länge vi har vatten, där fisken lever Så länge vi har land, där renen betar och vandrar Så länge vi har marker, där det vilda gömmer sig har vi tröst på denna jord När våra hem ej mera finns och vår mark är förödd  var skall vi då bo </em>
+    </p>
+    <p>
+      <em type="italic">Vårt eget land, vårt levebröd har krympt sjöarna har stigit älvarna har torkat bäckarna sjunger med sorgsen stämma markerna svartnar, grönskan vissnar fåglarna tystnar och flyr </em>
+    </p>
+    <p>
+      <em type="italic">Allt det goda vi fått kommer ej vårt hjärta vid det som skulle underlätta våra liv blev till intet värde </em>
+    </p>
+    <p>
+      <em type="italic">Hårda stenvägar gör våra rörelser smärtfulla Lugnet hos det vildas människa gråter i sitt hjärta </em>
+    </p>
+    <p>
+      <em type="italic">I den ilande tiden uttunnas vårt blod vår samklang brister vatten upphör brusa  </em>
+    </p>
+    <p><em type="italic">(Paulus Utsi) </em>De naturliga förutsättningarna har ändrats i Sápmi samtidigt som moderna material, ny teknik och fordon kommit att bli en del av våra liv. För oss som länge livnärt oss på renskötsel, jakt, fiske, slöjd och småbruk har dessa förändringar starkt påverkat våra livsmönster. Det finns givetvis också positiva förändringar och nödvändiga tekniska hjälpmedel som det moderna livet för med sig. Dessa förändringar är välkomna och integrerade i våra liv och i de verksamheter vi driver. Samtidigt är det viktigt att vi skiljer de innovationer som underlättar och påverkar våra liv på ett positivt sätt från de innovationer som gör oss mer beroende av den globala ekonomin och tillgången på olja, samtidigt som de tär på naturen. De mindre gynnsamma innovationerna står som hinder mellan oss och naturen och mellan oss som medmänniskor. De skadar vår kultur och vårt folk.  Precis som varje livsform har sin egen anpassning till miljöbetingelserna har vi fortlöpande anpassat oss till det utrymme som resurserna – renbetes-, jakt-, och bärmarker, fiskevatten, jordar, jordbruksmark m.m. kräver. Sammantaget utgör de våra naturliga förutsättningar och är basen för att upprätthålla vår kultur. I vår livsform utgör närkonsumtion, självhushållning, småskalighet och låg resursförbrukning självklara ingredienser. </p>
+    <p>
+      <em type="bold">Sårbarhet  </em>
+    </p>
+    <p>Graden och hastigheten av klimatförändringarna som vi observerar i Sápmi har sedan många år gjort oss djupt oroliga. När man dagligen lever med naturen ges många tillfällen att observera de stora förändringar som sker. Bekymren växer och utmaningen är stor. I kombination med fortskridande fragmentering av landskapet och den</p>
+    <p>7 <em type="italic">Händelser som tär på naturens kapital och  på det sociala kapitalet ökar sårbarheten i Sápmi. Följande överraskningar och förändringar är exempel på vad som kan stressa hela systemet: </em></p>
+    <p type="listitem">•  <em type="italic">utveckling som bygger på obegränsad tillväxt, storskalig naturexploatering &amp; fragmentering av landskapet </em></p>
+    <p type="listitem">•  <em type="italic">Giftiga ämnen, föroreningar </em></p>
+    <p type="listitem">•  <em type="italic">en slösande livsstil som tär på kapitalet </em></p>
+    <p type="listitem">•  <em type="italic">naturkatastrofer </em></p>
+    <p type="listitem">•  <em type="italic">klimatförändringar </em></p>
+    <p type="listitem">•  <em type="italic">osmidig administration som förhindrar flexibilitet och som gynnarstorskaligt utnyttjande av naturen </em></p>
+    <p type="listitem">•  <em type="italic">social isolering och marginalisering </em></p>
+    <p>miljöbelastning som ökande exploatering av naturresurser för med sig, blir det ännu svårare och ibland omöjligt för oss att agera flexibelt och anpassa oss på det sätt som vi är vana att göra. Det är därför viktigt att vi minskar sårbarheten.  Det samiska folket har genomlevt många förändringar. Än så länge har vi alltid klarat att möta förändringar utan att vår kultur har försvunnit. Den erfarenheten från historien ger oss hopp och framtidstro. Situationen kan förbättras om vi aktivt deltar i förändringen och om vi drar erfarenheter från vår rika kultur och kunskap.</p>
+    <p>Klimatdebatten som den förs globalt idag fokuserar i huvudsak på symptomen <span type="quote">”klimatförändring”</span>. Vanligtvis delar man upp utmaningen i många små bitar för att sedan bekämpa symptomen genom att hitta tekniska lösningar. Självklart är det viktigt att motverka klimatförändringen och att använda, och även utveckla ny teknik. Ur ett samiskt perspektiv är detta dock inte tillräckligt. Inte alls. Ur vårt helhetsperspektiv är det självklart att man riktar uppmärksamheten till de underliggande orsakerna till klimatförändringen som t.ex. industrialiseringen, globaliseringen, vår livsstil, våra konsumtionsvanor, den fortsatta storskaliga exploateringen av naturresurser m.m. Detta kommer att innebära både obekväma frågor och obekväma förändringar på alla nivåer och i alla riktningar. Både individer, myndigheter, regeringar och företag har ansvar för att detta kommer till stånd. Samtidigt kommer många förändringar vara berikande för vårt samhälle och vår gemenskap när vi vågar förändras och frigöra oss från det dominerande monokulturella utvecklingstrycket.</p>
+    <p>
+      <em type="bold">En enda jord – vidare perspektiv </em>
+    </p>
+    <p>Före femtiotalet var vår påverkan på naturen i stort sett koncentrerad till lokal (regional) nivå. Konsekvenserna av våra handlingar fick direkta och tydliga följder i vår närmiljö. Försiktighet och ansvarstagande var nödvändigt för att överleva. Allt material var värdefullt, avfall fanns inte. Dåtidens levnadsätt var som ett slutet system och ytterst hållbart. Vi anser att det är fortsatt viktigt att agera aktsamt i vår närmiljö så att vi inte skadar naturen hemma. Med detta dokument vill vi samtidigt betona att omfattningen av vårt ansvar idag är betydligt större än vad det var för bara två generationer sedan. Idag har förutsättningarna förändrats drastiskt. Även vi är en del av det globala konsumtionsflödet genom både livsstil och val av produkter.</p>
+    <p>8 Vi är medvetna om att det globala nyttjandet av naturen leder till global påverkan av naturen och människor på andra sidan jordklotet. Konsekvenserna av många handlingar är inte längre synliga för oss själva på hemmaplan. Globaliseringen tillåter en livsstil som bygger på globala resurser. Det är lätt att blunda och leva i omedvetenhet – men detta är inte rättvist mot andra människor eller mot naturen i andra delar av världen. Vi känner solidaritet med andra människor, i synnerhet med de urfolk som i samband med klimatförändringar och globalisering upplever lika stora eller ännu större utmaningar och förändringar i deras liv. Vi vill inte bidra till att försämra förutsättningarna för andras liv (både för människor och för naturen). Vi har möjlighet att göra ett val. Vår livsstil är en etisk fråga. Vårt ansvarstagande måste därför breddas och vara globalt.</p>
+    <p>
+      <em type="bold">Vårt ansvar  </em>
+    </p>
+    <p>En lösning till en så global utmaning som klimatförändringen är, kan bara hittas i det gemensamma ansvaret. Eftersom vi alla är en del av miljön har vi alla också möjlighet att ta ansvar och vara en del av lösningen. Om vi inte låter rädslan förlama oss, om vi undviker att betrakta oss som offer för det som sker kan vi förbättra och förändra våra förutsättningar för ett levande Sápmi. Vi ser klimatförändringen som en signal eller ett tecken på att vi (alla) måste ta ansvar för att själva bidra till en positiv förändring. Vi anser det som ytterst viktigt att vi stannar upp och tar ansvar inom de områden där vi själva kan påverka. Vi är en viktig del av lösningen till denna utmaning. Vårt bidrag är att visa vägen framåt.</p>
+    <p><em type="italic">Vi måste ge oss iväg Då det blir allt trängre </em>Men vart? </p>
+    <p>
+      <em type="italic">Kära vän, varför sover du varför sover du, varför sover du Lyssna på din inre stämma inre stämma </em>
+    </p>
+    <p><em type="italic">Livet går inte vidare Eller bättras Om vi inte hjälper oss själva </em>Men när? </p>
+    <p>
+      <em type="italic">Vakna, sov dig ej till döds Du har arv från far och mor att vårda Lyssna på rösten inom dig rösten inom dig </em>
+    </p>
+    <p><em type="italic">De trygga orden finns De kommer om vi kallar på dem </em>Men när <em type="italic">[med vilket språk?</em><em type="italic">∗</em> </p>
+    <p>
+      <em type="italic">Din egen röst manar dig ta ansvar för släktet </em>
+    </p>
+    <p>
+      <em type="italic">]* </em>
+    </p>
+    <p><em type="italic">Att se vårt dyrbara liv Som utställning Det uthärdar vi inte </em>Eller gör vi? </p>
+    <p>
+      <em type="italic">Lyssna på din egen röst din egen röst Var glad, sjung glatt sjung som fågeln </em>
+    </p>
+    <p>
+      <em type="italic">(Paulus Utsi) </em>
+    </p>
+    <p>
+      <em type="italic">Hör naturens uråldriga röst uråldriga röst Hör hur vackert den klingar hur vackert den klingar </em>
+    </p>
+    <p>
+      <em type="italic">(Paulus Utsi) </em>
+    </p>
+    <p>∗ <em type="italic">Författarens anmärkning</em> </p>
+    <p>9</p>
+    <p>
+      <em type="bold">Vägen framåt </em>
+    </p>
+    <p>Vår kultur bygger på ett liv där människan och naturen står i ett inbördes förhållande till varandra. Den baseras på självhushållning och förutsätter en mångfald av djup kunskap, öppna sinnen och självständigt ansvarstagande både av individen och i gemenskapen. Förhållningssättet till naturen och till varandra är vår tradition sen urminnes tid. Vi är stolta över det och det är också upprinnelsen till Sametingets initiativ till att formulera samiska mål för en gemensam framtid. I detta dokument formulerar vi våra mål och vår vision för en hållbar och livskraftig samisk livsmiljö - framtiden för vårt land och vårt folk. Vi söker svaret på frågorna: Vilken värld vill vi leva i? Vilka livsförutsättningar vill vi ge i arv till våra barn och barnbarn? Hur kan vi skapa en utveckling som passar vår kultur, en utveckling som värnar om naturen och främjar att människan mår bra och kan utvecklas? Sametinget tar ansvar för att verka för en bättre livsmiljö och en klok utveckling. En utveckling som värnar naturen och mänsklig rättvisa – även i andra delar av världen. Med detta program uppmanar Sametinget också varje individ i Sápmi att själv ta ansvar i sin egen vardag och att aktivt delta i denna process. Om vi alla agerar gemensamt och med framtidstro ska Sápmi bli livskraftigt och klara de utmaningar som vi står inför. Vi har ingen tid att förlora. <em type="italic">Vackra tankar skapar varm gemenskap gör fula ord sköna väcker värme som kan ta hand om nya vackra tankar </em></p>
+    <p>
+      <em type="italic">Glada tankar vidgar vägen till hjärtat </em>
+    </p>
+    <p>
+      <em type="italic">Elden som värmer ditt väsen närs av glada tankar och goda leenden. </em>
+    </p>
+    <p>
+      <em type="italic">(Paulus Utsi) </em>
+    </p>
+    <p>10</p>
+    <p>
+      <em type="bold">2. Syfte /Prioritering / Tidsperspektiv </em>
+    </p>
+    <p>
+      <em type="bold">Syfte </em>
+    </p>
+    <p>Syftet med programmet är:</p>
+    <p type="listitem">•  Att vara ett fundament och utgångspunkt för hela Sametingets verksamhet</p>
+    <p type="listitem">•  Att sätta upp mål för en hållbar och livskraftig samisk livsmiljö</p>
+    <p type="listitem">•  Att inspirera med samisk miljösyn och initiativtagandet</p>
+    <p>
+      <em type="bold">Tidsperspektiv </em>
+    </p>
+    <p>Under de närmaste tio åren ska Sametinget genom prioriteringar och engagemang arbeta för att vår miljösyn ska bli vägledande både för oss själva och för det omgivande samhället.</p>
+    <p>Programmet ska vara:</p>
+    <p type="listitem">•  en utgångspunkt som definierar en långsiktig viljeinriktning och ambition mot målen <span type="quote">”hållbart och livskraftigt Sápmi”</span></p>
+    <p type="listitem">•  ett grundläggande dokument för upprättande av mer förfinade handlingsprogram och planeringsinstrument</p>
+    <p><em type="bold">Prioritering</em> </p>
+    <p>För att minska sårbarheten och betydligt återuppbygga livskraft i Sápmi ska Sametinget prioritera följande områden:</p>
+    <p type="listitem">•  Fokusera på samisk kunskap</p>
+    <p type="listitem">•  Bestämma riktningen för samisk hållbar utveckling och underlätta projekt och initiativ till att förverkliga visionen</p>
+    <p type="listitem">•  Kräva och förverkliga hur vi själva begränsar klimatpåverkan – genom att förändra konsumtionsmönstrar ang. fordon, energibehov/elanvändning, materialval</p>
+    <p type="listitem">•  Satsa på samarbete både inåt och utåt</p>
+    <p>11</p>
+    <p><em type="bold">3. Eallinbiras: Sametingets mål och delmål</em> </p>
+    <p>
+      <em type="bold">Vårt övergripande mål: En livskraftig &amp; hållbar samisk livsmiljö</em>
+      <em type="italic"> </em>
+    </p>
+    <p>Vi önskar att leva i ett livskraftigt Sápmi som är rotat i både en bärkraftig natur och i en levande samisk kultur. Människan och naturen har en långsiktig förmåga att förnya sig och hållbart vidareutvecklas även i tider av betydande förändringar.  Både natur och kultur i Sápmi upplevs som berikande för omvärlden.<em type="bold"> </em></p>
+    <p>
+      <em type="bold">Våra tre delmål </em>
+    </p>
+    <p>
+      <em type="italic">Natur                        Samisk Kunskap           Balanserad utveckling </em>
+    </p>
+    <p><em type="bold">Ealli eallinbiras juohkeaktii</em> </p>
+    <p>En bärkraftig livsmiljö är grunden för att människor, djur och växter kan leva och utvecklas. Nyttjandet av mark och vatten ska vara i balans mellan det som naturen kan ge och det som vi tar av naturen, utan att naturen utarmas. Nyttjandet ska inte ske enbart utifrån ekonomiska förutsättningar. Vi strävar efter balans och ett bärkraftigt nyttjande. Produkter och produktionsformer som tär på resurserna i Sápmi ska minimeras.</p>
+    <p>Natur- och miljöskyddet måste ges hög prioritet i all samhällsplanering och bli en självklar del i all form av mark- och naturresursanvändning. All verksamhet som förgiftar luft, mark och vatten måste upphöra.</p>
+    <p> <em type="italic">Naturen – en bärkraftig livsmiljö </em></p>
+    <p><em type="bold">Arbevirolas máhtu</em> </p>
+    <p>I vår forskning ska vi också beakta den materiella, den sociala och den mentala dimensionen av kunskap. Denna typ av</p>
+    <p>Vi är experter i hållbarhet. Hållbarheten har alltid varit förutsättningen för att vi kunde finnas kvar och att vårt samhälle kunde vidareutvecklas. Det är viktigt att söka kunskap där kunskap står att finna, till exempel samisk kollektiv kunskap om hur man optimerar sitt uttag och förvaltar resurser. Vi bör ta hänsyn till denna kunskap i skapandet av ett långsiktigt hållbart samhälle. Forskning om vår traditionella kunskap ger oss möjligheten att göra nya överväganden av historien, kritiskt granska nutiden och bygga framtiden.</p>
+    <p>Därför ska vi bygga upp vår egen förmåga  att forska, söka efter lösningar i vår kultur och bygga vidare på det vi har idag som folk. Först ska vi minnas och återupprätta vår kunskap. Vi ska forska med en helhetssyn som är inneboende i vår kultur och livsfilosofi. Hållbarhetsaspekterna inbegriper sociala förhållanden, historia, kultur och rättigheter. Hållbarheten ska vara ett förenande tema för samisk forskning om samisk kultur.</p>
+    <p>
+      <em type="italic"> Traditionell samisk kunskap  </em>
+    </p>
+    <p>12 forskning måste ske på lokal nivå eftersom traditionell kunskap är platsbunden.</p>
+    <p><em type="bold">Dássálas ovdanahttin</em> </p>
+    <p><em type="bold">Kombinationen av modern och traditionell kunskap </em>Vårt mål är att forska om vår egen kultur om hur vi kan nå en hållbar livsstil och hög livskvalité genom att förenkla livet istället för att öka kostnaderna.  Vi tar både modern och traditionell kunskap på allvar och ska använda oss av de bästa erfarenheterna för att vidareutvecklas.  </p>
+    <p>En hållbar utveckling bygger på en meningsfull balans mellan traditionell och modern kunskap. Om framgångsrik teknik används inom ramen för våra värderingar kommer den inte att förstöra livsmiljön eller vår hälsa – vilket i många fall görs idag.</p>
+    <p>
+      <em type="italic"> Balanserad utveckling </em>
+    </p>
+    <p>13</p>
+    <p>
+      <em type="bold">Vem har ansvar för vad? </em>
+    </p>
+    <p>
+      <em type="italic">Varje steg är ett viktigt bidrag till att komma vidare och nå målen. Vår framgång beror på varje individ. </em>
+    </p>
+    <p>
+      <em type="bold">Sametingets ansvar </em>
+    </p>
+    <p>
+      <em type="bold">Delmål Natur:  </em>
+    </p>
+    <p>
+      <em type="italic">Sametinget ska skaffa måste-instrument och indikatorer som följer nedanstående principer: </em>
+    </p>
+    <p type="listitem">•  arternas livsmiljöer och ekosystem värnas</p>
+    <p type="listitem">•  all verksamhet bedrivs efter försiktighetsprincipen</p>
+    <p type="listitem">•  nyttjande av naturresurser sker på ett långsiktig hållbart sätt</p>
+    <p type="listitem">•  luftföroreningar från samisk verksamhet minskas</p>
+    <p type="listitem">•  nedsmutsningen av grundvatten, våtmarker, sjöar och vattendrag minskas</p>
+    <p type="listitem">•  utfasning av skadliga ämnen sker så snabbt som möjligt</p>
+    <p type="listitem">•  naturen hålls ren från icke nedbrytbart avfall och från ämnen som hotar den biologiska mångfalden eller människors hälsa</p>
+    <p type="listitem">•  Kretsloppstanken beaktas (minskning, återanvändning, återvinning):</p>
+    <p type="listitem">•  minimering av konsumtion</p>
+    <p type="listitem">•  maximal återanvändning av värdefulla substanser (som vanligtvis sammanfattas som avfall, till exempel: virke, kompost, biogas)</p>
+    <p type="listitem">•  återvinning av allt som inte kan återanvändas (där det är möjligt)</p>
+    <p>
+      <em type="bold">Delmål Samisk Kunskap: </em>
+    </p>
+    <p>
+      <em type="italic">Sametinget ska uppmuntra och underlätta forskning, dokumentation &amp; återupprättandet  av traditionell kunskap med fokus på följande områden: </em>
+    </p>
+    <p type="listitem">•  <em type="bold">Biebmu (Mat):</em><em type="italic"> </em>födoämnen, tillagning och förvaring<em type="italic"> </em></p>
+    <p type="listitem">•  <em type="bold">Dearvalasvuohta (Hälsa):</em> samisk  läkekonst och hälsotips samt kunskap om kläder och material för att klara klimatet </p>
+    <p type="listitem">•  <em type="bold">Ráhkadeapmi (Byggande):</em> lokalt byggmaterial och klimatlämpad arkitektur, byggplatser (klimat-smart placering mm), byggplaner </p>
+    <p type="listitem">•  <em type="bold">Ealáhusat (Näringar):</em> samisk kunskap inom olika näringar som till exempel rennäringen, jakt och fiske, slöjd, design, småbruk </p>
+    <p type="listitem">•  <em type="bold">Giella (Språk</em>): språket uttrycker vår relation till naturen och livet och är därför viktigt att bevara även ur ett miljöperspektiv. Sametinget hänvisar till eget språkprogram </p>
+    <p type="listitem">•  <em type="bold">Oahppan (Lärandet</em>): samisk kunskap av lärandet i sammanband med miljön, till exempel hur vi lärde oss om respekt till naturen och varandra förr, hur vi lärde oss livsviktiga kunskaper och förståelse av naturen, mm </p>
+    <p type="listitem">•  <em type="bold">Oktavuodat (Relationer</em>): samisk kunskap om till exempel levnadssätt i förhållandet till naturen (relation till </p>
+    <p>14 och samarbete med djur och natur (vädret, klimatet, årstid, resurser)); Samarbete mellan människor (samhällsstruktur, byföretagsstruktur inom renskötseln mm); Relation till årstider – rytmen i nyttjandet av naturen i relation till årstiderna</p>
+    <p type="listitem">•  <em type="bold">Hálddaseapmi (Förvaltning):</em> metoder om naturresursförvaltningen </p>
+    <p type="listitem">•  öka användningen av årstidanpassad och naturlig mat (t ex slow food)</p>
+    <p type="listitem">•  motstå genetiskt förändrade varor</p>
+    <p type="listitem">•  inköp av matvaror som inte kan produceras i Sápmi ska vara ekologiskt producerade och rättvisemärkta</p>
+    <p>
+      <em type="bold">Delmål Balanserad Utveckling: </em>
+    </p>
+    <p><em type="bold">Energia ja golggaheapmi</em> <em type="italic">(Energi och transport): Sametinget ska bidra till och underlätta minskning av energiberoende livsstil och energiberoende näringar genom att  </em></p>
+    <p type="listitem">•  kräva t.ex. försiktig användning av motorfordon; användning av miljöbättre bränsle, m.m</p>
+    <p type="listitem">•  stödja initiativ som minskar sårbarheten av människan och naturen i Sápmi; t.ex. inrättandet och nyttjandet av småskaliga förnyelsebara energikällor</p>
+    <p type="listitem">•  realisera minskning av elanvändning på Sametingets kontor</p>
+    <p type="listitem">•  se över resvanor bland Sametingets anställda (t.ex. val av transportmedel, hotellval)</p>
+    <p type="listitem">•  sätta standarder ang. inköp av material för Sametingets kontor (t.ex. krav och rättvismärkt mat, FSC certifierade träprodukter, miljömärkta pappersprodukter m.m)</p>
+    <p>
+      <em type="bold">Ealáhusat (Näringar):</em>
+      <em type="italic"> Sametinget ska främja och uppmuntra vidareutvecklingen av  </em>
+    </p>
+    <p type="listitem">•  en mångfald av småskaliga hållbara samiska företag</p>
+    <p type="listitem">•  samisk forskning och deltagandet i existerande forskning om t ex vidareutveckling av renskötseln (beredskap för möjliga klimatförändringar, miljöbättre alternativ inom renskötselns verksamhet, utveckling av adaptiva förvaltningsmodeller)<em type="italic"> </em></p>
+    <p><em type="bold">Biebmu</em><em type="italic"> (Mat</em><em type="bold">):</em> <em type="italic">Sametinget ska uppmuntra till att </em></p>
+    <p type="listitem">•  främja utvecklingen av samisk matproduktion, vidareförädling (både kvantitet och mångfald)</p>
+    <p><em type="bold">Dearvalasvuohta (Hälsa):</em><em type="italic"> Sametinget ska satsa på och stödja </em>en bra arbetsmiljö för vår fysiska och psykiska hälsa. </p>
+    <p><em type="bold">Oahppan (Lärandet):</em><em type="italic"> Sametinget ska verka för</em> att läroplaner och skolplaner tar hänsyn till vår traditionella kunskap och till Sametingets miljösyn. </p>
+    <p><em type="bold">Dássálas (Jämställdhet/Jämlikhet):</em><em type="italic"> Sametinget ska aktivt medverka till </em>att alla samer är behandlade som jämlika oavsett ålder, sysselsättning, bostadsort eller kön. Sametinget hänvisar därutöver till sitt jämställdhetsprogram. </p>
+    <p><em type="bold">Hálddaseapmi (Förvaltning):</em> <em type="italic">Sametinget ska byta erfarenheter </em>med andra urfolk angående metoder kring naturresursförvaltning. </p>
+    <p>15</p>
+    <p>
+      <em type="bold">Ditt ansvar </em>
+    </p>
+    <p>
+      <em type="bold">Delmål Natur:  </em>
+    </p>
+    <p>
+      <em type="italic">Sametinget ber dig att  </em>
+    </p>
+    <p type="listitem">•  nyttja naturresurser med stor försiktighet</p>
+    <p type="listitem">•  värna arternas livsmiljöer och ekosystem</p>
+    <p type="listitem">•  undvik nedsmutsningen av grundvatten, våtmarker, sjöar och vattendrag</p>
+    <p type="listitem">•  minska luftföroreningar</p>
+    <p type="listitem">•  använd motorfordon på ett sätt som minimerar markslitage</p>
+    <p type="listitem">•  håll naturen ren från icke nedbrytbart avfall</p>
+    <p type="listitem">•  använd enbart ämnen som inte hotar den biologiska mångfalden eller människans hälsa</p>
+    <p>
+      <em type="bold">Delmål Samisk Kunskap: </em>
+    </p>
+    <p>
+      <em type="italic">Sametinget uppmuntrar dig att </em>
+    </p>
+    <p type="listitem">•  granska ditt eget liv och dina vardagsvanor och att du använda värdefull samisk kunskap på alla nivåer</p>
+    <p type="listitem">•  delta i forskningsprojekt om samisk kunskap</p>
+    <p type="listitem">•  lära ut den samiska kunskapen till dina barn och barnbarn (till kommande generationer)</p>
+    <p>
+      <em type="bold">Delmål Balanserad Utveckling: </em>
+    </p>
+    <p><em type="bold">Biebmu (Mat):</em><em type="italic"> Sametinget ber dig att</em> </p>
+    <p type="listitem">•  ifrågasätta dina matvanor och använda samiska traditionella födoämnen</p>
+    <p type="listitem">•  äta så mycket årstidanpassad och naturlig mat som möjligt</p>
+    <p type="listitem">•  avstå genetiskt förändrade produkter</p>
+    <p type="listitem">•  tillse att de matvaror du köper som inte kan produceras i Sápmi är  ekologiskt producerade och rättvisemärkta</p>
+    <p><em type="bold">Energia ja golggaheapmi (Energi och </em><em type="italic">transport): Sametinget ber dig att delta i vår ansträngning att minska sårbarheten i Sápmi genom att minska energiberoendet i ditt liv. Du kan bidra genom att  </em> </p>
+    <p type="listitem">•  begränsa användningen av motorfordon</p>
+    <p type="listitem">•  sträva att använda miljöbättre bränsle</p>
+    <p type="listitem">•  minimera elanvändning i ditt hem och i din verksamhet</p>
+    <p type="listitem">•  granska dina resvanor (t.ex. val av transportmedel, hotell)</p>
+    <p type="listitem">•  ha höga krav när du köper produkter, t.ex. kan du välja o  lokal mat när det finns o   krav- och rättvisemärkt mat o   FSC-certifierade träprodukter o   miljömärkta pappersprodukter o  miljömärkta hushållsprodukter</p>
+    <p>m.m</p>
+    <p type="listitem">•  använda el från hållbara energikällor om du har valmöjlighet</p>
+    <p type="listitem">•  granska dina vardagsvanor enligt vårt samiska livsmiljöprogram</p>
+    <p>
+      <em type="bold">Ealáhusat (Näringar):</em>
+      <em type="italic"> Sametinget vill inspirera dig att delta i hållbar vidareutveckling av samiska näringar genom att </em>
+    </p>
+    <p type="listitem">•  du bedriver din verksamhet på ett hållbart och försiktigt sätt</p>
+    <p type="listitem">•  du deltar i samisk forskning om olika näringar, t ex. renskötseln, vidareförädling av produkter, m.m<em type="italic"> </em></p>
+    <p type="listitem">•  du beaktar kretsloppstanken i allt du gör, t.ex.</p>
+    <p>16 o  aktivt minimera din konsumtion</p>
+    <p>av varor o  sträva för att maximalt</p>
+    <p>återanvända värdefulla substanser som vanligtvis sammanfattas som avfall, till exempel: virke, kompost, m.m o  återvinna allt som man inte kan</p>
+    <p>återanvända (om det är möjligt)</p>
+    <p><em type="bold">Dearvalasvuohta (Hälsa): </em><em type="italic">Sametinget utmanar dig att </em>bidra med idéer och eget initiativ så att vår fysiska och psykosociala arbetsmiljö är så bra som möjligt för hälsan </p>
+    <p>
+      <em type="bold">Dássálas</em>
+      <em type="italic"> (Jämställdhet/Jämlikhet): Sametinget ber dig att aktivt medverka till att alla samer behandlas som jämlika oavsett ålder, sysselsättning, bostadsort eller kön. Sametinget hänvisar till sitt eget jämställdhetsprogram. </em>
+    </p>
+    <p>
+      <em type="bold">Allas ansvar </em>
+    </p>
+    <p>
+      <em type="italic">Vissa mål kan bara nås genom försiktigt agerande och samarbete av alla aktörer i Sápmi, till exempel Svenska regeringen, myndigheter, företag, mm måste samarbeta och ta ansvar för en hållbar utveckling. Sametinget prioriteringar är följande: </em>
+    </p>
+    <p>
+      <em type="bold">Delmål Natur: </em>
+    </p>
+    <p>
+      <em type="bold">Meahcci (Skog): </em>
+      <em type="italic">Sametinget anser det som ytterst viktigt att </em>
+    </p>
+    <p type="listitem">•  gammalskogar och skogar med höga biologiska värden är lagligt skyddade (både skogens struktur, biologisk mångfald, tillgång till lavar och anslutning till annan viktig betesmark ska värnas)<em type="italic"> </em></p>
+    <p type="listitem">•  skogsbruksåtgärder som är tveksamma och till skada för naturmiljön ska minimeras</p>
+    <p type="listitem">•  samiska kulturmiljövärden respekteras</p>
+    <p type="listitem">•  samisk urminneshävd och sedvanerätt respekteras</p>
+    <p><em type="bold">Duottar</em> <em type="bold">(Fjäll):</em> <em type="italic">Sametinget anser det som ytterst viktigt att  </em></p>
+    <p type="listitem">•  särskilt värdefulla områden för vår kultur och näringar skyddas mot ingrepp och andra störningar (CBD, Akwé Kon riktlinjer)</p>
+    <p type="listitem">•  förutsättningarna för våra näringar bevaras och förstärks</p>
+    <p><em type="bold">Áibmu (Luft): </em><em type="italic">Sametinget anser det som mycket viktigt att</em> luften är ren så att hälsan av människor, djur och växte inte skadas </p>
+    <p><em type="bold">Cáhci (Vatten</em><em type="italic">):</em> Sametinget anser det som ytterst viktigt att  </p>
+    <p type="listitem">•  vattendragens naturliga avrinningsvägar inte ytterligare ändras</p>
+    <p type="listitem">•  fiskens lekplatser och dess naturliga vandringsvägar skyddas</p>
+    <p type="listitem">•  nedsmutsningen av grundvatten, våtmarker, sjöar och vattendrag undviks</p>
+    <p type="listitem">•  grundvattnet ger en säker och hållbar dricksvattenförsörjning</p>
+    <p><em type="bold">Ollislas Eatnamat</em> <em type="italic">(Sammanhållet landskap)</em>:  <em type="italic">Den fortskridande fragmenteringen av naturen står i strid med bevarandet av den biologiska mångfalden. Landskapsdimensionen och därmed helhetsperspektivet att marker måste hänga samman så att djur och växter kan röra sig och långsiktigt överleva i naturen är ytterst </em></p>
+    <p>17 <em type="italic">viktigt. Det är speciellt betydelsefullt för att flora och fauna ska kunna överleva i samband med de snabba och stora klimatförändringar som sker idag. Därför anser Sametinget det som ytterst viktigt att</em>  </p>
+    <p type="listitem">•  sedvanerätt för alla våra näringar respekteras</p>
+    <p type="listitem">•  försiktigt och hållbart nyttjande förverkligas</p>
+    <p type="listitem">•  ingen ytterligare storskalig exploatering sker</p>
+    <p type="listitem">•  splittring av sammanhängande ytor och ny infrastruktur bara accepteras när det är absolut oundvikligt</p>
+    <p type="listitem">•  rennäringens behov av sammanhängande flyttningsvägar respekteras</p>
+    <p>värdefulla substanser (som vanligtvis sammanfattas som avfall, t. ex: virke, kompost, biogas)</p>
+    <p>o  återvinning av allt som man inte</p>
+    <p>kan återanvända (om det är möjligt)</p>
+    <p>
+      <em type="bold">Delmål Samisk Kunskap: </em>
+    </p>
+    <p>
+      <em type="bold">Mánggalasvuohta (Mångfald): </em>
+      <em type="italic">Sametinget anser det som ytterst viktigt att</em>
+      <em type="bold">  </em>
+    </p>
+    <p type="listitem">•  den biologiska mångfalden i landskapet och i ekosystemen bevaras;</p>
+    <p type="listitem">•  arternas livsmiljöer och ekosystem samt deras funktioner och processer värnas</p>
+    <p type="listitem">•  alla naturresurser nyttjas på ett långsiktig hållbart sätt</p>
+    <p type="listitem">•  rovdjurspolitiken inom renskötselområdet tar hänsyn till den biologiska mångfalden</p>
+    <p type="listitem">•  småviltjakt och fiske bedrivs i enlighet med försiktighetsprincipen</p>
+    <p>
+      <em type="bold">Mirkohis Luondu (Giftfri miljö): </em>
+      <em type="italic">Sametinget anser det som ytterst viktigt att</em>
+      <em type="bold"> </em>
+    </p>
+    <p type="listitem">•  försiktighetsprincipen gäller för allt vi gör (minskning av avfall!)</p>
+    <p type="listitem">•  utfasningen av skadliga ämnen påskyndas</p>
+    <p type="listitem">•  naturmiljön hålls ren från icke nedbrytbart avfall och från ämnen som kan hota den biologiska mångfalden eller människans hälsa</p>
+    <p type="listitem">•  kretsloppstanken gäller för alla aktiviteter: o  minskning av konsumtion o  maximal återanvändning av</p>
+    <p><em type="italic">Sametinget anser det som ytterst viktigt att</em>: </p>
+    <p type="listitem">•  Vi har en viktig roll som klimat- och miljövittne på nationell och internationell nivå.</p>
+    <p type="listitem">•  Samisk traditionell kunskap jämställs i forskning om naturvård och landskap.</p>
+    <p type="listitem">•  Vi respekteras som jämlika i samråd relaterade till markanvändning/ exploatering i Sápmi.</p>
+    <p type="listitem">•  Jakt- och fiskevårdsområden för det rörliga friluftslivet ska vara utformade på samernas initiativ och förvaltas av samerna själva.</p>
+    <p>
+      <em type="bold">Delmål Balanserad Utveckling: </em>
+    </p>
+    <p>
+      <em type="italic">Sametinget anser det som ytterst viktigt och ska verka för att:   </em>
+    </p>
+    <p type="listitem">•  Planering och beslut som angår oss utgår från vår miljösyn och våra behov av mark och vattenresurser. Inom dessa ramar är det nödvändigt att skapa decentraliserade förvaltningsformer med ett starkt lokalt inflytande.</p>
+    <p type="listitem">•  Principen om <em type="italic">mångbruk </em>och varaktig avkastning och ett långsiktigt </p>
+    <p>18 nyttjande är vägledande vid all planläggning.</p>
+    <p type="listitem">•  Lätt användbara sociala konsekvensanalyser och miljökonsekvensanalyser skrivs.</p>
+    <p type="listitem">•  Etiska och miljömässiga urfolks standarder säkras vid etablering av nya industriella aktiviteter (brytning, m.m).</p>
+    <p type="listitem">•  Den samiska synen får en betydande vikt i den nationella utvecklingsdebatten (inkl. planer för utbyggnad av vindkraft, brytning, m.m).</p>
+    <p type="listitem">•  Lokal förvaltning av naturresurser (småviltjakt, nationalparker, turism, m.m) prioriteras.</p>
+    <p type="listitem">•  Bra gränsöverskridande samarbete.</p>
+    <p type="listitem">•  Gruvverksamhet och exploatering för energiändamål (vattenkraft, vindkraft osv.) anpassas till de ekologiska förutsättningarna och till den samiska  kulturen och näringsstrukturen.</p>
+    <p type="listitem">•  arbetar för att kärnkraft eller brytning av radioaktiva ämnen upphör totalt.</p>
+    <p><em type="bold">Energia ja golggaheapmi (Energi och </em><em type="italic">transport</em><em type="bold">):</em> <em type="italic">Sametinget anser det som ytterst viktigt att den högenergiberoende livsstilen ifrågasätts och kräver därför att den svenska regeringen  </em></p>
+    <p type="listitem">•  utarbetar en övergripande plan för hållbar energiproduktion i Sápmi</p>
+    <p>
+      <em type="bold">Ealáhusat</em>
+      <em type="italic"> (Näringar): Sametinget anser det som ytterst viktigt att  </em>
+    </p>
+    <p type="listitem">•  det samlade nyttjandet inom det samiska traditionella bosättningsområdet står i harmoni med de ekologiska system inom vilka näringarna bedrivs (eftersom uthållig renskötsel, jakt, fiske, fångst och gårdsbruk förutsätter ett långsiktigt nyttjande av naturens resurser)</p>
+    <p type="listitem">•  mark och vattenresurserna i Sápmi först och främst finns för våra näringars behov</p>
+    <p type="listitem">•  utnyttjandet och exploateringen av mark och vattenresurser inte ytterligare utarmar de samiska näringarnas behov</p>
+    <p type="listitem">•  alla verksamheter är hållbara och bedrivs efter försiktighetsprincipen</p>
+    <p type="listitem">•  lokalisering av produktion uppmuntras och sker inom alla sektorer.</p>
+    <p>19</p>
+    <p>
+      <em type="bold">4. Tidplan – Handlingsprogram 2009-2012 </em>
+    </p>
+    <p>
+      <em type="bold">2009-2011  </em>
+    </p>
+    <p>
+      <em type="italic">Sametinget anställer en samordnare för Sametingets miljöarbete. </em>
+    </p>
+    <p>
+      <em type="italic">Sametinget bildar en övergripande styrgrupp som ska  </em>
+    </p>
+    <p type="listitem">•  definiera prioriteringar av målen</p>
+    <p type="listitem">•  definiera tidsambition (vilka delmål kan nås av vem och när?)</p>
+    <p type="listitem">•  fastställa metoder och verktyg som t.ex. framgångsindikatorer (kvalitativ och kvantitativ mätbarhet: Hur vet vi att vi har nått framgång?)</p>
+    <p type="listitem">•  återkoppla indikatorer och kriterier till målen</p>
+    <p type="listitem">•  underlätta utvärderingen av arbetet senare Styrguppen ska fundera på vilka evenemang som ska genomföras, vilka tävlingar, stipendier är lämpliga, m.m. Styrgruppen utarbetar en tidplan.</p>
+    <p type="listitem">•  <em type="italic">Samla fakta och producera </em>populärvetenskapligt material enligt samisk livsmiljösyn/målen. </p>
+    <p type="listitem">•  <em type="italic">Sprid information</em> inåt och utåt via radio, internet, filmer, media, seminarier, m.m. </p>
+    <p type="listitem">•  <em type="italic">Organisera inspirerande och utbildande evenemang</em> på olika nivåer och för olika målgrupper. </p>
+    <p type="listitem">•  <em type="italic">Bygga upp ett nätverk</em> för nationellt och internationellt samarbete. </p>
+    <p>
+      <em type="bold">Övergripande metoder och steg: </em>
+    </p>
+    <p type="listitem">•  <em type="italic">Anlita experter</em> för framtagandet av speciell information eller produktion av material när det behövs. </p>
+    <p><em type="italic">Utvärdering och vidareutveckling: S</em>tyrgruppen leder utvärderingen och undersöker om vi har framgång med det vi gör. Vilka indikatorer visar en positiv förändring? Vad måste förändras? Hur ska vi gå vidare?<em type="italic"> </em></p>
+    <p>20</p>
+    <p>
+      <em type="bold">4.1. Målgrupp 1 Det samiska samhället  </em>
+    </p>
+    <p>
+      <em type="bold">Syfte </em>
+    </p>
+    <p type="listitem">•  Vidga perspektivet och visa hur miljöfrågor berör alla aspekter av våra liv</p>
+    <p type="listitem">•  inspirera med samisk livsmiljösyn och initiativtagande</p>
+    <p type="listitem">•  sätta igång miljöinitiativ på olika nivåer i det samiska samhället</p>
+    <p>
+      <em type="bold">Mål </em>
+    </p>
+    <p type="listitem">•  Det samiska samhället agerar miljömedvetet och hittar nya vägar att vidareutvecklas</p>
+    <p type="listitem">•  Samiska aktiviteter/ näringar/ produkter blir synliga och kända som <span type="quote">”miljöbättre, hållbara, framgångsrika”</span></p>
+    <p>
+      <em type="bold">Sametingets roll </em>
+    </p>
+    <p>Informera - inspirera - stödja</p>
+    <p>
+      <em type="bold">Aktiviteter 2009 – 2010 </em>
+    </p>
+    <p><em type="italic">Sprid informationen</em> till exempel genom information på Sametingets hemsida och Samiskt Informationscentrum, genom  </p>
+    <p>artiklar i tidningar, genom radio och TVintervjuer.</p>
+    <p><em type="italic">Börja med planering och organisation av ett inspirerande evenemang</em><em type="bold"> </em>med syfte att förändra grundsynen och att samarbeta gränsöverskridande. (exempelvis en internationell konferens med tema lokalisering (t ex Helena Norber-Hodge, Winona LaDuke, Robin Kimmerer) Konferensen äger rum tidigast våren 2010. </p>
+    <p>
+      <em type="bold">Aktiviteter 2010 - 2012 </em>
+    </p>
+    <p><em type="italic">Fokusera på internationellt evenemang i Sápmi</em> 2011 (t.ex. Earth Day). Syftet är att synliggöra den samiska hållbarhetsrörelsen, erfarenhets- och informationsutbyte med folk från andra länder som har tagit liknande initiativ och att inleda inspirerande (sam)arbete.  </p>
+    <p><em type="italic">Bild små arbetsgrupper för olika aspekter</em> att utarbeta lösningar, förslag, idéer ...  till exempel angående mat, energi, lärandet, forskning, ungdom, hälsa, lokalförvaltning m.m. </p>
+    <p><em type="italic">Skapa en tidsplan</em> för de nästa 3 åren. </p>
+    <p>21</p>
+    <p>
+      <em type="bold">4.2. Målgrupp 2 Sametingets verksamhet </em>
+    </p>
+    <p>
+      <em type="italic">Denna målgrupp innefattar Sametingets programarbete på alla avdelningar.  </em>
+    </p>
+    <p>
+      <em type="bold">Syfte </em>
+    </p>
+    <p type="listitem">•  Systematisk integrering av miljöarbete och miljötänkandet i Sametingets verksamhet</p>
+    <p type="listitem">•  Inspirera med samisk livsmiljösyn och initiativtagande</p>
+    <p>
+      <em type="bold">Mål </em>
+    </p>
+    <p type="listitem">•  Sametinget har ett väl fungerande, integrerat regelverk med klara indikatorer och tydliga miljökriterier för hela verksamheten</p>
+    <p type="listitem">•  Sametinget påtalar betydelsen av miljödimensionen i alla sammanhang i samarbete med andra (samarbets-)partners</p>
+    <p>
+      <em type="bold">Sametingets roll </em>
+    </p>
+    <p type="listitem">•  Informera och sätta igång processen inom den egna verksamheten</p>
+    <p type="listitem">•  Skaffa regelverk med indikatorer och kriterier (verksamhetsplan med <span type="quote">”måste”</span> instrument)</p>
+    <p type="listitem">•  ställa krav på samarbetspartners och anställda</p>
+    <p type="listitem">•  Aktiviteter</p>
+    <p>
+      <em type="bold">Aktiviteter 2009 - 2012 </em>
+    </p>
+    <p><em type="italic">Bildandet av en arbetsgrupp inom verksamheten</em> som driver processen under initialfasen (gruppen ska finnas tills riktlinjerna är utarbetade och de anställda har tagit fullt ansvar för integrationen av miljöaspekterna). <em type="italic">Samla ihop fakta och producera information:</em> Underlätta informations- tillgång och skapa lättbegripligt material enligt samisk miljösyn/ målen, t.ex.: </p>
+    <p type="listitem">•  Förslag hur man kan agera mera miljövänligt, hur företaget kan bli mer livskraftigt</p>
+    <p type="listitem">•  Adresser/information hur man kan mäta egen miljövänlighet</p>
+    <p type="listitem">•  Listor med fakta om miljövänligt material, teknik, farligt material</p>
+    <p type="listitem">•  Listor med adresser och kontakter till miljövänliga leverantörer och företag</p>
+    <p type="listitem">•  Listor med fakta om miljövänliga material (samt adresser) som är anpassade till behov av vissa näringar, (t ex rennäringen, slöjd, turism)</p>
+    <p type="listitem">•  Metoder/modeller för försiktigt bruk av motorfordon/ bränsle/ samkörning m.m</p>
+    <p type="listitem">•  Information om avfallshantering</p>
+    <p><em type="italic">Igångsätta utarbetandet av riktlinjer</em> tillsammans med arbetsgruppen för Sametingets avdelningar. Det är oerhört viktigt hur riktlinjerna och kriterierna tas fram. Anställda ska dras in där de är berörda, deras kunskap, idéer och erfarenhet är ett viktigt bidrag till att processen blir bra. Alla riktlinjer ska stödja sig på samisk livsmiljösyn och miljömålen.  </p>
+    <p>Riktlinjer ska utarbetas för till exempel:</p>
+    <p type="listitem">•  samisk forskning angående traditionell kunskap</p>
+    <p type="listitem">•  bidrag/stöd/anslag i landsbygdsprogrammet</p>
+    <p type="listitem">•  rennäringen i enlighet med miljöbalken, rennäringslagen, utarbeta beredskap för rennäringen</p>
+    <p type="listitem">22 •  att lagliga miljökrav från svenska staten beaktas i alla näringar</p>
+    <p type="listitem">•  för stöd till hållbar företagsutveckling</p>
+    <p type="listitem">•  konsthantverk, gårdsbruk, andra näringar Sametinget ska ge frihet och möjlighet att uppnå målen i en realistisk tidsram (t.ex. 1 av 5 krav måste uppfyllas 2009, 2 av 5 krav år 2010 etc.).  Det ger möjlighet för anslagssökande att föreslå egna åtgärder också. Respektera förslag om de är lämpliga och bra. Uppmuntra nya idéer och projekt som stödjer målen. <em type="italic">Uppmuntra forskningsprojekt</em> relaterade till klimatförändringar och effekt på samiska näringar och samhället. Dessutom ska Sametinget uppmuntra forskningsprojekt om samisk kunskap relaterat till hållbarhet. <em type="italic">Bilda en permanent kärngrupp inom verksamheten</em> som tar ansvar för miljöarbete i framtiden (minst en person på varje kontorsverksamhet i Sametinget). </p>
+    <p>
+      <em type="bold">Aktiviteter 2011 - 2012 </em>
+    </p>
+    <p><em type="italic">Utvärdera arbetet och vidareutveckla arbetet, skapa en tidsplan</em> (inkl. personalplan) för de kommande tre åren. Arbetsgruppen leder utvärderingen och undersöker om vi har framgång med det vi gör. Vilka indikatorer visar en positiv förändring? Vad måste förändras? Hur ska vi gå vidare? </p>
+    <p>
+      <em type="bold">4.3. Målgrupp 3 Sametingets administration  </em>
+    </p>
+    <p>
+      <em type="italic">Denna målgrupp innefattar Sametingets tjänstemän och deras vardagsliv på Sametinget. </em>
+    </p>
+    <p>
+      <em type="bold">Syfte </em>
+    </p>
+    <p>Systematisk integrering av miljödimensionen i Sametingets verksamhet. I fokus står delmålen balanserad utveckling där man städar i egen närmiljö/arbetsplats.</p>
+    <p>
+      <em type="bold">Mål </em>
+    </p>
+    <p type="listitem">•  Sametingets personal berikar fortlöpande processen med sina idéer</p>
+    <p type="listitem">•  Sametingets anställda agerar som ambassadörer och förebilder</p>
+    <p type="listitem">•  Sametingets verksamhet blir känd som en förebild för en hållbar myndighet (miljöcertifierad verksamhet?)</p>
+    <p>
+      <em type="bold">Sametingets roll </em>
+    </p>
+    <p type="listitem">•  informera, utbilda</p>
+    <p type="listitem">•  ställa krav (restriktiv)</p>
+    <p type="listitem">•  skaffa indikatorer, <span type="quote">”måste”</span>- instrument, regelverk</p>
+    <p type="listitem">•  förebild</p>
+    <p>
+      <em type="italic">Transport och resor </em>
+    </p>
+    <p type="listitem">•  Resvanor (minimera resandet när möjligheten finns till exempel genom samordning av möten, samkörning)</p>
+    <p type="listitem">•  Typ av transport och resa (transportmedelval (fot &gt; tåg &gt; bil &gt;flyg)</p>
+    <p type="listitem">•  Hotellval (svanenmärkt när möjligheten finns, m.m).</p>
+    <p>
+      <em type="bold">Aktiviteter 2009 - 2010 </em>
+    </p>
+    <p><em type="italic">Samla fakta, information. Regelbundna aktiviteter</em> att öka medvetenheten och motivera en förändrad livsstil, till exempel genom filmvisningar, föredrag, möten med anställda där andra anställda deltar med idéer och gör frivilliga förpliktelser.  <em type="italic">Utbilda anställda - </em>Processen ska vara grundad i aktivt deltagande. Anställda ska delta med idéer, bidra till att prioritera och utveckla verksamhetsplanen.  <em type="italic">Sakkunniga</em> används när ny kunskap behövs ang. tekniska lösningar. <em type="italic">Energi  </em></p>
+    <p type="listitem">•  Förbrukning: kolla t.ex. inställningar på kontoren såsom datorer, belysning, värme;</p>
+    <p type="listitem">•  Typ av energi: kolla vilken typ av energi som använts, finns bättre alternativ?</p>
+    <p><em type="italic">Kretsloppsprincipen </em>Granska typ av kontorsmaterial (återvunna/svanenmärkta produkter, elektronik, FSC-certifierade träprodukter); minskning av farliga ämnen; förbrukningsvanor; mat (lokal, årstidsanpassat, krav, rättvisemärkt); hälsa (material, minskning av farliga ämnen, transport), m.m. </p>
+    <p>
+      <em type="bold">Aktiviteter 2011 - 2012 </em>
+    </p>
+    <p><em type="italic">Utvärdera arbetet och utveckla en gemensam tidsplan</em><em type="bold"> </em>för de kommande tre åren (inkl. anpassning, förbättring)<em type="italic"> </em></p>
+    <p>24</p>
+    <p><em type="bold">Övergripande aktiviteter           </em>Styrgrupp      Utbildning &amp; seminarier        PR och informationsmaterial  200 000   600 000 Miljökonsulter/expertis  100 000      Internetpublicering 50 000        50 000 <em type="bold">Delkostnad 650 000 550 000 450 000 350 000 1 600 000 </em></p>
+    <p><em type="bold">Målgrupp 1 </em>        <em type="bold">  </em>Förankring org, samebyar och seminarier 300 000    600 000 </p>
+    <p>Internationellt evenemang   500 000 500 000    1 000 000 Informationsmaterial 100 000 75 000 75 000 75 000 325 000 <em type="bold">Delkostnad: 400 000 675 000 675 000 175 000 1 925 000 </em></p>
+    <p><em type="bold">Målgrupp 2 </em>          </p>
+    <p>Arbetsgrupp Ingår i ordinarie verksamhet       Utbildning 100 000        100 000</p>
+    <p>Programplaner Ingår i ordinarie verksamhet       <em type="bold">Delkostnad: 100 000    100 000 </em></p>
+    <p><em type="bold">Målgrupp 3 </em>          </p>
+    <p>Arbetsgrupp Ingår i ordinarie verksamhet       Utbildning         100 000</p>
+    <p>Övriga aktiviteter Ingår i ordinarie verksamhet       <em type="bold">Delkostnad: 100 000    100 000 </em></p>
+    <p><em type="bold">Organisation </em>          Projektledare 555 000 666 000 680 000 700 000 2 601 000 Kontorslokal 40 000 48 000 48 000 48 000 184 000 Kontorsutrustning 25 000 10 000 10 000 10 000 55 000 Resor och logi 150 000 150 000 150 000 150 000 600 000 Telefon, kontorsmaterial, porto m.m 30 000 30 000 30 000 30 000 120 000 <em type="bold">Delkostnad 800 000 904 000 918 000 938 000 3 560 000 </em>            </p>
+    <p><em type="bold">SUMMA KOSTNADER </em>          </p>
+    <p><em type="bold">INVESTERINGAR </em>          </p>
+    <p>Dator, program, mobiltel, digitalkamera m.m 50 000    80 000</p>
+    <p><em type="bold">SUMMA INVESTERINGAR 50 000 10 000 10 000 10 000 80 000 </em>            </p>
+    <p>
+      <em type="bold">PROJEKTKOSTNADER TOTALT 2 100 000 2 139 000 2 053 000 1 473 000 7 365 000 </em>
+    </p>
+    <p><em type="bold">FINANSIERING </em>          Främjandeanslaget  2 100 000 kr       2 139 000 kr    2 053 000 kr     1 473 000 kr    7 365 000 kr  <em type="bold">TOTAL FINANSIERING </em> 2 100 000 kr       2 139 000 kr    2 053 000 kr     1 473 000 kr    7 365 000 kr  </p>
+    <p>25 Plenum beslutade i oktober 2003 att uppdra åt styrelsen att uppdatera Sametingets miljösyn och utifrån den uppdaterade miljösynen utarbeta ett samiskt miljöpolitiskt program. <em type="bold">Plenumdirektiv </em>Sametinget i plenum beslutade den 21 maj 2008:  <em type="italic">Att uppdra till styrelsen att utarbeta ett miljöpolitiskt program, protokollet nr 2003: 3, § 52.4, överlämnas till plenum för beslut senast i februari 2009.  </em><em type="bold">Genomförande </em>Processen genomfördes enligt följande modell: </p>
+    <p type="listitem">-  En grupp av fem personer fungerade</p>
+    <p>som <span type="quote">”bollplank”</span> och referensgrupp</p>
+    <p type="listitem">-  En projektanställd programsekreterare</p>
+    <p>anställdes på heltid under perioden september 2008 – februari 2009.</p>
+    <p>
+      <em type="bold">7. Tidigare samiskt miljöarbete </em>
+    </p>
+    <p>Det organiserade samiska miljöarbetet påbörjades av de samiska riksorganisationerna. Från början var det mest inriktat på att bevara naturmiljöer och ekologiska förutsättningar för de samiska näringarna. Efterhand har de samiska organisationerna tagit ytterligare initiativ på miljöområdet. Vid Nordiska Samekonferensen i Åre 1986, antogs ett miljöprogram för att bevara och främja miljön i Sápmi. Det svenska Sametinget presenterade 1995 sin <span type="quote">"Redovisning av Sametingets miljösyn"</span>. 1995 tog Svenska Samernas Riksförbund fram ett miljöhandlingsprogram: <span type="quote">"Samiskt Vägval"</span> för att underlätta samebyarnas interna arbete med miljö- och demokratifrågor. Samiskt vägval följdes tyvärr aldrig upp från SSR:s sida.  Det samiska miljöarbetet bedrivs också rent praktiskt i olika former där en dialog med politiker och företrädare för andra markanvändningsintressen sker. SSR har deltagit aktivt i arbetet med att skapa en svensk FSC standard för uthålligt skogsbruk och har sedan starten funnits representerad i styrelsen för svenska FSC. Dessutom har Sametinget och Samerådet varit aktiva i den internationella processen med implementering av olika aspekter av Konventionen om Biologisk Mångfald, t.ex. artikel 8j som handlar om ursprungsfolks deltagande i naturresursförvaltning, om beaktandet av traditionell kunskap m.m. Under de senaste 15 åren har flertalet samebyar genomfört egna miljöinriktade initiativ. Till exempel har fem samebyar i Jämtland samarbetat med världsnatur-fonden och tagit fram ett Agenda 21 program (1996). Idre och Mittådalen sameby har jobbat mot ISO (14001) certifiering och genomfört aktivt miljö-arbete i det sammanhanget. De har ej slutfört certifieringen då det stötte på för stora problem att göra det kompatibelt med rennäring. Det s.k. Jämtlandsalternativet (Tåssåsenmodellen) syftar till att skapa en uthållig småviltsjaktmodell där småviltjakten är i samklang med renar och andra djur i fjällen. Flera privata samiska företag har certifierat sig enligt <em type="italic">Naturens Bästas</em> kriterier. (t.ex. Ajvin Site, Vägvisaren, Nutti Sami Siida AB, m.m). Dessutom pågår ett framgångsrikt arbete inom Laponia - ett område som blev UNESCO:s världsnatur- och kulturarv 1996. UNESCO nomineringen skapade speciella förutsättningar för samebyarnas miljöarbete. Nio samebyar har varit aktivt drivande sen processen påbörjades 1999. 2002 togs en miljöhandbok för Sametingets verksamhet fram. Alla svenska myndigheter är förpliktade att ta fram ett sådant tekniskt dokument som säkerställer miljövänlig verksamhet enligt miljöbalken. </p>
+    <p>26</p>
+    <p>
+      <em type="bold">8. Referenser </em>
+    </p>
+    <p>Adams, W.M. &amp; Jeanrenaud, S.J. (2008) <em type="italic">Transition to Sustainability: Towards a Humane and Diverse World</em><em type="bold">. </em>Future of Sustainability Initiative - International Union for Conservation and Nature. Allard, Christina (2006) <em type="italic">Two Sides of the Coin: Rights and Duties.</em> Doctoral Thesis, Luleå University of Technology. Arctic Council (2004) <em type="italic">Arctic Climate Impact Assessment</em><em type="bold"> Policy Document.</em> Issued by the fourth Arctic Council Ministerial Meeting, Reykjavik. Arctic Council (2006) <em type="italic">Sustainable Working Group Work Plan. 2006-2008</em> Balto, Asta. (1997) <em type="italic">Samisk baerneoppdragelse i endring.</em> Ad Notam Gylnedal AS, Oslo. Bohm, David (1992). <em type="italic">Thought as a System.</em> London: Rutledge.  Chamberlin, J. Edward (2003) <em type="italic">If this is your land, where are your stories? Finding common ground.</em> Knopf Canada. Commission of the European Communities (2008) <em type="italic">The European Union and the Arctic Region.</em> Communication from the Commission to the European Parliament and the Council. COM (2008) 763 final Convention on Biological Diversity (2004) <em type="italic">Akwe: Kon Guidelines.</em> Secretariat of the Convention on Biological Diversity.  Danell, Öje (2005) <em type="italic">Renskötselns robusthet – behov av nytt synsätt för att tydliggöra rennäringens förutsättningar och hållbarhet i dess socioekologiska sammanhang</em>. Ragnifer Report No. 10 (2005): 39-49. De Chavez, Raymond &amp; Tauli-Corpuz, Victoria (2008) <em type="italic">Guide on climate change &amp; indigenous peoples.</em> TebTebba Foundation: Indigenous Peoples’ International Center for Policy Research &amp; Education. Department of Conservation/Te Papa Atawhai (updateras fortlöpande)<em type="italic"> Te Pukenga Atawhai. Te Kete a Te Rito.</em> Kursmaterial om Maori kultur för naturvårdsverkets anställda i Nya Zealand.  Fabricius, C., C. Folke, G. Cundill, &amp; L. Schultz (2007)<em type="italic"> Powerless spectators, coping actors, and adaptive co-managers: a synthesis of the role of communities in ecosystem management. </em>Ecology and Society <em type="bold">12</em>(1): 29.  Holthaus, Gary (2008) <em type="italic">Learning Native Wisdom</em><em type="bold">.</em> The University Press of Kentucky. Hopkins, Rob (2008) <em type="italic">The Transition Handbook – from oil dependency to local resilience</em><em type="bold">.</em> Green Books. Humayun Kabir, Dewan Muhammad &amp; Hossain, Jakir (2008) <em type="italic">Resuscitating the Sundarbans:  Customary Use of Biodiversity &amp; Traditional Cultural Practices in Bangladesh. </em>Forest Peoples Programme Publication, UK. Formas (2006) <em type="italic">Hållbar rennäring och övrig samerelaterad forskning</em>. Rapport 3:2006. Idre Sameb<em type="italic">y www.idresameby.se </em></p>
+    <p>27</p>
+    <p><em type="italic">Change. </em>Valencia, Spain Kawhru, Merata (ed) (2002) <em type="italic">Whenua. Managing our resources.</em> Reed Books, Auckland. Kimmerer, Robin (2008) <em type="italic">The Rights of the Land. The Onondaga Nation of Central New York proposes a radical new vision of property rights</em>. Orion Magazine (issue Nov/Dec 2008). Kuoljok, Kerstin Eidlitz (1999)  <em type="italic">Moder Jord och andra mödrar – föreställningar om verkligheten bland folken i norr och var syn på den.</em> Carlssons Kuhmunen, Gudrun &amp; Sarri, Carina (2008) <em type="italic">Kan samisk traditionell kunskap överföras till en ny tid i den samiska förskolan, och i så fall hur?</em> Luleå Tekniska Universitet. Lindahl, Karin (Red.) (1999) <em type="italic">Mijá Ednam - Samebyarnas Laponiaprogram. </em>Jokkmokk. Lohman, Larry (Red.) (2006) <em type="italic">A Critical Conversation on Climate Change, Privatization and Power. </em>Dag Hammarskjöld Foundation.  Lohman, Larry (2008) <em type="italic">Interview on climate change</em>. RePublic Magazine. Lopez, Barry (2007) <em type="italic">Faithkeeper, interview with Oren Lyons</em><em type="bold">.</em> Orion Magazine (Jan/Feb 2007). Martin, Gary J. (2008) <em type="italic">Restoring Resilience</em><em type="bold">.</em> Resurgence Magazine (Sept/Oct 2008). Meadows, Donella et al. (2004) <em type="italic">Limits to Growth – The 30 Year Update</em><em type="bold">.</em> Chelsey Green Publishing Company. </p>
+    <p>Miljödepartementet (2007)<em type="bold"> Sverige inför klimatförändringarna - hot och möjligheter.</em><em type="italic"> </em>Klimat- och sårbarhetsutredningen. SOU 2007:60  </p>
+    <p>Millenium Ecosystem Assessment (2005) <em type="italic">Ecosystems and Human Well-Being. Synthesis</em>. Island Press, Washington DC.  Naess, Arne (1981) <em type="italic">Ekologi, samhälle och livsstil</em><em type="bold">.</em> LTs förlag, Stockholm. Nilsson, Christina &amp; Nuttall, Mark (Editors) (2008) <em type="italic">Climate Change and Indigenous Peoples. </em></p>
+    <p>Indigenous Affairs 1-2/08 (International Working Group on Indigenous Affairs). Norske Samers Riksförbund (2008) <em type="italic">Miljöpolitiskt Program.</em><em type="bold"> </em>Norberg-Hodge, Helena (1992) <em type="italic">Ancient Futures: Learning from Ladakh. </em>Sierra Club Books. Norberg-Hodge, Helena (2000) <em type="italic">Shifting Direction - From Global Dependence to Local  Interdependence.</em><em type="bold"> </em>Publication of the International Society for Ecology and Culture. Orr, David (1991) <em type="italic">What is Education for?</em> In Context #27: The Learning Revolution, Context Institute. Oviedo, Gonzales &amp;Maffi, Luisa(2000) <em type="italic">Indigenous and Traditional Peoples of the World and Ecoregion Conservation</em><em type="bold"> </em>WWF International/Terralingua. Rennäringspolitiska kommitténs betänkande (2001) <em type="italic">En ny rennäringspolitik – öppna samebyar och samverkan med andra markanvändare</em> (Del 1 och 2), SOU 2001:101 Samernas Riksförbund (1996) <em type="italic">Samiskt Vägval; Agenda 21 - Handlingsprogram i Miljö och Demokratifrågor. </em>Umeå.  Samerådet (1991) <em type="italic">Samerådets Miljöpolitiskt Program. </em>Samerådet. Sametinget (1995) <em type="italic">Miljösyn. </em>Sametinget </p>
+    <p>28</p>
+    <p>Sara, Mikkel Nils (2004 ) <em type="italic">Samisk kunskap i undervisning och läremidler.</em> Hirvonen, Vuokko (red) Samisk skole i plan och praksis. Karasjok: Författernes Förlag. Smith, Tuhiwai Linda (1999) <em type="italic">Decolonizing Methodologies: Research and Indigenous Peoples</em> Zed Books. <em type="italic">Svenska miljömålen</em><em type="bold"> (</em>2008)<em type="italic"> www.miljomal.nu www.regeringen.se/sb/d/2055 </em><em type="italic">The Kimberley Declaration </em>(2002) International Indigenous Peoples Summit on Sustainable Development. Khoi-San Territory – Kimberley, South Africa. Tunón, Håkan (2004) <em type="italic">Traditionell Kunskap och lokalsamhällen – artikel 8j i Sverige</em><em type="bold">. </em>Centrum för Biologisk Mångfald, Uppsala.<em type="bold"> </em>Turner, Nancy J. (2008) <em type="italic">Lessons of the Birch</em>. Resurgence Magazine (issue Sept/Oct 2008). Utsi, Paulus (2000) <em type="italic">Följ stigen.</em> DAT. Utsi, Paulus (1974) <em type="italic">Giela Giela.</em> Almqvist &amp; Wiksell, Uppsala. Utsi, Per Mikael (2007): <em type="italic">Traditionell kunskap och sedvänjor inom den samiska kulturen – relaterat till bevarande och hållbart nyttjande av biologisk mångfald</em>. Sametinget, Kiruna &amp; Centrum för biologisk mångfald, Uppsala. Världsnaturfonden (1996) <em type="italic">Agenda 21- Fem samebyar I Jämtland. </em>WWF Rapport Nr. 2:96. Wackernagel, Mathis &amp; Rees, William E. (1997) <em type="italic">Unser ökologischer Fußabdruck. Wie der Mensch Einfluß auf die Umwelt nimmt. </em>Birkäuser, Basel. </p>
+    <p>29</p>
+  </body>
+</document>

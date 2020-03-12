@@ -1,0 +1,66 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>343</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/manskliga-rattigheter/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="manniska-och-samhalle-manskliga-rattigheter.html"/>
+    <parallel_text xml:lang="sma" location="manniska-och-samhalle-manskliga-rattigheter.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Mänskliga rättigheter - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Mänskliga rättigheter</p>
+    <p>
+      <em type="italic">Länsstyrelsens personal ska ha goda kunskaper om de mänskliga rättigheterna. Därför har länsstyrelserna tagit fram en gemensam handlingsplan för lika rättigheter och möjligheter. </em>
+    </p>
+    <p>Målet är att arbetet för lika rättigheter och möjligheter ska genomsyra länsstyrelsernas organisationer och verksamhet och att förhållningssättet ska vara gemensamt för länsstyrelserna. Länsstyrelsernas handlingsplan utgår från diskrimineringslagen och den allmänna förklaringen om de mänskliga rättigheterna.</p>
+    <p type="title">De mänskliga rättigheterna gäller för alla</p>
+    <p>Alla människor är födda fria och lika i värde och rättigheter. De mänskliga rättigheterna är universella. De gäller över hela världen, oavsett land, kultur eller sammanhang.</p>
+    <p type="title">Diskrimineringslagen</p>
+    <p>Enligt diskrimineringslagen är det förbjudet att diskriminera människor utifrån deras kön, etniska tillhörighet, religion eller annan trosuppfattning, sexuella läggning, funktionshinder, ålder, könsöverskridande identitet eller könsöverskridande uttryck.</p>
+    <p>Den nya diskrimineringslagen beslutades 2009 och omfattar fler områden jämfört med den tidigare lagstiftningen. Med den har det blivit lättare att bekämpa diskriminering mer effektivt. Samtidigt som lagen trädde ikraft bildades en gemensam ombudsmannamyndighet, Diskrimineringsombudsmannen. Den ersätter de tidigare fyra ombudsmännen mot diskriminering (handikappombudsmannen HO, jämställdhetsombudsmannen JämO, ombudsmannen mot etnisk diskriminering DO och ombudsmannen mot diskriminering på grund av sexuell läggning HomO).</p>
+    <p type="title">Länsstyrelserna - en förebild för lika rättigheter</p>
+    <p>I mitten av januari 2011 genomfördes den första länsstyrelsegemensamma utbildningen om mänskliga rättigheter och diskriminering. Den som är intresserad av att lära sig mer om detta, kan läsa den handledningsplan som här finns att ladda ner som PDF: Handledning - Grundutbildning i mänskliga rättigheter .</p>
+    <p type="title">Kontakta oss</p>
+    <p>Kerstin Bergman</p>
+    <p>Jämställdhetssamordnare</p>
+    <p>Beredskapsfunktionen, mänskliga rättigheter</p>
+    <p>Kerstin punkt Bergman snabela lansstyrelsen punkt se¤Kerstin punkt Bergman snabela lansstyrelsen punkt se</p>
+    <p>010-2250425</p>
+    <p>076-1481566</p>
+    <p>Rusmira Dervisic</p>
+    <p>Integrationssamordnare</p>
+    <p>Beredskapsfunktionen, mänskliga rättigheter</p>
+    <p>Rusmira punkt Dervisic snabela lansstyrelsen punkt se¤Rusmira punkt Dervisic snabela lansstyrelsen punkt se</p>
+    <p>010-2250430</p>
+    <p>Kajsa Sjösvärd</p>
+    <p>Beredskapfunktionen</p>
+    <p>Kajsa punkt Sjosvard snabela lansstyrelsen punkt se¤Kajsa punkt Sjosvard snabela lansstyrelsen punkt se</p>
+    <p>010-2250461</p>
+    <p>Sven Ångquist</p>
+    <p>Jurist</p>
+    <p>Rättsenheten</p>
+    <p>Sven punkt angquist snabela lansstyrelsen punkt se¤Sven punkt angquist snabela lansstyrelsen punkt se</p>
+    <p>010-2250419</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

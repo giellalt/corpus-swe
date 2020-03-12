@@ -1,0 +1,35 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>204</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/3810</origFileName>
+    <parallel_text xml:lang="sme" location="13401.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Ungdomsrådet - Sametinget</p>
+    <p type="title">Sametingets ungdomsråd</p>
+    <p>För att öka ungdomars inflytande på samepolitiken har Sametinget inrättat ett ungdomsråd.</p>
+    <p>Ungdomsrådet  Ungdomsrådet består av fem ledamöter med varsin ersättare. Tre av ledamöterna utses av Sametinget och två av Sáminuorra. Ålder 14-30 år. Ledamöternas mandattid är två år. Ordförande i ungdomsrådet 2014-2016 är Oscar Sedholm, Umeå.</p>
+    <p>Övriga ordinarie ledamöter utsedda av Sametinget är Johanna Njaita och Tua Rydberg. Ledamöter utsedda av Sáminuorra är Maria Teresia Stenman Nutti och Helena Partapuoli.</p>
+    <p><em type="italic">Kontakt: </em>Vill du nå ungdomsrådet kan skicka ett mail på e-postadressen: sur(at)sametinget.se Handlingsplan  Ungdomsrådet arbetar efter en ungdomspolitisk handlingsplan. Se fil i högerspalten. Prioriterade områden, så kallade fokuspunkter, som vi anser är extra viktiga för unga just nu, är bland annat: </p>
+    <list>
+      <p type="listitem">Barn och ungas rätt till sitt språk</p>
+      <p type="listitem">Kampen för inflytande över och att kunna stoppa planerade markexploateringar</p>
+      <p type="listitem">Få fler unga att rösta och engagera sig politiskt</p>
+    </list>
+    <p>Samarbete  På norsk sida finns ett liknande organ: Sametingets ungdomspolitiske utvalg,  SUPU. Ungdomsfrågor är ett prioriterat område inom samarbetsorganet Samiskt Parlamentariskt Råd  , SPR. SPR beslutade 2011 att skapa ett gemensamt ungdomsråd, SPR-U, där 1-2 ledamöter från Finland, Norge och Sverige ska ingå. Josefina Skerk och Lovisa Lind med ersättare Nils-Olof Parfa och Maria Teresia Stenman, är nominerade från svensk sida.</p>
+  </body>
+</document>

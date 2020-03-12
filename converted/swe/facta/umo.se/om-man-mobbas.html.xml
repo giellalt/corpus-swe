@@ -1,0 +1,66 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>612</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Vald--krankningar/Mobbning/Om-man-mobbas</origFileName>
+    <parallel_text xml:lang="fin" location="kiusatuksi-joutuminen.html"/>
+    <parallel_text xml:lang="fit" location="jos-kokkee-mobbausta.html"/>
+    <parallel_text xml:lang="sma" location="jis-irhkesavva.html"/>
+    <parallel_text xml:lang="sme" location="jus-givssiduvvo.html"/>
+    <parallel_text xml:lang="smj" location="jus-nuppastuvva.html"/>
+    <parallel_text location="baschi-diro-bliddrar-miakt-kerrad.html" xml:lang="rmu"/>
+    <parallel_text location="te-kerdol-o-manu-belenkerevo.html" xml:lang="rmy-rka"/>
+    <parallel_text location="te-kerdol-o-manu-mobbad.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="kana-avelas-holjavel.html" xml:lang="rmf"/>
+    <parallel_text location="manu-te-ulo-mobimo.html" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Om man blir mobbad</p>
+    <p>Alla undrar!  Vad undrar du?</p>
+    <p type="title">Om man blir mobbad</p>
+    <p>När man blir utsatt för mobbning är det lätt att börja må dåligt. Ibland påverkar det livet så mycket att man får sämre självförtroende eller börjar undvika situationer där mobbarna finns. Men ingen ska behöva gömma sig för att andra mobbar.</p>
+    <p>» Texten finns på de nationella minoritetsspråken</p>
+    <p>Vissa som blir mobbade börjar tro att det är dem själva det är fel på. De kanske funderar på att ändra på sig för att slippa mobbningen. Men man ska inte behöva ändra på saker som intressen eller vad man har på sig, bara för att andra är taskiga. Man har alltid rätt att slippa bli mobbad.</p>
+    <p type="title">När är det mobbning?</p>
+    <p>Det är mobbning om man flera gånger blir retad, hotad, förlöjligad, slagen eller kränkt. Mobbning kan vara viskningar, blickar, skratt, knuffar, slag och elaka ord. Det är mobbning om man aldrig får vara med eller om någon sprider falska rykten om en.</p>
+    <p>Det kan också vara att någon skickar elaka sms eller mejl, skriver taskiga kommentarer på facebook, i en blogg eller på något annat ställe på nätet. Eller att någon lägger upp kränkande bilder på nätet.</p>
+    <p>Om någon säger taskiga saker för att man klär sig eller ser ut på ett visst sätt eller för att man har ett funktionshinder, är det mobbning. Om man är utsatt för något av det, och börjar må dåligt av det, kan man behöva hjälp för att det ska sluta.</p>
+    <p type="title">Berätta om mobbningen</p>
+    <p>Det kan kännas nervöst att berätta för någon att man blir mobbad. Kanske tror man att det ska bli värre om man berättar. Kanske skäms man för att man är utanför. Men det är inte den som blir mobbad som har gjort fel!</p>
+    <p>Om man blir utsatt för mobbning är det bäst att berätta det och få hjälp att sätta stopp för mobbningen. Man kan till exempel berätta det för en lärare, skolkuratorn eller skolsköterskan.</p>
+    <p>Det kan vara bra att börja med att berätta om mobbningen för någon vuxen som man litar på, till exempel någon i familjen, och sen ta hjälp av dem för att berätta det för någon i skolan.</p>
+    <p>Om skolan får veta att en elev känner sig mobbad, måste de direkt ta reda på vad som hänt. De måste också göra allt för att det inte ska hända igen. De vuxna i skolan har skyldighet att se till att ingen elev blir mobbad eller hotad. Det står i lagen att det är skolans ansvar att se till att ingen blir mobbad.</p>
+    <p type="title">Bra att tänka på om man blir mobbad:</p>
+    <list>
+      <p type="listitem">Det är aldrig så att man får skylla sig själv, om man blir mobbad.</p>
+      <p type="listitem">Det finns lagar som säger att man inte får mobbas i till exempel skolan eller på en arbetsplats.</p>
+      <p type="listitem">Det är också ett brott om någon hotar en, till exempel hotar med våld eller hotar med att sprida bilder på nätet.</p>
+      <p type="listitem">Skolor och arbetsgivare är skyldiga att försöka göra så att alla känner sig trygga.</p>
+      <p type="listitem">Man bör ta kontakt med någon vuxen man litar på, till exempel en förälder eller någon annan man känner.</p>
+      <p type="listitem">Man kan också kontakta en skolkurator eller en ungdomsmottagning för att prata och få råd och stöd.</p>
+      <p type="listitem">Om skolan får veta att en elev känner sig mobbad är de skyldiga att se till att det inte fortsätter.</p>
+      <p type="listitem">Om man mobbas i skolan och inte får hjälp av sin skola så kan man anmäla det till Barn- och elevombudet.</p>
+      <p type="listitem">Kontakta polisen om någon sprider bilder på dig utan tillstånd. Det är ett brott mot personuppgiftslagen. Att kränka eller mobba någon på nätet är lika olagligt som på skolgården, gatan eller fritidsgården.</p>
+    </list>
+  </body>
+</document>

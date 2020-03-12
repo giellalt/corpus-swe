@@ -1,0 +1,56 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>340</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/djur-och-natur/fiske/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="djur-och-natur-fiske.html"/>
+    <parallel_text xml:lang="sma" location="djur-och-natur-fiske.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Fiske - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Fiske</p>
+    <p>
+      <em type="italic">Länsstyrelsen arbetar för livskraftiga fiskbestånd, en långsiktig och hållbar fiskerinäring samt ett rikt och varierat sport- och fritidsfiske. </em>
+    </p>
+    <p type="title">Fiskebestämmelserna styr</p>
+    <p>Det finns en mängd bestämmelser kring både fritids- och yrkesfiske, och de rör bland annat var du får fiska, när du får fiska och hur du får fiska. Om du fiskar i sötvatten finns informationen på det fiskekort du köper för att få fiska. Vill du veta vilka fiskeregler som gäller i havet eller i de stora sjöarna ska du vända dig till oss.</p>
+    <p type="title">Fiskevård stärker fisket</p>
+    <p>För att återskapa eller bevara livskraftiga fiskbestånd stödjer länsstyrelsen ett stort antal fiskevårdsprojekt. Vi fördelar statliga fiskevårdsbidrag, fiskeavgiftsbidrag samt stödpengar från EU som ska användas till fiskevårdande åtgärder.</p>
+    <p>Vi prövar ansökningar om tillstånd för att få plantera ut fisk och kräftor. Vi vill förhindra spridning av fisksjukdomar och se till att icke önskvärda arter och stammar av fisk inte kommer till länets vatten.</p>
+    <p>Länsstyrelsen samordnar och genomför provfisken för att följa fiskbeståndens utveckling. Dessutom använder vi de möjligheter som finns i lagstiftningen för att skydda fiskens livsmiljö.</p>
+    <p type="title">Fritidsfisket gynnas av fiskevård</p>
+    <p>I Sverige finns mycket goda förutsättningar för många olika typer av fritidsfiske, allt från fiske i kringliggande hav och längs kuster till sjöar och vattendrag från söder till norr. Arter som öring, lax, torsk, makrill, röding, harr, abborre, gös och gädda är viktiga arter för detta fiske. Länsstyrelsen har ansvar för den regionala utvecklingen av fritidsfisket och arbetar för goda fiskemöjligheter genom att bilda fiskevårdsområden som säljer fiskekort för sjöar och vattendrag. Genom fiskevård ökar möjligheterna till goda fångster, och Länsstyrelsen utser fisketillsynsmän som informerar om fiskeföreskrifterna och ser till att de följs.</p>
+    <p type="title">Kontakta oss</p>
+    <p>Håkan Danielsson</p>
+    <p>Miljöhandläggare</p>
+    <p>Miljöenheten</p>
+    <p>Hakan punkt Danielsson snabela lansstyrelsen punkt se¤Hakan punkt Danielsson snabela lansstyrelsen punkt se</p>
+    <p>010-2250278</p>
+    <p>Mikael Melin</p>
+    <p>Miljöhandläggare</p>
+    <p>Miljöenheten</p>
+    <p>mikael punkt melin snabela lansstyrelsen punkt se¤mikael punkt melin snabela lansstyrelsen punkt se</p>
+    <p>010-2250300</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

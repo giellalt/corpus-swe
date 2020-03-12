@@ -1,0 +1,41 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>150</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/74779</origFileName>
+    <parallel_text xml:lang="sme" location="74785.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kulturmedlen är fördelade - Sametinget</p>
+    <p type="title">Kulturmedlen är fördelade</p>
+    <p>Vid sammanträdet den 17-18 juni 2014 har kulturnämnden beslutat bevilja medel till följande kulturprojekt. Sammanlagt har 713 800 kr fördelats.</p>
+    <p>50 000 kr Internašunála Sámi Filbmaguovddáš, <em type="italic">Sami Film Lab </em></p>
+    <p>87 000 kr Gösta Forsman, <em type="italic">CD-inspelning med Vaajmoekören </em></p>
+    <p>94 500 kr Dáčča Records, <em type="italic">Plateinspilling: Max Mackh </em><em type="italic">é &amp; Gumpegoddi Geriljá </em></p>
+    <p>12 300 kr Emma Ricklunds stiftelse, <em type="italic">Samisk prisma </em></p>
+    <p>58 000 kr Vualtjere Duodji, Faepmien saemien sibrie, Faepmien saavreme sibrie, Vilhelmina norra sameby, Vilhelmina södra sameby, <em type="italic">Vilhelmina – en del av Sápmi </em></p>
+    <p>81 000 kr Ápmut Ivar Kuoljok, <em type="italic">Ápmut Jåhttesábme </em></p>
+    <p>74 000 kr Sami Kompania AB, <em type="italic">Ruovdi goddá </em></p>
+    <p>174 000 kr Amanda Kernell, <em type="italic">Stuorre Vaerie/ Norra Storfjället </em></p>
+    <p>30 000 kr Dansklacken på Dosan, <em type="italic">Dansklacken på Dosan </em></p>
+    <p>53 000 kr DAT AS, <em type="italic">Jámán oanehis bottu </em></p>
+    <p>Nästa ansökningstillfälle är den 1 augusti 2014.</p>
+    <p>
+      <em type="italic">Vid frågor, kontakta: </em>
+    </p>
+    <p>Karin Mannela Kulturnämndens ordförande Tel: +47 47 34 87 36</p>
+  </body>
+</document>

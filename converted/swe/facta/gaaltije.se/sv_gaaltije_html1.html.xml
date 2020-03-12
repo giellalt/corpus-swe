@@ -1,0 +1,61 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Om Gaaltije</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>182</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="sma"/>
+    </multilingual>
+    <origFileName>http://www.gaaltije.se/sv/gaaltije.html</origFileName>
+    <parallel_text xml:lang="sma" location="sm_about-gaaltije_html1.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="sma">Om Gaaltije</p>
+    <p>
+      <em type="bold">Gaaltije-sydsamiskt kulturcentrum är ett sydsamiskt utvecklingscentrum! </em>
+    </p>
+    <p/>
+    <p>
+      <em type="bold">Gaaltije-sydsamiskt kulturcentrum är ett sydsamiskt utvecklingscentrum med fokus på kultur, språk, näring och samhälle. Vår verksamhet har en enande inriktning - att stärka den sydsamiska positionen i samhället och värna vår kultur. Vi bedriver publik verksamhet i form av bl.a. butiksförsäljning, utställningar och föreläsningar samt uppdragsbaserad verksamhet genom projekt och konsultinsatser. Vi vill dessutom vara en kreativ miljö för utveckling av nya idéer att förverkligas av oss eller andra. Till oss vänder du dig med frågor relaterade till det samiska samhället. Genom vår kunskap och vårt nätverk kan vi hjälpa till! </em>
+    </p>
+    <p>
+      <em type="bold">Vision </em>
+    </p>
+    <p/>
+    <p>
+      <em type="bold">-  Gaaltije skall vara en aktiv och välkomnande sydsamisk aktör som tydligt synliggör sydsamisk kultur, språk, näring, kompetens och samhälle. </em>
+    </p>
+    <p>
+      <em type="bold">-  Gaaltije skall vara starkt bidragande till att kunskapen om och förståelsen för sydsamisk kultur, samhälle och näringsliv ständigt ökar. </em>
+    </p>
+    <p>
+      <em type="bold">-  Gaaltije skall vara erkänt som det regionala centret för (syd)samiska intressen och ha en fast, årlig finansiering </em>
+    </p>
+    <p>
+      <em type="bold">Framgångsfaktorer </em>
+    </p>
+    <p/>
+    <p>
+      <em type="bold">Gaaltijes framgångsfaktorer är; </em>
+    </p>
+    <p>
+      <em type="bold">-  vårt humankapital, dvs. vår kunskap och erfarenhet </em>
+    </p>
+    <p>
+      <em type="bold">-  vårt sociala kapital, dvs. vår identitet, våra relationer och vår samhörighet. </em>
+    </p>
+  </body>
+</document>

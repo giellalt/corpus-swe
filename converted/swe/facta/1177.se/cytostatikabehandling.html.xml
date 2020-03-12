@@ -1,0 +1,149 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>3673</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/Cytostatikabehandling</origFileName>
+    <parallel_text xml:lang="eng" location="cytostatikabehandling.html"/>
+    <parallel_text xml:lang="fin" location="cytostatikabehandling.html"/>
+    <parallel_text xml:lang="rus" location="cytostatikabehandling.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Cytostatikabehandling - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Cancer</p>
+    <list>
+      <p type="listitem">Cancerformer och fakta</p>
+      <p type="listitem">Första tiden efter beskedet</p>
+      <p type="listitem">Behandling vid cancer</p>
+      <p type="listitem">Att vara den som står bredvid</p>
+      <p type="listitem">Hjälp och stöd</p>
+      <p type="listitem">Barncancer</p>
+      <p type="listitem">Kris och sorg</p>
+      <p type="listitem">Andra språk/Translations</p>
+    </list>
+    <p type="title">Cytostatikabehandling</p>
+    <p type="title">Sammanfattning</p>
+    <p type="title">Sammanfattning</p>
+    <p type="title">Allmänt</p>
+    <p>Cytostatika är en grupp läkemedel som främst används mot olika cancersjukdomar. Medicinerna fungerar genom att döda cancercellerna. Cytostatika kan också få cancerceller att sluta växa. Tidigare har dessa läkemedel ofta kallats för cellgifter.</p>
+    <p>Cytostatikabehandling är ofta påfrestande för kroppen. När man har fått en cancersjukdom måste läkaren därför överväga om det är en lämplig behandling. Ibland är det bättre att behandla med strålbehandling, andra typer av läkemedel eller att inte behandla alls.</p>
+    <p type="title">Förberedelser</p>
+    <p>Som regel genomgår man olika undersökningar innan behandlingen med cytostatika startar. Detta för att läkaren ska kunna avgöra vilken typ av cancer man har samt tumörens storlek och spridning i kroppen. Läkaren måste också undersöka om man har några andra sjukdomar eller besvär som kan påverka möjligheten att genomgå en behandling med cytostatika.</p>
+    <p type="title">Hur går behandlingen till?</p>
+    <p>Oftast får man cytostatika direkt i blodet genom dropp. Det tar vanligen upp till några timmar. Man behöver oftast bara vara på sjukhuset under de timmar man får droppet.</p>
+    <p>Vanligtvis behandlas man några dagar i följd, sedan görs ett uppehåll på några veckor innan en ny behandlingsomgång påbörjas.</p>
+    <p>Det finns också vissa cytostatika som man kan ta hemma i form av tabletter.</p>
+    <p type="title">Hur mår man under behandlingen?</p>
+    <p>Cytostatika angriper inte bara cancerceller utan också friska celler. Det gör att man ofta får biverkningar. Vilka biverkningar man får och hur svåra de blir beror på vilka sorters cytostatika som används, hur höga doser man får och hur många behandlingsomgångar man går igenom.</p>
+    <p>Hur känslig man är för olika typer av biverkningar varierar även från person till person. Man kan till exempel må illa, tappa håret eller drabbas av infektioner. Ofta finns mediciner som kan hjälpa mot biverkningarna. För att få hjälp är det därför viktigt att berätta för personalen hur man mår av behandlingarna. När behandlingen är klar brukar biverkningarna gå över.</p>
+    <p>Visa mer</p>
+    <p type="title">Varför får man cytostatika?</p>
+    <p type="title">Cytostatika angriper cancercellerna</p>
+    <p>Cytostatika är ett samlingsnamn för en stor grupp läkemedel som framför allt används för att lindra eller bota olika cancersjukdomar. Antingen används cytostatika som enda behandlingsmetod eller så kombineras läkemedlet med andra behandlingar. Behandlingen kan till exempel inledas med operation och sedan följas av strålbehandling eller cytostatika. Cytostatika dödar cancercellerna vilket gör att tumörerna krymper och i vissa fall försvinner helt. Läkemedlen används även för att minska risken för återfall när en tumör har opererats bort.</p>
+    <p>Under senare år har det blivit allt vanligare att använda vissa cytostatika vid andra sjukdomar. Det gäller till exempel vid kroniska inflammatoriska sjukdomar som ledgångsreumatism. Ibland utnyttjas cytostatika även efter organtransplantationer för att förhindra att det transplanterade organet stöts bort av kroppen.</p>
+    <p type="title">Sjuka celler får hjälp att utplåna sig själva</p>
+    <p>Cancer är benämningen på ett antal sjukdomar som kan uppstå på många olika ställen i kroppen. Även om det finns mycket som skiljer de olika cancerformerna åt har de en sak gemensamt: De uppstår på grund av att en eller några helt vanliga celler någonstans i kroppen förändras och utvecklas till cancerceller .</p>
+    <p>Det som kännetecknar cancerceller är bland annat att de slutar kommunicera med omgivningen och fortsätter att föröka sig okontrollerat samtidigt som de inte dör när deras tid är ute, vilket kroppens celler annars brukar.</p>
+    <p>Ordet cancer syftar på en tumör eller knöl, men det är inte alltid cancercellerna bildar tydliga knölar som man kan se eller ta på. När det gäller till exempel blodsjukdomen leukemi bildas inga tumörer men cancercellerna breder ändå ut sig på bekostnad av de friska cellerna.</p>
+    <p>Förändringen från helt vanlig cell till cancercell sker framför allt i samband med att cellen delar sig. Att cellerna i kroppen delar sig är en normal process som sker regelbundet för att gamla eller skadade celler i kroppen ska ersättas av nya. För det mesta går celldelningen till som den ska, men ibland kan det bli fel.</p>
+    <p>Cytostatika skadar cancercellerna och förhindrar att de delar sig och blir fler. Oftast påverkar cytostatika arvsmassan så att den process som gör att de skadade cellerna förstör sig själva sätts igång. Det kan ske på flera olika sätt. Vissa medel binder sig direkt till beståndsdelarna i arvsmassan medan andra liknar byggstenarna till arvsmassan, vilket i båda fallen leder till att cellernas övervakningssystem reagerar på fel i arvsmassans uppbyggnad och dödar cancercellerna. En tredje grupp hämmar celldelningsprocessen direkt medan en fjärde grupp hindrar cellerna att förbereda sig för celldelning. Tyvärr påverkas också många normala celler, vilket kan leda till biverkningar.</p>
+    <p type="title">Cytostatika har mycket olika effekt</p>
+    <p>Om man ska opereras strävar ofta läkaren efter att operera bort cancertumören och all tumörvävnad. Men det går sällan att vara helt säker på att alla cancerceller verkligen är borta. Därför används cytostatika ofta om läkaren vet eller har starka misstankar om att cancerceller finns spridda i kroppen. Om cancerceller bara har spridit sig i området kring huvudtumören, till exempel i ärrområdet efter en bröstcanceroperation, kan strålbehandling vara ett alternativ.</p>
+    <p>Cytostatika har mycket olika effekt på olika former av tumörer. Ursprungsvävnaden styr hur känslig tumören är för olika cytostatika, och tumörens eller tumörernas storlek har också betydelse. Ju mindre och färre tumörerna är, desto större möjlighet är det oftast att cytostatikabehandlingen lyckas.</p>
+    <p type="title">Cytostatika kan bota och lindra smärta</p>
+    <p>Ofta kan man få cytostatika med målet att bli helt botad. Det är bland annat möjligt vid vissa typer av leukemi framför allt hos barn, vid vissa lymfkörteltumörer och vid testikelcancer.</p>
+    <p>Cytostatika används också ofta för att lindra olika symtom av sjukdomen. Smärta kan till exempel lindras om cytostatikabehandlingen gör att tumören krymper och trycket på närliggande organ eller nerver blir mindre. Det kallas palliativ behandling. Det är viktigt att behandlingen inte leder till svåra biverkningar. Läkaren övervägar fördelarna med behandlingen mot nackdelarna innan den startar.</p>
+    <p type="title">Förebyggande behandling</p>
+    <p>Det finns alltid en viss risk att sjukdomen kommer tillbaka efter att tumören opererats bort. För att minska risken kan man få cytostatika efter operationen. Behandlingen startar några veckor till någon månad efter operationen och pågår under några månader. Detta är till exempel vanligt efter operation av tumörer i bröst och tjocktarm.</p>
+    <p type="title">Cytostatika före en operation</p>
+    <p>Cytostatika används ibland om man har fått en tumör som är för stor för att kunna opereras bort. Man kan då få en inledande behandling med cytostatika som gör att tumören krymper. Det förbättrar förutsättningar att operera bort det som finns kvar, och chansen att man blir botad ökar.</p>
+    <p type="title">Vad läkaren vill veta</p>
+    <p>Cytostatika ges vid många olika cancersjukdomar och i olika skeden av sjukdomen. Flera viktiga undersökningar behövs innan det kan avgöras vilken behandling som är mest lämplig. Det är nödvändigt för läkaren att veta vilken sorts tumör det är fråga om. Även om cancern finns på samma ställe, till exempel i en lymfkörtel, kan det röra sig om olika typer av cancer som är känslig för olika typer av behandling. Därför måste läkaren med hjälp av provtagning från tumören och med hjälp av olika undersökningar fastställa vilken typ av ursprungsvävnad tumören kommer från. Det är också viktigt att läkaren i en röntgenundersökning ser hur stor tumören är och om den har spridit sig.</p>
+    <p type="title">För- och nackdelar diskuteras</p>
+    <p>Det är viktigt att en behandling med cytostatika genomförs som planerat och att man informeras om att det ibland kan bli relativt svåra biverkningar. Man brukar, tillsammans med läkare och ibland närstående, gemensamt besluta om cytostatikabehandling efter att ha diskuterat igenom vinsterna och riskerna. Ofta ger specialutbildade sjuksköterskor ytterligare information om behandlingen. Även om läkaren vet vilken typ av tumör det är och hur den har spridit sig i kroppen, går det inte att på förhand veta vilken effekt behandlingen kommer att få hos den enskilde personen. För vissa kan behandlingen vara väldigt effektiv med få eller inga biverkningar medan biverkningarna hos andra kan bli mycket besvärande.</p>
+    <p>Intensiv forskning pågår världen runt för att hitta nya medel med bättre effekter och mindre biverkningar. Bedömningen om vilken som är den bästa behandlingen kan därför förändras allt eftersom kunskaperna ökar och nya metoder utvecklas.</p>
+    <p type="title">Förutsättningar för behandling</p>
+    <p>Eftersom cytostatikabehandling många gånger är påfrestande måste man må tillräckligt bra för att tåla behandlingen. Ibland kan man tillsammans med läkaren komma fram till att fördelarna med behandlingen inte uppväger riskerna för besvärliga biverkningar. Då kan det vara bättre att inrikta behandlingen direkt mot symtomen, eller överväga att använda någon annan behandlingsmetod.</p>
+    <p>Vissa cytostatika kräver att viktiga organ fungerar väl vid behandlingen. Njurarna ska vara i god kondition om medel med platina används. Detsamma gäller hjärtat vid behandling med antracykliner.</p>
+    <p type="title">Risken för resistenta cancerceller</p>
+    <p>Ett stort problem vid cytostatikabehandling är att cancercellerna kan utveckla resistens, det vill säga bli okänsliga för behandlingen. Detta beror på att cancercellerna kan skydda sig mot cytostatika på olika sätt. De kan till exempel skaffa sig en pumpmekanism som kan pumpa ut medlen ur cellerna. Det gör att läkemedlen inte längre har någon effekt på tumören. Risken för resistens ökar ju längre tid behandlingen pågår. Därför är det viktigt att hela tiden utvärdera effekten av behandlingen till exempel genom röntgenundersökningar, kroppsundersökning eller genom att följa speciella blodprover. Vissa typer av cancerceller är resistenta redan från början.</p>
+    <p type="title">Cytostatika mot andra sjukdomar</p>
+    <p>Cytostatika kan också användas mot till exempel ledgångsreumatism och kronisk inflammatorisk tarmsjukdom. Då har man en sjukdom som orsakas av att kroppens immunförsvar är felprogrammerat så att det angriper celler i den egna kroppen. Cytostatikan kan minska dessa reaktioner i kroppen och dämpa utvecklingen av sjukdomen. Läkemedlen har god effekt på sjukdomssymtom som ledsmärta och diarré. Eftersom väldigt låga doser används kan man behandlas med cytostatika under längre tid.</p>
+    <p type="title">Så går det till</p>
+    <p type="title">Kombination av cytostatika är vanligt</p>
+    <p>När man behandlas för cancer får man nästan alltid en kombination av flera olika cytostatika med olika verkningssätt. Cancercellerna kan utplånas lättare om de angrips på flera olika sätt samtidigt. Vilka medel som ingår i kombinationen beror på vilken typ av cancer man har. Det är också vanligt att man tillsammans med cytostatikan får kortison i några dagar, ofta i höga doser.</p>
+    <p type="title">En behandlingskur tar ofta en till fyra dagar</p>
+    <p>Man brukar få cytostatika som dropp under en till fyra dagar. Cytostatikan finns i en påse som är upphängd på en ställning. Läkemedlet leds direkt in i blodet genom en tunn plastslang, en så kallad venkateter, som förs in i ett blodkärl i armen. Droppet kan pågå från tio minuter till några timmar. Under tiden kan man lyssna på musik eller titta på tv. Oftast kan man behandlas på den klinik man går på i vanliga fall, och man brukar inte behöva stanna på sjukhuset över natten. Om behandlingen tar lång tid eller om man behöver genomgå kontroller eller någon tilläggsbehandling, kan man behöva stanna kvar på sjukhus.</p>
+    <p>Ibland ges behandlingen på andra sätt, till exempel genom en tunn plastslang in i urinblåsan vid ytlig urinblåsecancer. Det finns också vissa cytostatika i tablettform och de kan man ta själv hemma.</p>
+    <p>Efter en behandlingskur gör man uppehåll i två till fyra veckor för att kroppens friska celler ska kunna återhämta sig. Cancercellerna har svårare att återhämta sig eftersom de redan från början har skador på arvsmassan. Oftast får man under en behandlingsomgång fyra till sex kurer, och det är vanligt att behandlingen pågår under cirka ett halvår. Oftast behövs inga särskilda förberedelser innan behandlingen startar.</p>
+    <p type="title">Doseringen anpassas</p>
+    <p>Doseringen av cytostatika anpassas efter hur mycket man väger och hur lång man är. En sjuksköterska övervakar tillförseln av cytostatika. Bland annat ska medlet inte gå utanför blodkärlet, vilket i mycket sällsynta fall kan ge upphov till vävnadsskador. Därför är det viktigt att säga till om man upplever obehag vid injektionsstället i samband med behandlingen.</p>
+    <p>Vid behandling med vissa medel får man först kortisontabletter för att minska risken för allergiska reaktioner under behandlingen. Kortison kan göra att man får svårt att sova de dagar man tar kortisontabletterna. Vissa cytostatika kräver särskild för- eller efterbehandling för att minska risken för biverkningar.</p>
+    <p>Det kan finnas risk för att effekten av cytostatika påverkas av naturläkemedel. Man bör därför rådgöra med sin läkare om man vill ta naturläkemedel under cytostatikabehandlingen.</p>
+    <p type="title">CVK, picc-line eller venport</p>
+    <p>För att kunna behandlas med cytostatika får man ibland en så kallad central venkateter , CVK. Det är en slang som opereras in i ett av kroppens större blodkärl. Man får lokalbedövning när den opereras in. Plastslangen läggs in i ett blodkärl på halsen, till stor del precis under huden.</p>
+    <p>Man kan även få slangen inlagd i överarmen, i ett mindre kärl som går till ett av kroppens större blodkärl. Det kallas picc-line. Om man har fått en CVK eller picc-line ska förbandet läggas om en eller två gånger i veckan. Man får hjälp av en sjuksköterska.</p>
+    <p>Ett annat alternativ är att en liten dosa med en gummimembran opereras in under bröstkorgshuden, en så kallad venport . Man kan då få läkemedlen genom en nål som går genom huden direkt in i dosan och vidare till blodet. Man kan också använda dosan att ta prover genom. Man kan bada och duscha när man har dosan. Dosan kan sitta kvar under flera år, men ska då spolas regelbundet.</p>
+    <p>Fördelen med CVK, picc-line eller venport är att man inte behöver göra så många stick i blodkärlen i armen, som därmed blir mindre irriterade.</p>
+    <p type="title">Läkaren följer behandlingen</p>
+    <p>Läkaren följer hela tiden hur effektiv behandlingen är, till exempel genom röntgenundersökningar. Skulle det visa sig att behandlingen inte har önskad effekt kan man överväga om det finns någon annan behandling, med cytostatika eller annat, som kan fungera bättre.</p>
+    <p type="title">Om man är gravid kan fostret påverkas</p>
+    <p>Om man är gravid kan fostret skadas av medicinerna, framför allt under de tre första månaderna av graviditeten. Därför ska man alltid berätta för sin läkare om man är gravid eller planerar att bli det.</p>
+    <p type="title">Vanligt med trötthet</p>
+    <p>Blodvärdet påverkas av cytostatika och dagsformen kan variera mycket under behandlingen. Ungefär sju till tio dagar efter behandlingen är blodvärdena ofta som lägst och då är man också ofta tröttare än vanligt. Man brukar må som bäst dagarna precis innan nästa behandling, när kroppen har återhämtat sig. Det varierar från person till person hur trött man blir och hur man klarar sin vardag. Dessutom beror det på hur intensiv behandlingen är.</p>
+    <p>Det kan ofta vara svårt att ha inbokade tider eftersom man inte kan veta hur man mår en viss dag ett visst givet klockslag. Det kan vara bra att lägga in vilopauser under dagen. Man kan förklara för omgivningen att man inte orkar delta i alla aktiviteter på samma sätt som vanligt. Det kanske går att fråga grannar eller bekanta om de vill hjälpa till med något som man har svårt att orka med själv.</p>
+    <p type="title">Vanliga biverkningar</p>
+    <p>Om man får cytostatikabehandling finns det risk för olika typer av biverkningar. Det beror oftast på att även friska celler skadas av behandlingen.</p>
+    <p>Illamående och kräkningar går ofta att förebygga med läkemedel. Alla patienter får i samband med cytostatikabehandlingen förebyggande mediciner mot illamående. För säkerhets skull får man ofta extra medicin mot illamående med sig hem, som man kan ta under någon eller några dagar.</p>
+    <p type="title">Benmärgen kan påverkas</p>
+    <p>Under cytostatikabehandling påverkas ofta de celler i benmärgen som bildar blodceller. Det gör att blodvärdet går ner. För att läkaren ska kunna bedöma att benmärgen har återhämtat sig efter föregående behandling och kommer att tåla nästa får man alltid lämna ett blodprov inför en behandling. Ibland tas blodprov även efter behandlingen för att läkaren ska kunna bedöma hur benmärgen påverkats.</p>
+    <p>En övergående och ibland kraftig minskning av antalet vita blodkroppar gör att man kan bli känsligare för infektioner. Om man får symtom som kan tyda på infektion, till exempel feber över 38 grader eller hosta, är det viktigt att man tar kontakt med sin läkare. Läkaren bedömer om man behöver behandling, till exempel antibiotika.</p>
+    <p>En minskning av antalet blodplättar ökar risken att råka ut för blödningar. Om man får blåmärken eller råkar ut för näsblod lättare än vanligt bör man därför också ta kontakt med sin läkare.</p>
+    <p>Effekten på benmärgen kan ibland leda till att en planerad behandling måste skjutas upp. Även läkemedelsdoserna kan behöva reduceras. Sådana beslut tas för att minska risken för allvarliga infektioner eller blödningar.</p>
+    <p type="title">Metoder att skydda benmärgen</p>
+    <p>Det är vanligt att de vita blodkropparna får hjälp att återhämta sig med hjälp av sprutor som man får under cirka fem till tio dagar efter cytostatikabehandlingen. Sprutorna kan ibland göra att man får ont i lederna och musklerna. Det går över när behandlingen är slut. Man kan ta sprutorna själv eller få hjälp av en distriktssköterska.</p>
+    <p type="title">Besvär i munnen</p>
+    <p>Slemhinneceller som finns till exempel i munnen nybildas ständigt och kan skadas vid cytostatikabehandling. Det kan göra ont i munnen upp till två veckor efter behandlingen, och ibland kan det göra så ont att det är svårt att äta. Besvären kan lindras genom att man gurglar med lokalbedövande vätska. Om man har svårt att äta kan man få hjälp av en dietist.</p>
+    <p>Det är ganska vanligt att man får en vit beläggning på tungan som tecken på en svampinfektion. Mot detta kan man få svampdödande medicin.</p>
+    <p>Ofta blir man också mer torr i munnen än vanligt, ibland flera år efter behandlingen. Torrhet i munnen kan öka risken för karies. Man brukar därför erbjudas remiss till en tandläkare eller tandhygienist som kan ge råd kring detta.</p>
+    <p>När man genomgått cytostatikabehandling kan man behöva gå oftare till sin tandläkare eller tandhygienist, vanligen varje halvår. Man bör också vara extra noggrann med sin munhygien.</p>
+    <p type="title">Besvär i magen</p>
+    <p>Man kan även få diarré mellan behandlingarna. Det beror på att tarmslemhinnan påverkas tillfälligt. Det finns mediciner som kan lindra.</p>
+    <p type="title">Man kan gå upp eller ner i vikt</p>
+    <p>Det är vanligare att man går upp i vikt än att man går ner i vikt under cytostatikabehandling. Det beror på att man ofta får kortison under behandlingen för att förebygga illamående. Kortison ökar aptiten. En annan orsak är att många rör sig mindre under behandlingsperioden. Om man går upp i vikt kan det försämra effekterna av behandlingen. Det är därför bra om man fortsätter motionera under behandlingen . Man kan göra det man orkar, till exempel gå promenader.</p>
+    <p>Man kan även få motsatt problem, med viktnedgång. Under cytostatikabehandling får man ofta förändrade smakupplevelser och man kan därför få svårt för vissa smaker och konsistenser. Ibland kan man behöva göra maten mer lättuggad eller så får man äta mindre men tätare mål, till exempel sex gånger per dag. Man kan även behöva tillägg med extra näringstillskott, till exempel i form av näringsdrycker. Eftersom fett innehåller mycket energi kan det vara bra att undvika lightprodukter.</p>
+    <p>Ibland kan man ha så dålig aptit att man har svårt att få i sig det som behövs. Då kan man få hjälp av en dietist som kan ge råd. Är det riktigt svårt att äta kan man tillfälligt behöva en sond till magsäcken genom näsan eller näringsdropp direkt i blodet.</p>
+    <p>Läs mer: Mat vid cancer</p>
+    <p type="title">Man kan tappa håret</p>
+    <p>Vissa cytostatika, men långtifrån alla, gör att man tappar håret. Det är vanligare att man tappar hår på huvudet än på andra ställen på kroppen. Håret kommer alltid tillbaka efter det att behandlingen avslutats. I början kan det ha en annan färg och struktur än tidigare. Om man vill ha en peruk kan det vara bra att skaffa den innan håret faller av. Beroende på vilket landsting man bor i kan man få ekonomiskt bidrag till en peruk.</p>
+    <p>På vissa sjukhus kan man få prova att använda en kylmössa som kyler ner hårbotten under de timmar cytostatikan ges. Kylan gör att en mindre mängd cytostatika når hårcellerna. Det minskar risken att håret faller av, även om effekten varierar från person till person.</p>
+    <p>Kylmössa kan göra ont och används främst om man får cytostatika med hög risk för håravfall. Kylmössa används inte om man har en typ av cancer där cancercellerna är utspridda i kroppen, som leukemi eller lymfom.</p>
+    <p type="title">Vissa medel kan ge speciella biverkningar</p>
+    <p>Det finns vissa biverkningar som är förknippade med särskilda medel. Några cytostatika kan ge domningar och stickningar i fingrar och tår. Om detta leder till stora besvär kan man få byta mot en annan medicin och symtomen försvinner efter en tid.</p>
+    <p>När andra medel används, till exempel cisplatin, finns risk att njurarna påverkas och att hörseln försämras.</p>
+    <p>Ytterligare andra medel, till exempel doxorubicin, kan påverka hjärtat, framför allt om man får det under lång tid.</p>
+    <p type="title">Kan man själv påverka biverkningar?</p>
+    <p>Hur man mår kan vara väldigt olika, beroende på vilken sjukdom man har och vilken typ av behandling man får. För att undvika biverkningar av cytostatikabehandling är det bra att utifrån sina egna förutsättningar försöka att vara uppe så mycket man orkar. Om man orkar röra på sig, till exempel gå på promenader, så gör det att man inte tappar muskler och kondition. Dessutom minskar risken för infektioner och man återfår krafterna snabbare.</p>
+    <p>Det finns ingen speciell mat man behöver undvika, men man kan ha svårt med vissa smaker eller konsistenser, som man då kan undvika. Det finns inget som hindrar att man dricker mindre mängder alkohol när man får behandling.</p>
+    <p type="title">Komplikationer långt efter behandlingen</p>
+    <p>Eftersom cytostatika påverkar arvsmassan kan behandlingen långt senare bidra till att en ny cancersjukdom uppstår. Men det är ovanligt och risken är inget skäl att avstå behandling mot en cancer som redan finns.</p>
+    <p>Risken att fertiliteten påverkas av cytostatika beror på hur gammal man är när man får behandling, vilka läkemedel som används och i vilka doser. Om man undrar om den medicin man tar påverkar fertiliteten kan man diskutera det med sin behandlande läkare.</p>
+    <p type="title">Om man vill prata med någon</p>
+    <p>Om man själv eller en närstående behöver någon att tala med, finns det ofta möjligheter till samtalsstöd. Det kan fungera på olika sätt på olika kliniker. Vanligen erbjuds kuratorskontakt, och många kliniker har samtalsgrupper där man kan dela sina erfarenheter med andra i samma situation. I många fall kan en lång sjukperiod påverka den ekonomiska situationen, vilket man också kan behöva diskutera med kuratorn. Ibland kan det vara svårt att klara det vanliga hushållsarbetet själv. Man kan då kontakta biståndsbedömaren i den kommun man bor i.</p>
+  </body>
+</document>

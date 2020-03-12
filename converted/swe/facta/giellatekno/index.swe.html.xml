@@ -1,0 +1,44 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Välkommen till OAHPA-davvi!</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>274</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/index.swe.html</origFileName>
+    <parallel_text xml:lang="eng" location="index.eng.html"/>
+    <parallel_text xml:lang="fin" location="index.fin.html"/>
+    <parallel_text xml:lang="nob" location="index.nob.html"/>
+    <parallel_text xml:lang="sme" location="index.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Välkommen till OAHPA-davvi!</p>
+    <p>OAHPA-davvi kan fungera som ett komplement till undervisning, men är också en del av en fullständig kurs i samiska, som finns här: http://kursa.oahpa.no . OAHPA-programmen har många alternativ, och kan anpassas till olika nivåer. Vi har gjort en introduktion till varje program:</p>
+    <list>
+      <p type="listitem">Numra - praktisera siffror</p>
+      <p type="listitem">Leksa - praktisera ord och ortnamn</p>
+      <p type="listitem" xml:lang="dan">Morfa - böja ord, i isolation eller i satssammanhang</p>
+      <p type="listitem">Vasta - svara på frågor</p>
+      <p type="listitem">Sahka - delta i dialoger</p>
+    </list>
+    <p>Vårt mål är att låta studenterna öva på grundläggande ordförråd, och i flera av programmen kan de begränsa ordförrådet efter vad som finns i läroboken de använder. Om man hellre vill arbeta med särskilda teman, kan man skriva ut tematiska ordlistor.</p>
+    <p>Vi gjorde en grammatik där varje ordklass förklaras, med exempel från böjningsformer och användning av orden. Eleverna har tillgång till denna grammatik via en meny i det övre högra hörnet i OAHPA programmen.</p>
+    <p>Eleverna kan välja mellan västra och östra dialekt. Detta innebär att ordförråd, böjningsändelser och förklaringar anpassas till den valda dialekten, t.ex. för uddastaviga verb i presens: <span type="quote" xml:lang="sme">"mii muitalat"</span> (östra), <span type="quote" xml:lang="sme">"mii muitalit"</span> (västra). Programmet kommer att acceptera alla former från eleven, också blandade dialektformer, så länge de är inom den officiella samiska ortografin.</p>
+    <p>Vi har också program för elever med avancerade samiska kunskaper som vill lära sig mer om grammatik och syntax - VISL-spelen - ta en titt på VISL länken i marginalen. Killerfiller har också uppgifter för nybörjare.</p>
+    <p>Länken <span type="quote" xml:lang="nob">"Hjelpemedel"</span> ger paradigm generation, ordbok, ord och textanalys, och förklaringar om ordklasser och satsanalys.</p>
+    <p>Några av dessa ytterligare program är fortfarande beta-versioner, vilket innebär att de kan innehålla fel. Kommentarer är välkomna! (oahpa@uit.no)</p>
+    <p>Tekniska specifikationer</p>
+    <p>Om projektet</p>
+  </body>
+</document>

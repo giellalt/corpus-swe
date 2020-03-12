@@ -1,0 +1,89 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Om det pedagogiska projektet</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>896</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/useoahpa/birra.swe.html</origFileName>
+    <parallel_text xml:lang="eng" location="birra.eng.html"/>
+    <parallel_text xml:lang="fin" location="birra.fin.html"/>
+    <parallel_text xml:lang="nob" location="birra.nob.html"/>
+    <parallel_text xml:lang="sme" location="birra.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Om det pedagogiska projektet</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Nytt Oahpa - Projekt 2011-2013</p>
+      <p type="listitem">Om projektet OAHPA! 2007-2008</p>
+      <p type="listitem" xml:lang="nno">Målgrupp</p>
+      <p type="listitem">Den lingvistiska bakgrunden <list><p type="listitem">Projektarbetarna bakom den första OAHPA var:</p></list></p>
+    </list>
+    <p type="title" xml:lang="nno">Nytt Oahpa - Projekt 2011-2013</p>
+    <p>Projektet <em type="italic">Interaktiv samiskutbilding på Internet </em>bygger på Oahpa!, et nätbaserat läringsprogram för nordsamiska, och integrerar det med kurser i samiska som främmande språk. Resultatet är en uppsättning flexibla kurser som möjliggör studier både som individuellt arbete för distansstudenter och för elever i små grupper. Projektet stöds med medel från Norgesuniversitetet. </p>
+    <p>Giellatekno, Centrum för samisk språkteknologi vid Universitetet i Tromsø har utvecklat Oahpa!, ett programpaket som erbjuder interaktiv utbildning i ordförråd, grammatik och kommunikativa färdigheter i nordsamiska. Nu utvecklar vi Oahpa till att vara en del av ett brett kurspaket för samiska, där en del av undervisningen kommer att ske som individuellt studium på Internet. Genom att bygga på Oahpa och även utveckla nya läromedel, kan vi ge studenterna pedagogiska och tekniska väl anpassade flexibla utbildningsalternativ.</p>
+    <p>Nordsamiska används i tre länder, och att Oahpa kan användas utanför Norge är ett prioriterat mål i samiskt sammanhang. För att säkerställa den pedagogiska kvaliteten, arbetar vi tillsammans med två universitet i Finland, som sedan kommer att bidra till att forma och även testa programmet. Vi kommer att skapa separata utbildningsstigar i programmet för studenter i Finland.</p>
+    <p xml:lang="nob">Nyutvecklingen av Oahpa består av:</p>
+    <list>
+      <p type="listitem">Utbyggnader av ordförrådet, bland annat anpassning av läromedel som används i finländska universitet</p>
+      <p type="listitem">Lägga till flerordsuttryck i Leksa</p>
+      <p type="listitem">Lägga till fler typer av pronomen i Morfa-S och Morfa-C</p>
+      <p type="listitem">Lägga till fler typer av verbböjningar i Morfa-S och Morfa-C</p>
+      <p type="listitem">Utveckla Vasta med flera varianter, till exempel Vasta-S med färdig givna grundformer</p>
+      <p type="listitem">Göra fler dialoger för Sahka, kopplat till pedagogiskt material från kursen</p>
+      <p type="listitem">Förbättra feedback-systemet i programmen</p>
+      <p type="listitem">Skapa inloggning för studenter och lärare, vilket gör det möjligt att följa programmets användning</p>
+      <p type="listitem">Göra läringsstigar för flera av universitetets kurser med djuplänking för övningar i Oahpa</p>
+      <p type="listitem">Skapa verktygslåda för avancerade studenter, t.ex. med dependensordbok</p>
+      <p type="listitem">Skapa mjukvara för att generera grammatikövningar från autentiska texter på Internet.</p>
+    </list>
+    <p>Vi kommer att övervaka elevernas användning av programmen för utveckling av projektet, men detta vill också vara nyttigt för att utveckla kunskap för att pedagogisk användning av IKT..</p>
+    <p>Personerna bakom projektet är:</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Lene Antonsen, lingvist/pedagog (projektledare)</p>
+      <p type="listitem" xml:lang="nob">Berit Anne Bals Baal, lingvist/pedagog och huvudansvarig för utbildningsvägar</p>
+      <p type="listitem" xml:lang="nob">Bjørn Hatteng, grafisk designer</p>
+      <p type="listitem" xml:lang="nno">Trond Trosterud, lingvist</p>
+      <p type="listitem" xml:lang="nob">Ryan Johnson, programmerare Oahpa</p>
+      <p type="listitem" xml:lang="sme">Ciprian Gerstenberger, programmerare Oahpa</p>
+      <p type="listitem" xml:lang="smn">Heli Uibo, programmerare Oahpa</p>
+      <p type="listitem" xml:lang="nob">Helsingfors universitet: Irja Seurajärvi-Kari</p>
+    </list>
+    <p type="title">Om projektet OAHPA! 2007-2008</p>
+    <p>Projektet blev finansierat av det norska Sametinget (405,000 NOK) och humanistiska fakulteten vid universitetet i Tromsö. Arbetet inleddes under sommaren 2007, och programmen släpptes i februari 2009.</p>
+    <p>Projektet hade två huvudmål:</p>
+    <list>
+      <p type="listitem">Bygga program så att elever och elever kan utöka sin kommunikativa samiska kunskaper</p>
+      <p type="listitem">Göra interaktiva spel för samiska.</p>
+    </list>
+    <p>Enligt vår mening var det naturligt att integrera andra resurser från universitetets Giellatekno-projektet i detta projekt. Därför gjorde vi OAHPA webbportalen.</p>
+    <p>Tanken med projektet är att använda automatisk ord- och satsanalys för att bygga program som tillsammans med användaren kan ge dialoger om vardagliga ämnen. Programmet kan vara en viktig tillägg för elever och studenter som studerar samiska, men också för föräldrar och andra som har vissa kunskaper i samiska, men har en känsla av att kunskapen behöver förbättras. De kommer att kunna utöva användningen av samiska, och på samma gång få lite vägledning. Programmet är tillgänglig på internet, gratis för användning för alla.</p>
+    <p>Programmet innehåller också ett lexikon med ca 100,000 ord, bland dem cirka 40,000 namn. Namnelexikonet gör det möjligt att bygga övningar där eleverna får lära sig mer ortnamn och också lära sig att böja dem.</p>
+    <p>Det sätt vi gör interaktiva spel för samiska, är att justera samiska meningar och integrera dem i VISL Visual Interactive syntax-lärande program. Med dessa spel tränar användaren grammatik kompetens, såsom kunskap om ordklass- og satsanalys. VISL gjordes ursprungligen för danska studenter, men nu används det av elever i grund- och gymnasieskolor i både Danmark och Norge.</p>
+    <p type="title" xml:lang="nno">Målgrupp</p>
+    <p>Målgruppen består av studenter och elever, men också elevernas föräldrar. Internet finns i de flesta hem, och föräldrarna kan därmed antingen ensam eller tillsammans med barnen träna sina samiska färdigheter med hjälp av spel eller genom att chatta med programmet. Användaren själv väljer ämne, programmet bygger däräfter en dialog på grundval av ämnet och användarens svar. Programmet utvärderar verbböjning och kasusanvändning och talar om för användaren vad han/hon har gjort fel. Programmet kan också efterlikna verkliga samtal, eftersom ett svar till en viss grad har en inverkan på nästa fråga. Om till exempel användaren svarar att hon/han har en hund kan de följande frågorna handla om hunden.</p>
+    <p type="title">Den lingvistiska bakgrunden</p>
+    <p><em type="italic">Språkteknologigruppen vid UIT </em>har sedan år 2000 gjort analysprogram för nordsamiska och andra samiska språk, program som gör det möjligt att analysera och bygga ordformer för samisk text och lösa kontextuella tvetydigheter. </p>
+    <p type="title">Projektarbetarna bakom den första OAHPA var:</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Lene Antonsen, pedagog och lingvist</p>
+      <p type="listitem" xml:lang="smn">Biret Ánne Bals Baal, lingvist</p>
+      <p type="listitem" xml:lang="sms">Saara Huhmarniemi, programmerare</p>
+      <p type="listitem" xml:lang="nob">Kjellaug Isaksen, grafisk designer</p>
+      <p type="listitem" xml:lang="nno">Trond Trosterud, datorlingvist</p>
+    </list>
+    <p><em type="italic">VISL-gruppen vid Syd-Dansk Universitet i Odense </em>använder samma mjukvara som vi gör (ändliga tillståndsautomater och restriktionsgrammatik), och med dem har de byggt en hel svit av pedagogiska program för att använda de analyserade texterna på olika sätt. På detta sätt är det möjligt att lägga till nya språk, genom att i princip lägga analyserade texter till en färdig ramverk. VISL-sidorna innehåller nu pedagogiska spel för nästan 30 olika språk. </p>
+    <p xml:lang="nno">Last changed: $Id: intro.xml,v 1.8 2005/06/21 12:13:53 boerre Exp $</p>
+  </body>
+</document>

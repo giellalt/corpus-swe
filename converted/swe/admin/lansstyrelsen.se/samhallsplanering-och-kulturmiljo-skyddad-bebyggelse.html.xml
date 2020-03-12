@@ -1,0 +1,36 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>193</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/skyddad-bebyggelse/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-skyddad-bebyggelse.html"/>
+    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-skyddad-bebyggelse.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Kulturhistoriskt värdefull bebyggelse - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Kulturhistoriskt värdefull bebyggelse</p>
+    <p>Stadsdelen Östanfors ingår i världsarvet Falun Foto: Anders Gottberg</p>
+    <p>Den byggda miljön berättar om samhällets utveckling och är ett uttryck för olika tiders ideal och förutsättningar. Byggnaderna omkring oss skapar förståelse för tidigare generationer och ger oss perspektiv på samtiden. Skyddet av enskilda byggnader ska ses i sammanhang med skyddet av kulturmiljön i en vidare bemärkelse. Det finns ett flertal lagar inom olika samhällssektorer som på olika sätt syftar till att inbegripa skyddet av den byggda miljön och dess omgivningar.</p>
+    <p>Det stora flertalet av de kulturhistoriskt intressanta byggnaderna skyddas av kommunerna genom bestämmelser i plan- och bygglagen. Kommunerna handlägger bygglov i allmänhet.</p>
+    <p>En del byggnader anses vara så värdefulla att de har ett individuellt lagskydd. Hit hör byggnadsminnen och de flesta kyrkobyggnader som förvaltas av Svenska kyrkan. Dessa byggnader skyddas genom kulturmiljölagen och tillhör Länsstyrelsens särskilda ansvarsområde.</p>
+    <p>Länsstyrelsens uppgifter är att</p>
+    <p>- utreda och besluta om en eller flera byggnader ska bli byggnadsminne</p>
+    <p>- sköta tillsyn av byggnadsminnen, kyrkor och begravningsplatser</p>
+    <p>- ge tillstånd till att ändra byggnadsminnen, kyrkor och begravningsplatser</p>
+    <p>- ge råd om kulturhistoriskt värdefull bebyggelse till kommuner, förvaltare och enskilda.</p>
+  </body>
+</document>

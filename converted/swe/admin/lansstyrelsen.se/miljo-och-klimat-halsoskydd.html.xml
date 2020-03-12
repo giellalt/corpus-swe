@@ -1,0 +1,45 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>166</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/miljo-och-klimat/halsoskydd/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="miljo-och-klimat-halsoskydd.html"/>
+    <parallel_text xml:lang="sma" location="miljo-och-klimat-halsoskydd.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Hälsoskydd - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Hälsoskydd</p>
+    <p>
+      <em type="italic">Länsstyrelsens arbete med hälsoskydd innebär att upptäcka, förebygga och undanröja hälsorisker i miljön, både utom- och inomhus, för att förhindra att människor blir sjuka. </em>
+    </p>
+    <p>Hälsoskyddsfrågor behandlas bland annat i överklagningsärenden, planärenden, tillsyn och prövning av miljöfarliga verksamheter samt i miljömålsarbetet. I våra bedömningar tittar vi bland annat på buller, vibrationer, luftstötvågor, strålning, lukt, legionellarisker och radonhalter.</p>
+    <p>I länsstyrelsens uppdrag ingår att samordna, följa upp och utvärdera kommunernas tillsynsverksamhet inom hälsoskyddsområdet samt att ge kommunerna råd kring dessa verksamheter. Arbetet innebär även att samverka med kommunerna och andra organ eller myndigheter när det gäller olika projekt och utbildningar samt exempelvis övervakning och mätning av tillståndet i luften, vattnet och marken. Kommunala hälsoskyddsbeslut kan överklagas till Länsstyrelsen.</p>
+    <p type="title">Kontakta oss</p>
+    <p>Mikael Lundberg</p>
+    <p>Miljöhandläggare</p>
+    <p>Miljöenheten</p>
+    <p>mikael punkt lundberg snabela lansstyrelsen punkt se¤mikael punkt lundberg snabela lansstyrelsen punkt se</p>
+    <p>010-2250297</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

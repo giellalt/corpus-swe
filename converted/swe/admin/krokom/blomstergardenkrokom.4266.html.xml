@@ -1,0 +1,82 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Blomstergården, Krokom - Krokoms kommun</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>434</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>http://www.krokom.se/omsorgochhjalp/aldre/vilketstodkanmanfa/boendeforaldre/blomstergardenkrokom.4266.html</origFileName>
+    <parallel_text xml:lang="sma" location="blomstergardenkrokome.6886.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="ron">Translate site</p>
+    <list>
+      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
+      <p type="listitem" xml:lang="eng">Press</p>
+      <p type="listitem" xml:lang="vep">A-Ö</p>
+      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+      <p type="listitem" xml:lang="vep">Intranät</p>
+      <p type="listitem">Lyssna</p>
+      <p type="listitem" xml:lang="sms">Lättläst</p>
+      <p type="listitem" xml:lang="ron">Translate</p>
+    </list>
+    <p xml:lang="isl">Sök</p>
+    <list>
+      <p type="listitem">Kommun och politik</p>
+      <p type="listitem">Utbildning och barnomsorg</p>
+      <p type="listitem">Bygga, bo och miljö</p>
+      <p type="listitem">Omsorg och hjälp</p>
+      <p type="listitem">Näringsliv och arbete</p>
+      <p type="listitem">Kultur, fritid och turism</p>
+      <p type="listitem">Trafik och infrastruktur</p>
+    </list>
+    <p>Mina favoriter</p>
+    <p type="title" xml:lang="nob">Blomstergården, Krokom</p>
+    <p>På Blomstergården finns 54 boende-, tre korttids- och två trygghetsplatser, totalt 59 platser. Dessa är fördelade på avdelningarna Lingonet, Gullvivan, Blåklockan, Linnean, Klövern och Klöverängen.</p>
+    <p>Trygghet och personlig omvårdnad ges dygnet runt av personal med kompetens som undersköterska och sjuksköterska. Sjukgymnast och arbetsterapeut finns för verksamheten. Tillgång till läkare och tandvård finns via hälsocentral som ligger i samma hus.</p>
+    <p>Blomstergården ligger i centrala Krokom, cirka 25 kilometer väster om Östersund. En liten park ligger i närheten och på innergården finns en sinnenas trädgård. Tillgång till mataffär, banker, systembolag, apotek, frisör och fotvård finns också.</p>
+    <p><em type="italic">Kvalitetsarbete </em>Utformning av insatser är individuell och sker med hjälp av genomförandeplaner tillsammans med boende och närstående/god man och personal. Varje boende har en egen kontaktperson. Uppföljning av beslutade insatser sker regelbundet tillsammans med sjuksköterska, arbetsledare och personal. En enkät skickas ut en gång per år för att kunna följa upp kvalitetsarbetet i vården. En gång per år hålls anhörigträffar. </p>
+    <p><em type="italic">Kost och måltider </em>All mat tillagas i köket på Blomstergården. Frukost, lunch, mellanmål, middag och kvällsmål serveras på varje avdelning och i samlingslokalen Karlavagnen. Frukost kl 8-09 Lunch kl 12 Middag kl 16.30 Kvällsmål kl 20 Mellanmål serveras förmiddag och eftermiddag </p>
+    <p><em type="italic">Hälso- och sjukvård </em>Sjuksköterska finns varje dag mellan kl 7.15 och 16.15. Mellan kl 16.15 och 7.15 finns det en nattsköterska att kontakta på telefon. Läkartid är bokad fyra dagar i veckan för de boende. Det finns sjukgymnast och arbetsterapeut i verksamheten som deltar i vårdlagsträffar och i rehabiliteringsarbetet vid behov. </p>
+    <p><em type="italic">Aktiviteter </em>Kulturombud finns som samordnar olika aktiviteter som underhållning, filmvisning, bingo, gymnastik och andakt i Karlavagnen. Vid vissa tillfällen kan underhållning även ske på respektive avdelning. </p>
+    <p>Aktiviteter som äger rum på Blomstergården hittar du under <span type="quote">"Läs mer"</span> här till höger.</p>
+    <p xml:lang="nob">Uppdaterad 2017-05-09 av Ulla Eriksson</p>
+    <p xml:lang="sma">Åarjelsaemien gïele</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+      <p type="listitem" xml:lang="eng">E-post</p>
+    </list>
+    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+    <p xml:lang="eng">Kontaktinformation</p>
+    <list>
+      <p type="listitem" xml:lang="sme">Ann-Marie Ågran</p>
+      <p type="listitem" xml:lang="deu">Verksamhetschef 0640 165 21</p>
+      <p type="listitem" xml:lang="eng">Maud Ericsson</p>
+      <p type="listitem" xml:lang="deu">Enhetschef Orion 0640 162 69</p>
+      <p type="listitem" xml:lang="est">Elisabet Englund</p>
+      <p type="listitem">Enhetschef Gullvivan, Blåklockan och Linnéan 0640 165 30</p>
+      <p type="listitem" xml:lang="sma">Carina Berggren</p>
+      <p type="listitem">Enhetschef Klövern, Klöverängen och Lingonet 0640 163 11</p>
+      <p type="listitem" xml:lang="deu">Postadress: Genvägen 5B 835 31 KROKOM</p>
+      <p type="listitem">Hitta till Blomstergården på vår webbkarta</p>
+    </list>
+    <p>Läs mer</p>
+    <list>
+      <p type="listitem">Matsedel för äldreboenden</p>
+      <p type="listitem">Aktiviteter på Blomstergården februari 2017</p>
+    </list>
+    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+  </body>
+</document>

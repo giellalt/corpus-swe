@@ -1,0 +1,46 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>359</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/73171</origFileName>
+    <parallel_text xml:lang="sme" location="73173.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Making Space Sápmi - Sametinget</p>
+    <p type="title">Making Space Sápmi</p>
+    <p>Sametinget startar inom ramen för JiM-projektet (Jämställdhetsintegrering i myndigheter) något som vi kallar "Making Space Sápmi " - Samtalsgrupper för ett inkluderande Sápmi. Vill du vara med?</p>
+    <p>Vi vill med detta öppna för diskussion av frågor som berör makt och inflytande på alla plan i Sápmi; ekonomiska, politiska, juridiska och sociala. Exempel på frågor är:</p>
+    <list>
+      <p type="listitem">Var finns makten över våra liv och hur kan vi påverka den?</p>
+      <p type="listitem">Hur bryter vi normer och vilka normer behöver brytas för att Sápmi skall växa inåt och utåt?</p>
+      <p type="listitem">Vilka grupper har ett övertag och i vilka situationer?</p>
+      <p type="listitem">Finns det grupper som diskrimineras? Var och när?</p>
+      <p type="listitem">Vad kan vi ändra på som individer, och vad behöver vi jobba med gemensamt? Vem har ansvaret?</p>
+    </list>
+    <p>Hur vi hanterar dessa frågor påverkar hur vi gemensamt formar ett framtida Sápmi.</p>
+    <p>
+      <span type="quote">Hur ser framtidens Sápmi ut?</span>
+    </p>
+    <p>Samtalsgrupperna kommer att fungera i dialog med Sametinget. De problem och behov som grupperna identifierar i sina diskussioner tas vidare till Sametingets fortsatta jämställdhets- och inkluderingsarbete.</p>
+    <p><em type="italic">Nätverk, kurser, workshops? </em>Samtalsgrupperna kan forma nätverk, starta kurser eller annan praktisk verksamhet som syftar till att verka för ett inkluderande Sápmi. Under 2014 kan Sametinget bistå med kurser eller workshops om dessa faller inom ramarna för JiM-projektet. Läs mer </p>
+    <p><em type="italic">Fokus </em>Fokus för samtalsgrupperna under 2014 ligger därför på diskrimineringsgrunden könstillhörighet, men i det inkluderande arbetet vill Sametinget även lyfta de andra lagstadgade diskrimineringsgrunderna; etnisk tillhörighet, funktionshinder, kön, könsöverskridande identitet eller uttryck, religion eller annan trosuppfattning, sexuell läggning eller ålder. </p>
+    <p><em type="italic">Resurscentra </em>Tanken är att samtalsgrupperna på sikt kan utvecklas till resurscentra vilkas uppgift kommer vara att stödja olika grupper inom Sápmi så att allas möjligheter att påverka sitt liv, ekonomiskt, politiskt och socialt blir lika. Samtalsgrupperna och Resurscentra skall öppna för större variation i möjligheterna att leva och verka som same. </p>
+    <p><em type="italic">Vill du delta? </em><em type="italic">För att delta i en grupp, hör av dig till vår projektledare på Sametinget, Adriana Aurelius </em>: adriana.aurelius@sametinget.se </p>
+    <p>
+      <em type="italic">Ange om du vill delta i en blandad grupp eller om du önskar vara med i en grupp med enbart kvinnor eller enbart män, eller om du vill vara med i både en blandad och oblandad grupp. </em>
+    </p>
+  </body>
+</document>

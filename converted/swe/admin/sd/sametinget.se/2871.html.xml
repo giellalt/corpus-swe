@@ -1,0 +1,30 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>93</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/2871</origFileName>
+    <parallel_text xml:lang="sma" location="2909.html"/>
+    <parallel_text xml:lang="sme" location="2910.html"/>
+    <parallel_text xml:lang="smj" location="2908.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Flerspråkighet - Sametinget</p>
+    <p type="title">Flerspråkig webbportal</p>
+    <p>Webbportalen nu på samiska</p>
+    <p>Nu blir Sametingets webbportal flerspråkig. I svenska Sápmi finns det&#13; flera olika samiska språk. Vi vill synliggöra alla och kommer&#13; kontinuerligt att bygga ut vår webb med samiska texter. Tillsammans lyfter vi språket!</p>
+    <p>Om du låter markören glida över rubrikknapparna på startsidan får du upp tooltips med översättningar på samiska. Ovanför de artikeltexter som finns i två eller flera översättningar, hittar du små flaggor som symboliserar svenska, nordsamiska (D), lulesamiska (J) och sydsamiska (Å).  Genom att klicka på flaggorna kan du växla mellan översättningarna.</p>
+  </body>
+</document>

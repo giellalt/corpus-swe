@@ -1,0 +1,63 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Smakskolan: Smak – känns på tungan</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2018</year>
+    <wordcount>681</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-maku-maistuu-kielella/</origFileName>
+    <parallel_text xml:lang="fin" location="makukoulu_maku_maistuu_kielella.html"/>
+    <parallel_text xml:lang="sme" location="smahkkaskuvlla_smahkka_dovdo_njuokcamis.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Hoppa över till innehållet</p>
+    <p xml:lang="fkv">RuokaTutka</p>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <p type="title">Smakskolan: Smak – känns på tungan</p>
+    <p>Vi känner fem grundsmaker: sött, salt, surt, beskt och umami. Det finns märkbart mer av de molekyler som får till stånd dessa smakförnimmelser. Smakerna hos varm och kall mat känns mildare än smakerna hos mat som är nära kroppens temperatur.</p>
+    <p>I vardagligt tal använder vi ordet smak när vi talar om matens <em type="italic">flavor </em>. Flavor omfattar smak, retronasal doft och kemokänsel. Retronasala doftförnimmelser uppstår när man tuggar mat och molekyler frigörs och når näsans luktreceptorer via svalget. Kemokänsel är däremot känselupplevelser som skapas av kemiska föreningar, såsom den brännande känslan av chili. När vi äter mat kan vi inte skilja mellan de smakupplevelser som kommer från tungans smaklökar, de retronasala doftförnimmelserna och kemokänselförnimmelserna. </p>
+    <p>Sockerarter, såsom sackaros (rörsocker eller betsocker) och fruktos (fruktsocker) samt sockeralkoholer, såsom xylitol, smakar sött, medan natriumklorid, det vill säga koksalt, smakar salt. Till de föreningar som smakar surt hör bland annat citronsyra, som finns i de flesta frukter, samt mjölksyra, som bland annat finns i syrade mjölkprodukter och surdegsbröd. Syrlig smak kommer från vätejoner i många olika organiska syror. Varje naturlig syra har sin egen flavor.</p>
+    <p>Till de föreningar som smakar beskt hör bland annat koffeinet i kaffe och teobrominet i kakao. Beska föreningar finns även i grönsaker, frukter och bär. Umamismak orsakas av glutamat- och ribonukleotidföreningar, som finns exempelvis i tomat, ost, svamp, kött samt soja-, fisk- och ostronsås. Umamismaken beskrivs ofta som köttig, köttbuljongaktig eller matig och fyllig och är särskilt typisk för det asiatiska köket.</p>
+    <p>Sött och salt är vanliga smaker som man lätt känner igen. Surt och beskt känns svagare och blandas lätt ihop när man ska benämna dem. Umami kan vara svårt att känna igen om man inte har lärt sig det. Var och en kan genom övning lära sig att känna igen alla fem smakerna.</p>
+    <p>I nästan alla typer av mat kan man känna flera olika smaker. I en biff känner man salt och umami. Rågbröd smakar salt och surt medan choklad smakar sött och beskt. Frukter är naturligt sura eftersom de innehåller mycket fruktsyror. Frukt innehåller även socker. Därför smakar frukter både surt och sött. Fruktens sötma döljer syrligheten och vice versa. Sälta framhävs däremot av syra.</p>
+    <p xml:lang="fin">
+      <em type="italic">Smaksinnet </em>
+    </p>
+    <p>Smakupplevelser skapas genom smakreceptorerna i tungans smaklökar. Den förening som ger smaken måste lösas i vatten för att kunna tas upp av smaklökarna. Smakföreningar som avnjuts i fast form löses upp i saliven. Matens temperatur påverkar hur starkt smakerna känns.</p>
+    <p>
+      <em type="italic">Smakuppgifter för lektionen </em>
+    </p>
+    <list>
+      <p type="listitem">På lektionen kan man bekanta sig med olika smakupplevelser med hjälp av söta, salta, sura, beska och umamismakande livsmedel. Repetera grundsmakernas namn genom att skriva upp dem på tavlan och ge varje elev en liten bit av fem olika livsmedel. Sött kan representeras av en söt frukt, surt av citron, beskt av rucola, umami av färsk champinjon och salt av saltgurka. I saltgurkan känner man förutom saltet även ättikans syrlighet.</p>
+      <p type="listitem">Tillsammans med barn kan man jämföra exempelvis olika äppel- eller tomatsorter och aromerna i dem. Det är också intressant att jämföra smaken på konventionellt och ekologiskt odlade frukter och grönsaker.</p>
+      <p type="listitem">Torkning minskar vätskehalten och ökar sockerhalten hos frukt och bär. Eleverna kan jämföra smaken på torkade och färska frukter och bär. Hur skiljer sig exempelvis en vindruva från ett russin?</p>
+      <p type="listitem">Eleverna kan jämföra olika frukters syrlighet genom att först smaka på frukterna och sedan mäta deras pH. Skär först 4–6 olika frukter i små bitar, varefter eleverna smakar på frukterna och ordnar dem i surhetsordning. Därefter mäter man syrligheten hos fruktsaften som droppar från bitarna med pH-papper eller -mätare. Diskutera därefter hur tillförlitligt smaksinnet är när man jämför syrlighet. Påverkar frukternas sockerhalt den upplevda syrligheten? I livsmedelsdatabasen (www.fineli.fi) finns uppskattningar av olika livsmedels sockerhalt.</p>
+      <p type="listitem">Det finns många metaforer som har med smakord att göra. Fundera tillsammans på vad som kan kallas sötsliskigt, hur en surpuppa ser ut, hur en besk förlust känns eller vad det betyder att salta priset.</p>
+    </list>
+    <p type="title" xml:lang="vep">LÄS MER:</p>
+    <p type="title">Synsinnet – först tittar vi</p>
+    <p type="title">Lukt – kittlar i näsan</p>
+    <p type="title">Känseln – hur känns maten?</p>
+    <p type="title">Hörseln – även öronen gillar mat</p>
+  </body>
+</document>

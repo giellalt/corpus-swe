@@ -1,0 +1,34 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>154</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <origFileName>http://www.samediggi.se/1031</origFileName>
+    <parallel_text xml:lang="sme" location="3318.html"/>
+    <parallel_text xml:lang="smj" location="4013.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Miljö &amp; klimat - Sametinget</p>
+    <p type="title">Miljö</p>
+    <p>Alla tjänar på att vi värnar om vår miljö. Hållbar utveckling betyder att både vi och kommande generationer ska kunna bruka naturresurserna.</p>
+    <p>Höga miljövärden  Ekologisk långsiktighet och hushållning med naturresurserna är en central del i den samiska kulturens utveckling och fortlevnad. Ekologiskt och ekonomiskt bärkraftiga samiska näringar är den bästa garantin för att bevara de höga miljö- och kulturvärden som finns i fjäll- och skogsområdena. De samiska näringarna bygger till stor del på orörd natur och ett nyttjande av förnybara naturresurser. Näringarna är beroende av att miljön inte skadas. Rennäringen  Rennäringens intressen sammanfaller ofta med miljövårdens. Miljöbalken 3:5 säger:</p>
+    <list>
+      <p type="listitem">Områden av riksintresse för rennäringen skall skyddas.</p>
+      <p type="listitem">Mark- och vattenområden skall så långt möjligt skyddas mot åtgärder som kan påtagligt försvåra näringarnas bedrivande.</p>
+    </list>
+    <p>I naturresurslagen klassas rennäringens viktigaste områden som riksintressen. Exempel på sådana platser är samlingsplatser och svåra passager längs flyttlederna.</p>
+    <p>Läs mer om rennäringen som riksintresse här</p>
+  </body>
+</document>

@@ -1,0 +1,51 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>222</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/djur-och-natur/rovdjur/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="djur-och-natur-rovdjur.html"/>
+    <parallel_text xml:lang="sma" location="djur-och-natur-rovdjur.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Rovdjur - Länsstyrelsen i Dalarna</p>
+    <list/>
+    <p type="title">Rovdjur</p>
+    <p>
+      <em type="italic">Länsstyrelsen ansvarar för förvaltningen av de stora rovdjuren i länet. Målet är att djuren ska finnas i livskraftiga stammar, samtidigt som vi vill minimera de problem som de kan orsaka. </em>
+    </p>
+    <p type="title">Förvaltningen skyddar och begränsar</p>
+    <p>Till de stora rovdjuren hör björn, varg, lodjur, järv och kungsörn, och i länets förvaltningsplan beskrivs hur vi ska förvalta dem utifrån resultaten av årliga inventeringar. Planen innehåller antals- och utbredningsmål för varje art, och vi beslutar om till exempel förebyggande åtgärder, skyddsjakt och licensjakt. Vi informerar också om de stora rovdjuren som förekommer i länet.</p>
+    <p>Länsstyrelsen har ansvaret för tillsyn av jakt på stora rovdjur och ska bevaka eventuell olaga jakt. Dessutom handlägger vi viltskadeärenden som till viss del orsakas av rovdjuren.</p>
+    <p type="title">Inventeringsmetodik för rovdjur</p>
+    <p>Naturvårdsverket har utvecklat metoder för inventeringar av stora rovdjur för att få ett nationellt system med hög kvalitet. En nationell granskning ska garantera likartade tolkningar över hela landet. Inventeringsmetodiken på Naturvårdsverkets webbplats</p>
+    <p type="title">Kontakta oss</p>
+    <p>Lena Berg</p>
+    <p>Inventeringar, förebyggande av jaktbrott</p>
+    <p>Lena punkt Berg snabela lansstyrelsen punkt se¤Lena punkt Berg snabela lansstyrelsen punkt se</p>
+    <p>010-2250316</p>
+    <p>Fredrik Dalerum</p>
+    <p>Rovdjurshandläggare</p>
+    <p>fredrik punkt dalerum snabela lansstyrelsen punkt se¤fredrik punkt dalerum snabela lansstyrelsen punkt se</p>
+    <p>010-2250365</p>
+    <p>Skicka meddelande</p>
+    <p>Dölj formulär</p>
+    <p>E-postadress</p>
+    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+    <p>Meddelande</p>
+    <p>Skriv in nedanstående kod för att skicka meddelande</p>
+    <p>Generera ny bild</p>
+  </body>
+</document>

@@ -1,0 +1,47 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Gymnasieutbildning |  Samernas Utbildningscentrum</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>272</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.samernas.se/utbildningar/gymnasieutbildning</origFileName>
+    <parallel_text xml:lang="sme" location="oahpahusat_sami-joatkkaskuvlaprogramma_lang_sm9.html"/>
+    <parallel_text xml:lang="smj" location="799-2_728-2_lang_ls9.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Sámi joatkkaskuvla oahpahus</p>
+    <p type="title">Sáme prográmma – gymnása åhpadus</p>
+    <p type="title">Saemien jåarhke-skuvle prograamme</p>
+    <p type="title">Samiska gymnasieprogrammet</p>
+    <p>
+      <em type="italic">Gymnasieutbildning på Jokkmokk kommuns gymnasieskola, Bokenskolan. </em>
+    </p>
+    <p>Hösten 2014 finns det två gymnasieprogram på Bokenskolan i Jåhkåmåhkke. – Samiska Programmet (högskoleförberedande) baseras på samhällsprogrammet – Samiska Entreprenörsprogrammet som är en yrkesutbildning</p>
+    <p><em type="bold">Samiska Programmet </em>För Dig som vill läsa en samisk gymnasieutbildning är detta ett bra val! Du läser samma ämnen som i samhällsprogrammet. Du får läsa samiska språk, rennäring, kultur, slöjd mm. Utbildningen inom det Samiska programmet skall lägga en god grund för att stimulera eleverna till fortsatt utbildning och verksamhet inom främst de samiska kultur- och näringsgrenarna. Utbildningen sker samverkan med Bokenskolan. Själva utbildningen är till större delen förlagd till Bokenskolan. Utbildningen riktar sig i första hand till dig som gått sameintegreringen, sameskola eller har motsvarande bakgrund/utbildning. </p>
+    <p><em type="bold">Innehåll </em>Kärnämnen (svenska A+B, engelska A, matematik A, estetisk verksamhet, idrott och hälsa A, naturkunskap A, religionskunskap A, samhällskunskap A) Karaktärsämnen: Samisk kultur och historia AB, Samiska AB, Duodji ABC, Djurkunskap/Rennäring, Turism-natur-kultur och miljö, engelska B, Matematik B, Naturkunskap B, Valbara kurser: Livskunskap, Datorkunskap, Idrott och hälsa B, m fl Individuellt val (Rennäring) </p>
+    <p>Mer info om Samiska Programmet</p>
+    <p><em type="bold">Samiska Yrkesprogrammet </em>Utbildningen ska ge eleverna fördjupade kunskaper att kunna arbeta och utveckla samiskt näringsliv såsom rennäring, duodji, biebmu, samisk kultur och historia, entrepenörskap, fordonsteknik, turism och samiska språket. </p>
+    <p><em type="bold">Innehåll </em>Gymnasiegemensamma ämnen: Engelska, historia, idrott och hälsa, matematik, naturkunskap, religionskunskap, samhällskunskap, svenska. </p>
+    <p>Programfördjupning: Duodji, entrepenörskap, Samernas historia, hållbar turism, jakt och viltvård, samiska språket, naturguidning, renen och dess naturmiljö, renen och rennäringen i praktiken, samisk mat och terrängtransporter.</p>
+    <p>Mer info om Samiska Yrkesutbildningen</p>
+    <p>För mer information kontakta Bokenskolan! 0971-17000</p>
+    <p type="title">Språkstudier</p>
+    <p type="title">Slöjdlinjen</p>
+    <p type="title">Rennäringslinje</p>
+    <p type="title">Samisk Mat</p>
+  </body>
+</document>

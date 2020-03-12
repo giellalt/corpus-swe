@@ -1,0 +1,61 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title>Smakskolan: Synsinnet – först tittar vi</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2018</year>
+    <wordcount>573</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-nako-ensin-katsotaan/</origFileName>
+    <parallel_text xml:lang="fin" location="makukoulu_nakoaisti_ensin_katsotaan.html"/>
+    <parallel_text xml:lang="sme" location="smahkkaskuvlla_oaidninaicu_vuos_geahccat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Hoppa över till innehållet</p>
+    <p xml:lang="fkv">RuokaTutka</p>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="fin">suomi</p>
+      <p type="listitem">svenska</p>
+      <p type="listitem" xml:lang="smj">davvisámegiella</p>
+    </list>
+    <p type="title">Smakskolan: Synsinnet – först tittar vi</p>
+    <p>Med hjälp av synsinnet bedömer vi matens färg och andra egenskaper som har med utseendet att göra, såsom storlek, form, struktur, glansighet och genomskinlighet. Synsinnet ger också ledtrådar om hur livsmedlet smakar. Ett bekant livsmedel känner vi igen bara genom att se det, och matens utseende vägleder våra övriga observationer. När det gäller ett fast livsmedel påverkas utseendet av formen, storleken och ytan. För ett flytande livsmedel påverkas det av glansigheten, genomskinligheten och vätskans rörelser.</p>
+    <p>Färgen är en viktig del av utseendet hos alla livsmedel. Matens färg påverkas av dess fysikaliska och kemiska sammansättning, belysningen och synsinnets känslighet. I livsmedel finns många olika naturliga färgämnen. Vissa grönsaker, bär och frukter innehåller antocyaniner, som ger röda och blå toner, och karotenoider som ger gula och orange nyanser finns i morötter och lax. Färgen kan ge mycket information: vilken typ av grönsak, frukt eller bär det är fråga om och om de är färdiga att skörda, hur färsk maten är och om den är tillagad, hur mycket fullkorn det finns i en spannmålsprodukt och hur hårt rostat kaffet är.</p>
+    <p xml:lang="nob">
+      <em type="italic">Synsinnet </em>
+    </p>
+    <p>Synsinnet fungerar genom att ljus rör sig genom ögats lins och glaskropp till näthinnan. Näthinnans ljuskänsliga celler, som kallas tappar och stavar, skickar ett meddelande via synnerven till hjärnan, där meddelandet tolkas som ett synintryck.</p>
+    <p>
+      <em type="italic">Synuppgifter för lektionen </em>
+    </p>
+    <list>
+      <p type="listitem">Man kan undersöka olika livsmedel på lektionen med blotta ögat, förstoringsglas och mikroskop. Vilken ny information ger en närmare granskning om livsmedlens utseende? Diskutera tillsammans med eleverna vilka egenskaper man kan notera hos olika livsmedel med hjälp av synsinnet. Hur vet man till exempel att en tomat är en tomat och hur kan man avgöra att den går att äta?</p>
+      <p type="listitem">Med hjälp av bilder eller riktiga livsmedel kan man studera hur färgen skiljer sig åt mellan färska och tillagade livsmedel. Äldre elever får också ta reda på vad skillnaderna i färg beror på.</p>
+      <p type="listitem">På lektionen kan man spela Alias så att någon beskriver ett livsmedels utseende med adjektiv, såsom luftig, tät, ojämn, fast, eller glänsande, och de övriga försöker gissa vilket livsmedel det gäller.</p>
+      <p type="listitem">Eleverna kan klippa ut bilder av matportioner ur tidningar eller leta efter sådana på internet. Man funderar med hjälp av bilderna på hurdan portion som ser god ut. Och vilken typ av portion ser vacker och stilig ut? Vilken sorts portion väcker aptiten.</p>
+      <p type="listitem">Eleverna kan fotografera sin skollunch eller någon annan måltid. Man kan till exempel komma överens om att måltiden ska följa tallriksmodellen eller att den ska vara så vacker och aptitretande som möjligt.</p>
+      <p type="listitem">Man kan jämföra filens, surmjölkens och yoghurtens struktur tillsammans med eleverna. När fil, surmjölk och yoghurt hälls i genomskinliga kärl, kan eleverna då utan att dofta och smaka avgöra vad som finns i vilket kärl? Tillsammans med äldre elever kan man diskutera vad skillnaderna beror på.</p>
+      <p type="listitem">Man kan testa elevernas smaksinne genom att färga en kanna päronsaft med röd karamellfärg när eleverna inte ser. Häll upp små mängder färgad saft till eleverna i genomskinliga muggar. Eleverna får först titta på saften och fundera på hur den kan tänkas smaka utgående från den information som synsinnet ger. Därefter får var och en bedöma saftens smak. Upptäckte eleverna päronsmaken i den röda saften eller vilseleddes smaksinnet av den röda färgen?</p>
+    </list>
+    <p type="title" xml:lang="vep">LÄS MER:</p>
+    <p type="title">Lukt – kittlar i näsan</p>
+    <p type="title">Känseln – hur känns maten?</p>
+    <p type="title">Smak – känns på tungan</p>
+    <p type="title">Hörseln – även öronen gillar mat</p>
+  </body>
+</document>

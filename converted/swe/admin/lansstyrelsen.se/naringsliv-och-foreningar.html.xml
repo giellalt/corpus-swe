@@ -1,0 +1,65 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>893</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/Teckensprak/naringsliv-och-foreningar/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="fin" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="fit" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="sme" location="naringsliv-och-foreningar.html"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmu"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rka"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmf"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmn"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Näringsliv och föreningar - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem">Näringsliv och föreningar</p>
+    </list>
+    <p type="title">Näringsliv och föreningar</p>
+    <p>Länsstyrelsen stimulerar regionens företag och föreningar på olika sätt för att skapa en hållbar ekonomisk utveckling och öka sysselsättningen. Länsstyrelsen uppmuntrar näringslivet att arbeta med frågor som rör jämställdhet, miljö och integration för att stärka en hållbar utveckling och tillväxt.</p>
+    <p type="title">Näringslivsutveckling</p>
+    <p>Länsstyrelsen stimulerar regionens näringsliv på flera sätt för att skapa en ekonomiskt hållbar utveckling och öka sysselsättningen. Vi samverkar med kommunerna, näringslivet och andra organisationer för att uppnå de nationella målen för regional tillväxtpolitik. Genom olika bidrag och stöd medverkar Länsstyrelsen till att skapa bra företagsklimat, en god infrastruktur i form av vägar, kommunikationer, utbildning och forskning samt tillgång till kapital. Vi uppmuntrar också näringslivet att arbeta med frågor som rör jämställdhet, miljö och integration för att stärka en hållbar utveckling och tillväxt.</p>
+    <p type="title">Företagsstöd</p>
+    <p>Varje år får Länsstyrelsen pengar av regeringen som ska användas till olika företagsstöd. Stöden ska hjälpa länets företag att få en långsiktig lönsamhet och tillväxt. Stödens omfattning och inriktning varierar mellan olika län och över tiden, beroende på vilka resurser och särskilda uppdrag som regeringen har gett länen. Vi kan ge bidrag till bland annat investeringar, marknadsföring, innovationsutveckling och utbildning i små och medelstora företag. Dessutom finns ett särskilt stöd till kommersiell service på landsbygden, exempelvis lanthandlar och bensinstationer.</p>
+    <p type="title">Konkurrens</p>
+    <p>Konkurrens stimulerar till en bättre användning av samhällets resurser och gör det möjligt för nya företag att komma in på marknaden. Länsstyrelsen ska i nära samarbete med Konkurrensverket främja en effektiv konkurrens i privata och offentliga verksamheter. Vi ska informera om konkurrensfrågor och uppmärksamma tecken på att konkurrensbestämmelserna inte följs. Kontakta oss om du misstänker att några anbudsgivare har kommit överens om att sätta konkurrensen ur spel.</p>
+    <p type="title">Projektstöd</p>
+    <p>Länsstyrelsen kan ge dig ekonomiskt stöd till ett projekt som gynnar den regionala tillväxten och utvecklingen. Du kan söka projektstöd om du tillsammans med andra har en idé som ni vill genomföra i ett projekt. Projektet ska vara något nytt, ligga utanför de ordinarie verksamheterna och vara väl avgränsat i tid. Resultatet av projektet ska vara till nytta för flera.</p>
+    <p type="title">Penningtvätt och finansiering av terrorism</p>
+    <p>Länsstyrelsen har ett ansvar att motverka penningtvätt och finansiering av terrorism genom att granska fysiska och juridiska personer. Penningtvätt är när pengar som kommer från brottsliga verksamheter omvandlas till tillgångar som kan redovisas öppet. Terrorismfinansiering innebär att ekonomiskt stödja terrorism genom direkta bidrag eller genom att ta emot pengar och tillgångar som ska finansiera terrorism.</p>
+    <p type="title">Stiftelser</p>
+    <p>Länsstyrelsen är tillsynsmyndighet för de stiftelser som finns i länet och vi ansvarar för att registrera dem. En stiftelse är en självständig förmögenhet som förvaltas för ett bestämt ändamål. En styrelse eller en förvaltare har ansvaret för att förvalta pengarna. Länsstyrelsen har en databas där du kan se vilka stiftelser som finns i Sverige, deras ändamål, kontaktpersoner med mera.</p>
+    <p>&gt;&gt; Gå till databasen med stiftelser (svenska)</p>
+    <p type="title">Bevakningsföretag</p>
+    <p>Ett bevakningsföretag bevakar fastigheter, anläggningar, vissa verksamheter, offentliga tillställningar eller en enskild person. Alla bevakningsföretag måste ha tillstånd, så kallad auktorisation, av Länsstyrelsen. Förutom auktoriseringen ska vi godkänna all personal, även de som inte är väktare, och ge företaget tillstånd att ha väktarhundar.</p>
+    <p type="title">Fiskerinäring</p>
+    <p>Länsstyrelsen arbetar för livskraftiga fiskbestånd och en långsiktig och hållbar fiskerinäring. Det är Länsstyrelsen som ger tillstånd till att etablera fisk-, kräft- och musselodlingar. Vi kan också bevilja bidrag till licensierade yrkesfiskare så att de kan sälsäkra sina fiskeredskap och ge ersättning för de skador som sälar orsakar på deras redskap och fångst. Länsstyrelsen fördelar EU-stöd till investeringar i yrkesmässigt fiske, vattenbruk, beredningsindustrin, utbildningar, utvecklingsprojekt med mera. Vi kan även ge råd och ekonomiskt stöd till dem som vill utveckla, etablera och marknadsföra turistfiskeföretag.</p>
+    <p type="title">Bilskrotning</p>
+    <p>Den som har ett bilskrotningsföretag måste vara godkänd av Länsstyrelsen i det län där verksamheten främst ska bedrivas. Vi kontrollerar att anläggningen uppfyller kommunens miljökrav och att den som ansöker har de bygglov och tillstånd som behövs. Uttjänta bilar kan också lämnas till ett mottagningsställe, en plats som producenterna utsett. Mottagningsställen ska anmälas till Länsstyrelsen av bilproducenterna.</p>
+    <p type="title">Pantbanker</p>
+    <p>En pantbank är ett företag som lånar ut pengar till dig mot att du lämnar in något som pant. Det är länsstyrelsen som lämnar tillstånd till pantbankerna och har tillsyn över dem. Den som vill driva en pantbank behöver tillstånd av Länsstyrelsen i det län där verksamheten bedrivs. En pantbank kan endast drivas av ett svenskt aktiebolag eller ett motsvarande utländskt företag inom EES-området.</p>
+    <p type="title">Spel och sport</p>
+    <p>För att få anordna en tävling med fordon på väg krävs ett tillstånd från Länsstyrelsen i det län där tävlingen startar. För att anordna tränings-, tävlings- och uppvisningsmatcher i kampsporter krävs ett särskilt tillstånd som söks hos Länsstyrelsen i Örebro län. Om ett bingospel eller lotteri ska bedrivas i flera kommuner inom ett län är det Länsstyrelsen som ger tillstånd. Om lotteriet anordnas av en förening som endast är verksam i en kommun är det däremot kommunen som ger tillstånd.</p>
+    <p type="title">Rennäring</p>
+    <p>Huvuddelen av landets vidsträckta fjällområden finns i Norrbotten, Västerbotten, Jämtland och Dalarna – en yta på nära sju miljoner hektar. Länsstyrelserna ansvarar för skötseln av fjällområdena och förvaltar statens mark ovanför odlingsgränsen. Vi har också naturvårdsvakter som sköter tillsynen av fjällreservaten samt inventerar och bevakar de stora rovdjuren.</p>
+    <p>Vi har ett nära samarbete med samebyarna. De renskötande samerna har renskötselrätt inom cirka 40 procent av landets yta. Länsstyrelsen ska främja rennäringens utveckling, bland annat genom att stödja utvecklingsprojekt och bevaka rennäringens intressen i samhällsplaneringen.</p>
+  </body>
+</document>

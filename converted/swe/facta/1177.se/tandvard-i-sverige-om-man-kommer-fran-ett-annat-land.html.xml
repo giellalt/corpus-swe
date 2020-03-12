@@ -1,0 +1,77 @@
+<document xml:lang="swe" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1393</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Regler-och-rattigheter/Tandvard-i-Sverige-om-man-kommer-fran-ett-annat-land</origFileName>
+    <parallel_text xml:lang="eng" location="tandvard-i-sverige---vad-galler.html"/>
+    <parallel_text xml:lang="fin" location="tandvard-i-sverige---vad-galler.html"/>
+    <parallel_text xml:lang="rus" location="tandvard-i-sverige---vad-galler.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Tandvård i Sverige om man kommer från annat land - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p type="title">Tandvård i Sverige om man kommer från annat land</p>
+    <p type="title">Vad gäller?</p>
+    <p type="title">Tandvård i Sverige</p>
+    <p>I Sverige har barn och ungdomar rätt till nästan all tandvård utan kostnad medan vuxna får betala för större delen av de undersökningar och behandlingar de behöver. Från och med första januari det år man fyller 20 år har man rätt till visst ekonomiskt stöd för sin tandvård. Dels har man rätt till ett årligt bidrag på 150 eller 300 kronor, dels finns det ett särskilt högkostnadsskydd som innebär att man får ekonomiskt stöd för tandvård som blir dyrare än 3 000 kronor räknat på ett år.</p>
+    <p type="title">Tandvård på samma villkor</p>
+    <p>Ibland kan en lagning lossna, man kan få tandvärk eller något annat problem med tänderna som gör att man behöver snabb hjälp även om man är här tillfälligt från ett annat land.</p>
+    <p>Om man kommer från något EU-land, EES-land eller Schweiz och är på tillfälligt besök i Sverige har man rätt till akut tandvård på samma villkor som de som är försäkrade i Sverige. Förutsättningen är att man är med i socialförsäkringssystemet i det landet.</p>
+    <p>Med akut tandvård menas tandvård som inte kan vänta tills man kommer hem igen. Om det däremot handlar om planerad tandvård, det vill säga att man väljer att komma till Sverige för att bli behandlad, ska man ha ett intyg med sig från sitt hemland om man vill få tandvård på samma ekonomiska villkor som den som är försäkrad i Sverige. Intyget visar att man har rätt till ekonomiskt stöd från sitt hemland för tandvård i Sverige.</p>
+    <p>Om man kommer från ett annat land än ett EU-land, EES-land, Schweiz, Australien eller Quebec i Kanada är det alltid möjligt att få tandvård i Sverige, men då betalar man själv vad det kostar.</p>
+    <p type="title">Personer från ett nordiskt land</p>
+    <p>En person från ett nordiskt land som söker tandvård i Sverige har samma rättigheter till akut tandvård som svenskar. Det gäller oavsett om man är i Sverige tillfälligt, om man bor här eller är så kallad gränsarbetare, det vill säga bor i ett land och arbetar i ett annat i Norden. Det enda som krävs är att man kan visa sitt pass, sitt id-kort eller identifiera sig på något annat sätt. Man ska också kunna tala om vilken bostadsadress man har.</p>
+    <p type="title">Personer från EU-länderna, Liechtenstein och Schweiz</p>
+    <p>En person från ett EU-land, som är tillfälligt i Sverige och behöver akut tandvård, har rätt att få det i Sverige på samma villkor som den som är försäkrad i Sverige. För att man ska kunna få svenskt tandvårdsstöd ska man ha med sig ett europeiskt sjukförsäkringskort, så kallat EU-kort. Det behöver man för att kunna visa att man är med i socialförsäkringssystemet i sitt hemland.</p>
+    <p>Vid tillfällig vistelse har personer från Liechtenstein och Schweiz också rätt till akut tandvård på samma villkor som de som är försäkrade i Sverige. De ska också kunna visa att de är med i sitt hemlands socialförsäkringssystem.</p>
+    <p>Om man vill ha planerad tandvård på samma ekonomiska villkor som den som är försäkrad i Sverige krävs ett särskilt intyg från hemlandet som visar att man har rätt till ekonomiskt stöd från sitt hemland för den tandvården.</p>
+    <p type="title">Övriga länder</p>
+    <p>Utanför Europa har Sverige avtal med Australien och Québec i Kanada. I vissa situationer har personer från de länderna rätt till tandvård på samma villkor som den som är försäkrad i Sverige.</p>
+    <p>Om man kommer från ett land som inte har något avtal med Sverige, får man själv betala hela kostnaden om man behöver tandvård i Sverige. Det gäller både akut och planerad tandvård.</p>
+    <p type="title">EU-kort ger rätt till vård</p>
+    <p>EU:s medlemsländer har kommit överens om att alla som ingår i sitt hemlands socialförsäkringssystem ska få ett EU-kort. Det ska garantera att man får akut vård på samma villkor som medborgarna får i det land där man befinner sig. Kortet berättigar till akut tandvård vi tillfällig vistelse inom EU, Liechtenstein och Schweiz. Har man glömt sitt EU-kort eller inte hunnit skaffa det, ska man kunna visa upp ett provisoriskt intyg om att man har rätt till det.</p>
+    <p>Om man inte har vare sig EU-kort eller ett provisoriskt intyg med sig betalar man själv hela vårdkostnaden. När man kommer hem igen kan man söka ersättning i sitt hemlands socialförsäkringssystem för sina kostnader. Då krävs att man kan vissa kvitto på betalningarna.</p>
+    <p type="title">Intyg för att få söka planerad vård</p>
+    <p>Om man däremot kommer till Sverige för att få planerad tandvård, krävs ett intyg från hemlandet som visar att man har rätt till ekonomiskt stöd från sitt hemland för tandvård i Sverige. Har man det intyget betalar man samma pris för tandvården som den som är försäkrad i Sverige. Ett sådant intyg söks hos socialförsäkringsinstitutionen i hemlandet.</p>
+    <p>Oavsett vilken tandvård man söker måste det vara hos en tandläkare som är ansluten till Försäkringskassan.</p>
+    <p type="title">Om man har tillfälligt arbete</p>
+    <p>Om man arbetar tillfälligt i Sverige och bor i ett annat EU-land, Schweiz, Liechtenstein, Norge eller på Island ska man vara försäkrad i Sverige och får då tandvård på samma villkor som alla andra försäkrade i Sverige.</p>
+    <p type="title">Barn och ungdomar</p>
+    <p>Alla barn och ungdomar från Norden, EU, Liechtenstein och Schweiz har rätt till fri akut tandvård vid tillfällig vistelse i Sverige till och med den sista december det år man fyller 19 år. För att få vården ska man ha med sig ett EU-kort.</p>
+    <p type="title">Studenter</p>
+    <p>Studenter från Norden, EU, Liechtenstein och Schweiz som är tillfälligt i Sverige har rätt till akut tandvård på samma villkor som de som är försäkrade i Sverige. Man ska då visa upp sitt EU-kort. Är man student från något annat land, som Sverige inte har något avtal med, betalar man hela kostnaden själv.</p>
+    <p type="title">Om man flyttar till Sverige</p>
+    <p>Om man planerar att flytta till Sverige är det viktigt att veta vilka rättigheter till tandvård man har. Det kan skilja sig beroende på varför man kommer till Sverige, var man tidigare bott och varför man vill flytta. Försäkringskassan kan ge svar på vilka rättigheter man har utifrån ens egen situation.</p>
+    <p>Om man har bott utomlands och flyttar tillbaka till Sverige är det viktigt att veta vad som gäller för att man inte ska gå miste om ekonomiskt stöd när man kommer tillbaka och söker tandvård i Sverige. Man kan bli utförsäkrad beroende på varför man bott utomlands, var man har bott och hur länge man varit från Sverige. Vad som gäller just för ens egen situation kan man fråga om hos Försäkringskassan. Man ska också anmäla sig till Försäkringskassan när man kommer tillbaka till Sverige igen.</p>
+    <p type="title">Mer på 1177 Vårdguiden</p>
+    <list>
+      <p type="listitem">Tandvård när man är över 20 år - statligt tandvårdsstöd</p>
+    </list>
+    <p type="title">Asylsökande</p>
+    <p type="title">Rätt till akut tandvård</p>
+    <p>Personer som söker asyl i Sverige har rätt till akut tandvård i landstingets regi. Det är i regel hos folktandvården man kan få vården och det är tandläkaren som avgör om de besvär man har är akuta. Det kan till exempel handla om att behandla en inflammation i en tand.</p>
+    <p>Asylsökande barn och ungdomar under 18 år får tandvård på samma villkor som andra barn och ungdomar i Sverige, det vill säga utan att behöva betala för den.</p>
+    <p>Vuxna asylsökande får betala för akut tandvård hos tandläkaren eller tandhygienisten. Avgiften är 50 kronor för varje besök.</p>
+    <p>Det finns också en övre gräns för vad man betalar för medicin på recept. Om man inom sex månader kommer upp i en viss summa för sjuk- och tandvård och receptbelagd medicin kan man ansöka om bidrag från Migrationsverket för de utgifter som överstiger den summan. Kan man inte betala för sin behandling omedelbart har man ändå rätt att få akut tandvård.</p>
+    <p type="title">Kort som styrker vem man är</p>
+    <p>För att få tandvård för 50 kronor per besök ska alla asylsökande kunna visa upp ett kort som Migrationsverket delar ut, ett så kallat LMA-kort. LMA betyder lagen om mottagande av asylsökande och kortet är en tillfällig identitetshandling som gäller medan man söker asyl.</p>
+    <p type="title">Flyktingar som gömmer sig</p>
+    <p>Papperslösa flyktingar som har gömt sig för att inte bli avvisade från Sverige, till exempel personer som fått avslag på sin asylansökan, har rätt till akut tandvård. Man betalar då 50 kronor för varje besök.</p>
+    <p>Barn och ungdomar under 18 år, som har gömt sig, ska kunna få tandvård som andra barn och ungdomar i Sverige, det vill säga utan att betala för den.</p>
+  </body>
+</document>
