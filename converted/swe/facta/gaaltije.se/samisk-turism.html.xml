@@ -1,83 +1,53 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>PROJEKT</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>995</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="sma"/>
-    </multilingual>
-    <origFileName>http://www.gaaltije.se/sv/samisk-turism.html</origFileName>
-    <parallel_text xml:lang="sma" location="saemien-turismeoevtiedimmie.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">PROJEKT</p>
-    <p type="title">Projekt Samisk turismutveckling</p>
-    <p type="title">Gaaltije – motor i den samiska turismutvecklingen</p>
-    <p>Se längre ned för beskrivning av projektet...</p>
-    <p>Aktiviteter</p>
-    <p>2011-03-30 Hemsidesseminarium. Läs mer här !</p>
-    <p xml:lang="sma">2011-0204</p>
-    <p>Gaaltije erbjuder de samiska turismföretagen ny hemsida. I motorprojektet har vi tagit fram en gemensam layout som ni nu har möjlighet att få använda. Ni har självklart möjlighet att själv styra innehållet på er sida m.h.t. texter och bilder. I paketet ingår;</p>
-    <p>- layouten</p>
-    <p>- en gemensam utbildning vid ett tillfälle</p>
-    <p>- ett tillfälle till individuell konsultation.</p>
-    <p>Följande står ni för själva;</p>
-    <p>- webbhotell och andra löpande kostnader</p>
-    <p>- ytterligare individuell konsultation</p>
-    <p>Layouten kan ni se här !</p>
-    <p>Ambitionen med detta är att nu när VisitSápmi lanseras så kan ni visa upp snygga och kundvänliga hemsidor.</p>
-    <p>Om ni är intresserade eller har fler frågor så kontaktar ni oss....Välkomna!</p>
-    <p xml:lang="sma">2010-12-15</p>
-    <p>Nu kör vi kurs i matlagning utomhus! Läs inbjudan här !</p>
-    <p xml:lang="sma">2010-11-24</p>
-    <p>Hösten har varit fullspäckad med aktiviteter i projektet. Framförallt har fokus lagts på utveckling av våra varumärken VisitSápmi och Sápmi Experience. Uppdraget att hjälpa oss med detta gick till Vinter i Luleå som har stor erfarenhet av destinationsutveckling från sitt samarbete med VisitSweden, Jämtland-Härjedalen Turism och Swedish Lapland. Se mer på vår utvecklingsblogg www.visitsapmi.com .</p>
-    <p>I början av oktober var vi i Skottland där vi deltog i ATTA-konferensen. ATTA är <span type="quote">"Adventuretravel and tourism association"</span>. Här hade vi ambitionen att knyta kontakter med researrangörer men framförallt med viktiga reseskribenter och andra med mediala kontakter i syfte att börja etablera vår destination och våra varumärken. Utöver detta har vi i dagarna träffat VisitSweden för att inleda vårt samarbete kring bearbetning av utlandsmarknaderna. Här pågår vårt arbete med att definiera de prioriterade marknaderna.</p>
-    <p>Nu planerar vi för fler aktiviteter med hänsyn till produkt- och kompetensutveckling. Baserat på tidigare intresseanmälningar kommer vi att genomföra utbildningar inom sociala medier, kommunikation, säkerhet i fält resp. matlagning i fält. Vi har också börjat att titta på produktpaketering inom avgränsade geografiska områden. För er som har behov av hjälp med utveckling av er hemsida håller vi just nu på att handla upp en leverantör som kan hjälpa er inom projektet.</p>
-    <p>Kommande aktiviteter</p>
-    <p>Se mer under kalendariet.</p>
-    <p xml:lang="sma">2010-08-25</p>
-    <p>Kurs i Sápmi Experience, samisk kvalitetsturism. Läs inbjudan här . För att få bakgrunden tilll sigillet kan du läsa mer här .</p>
-    <p>Vid seminariet deltog ett knappt tjugotal personer. Här inleddes arbetet med kvalitetscertifiering enligt Sápmi Experience. Den generella uppfattningen verkar vara positiv när det gäller syftet med och upplägget kring sigillet. Är du intresserad av att veta mer? Hör i så fall av dig till oss....</p>
-    <p xml:lang="sma">2010-04-22/23</p>
-    <p>Kurs för befintliga och blivande företagare om pengahantering och sociala medier. Läs mer här ! Obs! <em type="italic">Inställt </em></p>
-    <p xml:lang="sma">2010-02-19</p>
-    <p>Starta eget-kurs i Östersund och Funäsdalen. Klicka här för mer information.</p>
-    <p xml:lang="sma">2010-02-19</p>
-    <p>Informationsbrev om projektet och dess aktiviteter. Läs mer här!</p>
-    <p xml:lang="sma">2009-09-30</p>
-    <p>I förra veckan genomfördes det första seminariet i ambitionen att bygga en samisk turistdestination i Jämtland-Härjedalen. Diskussionerna gick bl.a. kring vad en destination egentligen är och hur en samisk destination skulle kunna utformas. Här inkluderades en rad detaljfrågor;</p>
-    <p>Vem kan bedriva samisk turism? Vilka produkter/tjänster kan betraktas som samiska? Vilken typ av kompetens har vi behov av för att kunna utveckla företag, produkter och destinationen?</p>
-    <p>Nästa steg i projektet är att genomföra en marknadsundersökning för att verkligen utröna hur stort intresset för den samiska turismen egentligen är. Vi ska också delta i olika events där vi på flera sätt kan lyfta fram den samiska kulturen och satsningen på destinationen. Dessutom ska vi sätta igång tankarna kring vilka funktioner som destinationen behöver. Sälj-/marknadsorganisation? Bokningsfunktioner? Ytterligare en fokuserad uppgift är att bygga relationer med de aktörer som idag styr turistströmmarna. Jämtland-Härjedalen Turism, STF, Åregruppen, Destination Funäsdalen m.fl. är viktiga här....</p>
-    <p>Nästa möte är den 5 november. Kommer du då?</p>
-    <p>Projektbeskrivning</p>
-    <p>
-      <em type="italic">Det finns idag en relativt stor villighet för ett samiskt ökat engagemang i turismen som producenter för en attraktiv fiske-, eko-, kultur- och naturturism av hög kvalitet. </em>
-    </p>
-    <p>Inom samebyarnas områden finns utvecklingsbara resurser i form av attraktiva miljöer, därtill också jaktmarker och fiskevatten. Med ett ökat samisk nyttjande av resurserna skapas underlag för satsningar inom eko- och kulturturism. Förutom att jakten och fisket i sig är en ekonomisk intressant tillgång, ger kombinationen med den samiska natur- och kulturmiljön, möjlighet att bygga vidare på områdets särprägel och utveckla nya företag, med natur- och kulturupplevelser som huvudinriktning.</p>
-    <p>Det arbete som gjorts tidigare av Gaaltije har lagt grunden för uppbyggnaden av ett gemensamt varumärke för samisk turism i Jämtland och Härjedalen/Idre med målsättningen att all marknadsföring av samisk turism skall kommuniceras via ett varumärke. Det krävs dock i startfasen resurser av flera slag, inte minst behövs en <span type="quote">”motor”</span> som kan vara den kraft som behövs för att driva på utvecklingen.</p>
-    <p>Projektets grundläggande idé är att Gaaltije skall vara motorn i den utveckling som ska forma ett bredare samiskt näringsliv och till att börja med inom turismen. Här ser vi Gaaltije som en brygga mellan samhälle, turistnäringen i stort och samisk turistnäring.</p>
-    <p>
-      <em type="italic">Det övergripande syftet med projektet är: </em>
-    </p>
-    <p type="listitem">Bygga upp och profilera en samisk turism- och upplevelsenäring som skall bidra till utveckling av den samiska näringsverksamheten.</p>
-    <p type="listitem">Utveckla Gaaltije som motor och bas för uppbyggnad av den samiska turismnäringen.</p>
-    <p>Projektets mål - Forma och utveckla en samisk turistsamordnare, organisation eller företag - Skapa ett varumärke - Ta fram konkurrenskraftiga produkter och tjänster - Utbyggda försäljningskanaler - Samarbete med lokala turistföretag och regionala turistorganisationer</p>
-    <p><em type="italic">Aktivitetsmål </em>- 1 nytt företag (eller motsvarande) med ansvar för samisk turism i Jämtland - Nya heltäckande produktpaket som kan erbjudas nationellt och internationellt på tre destinationer - 5 samebyar som engagerar sig för samisk turism - 10 samiska företag i nätverk </p>
-    <p><em type="italic">Samarbete, andra partners och projekt </em>- Jämtland Härjedalen Turim (JHT) - Ekoturismföreningen - Framtid Funäsdalen - Året Turistbyrå - Andra kommunala turistbyråer i länet - Samernas Riksförbund - Projektet Frostviken samebyarnas utveckling och lokal förvaltning - Projektet RenLycka </p>
-    <p>- Gaaltije som motor och organisationsutveckling - Marknadsföring/varumärke - Affärsutveckling Gaaltije - Former för utveckling av samebyarna - Rådgivning, kompetensutveckling</p>
-    <p>Läs hela projektbeskrivningen här !</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>PROJEKT</title><genre code="facta"/><author><unknown/></author><wordcount>995</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="sma"/></multilingual><origFileName>http://www.gaaltije.se/sv/samisk-turism.html</origFileName><parallel_text xml:lang="sma" location="saemien-turismeoevtiedimmie.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">PROJEKT</p>
+<p type="title">Projekt Samisk turismutveckling</p>
+<p type="title">Gaaltije – motor i den samiska turismutvecklingen</p>
+<p>Se längre ned för beskrivning av projektet...</p>
+<p>Aktiviteter</p>
+<p>2011-03-30 Hemsidesseminarium. Läs mer här !</p>
+<p xml:lang="sma">2011-0204</p>
+<p>Gaaltije erbjuder de samiska turismföretagen ny hemsida. I motorprojektet har vi tagit fram en gemensam layout som ni nu har möjlighet att få använda. Ni har självklart möjlighet att själv styra innehållet på er sida m.h.t. texter och bilder. I paketet ingår;</p>
+<p>- layouten</p>
+<p>- en gemensam utbildning vid ett tillfälle</p>
+<p>- ett tillfälle till individuell konsultation.</p>
+<p>Följande står ni för själva;</p>
+<p>- webbhotell och andra löpande kostnader</p>
+<p>- ytterligare individuell konsultation</p>
+<p>Layouten kan ni se här !</p>
+<p>Ambitionen med detta är att nu när VisitSápmi lanseras så kan ni visa upp snygga och kundvänliga hemsidor.</p>
+<p>Om ni är intresserade eller har fler frågor så kontaktar ni oss....Välkomna!</p>
+<p xml:lang="sma">2010-12-15</p>
+<p>Nu kör vi kurs i matlagning utomhus! Läs inbjudan här !</p>
+<p xml:lang="sma">2010-11-24</p>
+<p>Hösten har varit fullspäckad med aktiviteter i projektet. Framförallt har fokus lagts på utveckling av våra varumärken VisitSápmi och Sápmi Experience. Uppdraget att hjälpa oss med detta gick till Vinter i Luleå som har stor erfarenhet av destinationsutveckling från sitt samarbete med VisitSweden, Jämtland-Härjedalen Turism och Swedish Lapland. Se mer på vår utvecklingsblogg www.visitsapmi.com .</p>
+<p>I början av oktober var vi i Skottland där vi deltog i ATTA-konferensen. ATTA är <span type="quote">"Adventuretravel and tourism association"</span>. Här hade vi ambitionen att knyta kontakter med researrangörer men framförallt med viktiga reseskribenter och andra med mediala kontakter i syfte att börja etablera vår destination och våra varumärken. Utöver detta har vi i dagarna träffat VisitSweden för att inleda vårt samarbete kring bearbetning av utlandsmarknaderna. Här pågår vårt arbete med att definiera de prioriterade marknaderna.</p>
+<p>Nu planerar vi för fler aktiviteter med hänsyn till produkt- och kompetensutveckling. Baserat på tidigare intresseanmälningar kommer vi att genomföra utbildningar inom sociala medier, kommunikation, säkerhet i fält resp. matlagning i fält. Vi har också börjat att titta på produktpaketering inom avgränsade geografiska områden. För er som har behov av hjälp med utveckling av er hemsida håller vi just nu på att handla upp en leverantör som kan hjälpa er inom projektet.</p>
+<p>Kommande aktiviteter</p>
+<p>Se mer under kalendariet.</p>
+<p xml:lang="sma">2010-08-25</p>
+<p>Kurs i Sápmi Experience, samisk kvalitetsturism. Läs inbjudan här . För att få bakgrunden tilll sigillet kan du läsa mer här .</p>
+<p>Vid seminariet deltog ett knappt tjugotal personer. Här inleddes arbetet med kvalitetscertifiering enligt Sápmi Experience. Den generella uppfattningen verkar vara positiv när det gäller syftet med och upplägget kring sigillet. Är du intresserad av att veta mer? Hör i så fall av dig till oss....</p>
+<p xml:lang="sma">2010-04-22/23</p>
+<p>Kurs för befintliga och blivande företagare om pengahantering och sociala medier. Läs mer här ! Obs! <em type="italic">Inställt </em></p>
+<p xml:lang="sma">2010-02-19</p>
+<p>Starta eget-kurs i Östersund och Funäsdalen. Klicka här för mer information.</p>
+<p xml:lang="sma">2010-02-19</p>
+<p>Informationsbrev om projektet och dess aktiviteter. Läs mer här!</p>
+<p xml:lang="sma">2009-09-30</p>
+<p>I förra veckan genomfördes det första seminariet i ambitionen att bygga en samisk turistdestination i Jämtland-Härjedalen. Diskussionerna gick bl.a. kring vad en destination egentligen är och hur en samisk destination skulle kunna utformas. Här inkluderades en rad detaljfrågor;</p>
+<p>Vem kan bedriva samisk turism? Vilka produkter/tjänster kan betraktas som samiska? Vilken typ av kompetens har vi behov av för att kunna utveckla företag, produkter och destinationen?</p>
+<p>Nästa steg i projektet är att genomföra en marknadsundersökning för att verkligen utröna hur stort intresset för den samiska turismen egentligen är. Vi ska också delta i olika events där vi på flera sätt kan lyfta fram den samiska kulturen och satsningen på destinationen. Dessutom ska vi sätta igång tankarna kring vilka funktioner som destinationen behöver. Sälj-/marknadsorganisation? Bokningsfunktioner? Ytterligare en fokuserad uppgift är att bygga relationer med de aktörer som idag styr turistströmmarna. Jämtland-Härjedalen Turism, STF, Åregruppen, Destination Funäsdalen m.fl. är viktiga här....</p>
+<p>Nästa möte är den 5 november. Kommer du då?</p>
+<p>Projektbeskrivning</p>
+<p><em type="italic">Det finns idag en relativt stor villighet för ett samiskt ökat engagemang i turismen som producenter för en attraktiv fiske-, eko-, kultur- och naturturism av hög kvalitet. </em></p>
+<p>Inom samebyarnas områden finns utvecklingsbara resurser i form av attraktiva miljöer, därtill också jaktmarker och fiskevatten. Med ett ökat samisk nyttjande av resurserna skapas underlag för satsningar inom eko- och kulturturism. Förutom att jakten och fisket i sig är en ekonomisk intressant tillgång, ger kombinationen med den samiska natur- och kulturmiljön, möjlighet att bygga vidare på områdets särprägel och utveckla nya företag, med natur- och kulturupplevelser som huvudinriktning.</p>
+<p>Det arbete som gjorts tidigare av Gaaltije har lagt grunden för uppbyggnaden av ett gemensamt varumärke för samisk turism i Jämtland och Härjedalen/Idre med målsättningen att all marknadsföring av samisk turism skall kommuniceras via ett varumärke. Det krävs dock i startfasen resurser av flera slag, inte minst behövs en <span type="quote">”motor”</span> som kan vara den kraft som behövs för att driva på utvecklingen.</p>
+<p>Projektets grundläggande idé är att Gaaltije skall vara motorn i den utveckling som ska forma ett bredare samiskt näringsliv och till att börja med inom turismen. Här ser vi Gaaltije som en brygga mellan samhälle, turistnäringen i stort och samisk turistnäring.</p>
+<p><em type="italic">Det övergripande syftet med projektet är: </em></p>
+<p type="listitem">Bygga upp och profilera en samisk turism- och upplevelsenäring som skall bidra till utveckling av den samiska näringsverksamheten.</p>
+<p type="listitem">Utveckla Gaaltije som motor och bas för uppbyggnad av den samiska turismnäringen.</p>
+<p>Projektets mål - Forma och utveckla en samisk turistsamordnare, organisation eller företag - Skapa ett varumärke - Ta fram konkurrenskraftiga produkter och tjänster - Utbyggda försäljningskanaler - Samarbete med lokala turistföretag och regionala turistorganisationer</p>
+<p><em type="italic">Aktivitetsmål </em>- 1 nytt företag (eller motsvarande) med ansvar för samisk turism i Jämtland - Nya heltäckande produktpaket som kan erbjudas nationellt och internationellt på tre destinationer - 5 samebyar som engagerar sig för samisk turism - 10 samiska företag i nätverk </p>
+<p><em type="italic">Samarbete, andra partners och projekt </em>- Jämtland Härjedalen Turim (JHT) - Ekoturismföreningen - Framtid Funäsdalen - Året Turistbyrå - Andra kommunala turistbyråer i länet - Samernas Riksförbund - Projektet Frostviken samebyarnas utveckling och lokal förvaltning - Projektet RenLycka </p>
+<p>- Gaaltije som motor och organisationsutveckling - Marknadsföring/varumärke - Affärsutveckling Gaaltije - Former för utveckling av samebyarna - Rådgivning, kompetensutveckling</p>
+<p>Läs hela projektbeskrivningen här !</p>
+</body></document>

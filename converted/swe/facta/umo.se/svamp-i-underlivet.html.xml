@@ -1,73 +1,34 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1008</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Kroppen/Svamp-i-underlivet</origFileName>
-    <parallel_text xml:lang="fin" location="hiivatulehdus.html"/>
-    <parallel_text xml:lang="fit" location="svamppia-sukuelimessa-eli-alapaassa.html"/>
-    <parallel_text xml:lang="sma" location="goebperh-tsavhnosne.html"/>
-    <parallel_text xml:lang="sme" location="guoppar-vuolledabiin.html"/>
-    <parallel_text xml:lang="smj" location="guopparinfeksjavnna-vuollevajmon.html"/>
-    <parallel_text location="rappani-an-minshe.html" xml:lang="rmu"/>
-    <parallel_text location="infektacija-makar-le-purne.html" xml:lang="rmy-rka"/>
-    <parallel_text location="fungus-svamp-ande-telunipe-vagina-penis.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="balanis-aro-teluni-trupos.html" xml:lang="rmf"/>
-    <parallel_text location="parnothavdipa.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Svamp i underlivet</p>
-    <p>Alla undrar!  Vad undrar du?</p>
-    <p type="title">Svamp i underlivet</p>
-    <p>Svamp finns naturligt i underlivet hos de flesta. Ibland förökar den sig och kan då ge besvär. Det är väldigt vanligt bland tjejer. Även killar kan få svamp. Svamp är ofarligt men kan vara jobbigt eftersom det brukar klia och svida.</p>
-    <p>» Texten finns på de nationella minoritetsspråken</p>
-    <p type="title">Varför får man besvär med svamp?</p>
-    <p>Det är oklart varför man får besvär med svamp. Men en orsak kan vara att man tar någon medicin, till exempel antibiotika, som slår ut de nyttiga bakterierna som normalt finns i underlivet så att svampen kan börja växa.</p>
-    <p>Svamp kan också bero på att immunförsvaret är nedsatt av någon annan anledning, till exempel när man håller på att bli sjuk eller har stressat mycket.</p>
-    <p>Hormonbalansen i kroppen kan också påverka. Därför är det vanligt att man får svamp precis före mensen eller om man är gravid.</p>
-    <p>Svamp är ingen könssjukdom. Det kan överföras vid samlag men det är ovanligt. Däremot kan svamp inte överföras genom munsex eller att man går på samma toalett som någon som har svamp.</p>
-    <p type="title">Hur märker man att man har svamp?</p>
-    <p>Som tjej märker man oftast att man har svamp för att det kliar och svider kring slidöppningen och på blygdläpparna. Blygdläpparna kan också bli röda och svullna. Flytningarna kan bli vita, torra och gryniga, men ibland är de tunna och vissa gånger har man ingen flytning alls när man har svamp.</p>
-    <p>Svamp gör också att det kan svida eller göra ont när man kissar eller om man har sex. Ibland får man eksem på blygdläpparna och i ljumskarna.</p>
-    <p>På killar brukar ollonet, skaftet, pungen eller ljumskarna bli röda, torra och fnasiga när man har svamp. Man kan också få en vit beläggning på eller runt ollonet, under förhuden, eller på skaftet. Beläggningen brukar vara svårare att tvätta bort än smegma som naturligt finns under förhuden.</p>
-    <p type="title">Hur blir man av med svamp?</p>
-    <p>Om man har små besvär av svamp i slidan eller på penisen brukar det nästan alltid försvinna av sig själv efter några dagar utan någon behandling.</p>
-    <p>Men ibland går det inte över, eller så kliar och svider det så mycket att man snabbt vill göra något åt det. Är det första gången man får problem ska man kontakta en ungdomsmottagning, hud- och könsmottagning eller vårdcentral för att ta reda på att det verkligen är svamp man har. Om man går till en mottagning görs en undersökning. Ofta brukar den som undersöker kunna se direkt om det är svamp man har. Men ibland kan hen behöva ta prov ett för att säkert veta om det är svamp man har.</p>
-    <p>Om man har haft svamp tidigare och känner igen problemen kan man köpa något av de receptfria läkemedel mot svamp som finns på apotek. Det finns som krämer som man kan smörja in slidan och blygdläpparna eller penisen och pungen med. För tjejer finns det också piller, så kallade vagitorium, som man för in i slidan med fingrarna, och kräm som man sprutar in med en liten plastspruta. En kort stund efter att man tagit medlen kan det svida och klia ännu mer, men det brukar snabbt gå över.</p>
-    <p>Om man fullföljer hela behandlingen blir nästan alla bra av de receptfria medlen. Blir man inte det eller om svampen kommer tillbaka oftare än två gånger under ett halvår bör man kontakta en ungdomsmottagning, hud- och könsmottagning eller vårdcentral igen för att få hjälp.</p>
-    <p>Det är viktigt att man inte använder svampdödande medel för ofta eller i onödan eftersom det kan göra det svårare och svårare att bli av med svampen eller att den kommer tillbaka efter ett kort tag igen. Det kan också torka ut slemhinnan och göra den skör vilket kan leda till andra problem.</p>
-    <p type="title">Vad gör man för att inte få svamp?</p>
-    <p>Eftersom det är oklart varför man får svamp är det svårt att skydda sig mot det.</p>
-    <p>Ibland sägs det att risken för svamp ökar om man tvättar underlivet ofta och med tvål. Det finns inget som visar säkert att det är så. Men om man har svamp eller ofta får svampinfektioner och tvättar sig mycket kan det bli bättre om man tvättar sig mindre. Oavsett om man har svamp eller inte räcker det att tvätta underlivet en gång om dagen med ljummet vatten. Man ska inte använda vanlig tvål i underlivet eftersom det torkar ut. Om man vill kan man istället använda en oparfymerad olja.</p>
-    <p type="title">Frågor och svar om svamp i underlivet</p>
-    <p type="title">Får man svamp av string, varma och tajta kläder?</p>
-    <p>Det finns inga vetenskapliga bevis för att varma, tajta kläder eller string skulle göra att man lättare får svamp. Men om man har svamp kan det svida och klia mindre om man har trosor eller kalsonger av bomull och luftiga kläder. Det kan också hjälpa att sova utan underkläder och om man är tjej att inte använda trosskydd.</p>
-    <p type="title">Försvinner svamp om man smörjer in underlivet med yoghurt?</p>
-    <p>Att yoghurt hjälper mot svamp är en myt som det inte finns några vetenskapliga belägg för. Däremot kan yoghurt kännas svalkande och av den anledningen vara bra mot klådan.</p>
-    <p type="title">Kan svamp smitta?</p>
-    <p>Svamp överförs inte via till exempel toaletter. Däremot kan svamp överföras vid slidsamlag även om det är ovanligt.</p>
-    <p type="title">Får man svamp av att äta mycket socker?</p>
-    <p>Det finns inga vetenskapliga bevis för att svamp hänger ihop med att man äter mycket socker. Men har man problem med svamp är det givetvis inte farligt att testa om ändrade matvanor kan göra att det blir bättre.</p>
-    <p type="title">Kan man ha sex när man har svamp?</p>
-    <p>Det är inte farligt att ha sex när man har svamp men eftersom slemhinnorna är sköra kan man få små sprickor i dem och det kan göra ont att ha till exempel samlag. Om man har slidsamlag finns det även en liten risk att svampen överförs. Dessutom är risken större att man får eller överför en könssjukdom om man har slidsamlag samtidigt som man har svamp eftersom man har små sprickor i slemhinnorna vilket gör att man lättare får eller överför infektioner.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1003</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Kroppen/Svamp-i-underlivet</origFileName><parallel_text xml:lang="fin" location="hiivatulehdus.html"/><parallel_text xml:lang="fit" location="svamppia-sukuelimessa-eli-alapaassa.html"/><parallel_text xml:lang="sma" location="goebperh-tsavhnosne.html"/><parallel_text xml:lang="sme" location="guoppar-vuolledabiin.html"/><parallel_text xml:lang="smj" location="guopparinfeksjavnna-vuollevajmon.html"/><parallel_text location="rappani-an-minshe.html" xml:lang="rmu"/><parallel_text location="infektacija-makar-le-purne.html" xml:lang="rmy-rka"/><parallel_text location="fungus-svamp-ande-telunipe-vagina-penis.html" xml:lang="rmy-rlo"/><parallel_text location="balanis-aro-teluni-trupos.html" xml:lang="rmf"/><parallel_text location="parnothavdipa.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Svamp i underlivet</p>
+<p type="title">Svamp i underlivet</p>
+<p>Svamp finns naturligt i underlivet hos de flesta. Ibland förökar den sig och kan då ge besvär. Det är väldigt vanligt bland tjejer. Även killar kan få svamp. Svamp är ofarligt men kan vara jobbigt eftersom det brukar klia och svida.</p>
+<p>» Texten finns på de nationella minoritetsspråken</p>
+<p type="title">Varför får man besvär med svamp?</p>
+<p>Det är oklart varför man får besvär med svamp. Men en orsak kan vara att man tar någon medicin, till exempel antibiotika, som slår ut de nyttiga bakterierna som normalt finns i underlivet så att svampen kan börja växa.</p>
+<p>Svamp kan också bero på att immunförsvaret är nedsatt av någon annan anledning, till exempel när man håller på att bli sjuk eller har stressat mycket.</p>
+<p>Hormonbalansen i kroppen kan också påverka. Därför är det vanligt att man får svamp precis före mensen eller om man är gravid.</p>
+<p>Svamp är ingen könssjukdom. Det kan överföras vid samlag men det är ovanligt. Däremot kan svamp inte överföras genom munsex eller att man går på samma toalett som någon som har svamp.</p>
+<p type="title">Hur märker man att man har svamp?</p>
+<p>Som tjej märker man oftast att man har svamp för att det kliar och svider kring slidöppningen och på blygdläpparna. Blygdläpparna kan också bli röda och svullna. Flytningarna kan bli vita, torra och gryniga, men ibland är de tunna och vissa gånger har man ingen flytning alls när man har svamp.</p>
+<p>Svamp gör också att det kan svida eller göra ont när man kissar eller om man har sex. Ibland får man eksem på blygdläpparna och i ljumskarna.</p>
+<p>På killar brukar ollonet, skaftet, pungen eller ljumskarna bli röda, torra och fnasiga när man har svamp. Man kan också få en vit beläggning på eller runt ollonet, under förhuden, eller på skaftet. Beläggningen brukar vara svårare att tvätta bort än smegma som naturligt finns under förhuden.</p>
+<p type="title">Hur blir man av med svamp?</p>
+<p>Om man har små besvär av svamp i slidan eller på penisen brukar det nästan alltid försvinna av sig själv efter några dagar utan någon behandling.</p>
+<p>Men ibland går det inte över, eller så kliar och svider det så mycket att man snabbt vill göra något åt det. Är det första gången man får problem ska man kontakta en ungdomsmottagning, hud- och könsmottagning eller vårdcentral för att ta reda på att det verkligen är svamp man har. Om man går till en mottagning görs en undersökning. Ofta brukar den som undersöker kunna se direkt om det är svamp man har. Men ibland kan hen behöva ta prov ett för att säkert veta om det är svamp man har.</p>
+<p>Om man har haft svamp tidigare och känner igen problemen kan man köpa något av de receptfria läkemedel mot svamp som finns på apotek. Det finns som krämer som man kan smörja in slidan och blygdläpparna eller penisen och pungen med. För tjejer finns det också piller, så kallade vagitorium, som man för in i slidan med fingrarna, och kräm som man sprutar in med en liten plastspruta. En kort stund efter att man tagit medlen kan det svida och klia ännu mer, men det brukar snabbt gå över.</p>
+<p>Om man fullföljer hela behandlingen blir nästan alla bra av de receptfria medlen. Blir man inte det eller om svampen kommer tillbaka oftare än två gånger under ett halvår bör man kontakta en ungdomsmottagning, hud- och könsmottagning eller vårdcentral igen för att få hjälp.</p>
+<p>Det är viktigt att man inte använder svampdödande medel för ofta eller i onödan eftersom det kan göra det svårare och svårare att bli av med svampen eller att den kommer tillbaka efter ett kort tag igen. Det kan också torka ut slemhinnan och göra den skör vilket kan leda till andra problem.</p>
+<p type="title">Vad gör man för att inte få svamp?</p>
+<p>Eftersom det är oklart varför man får svamp är det svårt att skydda sig mot det.</p>
+<p>Ibland sägs det att risken för svamp ökar om man tvättar underlivet ofta och med tvål. Det finns inget som visar säkert att det är så. Men om man har svamp eller ofta får svampinfektioner och tvättar sig mycket kan det bli bättre om man tvättar sig mindre. Oavsett om man har svamp eller inte räcker det att tvätta underlivet en gång om dagen med ljummet vatten. Man ska inte använda vanlig tvål i underlivet eftersom det torkar ut. Om man vill kan man istället använda en oparfymerad olja.</p>
+<p type="title">Frågor och svar om svamp i underlivet</p>
+<p type="title">Får man svamp av string, varma och tajta kläder?</p>
+<p>Det finns inga vetenskapliga bevis för att varma, tajta kläder eller string skulle göra att man lättare får svamp. Men om man har svamp kan det svida och klia mindre om man har trosor eller kalsonger av bomull och luftiga kläder. Det kan också hjälpa att sova utan underkläder och om man är tjej att inte använda trosskydd.</p>
+<p type="title">Försvinner svamp om man smörjer in underlivet med yoghurt?</p>
+<p>Att yoghurt hjälper mot svamp är en myt som det inte finns några vetenskapliga belägg för. Däremot kan yoghurt kännas svalkande och av den anledningen vara bra mot klådan.</p>
+<p type="title">Kan svamp smitta?</p>
+<p>Svamp överförs inte via till exempel toaletter. Däremot kan svamp överföras vid slidsamlag även om det är ovanligt.</p>
+<p type="title">Får man svamp av att äta mycket socker?</p>
+<p>Det finns inga vetenskapliga bevis för att svamp hänger ihop med att man äter mycket socker. Men har man problem med svamp är det givetvis inte farligt att testa om ändrade matvanor kan göra att det blir bättre.</p>
+<p type="title">Kan man ha sex när man har svamp?</p>
+<p>Det är inte farligt att ha sex när man har svamp men eftersom slemhinnorna är sköra kan man få små sprickor i dem och det kan göra ont att ha till exempel samlag. Om man har slidsamlag finns det även en liten risk att svampen överförs. Dessutom är risken större att man får eller överför en könssjukdom om man har slidsamlag samtidigt som man har svamp eftersom man har små sprickor i slemhinnorna vilket gör att man lättare får eller överför infektioner.</p>
+</body></document>

@@ -1,35 +1,9 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>240</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/folkhalsa/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle-folkhalsa.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-folkhalsa.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Folkhälsa - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Folkhälsa</p>
-    <p>
-      <em type="italic">Länsstyrelsen har till uppgift att skapa förutsättningar i samhället så att hela befolkningen kan få en god hälsa på lika villkor. </em>
-    </p>
-    <p>Folkhälsa handlar om allt från människors egna val och vanor till sådant som yttre miljöer och demokratiska rättigheter i samhället. Vi arbetar särskilt med folkhälsoområden som jämställdhet, integration, miljö, bostadsplanering, sociala förutsättningar, antidiskriminering samt alkohol- och drogrelaterade frågor.</p>
-    <p type="title">ANDT (Alkohol, Narkotika, Dopning och Tobak)</p>
-    <p>Länsstyrelsen har ett särskilt ansvar för att samordna och utveckla det förebyggande arbetet mot alkohol, narkotika, dopning och tobak (ANDT) i länet. Detta gör vi främst genom olika samordnande insatser på regional nivå, genom utbildning och stöd till kommuner och genom tillsyn av kommunernas kontroll av bland annat åldersgränser, serveringstillstånd och rökförbud i offentliga miljöer.</p>
-    <p>Vårt förebyggande arbete utgår från den nationella ANDT-strategi som riksdagen antog i mars 2011 (<span type="quote">"En samlad strategi för alkohol-, narkotika-, dopnings- och tobakspolitiken"</span>, proposition 2010/11:47). Det övergripande målet för ANDT-politiken är ett samhälle fritt från narkotika och dopning, med minskade medicinska och sociala skador orsakade av alkohol och med ett minskat tobaksbruk. Strategin pekar ut riktningen för ANDT-politiken under åren 2011-2015 och kompletteras med årliga åtgärdsprogram. För det förebyggande arbetet svarar en ANDT-samordnare.</p>
-    <p>För tillsynen över kommunerna svarar en alkohol- och tobakshandläggare. Genom tillsyn verkar länsstyrelsen för att kommunerna ska ha en rättssäker tillståndsgivning och en tillsyn som bland annat kontrollerar åldersgränser och överservering samt att handlare inte säljer tobak på ett otillbörligt sätt.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>240</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/folkhalsa/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle-folkhalsa.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle-folkhalsa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Folkhälsa - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Folkhälsa</p>
+<p><em type="italic">Länsstyrelsen har till uppgift att skapa förutsättningar i samhället så att hela befolkningen kan få en god hälsa på lika villkor. </em></p>
+<p>Folkhälsa handlar om allt från människors egna val och vanor till sådant som yttre miljöer och demokratiska rättigheter i samhället. Vi arbetar särskilt med folkhälsoområden som jämställdhet, integration, miljö, bostadsplanering, sociala förutsättningar, antidiskriminering samt alkohol- och drogrelaterade frågor.</p>
+<p type="title">ANDT (Alkohol, Narkotika, Dopning och Tobak)</p>
+<p>Länsstyrelsen har ett särskilt ansvar för att samordna och utveckla det förebyggande arbetet mot alkohol, narkotika, dopning och tobak (ANDT) i länet. Detta gör vi främst genom olika samordnande insatser på regional nivå, genom utbildning och stöd till kommuner och genom tillsyn av kommunernas kontroll av bland annat åldersgränser, serveringstillstånd och rökförbud i offentliga miljöer.</p>
+<p>Vårt förebyggande arbete utgår från den nationella ANDT-strategi som riksdagen antog i mars 2011 (<span type="quote">"En samlad strategi för alkohol-, narkotika-, dopnings- och tobakspolitiken"</span>, proposition 2010/11:47). Det övergripande målet för ANDT-politiken är ett samhälle fritt från narkotika och dopning, med minskade medicinska och sociala skador orsakade av alkohol och med ett minskat tobaksbruk. Strategin pekar ut riktningen för ANDT-politiken under åren 2011-2015 och kompletteras med årliga åtgärdsprogram. För det förebyggande arbetet svarar en ANDT-samordnare.</p>
+<p>För tillsynen över kommunerna svarar en alkohol- och tobakshandläggare. Genom tillsyn verkar länsstyrelsen för att kommunerna ska ha en rättssäker tillståndsgivning och en tillsyn som bland annat kontrollerar åldersgränser och överservering samt att handlare inte säljer tobak på ett otillbörligt sätt.</p>
+</body></document>

@@ -1,42 +1,19 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>179</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/2984</origFileName>
-    <parallel_text xml:lang="sma" location="2993.html"/>
-    <parallel_text xml:lang="sme" location="2994.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Språkkampanjen startar upp - Sametinget</p>
-    <p type="title">Språkkampanjen startar upp</p>
-    <p>Språkkampanjrådet har den 8 oktober 2007 haft sitt första möte på Sametinget.</p>
-    <p>Kampanjrådet har vid sitt första möte diskuterat några viktiga teman som utbildning i samiska, språkpolitik, och språkets användning i samhället.</p>
-    <p>Seminarium</p>
-    <p>Kampanjrådet planerar ett seminarium med temat</p>
-    <p>Att rädda språk</p>
-    <p>i början av 2008.</p>
-    <p>Statushöjning</p>
-    <p>En av de viktigaste uppgifterna som rådet har framför sig är att få till stånd en attitydförändring när det gäller användningen av samiskan.</p>
-    <p>-	Vi vill se en statushöjning av det samiska språket, framhåller Joseph Fjellgren som blivit föreslagen som ordförande i kampanjrådet. Joseph Fjellgren har varit engagerad i Sáminuorra och drivit projektet</p>
-    <p>Mijjen Giele</p>
-    <p>i syfte att revitalisera det sydsamiska språket.</p>
-    <p>Revitalisering</p>
-    <p>-	Vi vill jobba för att samiskan ska få en självklar plats på alla nivåer i det samiska samhället. Det handlar om att revitalisera språket, förklarar Fjellgren.</p>
-    <p>I kampanjrådet sitter Per Jonas Parffa (Samernas utbildningscentrum), Mikael Vinka (Umeå universitet), Monica Sandström (Sameskolstyrelsen), Joseph Fjellgren och Britt Inger Tuorda (båda valda av Sametingets styrelse).</p>
-    <p>För kontakt</p>
-    <p>Joseph Fjellgren, mobil 070-600 86 90</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>179</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/2984</origFileName><parallel_text xml:lang="sma" location="2993.html"/><parallel_text xml:lang="sme" location="2994.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Språkkampanjen startar upp - Sametinget</p>
+<p type="title">Språkkampanjen startar upp</p>
+<p>Språkkampanjrådet har den 8 oktober 2007 haft sitt första möte på Sametinget.</p>
+<p>Kampanjrådet har vid sitt första möte diskuterat några viktiga teman som utbildning i samiska, språkpolitik, och språkets användning i samhället.</p>
+<p>Seminarium</p>
+<p>Kampanjrådet planerar ett seminarium med temat</p>
+<p>Att rädda språk</p>
+<p>i början av 2008.</p>
+<p>Statushöjning</p>
+<p>En av de viktigaste uppgifterna som rådet har framför sig är att få till stånd en attitydförändring när det gäller användningen av samiskan.</p>
+<p>-	Vi vill se en statushöjning av det samiska språket, framhåller Joseph Fjellgren som blivit föreslagen som ordförande i kampanjrådet. Joseph Fjellgren har varit engagerad i Sáminuorra och drivit projektet</p>
+<p>Mijjen Giele</p>
+<p>i syfte att revitalisera det sydsamiska språket.</p>
+<p>Revitalisering</p>
+<p>-	Vi vill jobba för att samiskan ska få en självklar plats på alla nivåer i det samiska samhället. Det handlar om att revitalisera språket, förklarar Fjellgren.</p>
+<p>I kampanjrådet sitter Per Jonas Parffa (Samernas utbildningscentrum), Mikael Vinka (Umeå universitet), Monica Sandström (Sameskolstyrelsen), Joseph Fjellgren och Britt Inger Tuorda (båda valda av Sametingets styrelse).</p>
+<p>För kontakt</p>
+<p>Joseph Fjellgren, mobil 070-600 86 90</p>
+</body></document>

@@ -1,34 +1,12 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>439</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1055</origFileName>
-    <parallel_text xml:lang="sme" location="12795.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Språkpolitik - Sametinget</p>
-    <p type="title">Språkpolitik</p>
-    <p>Sametingets viljeinriktning är att främja, utveckla och bevara samiskan till ett livskraftigt språk för det samiska samhället och för samisk samhörighet. Ett levande språk är i aktivt bruk både hemma och i offentliga sammanhang.</p>
-    <p>Försvenskningsperioden</p>
-    <p>De allra flesta äldre samer har aldrig fått lära sig att läsa eller skriva i skolan på sitt eget modersmål. Många kan berätta om bestraffningar och hot som man utsattes för under sin skoltid, då befolkningen i norr skulle <span type="quote">"försvenskas"</span>. I folkskolan fick man inte tala samiska på skoltid. Inte ens i nomadskolan var samiska ett skolämne. Samebarnen fick inte möjlighet att lära sig läsa och skriva på sitt eget språk. (Detsamma gällde den finsktalande befolkningen i Tornedalen.) Äldre generationers samer som har samiska som umgängesspråk använder därför svenska när de läser och skriver. När vi talar om alfabetisering i samiska sammanhang betyder det inte att samer är analfabeter.</p>
-    <p>Språkbyte</p>
-    <p>Den generation som själv hade obehagliga upplevelser från sin skoltid valde i stor utsträckning att inte tala samiska med sina egna barn. I vuxen ålder är det många från 60- och 70-talsgenerationen som inte kan tala samiska <span type="quote">"fast de borde kunna"</span>. De har samiska som ett passivt språk i högre eller mindre grad. Det kan vara en hög tröskel att ta tillbaka sitt språk och många talar om <span type="quote">"psykologiska spärrar"</span>. Här behövs stora utbildningsinsatser och en positiv attityd från det omgivande samhället, både det samiska och det svenska. Staten har ett stort ansvar för vad som skett i historien och som påverkar samerna än idag.</p>
-    <p>Samisk språklag</p>
-    <p>Den internationella folkrätten har stor betydelse på många sätt, även för språkbevarandet. Frågor om kulturell autonomi, med rättigheter till egen kultur, språk och självbestämmande i egna angelägenheter, har lyfts fram. Ett exempel är Europarådets konvention om skydd för nationella minoriteter och stadgan om minoritetsspråk, vilka har lett fram till minoritetsspråklagen i Sverige. Nuvarande utveckling av de politiska och ideologiska förhållandena talar för ett samiskt språkbevarande, men det krävs också att resurser tillförs för att Sametinget och andra aktörer aktivt ska kunna arbeta för att öka användningen av samiska.</p>
-    <p>Attitydförändring</p>
-    <p>Svenskarnas attityder till minoritetsspråk och särskilt till samiska är positiv. Det framgår av en enkätundersökning (2001) att drygt 80% av befolkningen anser det viktigt att bevara minoritetsspråken i Sverige. 86% tycker att det vore synd om samiska språket i Sverige försvann. Intresset för språket växer i takt med ökad självkänsla och styrkt identitetsuppfattning hos samerna själva. Tillsammans med en alltmer vidsynt minoritetspolitik talar en växande självtillit för nya möjligheter. En rik mångfald av samiska kulturyttringar framträder på ett öppet och självklart sätt. Ökad rörlighet och fler kontaktytor ger nya möjligheter för en vidgad språkanvändning.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>439</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1055</origFileName><parallel_text xml:lang="sme" location="12795.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Språkpolitik - Sametinget</p>
+<p type="title">Språkpolitik</p>
+<p>Sametingets viljeinriktning är att främja, utveckla och bevara samiskan till ett livskraftigt språk för det samiska samhället och för samisk samhörighet. Ett levande språk är i aktivt bruk både hemma och i offentliga sammanhang.</p>
+<p>Försvenskningsperioden</p>
+<p>De allra flesta äldre samer har aldrig fått lära sig att läsa eller skriva i skolan på sitt eget modersmål. Många kan berätta om bestraffningar och hot som man utsattes för under sin skoltid, då befolkningen i norr skulle <span type="quote">"försvenskas"</span>. I folkskolan fick man inte tala samiska på skoltid. Inte ens i nomadskolan var samiska ett skolämne. Samebarnen fick inte möjlighet att lära sig läsa och skriva på sitt eget språk. (Detsamma gällde den finsktalande befolkningen i Tornedalen.) Äldre generationers samer som har samiska som umgängesspråk använder därför svenska när de läser och skriver. När vi talar om alfabetisering i samiska sammanhang betyder det inte att samer är analfabeter.</p>
+<p>Språkbyte</p>
+<p>Den generation som själv hade obehagliga upplevelser från sin skoltid valde i stor utsträckning att inte tala samiska med sina egna barn. I vuxen ålder är det många från 60- och 70-talsgenerationen som inte kan tala samiska <span type="quote">"fast de borde kunna"</span>. De har samiska som ett passivt språk i högre eller mindre grad. Det kan vara en hög tröskel att ta tillbaka sitt språk och många talar om <span type="quote">"psykologiska spärrar"</span>. Här behövs stora utbildningsinsatser och en positiv attityd från det omgivande samhället, både det samiska och det svenska. Staten har ett stort ansvar för vad som skett i historien och som påverkar samerna än idag.</p>
+<p>Samisk språklag</p>
+<p>Den internationella folkrätten har stor betydelse på många sätt, även för språkbevarandet. Frågor om kulturell autonomi, med rättigheter till egen kultur, språk och självbestämmande i egna angelägenheter, har lyfts fram. Ett exempel är Europarådets konvention om skydd för nationella minoriteter och stadgan om minoritetsspråk, vilka har lett fram till minoritetsspråklagen i Sverige. Nuvarande utveckling av de politiska och ideologiska förhållandena talar för ett samiskt språkbevarande, men det krävs också att resurser tillförs för att Sametinget och andra aktörer aktivt ska kunna arbeta för att öka användningen av samiska.</p>
+<p>Attitydförändring</p>
+<p>Svenskarnas attityder till minoritetsspråk och särskilt till samiska är positiv. Det framgår av en enkätundersökning (2001) att drygt 80% av befolkningen anser det viktigt att bevara minoritetsspråken i Sverige. 86% tycker att det vore synd om samiska språket i Sverige försvann. Intresset för språket växer i takt med ökad självkänsla och styrkt identitetsuppfattning hos samerna själva. Tillsammans med en alltmer vidsynt minoritetspolitik talar en växande självtillit för nya möjligheter. En rik mångfald av samiska kulturyttringar framträder på ett öppet och självklart sätt. Ökad rörlighet och fler kontaktytor ger nya möjligheter för en vidgad språkanvändning.</p>
+</body></document>

@@ -1,99 +1,65 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1850</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Regler-och-rattigheter/Om-man-ar-missnojd-med-tandvarden</origFileName>
-    <parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-tandvarden.html"/>
-    <parallel_text xml:lang="fin" location="om-man-inte-ar-nljd-med-tandvarden.html"/>
-    <parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-tandvarden.html"/>
-    <parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-tandvarden.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Om man inte är nöjd med tandvården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Om man inte är nöjd med tandvården</p>
-    <p type="title">Vart vänder man sig?</p>
-    <p type="title">Det finns olika ställen att vända sig till</p>
-    <p>Om man har klagomål på tandvården finns det olika instanser man kan vända sig till. Vart man ska vända sig beror på vad man är missnöjd med och vad man vill ha hjälp med. I de flesta fall kan klagomål och eventuella missförstånd redas ut genom att kontakta den som har utfört tandvården.</p>
-    <p>Om man inte kan komma överens eller det handlar om felbehandling eller skador, kan man behöva vända sig någon annanstans, till exempel till landstingens patientnämnder, Privattandvårdsupplysningen, Praktikertjänst reklamationsnämnd, Inspektionen för vård och omsorg eller Patientförsäkringen LÖF.</p>
-    <p>Oavsett till vem man vänder sig till kan det vara bra att be om ett skriftligt svar för att undvika missförstånd.</p>
-    <p type="title">Klaga direkt hos tandvårdspersonal</p>
-    <p>I första hand kan man framföra sitt klagomål direkt till den person som man har blivit undersökt eller behandlad av. Det kan exempelvis handla om man inte känner sig nöjd med arbetet som utförts, att man fått ett felaktigt bemötande eller tycker att man har fått betala för mycket.</p>
-    <p type="title">Om man har behandlats inom folktandvården</p>
-    <p>Om man inte vill kontakta den man har behandlats av eller om det inte går att komma överens, kan man vända sig till mottagningens klinik- eller verksamhetschef. Man kan också kontakta folktandvårdschefen i sitt landsting/region eller någon annan där som ansvarar för folktandvården.</p>
-    <p>Varje landsting eller region har en patientnämnd. Deras uppgift är att vara en länk mellan patienten och vården genom att stödja och hjälpa, ta emot synpunkter, klagomål och ge information om patientens rättigheter i vården. Patientnämnden informerar också om vart man kan vända sig i olika typer av ärenden för att utreda vad som hänt. I nämnden sitter politiker medan det är tjänstemän som handlägger klagomålen.</p>
-    <p>Patientnämnden gör inga medicinska bedömningar och har heller inga befogenheter att avgöra om något fel har begåtts eller inte. Patientnämnden har tystnadsplikt och man får vara anonym.</p>
-    <p type="title">Om man har behandlats på en privat mottagning</p>
-    <p>Om man inte vill kontakta den man har behandlats av eller om det inte går att komma överens, kan man vända sig till mottagningens klinik- eller verksamhetschef.</p>
-    <p>Har man varit hos en tandläkarmottagning verksam i Praktikertjänst och inte är nöjd med behandlingen, kan man vända sig till Praktikertjänsts Reklamationsnämnd. Nämnden kan bedöma både behandlingar och ekonomiska frågor, men tar inte ställning till anspråk på skadestånd. Vid krav på skadestånd måste man vända sig till tingsrätten.</p>
-    <p>Har man varit hos en privattandläkare som är medlem i organisationen Privattandläkarna kan man även vända sig till Privattandvårdsupplysningen, PTU. PTU är Privattandläkarnas rådgivningstjänst för allmänheten. Hit kan man vända sig för att komma i kontakt med förtroendenämnderna. Man kan också vända sig till en förtroendenämnd om man har varit hos en tandsköterska eller tandhygienist som arbetar hos en tandläkare ansluten till Privattandläkarna.</p>
-    <p>Privattandläkarnas förtroendenämnder finns på flera olika platser i landet och de ger förslag på hur man kan komma överens med sin tandläkare. Om privattandläkaren inte skulle följa deras rekommendation får han eller hon inte vara med i Privattandläkarna. Normalt sett utreder förtroendenämnden inte händelser som är äldre än två år.</p>
-    <p>För att komma i kontakt med rätt förtroendenämnd kan man ringa Privattandvårdsupplysningen. Är man inte nöjd med förtroendenämndens beslut kan man överklaga det till Privattandläkarnas centrala förtroendenämnd. På Privattandläkarnas webbplats kan man få information om vart man vänder sig om man har klagomål. Där kan man också göra en sökning för att se om tandläkaren är ansluten till Privattandläkarna.</p>
-    <p>Om tandläkaren inte är verksam i Praktikertjänst eller medlem i Privattandläkarna kan man inte vända sig till deras reklamationsnämnd eller förtroendenämnder. Däremot kan man driva ärendet rättsligt, men då bör man vara medveten om risken att få betala både de egna och motpartens rättskostnader om man förlorar.</p>
-    <p>Man kan också kontakta Patientförsäkringsföreningen , PFF. Detta är en ideell förening som försöker hjälpa de patienter som skadats av en oförsäkrad tandläkare, tandsköterska eller tandhygienist.</p>
-    <p>Man kan även vända sig till landstingens patientnämnd när man behandlats av en privattandläkare där verksamheten helt eller delvis finansieras av landstingen. Det kan till exempel gälla en mottagning som bedriver barn- och ungdomstandvård. Man vänder sig också till patientnämnden för den tandvård som bedrivs privat men där tandläkaren eller tandhygienisten har ett landstingsavtal för tandvård som ett led i en sjukdomsbehandling under en begränsad tid.</p>
-    <p type="title">Om man tycker att ett fel har gjorts</p>
-    <p>Till Inspektionen för vård och omsorg kan man anmäla en händelse eller en person man blivit behandlad av. Det har ingen betydelse om den personen jobbar inom folktandvården eller är privatpraktiserande.</p>
-    <p>Man måste göra anmälan inom två år efter att man fått behandlingen och den ska vara skriftlig. I första hand är det man själv som patient som får anmäla, men även anhöriga och närstående kan göra en anmälan om man inte kan göra den själv.</p>
-    <p>Både anmälan till Inspektionen för vård och omsorg och dess beslut är offentliga handlingar som alla som vill kan läsa. Däremot är det sekretess på patientjournaler och andra liknande handlingar som ingår i utredningen.</p>
-    <p>Inspektionen för vård och omsorg kan rikta kritik mot tandvårdspersonal och kan även anmäla personer till Hälso- och sjukvårdens ansvarsnämnd, HSAN. Det ska ske om det behövs för att stoppa rutiner och arbetssätt som kan vara riskfyllda.</p>
-    <p>HSAN kan pröva och besluta om</p>
-    <list>
-      <p type="listitem">att återkalla legitimation från den tandläkare eller tandhygienist som har misskött sitt arbete</p>
-      <p type="listitem">att utfärda prövotid, vilket innebär att tandläkaren eller tandhygienisten måste stå under uppsikt i upp till tre år, samt att en särskild plan upprättas under den tiden</p>
-      <p type="listitem">att begränsa eller dra in en tandläkares rätt att skriva ut läkemedel.</p>
-    </list>
-    <p>Inspektionen för vård och omsorg och HSAN tar inte ställning till om man kan få ersättning. Om man tycker att man har skadats av en behandling måste man ansöka om ekonomisk ersättning från Patientförsäkringen LÖF.</p>
-    <p>En anmälan till Inspektionen för vård och omsorg kan göras även när man har övergripande klagomål. Det kan till exempel gälla kritik mot organisationen eller allmänna brister i patientsäkerheten. Klagomål ska utredas förutsättningslöst och man behöver inte själv veta vem som har gjort något fel eller vad som inte fungerat bra.</p>
-    <p>Det är också till Inspektionen för vård och omsorg man ska vända sig om man vill få något raderat ur sin journal.</p>
-    <p>Folktandvården eller den privata mottagningen är skyldig att anmäla sig själv till Inspektionen för vård och omsorg om det inträffar en skada eller att någon riskerar att få en allvarlig skada i tandvården. Det görs enligt Lex Maria.</p>
-    <p type="title">Möjligheter att få ersättning</p>
-    <p type="title">Man kan få ersättning om man skadas</p>
-    <p>Blir man skadad när man har fått tandvård kan man ibland ha rätt till ekonomisk ersättning från patientförsäkringen, som alla tandvårdsmottagningar måste ha. Det spelar ingen roll om skadan har inträffat inom folktandvården eller inom den privata tandvården. Man kan få ersättning för skador som skett i samband med en undersökning eller en behandling. Detta gäller även om skadan exempelvis har uppstått på grund av ett misstag, att utrustning har gått sönder eller att man har fått en felaktig diagnos som medfört en skada.</p>
-    <p>Några exempel på när man kan få ersättning från Patientförsäkringen:</p>
-    <list>
-      <p type="listitem">Tandläkaren har missat att diagnostisera och behandla tandlossningssjukdom trots att man regelbundet har fått hela bettet undersökt, vilket har lett till att man har drabbats av tandlossning.</p>
-      <p type="listitem">Fel tand har lagats eller dragits ut.</p>
-      <p type="listitem">Man har skadats på grund av att utrustning på kliniken går sönder.</p>
-    </list>
-    <p>Ersättningen som ges kan till exempel gälla fysiskt och psykiskt lidande, extra tandvårdskostnader och resekostnader som har uppkommit på grund av skadan samt förlorad arbetsinkomst.</p>
-    <p>Tandvårdsbehandlingar innebär dock alltid en risk för komplikationer som inte är möjliga att undvika. Att behandlingen inte leder till önskat resultat eller att det kan bli besvärligt med värk efter en tandutdragning eller en lagning är till exempel något som är oundvikligt. Det kan man inte få ersättning för.</p>
-    <p>Exempel på när man inte får ersättning:</p>
-    <list>
-      <p type="listitem">När man inte tycker att resultatet är snyggt, till exempel att det är fel färg eller form på kronor och broar eller fyllningar.</p>
-      <p type="listitem">Man har fått en protes som inte sitter stabilt när man äter eller talar.</p>
-      <p type="listitem">När en fyllning inte håller och man måste ta sig till tandläkaren flera gånger för att få den lagad igen.</p>
-    </list>
-    <p>Får man inte ersättning för en skada eller ett lidande beror det oftast på att det inte hade kunnat undvikas.</p>
-    <p>Man gör en anmälan själv till Patientförsäkringen LÖF. Anmälan kan även göras av en anhörig eller någon närstående om man inte själv kan.</p>
-    <p>Anmälan måste göras inom tre år efter att man fått kännedom om att man kan begära ekonomisk ersättning för skadan Det måste också vara möjligt för försäkringsbolaget att bedöma att det finns en skada. Det gör försäkringsbolaget med hjälp av journaler och röntgenbilder från tandläkaren som undersökt skadan.</p>
-    <p type="title">Skada som har inträffat inom folktandvården</p>
-    <p>Vill man anmäla en skada som har uppkommit då man har besökt folktandvården kan man göra det till parientförsäkringen hos Landstingens ömsesidiga försäkringsbolag, Patientförsäkringen LÖF. På deras webbplats finns blanketter som man ska fylla i när man gör en anmälan och där kan man läsa mer om vad som gäller för att man ska kunna få ersättning. Man kan också få information och hjälp av patientnämnden när man ska göra en anmälan.</p>
-    <p>Om man är missnöjd med Patienförsäkringens beslut kan man överklaga det till Patientskadenämnden. Mer information om Patientskadenämnden finns på Patientförsäkringen LÖF:s webbplats.</p>
-    <p type="title">Skada som har inträffat på en privat mottagning</p>
-    <p>Om tandläkaren är medlem i organisationen Privattandläkarna kan man vända sig dit för att göra sin anmälan. Det gäller även om man fått skadan hos en tandhygienist eller tandsköterska som arbetar hos en tandläkare ansluten till Privattandläkarna. På Privattandläkarnas hemsida finns mer information om vart man ska vända sig.</p>
-    <p>Om tandläkaren är verksam i Praktikertjänst kan man vända sig direkt till dem för att göra en anmälan.</p>
-    <p>Är tandläkaren inte medlem i Privattandläkarna eller verksam i Praktikertjänst måste man ta reda på vilket försäkringsbolag anmälan ska skickas till. Det enklaste är att fråga sin tandläkare men man kan också vända sig till Patientförsäkringsföreningen, PFF, för att få upplysning om vart anmälan ska lämnas. Det gäller även om man har varit hos en privat tandhygienist.</p>
-    <p type="title">Skada av läkemedel i samband med tandvård</p>
-    <p>Om man fått en oförutsedd biverkning eller skada av ett läkemedel i samband med sin tandvårdsbehandling kan man ha rätt till ersättning från Läkemedelsförsäkringen. Läkemedelsförsäkringen är en försäkring som alla tillverkare och importörer av läkemedel i Sverige har. Man måste anmäla skadan till Läkemedelsförsäkringen inom tre år från det att man har fått kännedom om att skadan sannolikt har orsakats av ett läkemedel.</p>
-    <p type="title">Missnöjd med tandvård utomlands</p>
-    <p type="title">Anmälan kan inte göras i Sverige</p>
-    <p>Har man blivit felbehandlad, fått en behandlingsskada eller är missnöjd med tandvård man fått utomlands, kan man inte anmäla det i Sverige. I stället måste anmälan göras i det land där man blivit undersökt eller behandlad.</p>
-    <p>Försäkringsskyddet är oftast sämre i andra länder och som regel finns det mindre möjligheter att få hjälp. Nordiska länder har dock ett försäkringsskydd som har likheter med det svenska.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1850</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Regler-och-rattigheter/Om-man-ar-missnojd-med-tandvarden</origFileName><parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-tandvarden.html"/><parallel_text xml:lang="fin" location="om-man-inte-ar-nljd-med-tandvarden.html"/><parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-tandvarden.html"/><parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-tandvarden.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Om man inte är nöjd med tandvården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Om man inte är nöjd med tandvården</p>
+<p type="title">Vart vänder man sig?</p>
+<p type="title">Det finns olika ställen att vända sig till</p>
+<p>Om man har klagomål på tandvården finns det olika instanser man kan vända sig till. Vart man ska vända sig beror på vad man är missnöjd med och vad man vill ha hjälp med. I de flesta fall kan klagomål och eventuella missförstånd redas ut genom att kontakta den som har utfört tandvården.</p>
+<p>Om man inte kan komma överens eller det handlar om felbehandling eller skador, kan man behöva vända sig någon annanstans, till exempel till landstingens patientnämnder, Privattandvårdsupplysningen, Praktikertjänst reklamationsnämnd, Inspektionen för vård och omsorg eller Patientförsäkringen LÖF.</p>
+<p>Oavsett till vem man vänder sig till kan det vara bra att be om ett skriftligt svar för att undvika missförstånd.</p>
+<p type="title">Klaga direkt hos tandvårdspersonal</p>
+<p>I första hand kan man framföra sitt klagomål direkt till den person som man har blivit undersökt eller behandlad av. Det kan exempelvis handla om man inte känner sig nöjd med arbetet som utförts, att man fått ett felaktigt bemötande eller tycker att man har fått betala för mycket.</p>
+<p type="title">Om man har behandlats inom folktandvården</p>
+<p>Om man inte vill kontakta den man har behandlats av eller om det inte går att komma överens, kan man vända sig till mottagningens klinik- eller verksamhetschef. Man kan också kontakta folktandvårdschefen i sitt landsting/region eller någon annan där som ansvarar för folktandvården.</p>
+<p>Varje landsting eller region har en patientnämnd. Deras uppgift är att vara en länk mellan patienten och vården genom att stödja och hjälpa, ta emot synpunkter, klagomål och ge information om patientens rättigheter i vården. Patientnämnden informerar också om vart man kan vända sig i olika typer av ärenden för att utreda vad som hänt. I nämnden sitter politiker medan det är tjänstemän som handlägger klagomålen.</p>
+<p>Patientnämnden gör inga medicinska bedömningar och har heller inga befogenheter att avgöra om något fel har begåtts eller inte. Patientnämnden har tystnadsplikt och man får vara anonym.</p>
+<p type="title">Om man har behandlats på en privat mottagning</p>
+<p>Om man inte vill kontakta den man har behandlats av eller om det inte går att komma överens, kan man vända sig till mottagningens klinik- eller verksamhetschef.</p>
+<p>Har man varit hos en tandläkarmottagning verksam i Praktikertjänst och inte är nöjd med behandlingen, kan man vända sig till Praktikertjänsts Reklamationsnämnd. Nämnden kan bedöma både behandlingar och ekonomiska frågor, men tar inte ställning till anspråk på skadestånd. Vid krav på skadestånd måste man vända sig till tingsrätten.</p>
+<p>Har man varit hos en privattandläkare som är medlem i organisationen Privattandläkarna kan man även vända sig till Privattandvårdsupplysningen, PTU. PTU är Privattandläkarnas rådgivningstjänst för allmänheten. Hit kan man vända sig för att komma i kontakt med förtroendenämnderna. Man kan också vända sig till en förtroendenämnd om man har varit hos en tandsköterska eller tandhygienist som arbetar hos en tandläkare ansluten till Privattandläkarna.</p>
+<p>Privattandläkarnas förtroendenämnder finns på flera olika platser i landet och de ger förslag på hur man kan komma överens med sin tandläkare. Om privattandläkaren inte skulle följa deras rekommendation får han eller hon inte vara med i Privattandläkarna. Normalt sett utreder förtroendenämnden inte händelser som är äldre än två år.</p>
+<p>För att komma i kontakt med rätt förtroendenämnd kan man ringa Privattandvårdsupplysningen. Är man inte nöjd med förtroendenämndens beslut kan man överklaga det till Privattandläkarnas centrala förtroendenämnd. På Privattandläkarnas webbplats kan man få information om vart man vänder sig om man har klagomål. Där kan man också göra en sökning för att se om tandläkaren är ansluten till Privattandläkarna.</p>
+<p>Om tandläkaren inte är verksam i Praktikertjänst eller medlem i Privattandläkarna kan man inte vända sig till deras reklamationsnämnd eller förtroendenämnder. Däremot kan man driva ärendet rättsligt, men då bör man vara medveten om risken att få betala både de egna och motpartens rättskostnader om man förlorar.</p>
+<p>Man kan också kontakta Patientförsäkringsföreningen , PFF. Detta är en ideell förening som försöker hjälpa de patienter som skadats av en oförsäkrad tandläkare, tandsköterska eller tandhygienist.</p>
+<p>Man kan även vända sig till landstingens patientnämnd när man behandlats av en privattandläkare där verksamheten helt eller delvis finansieras av landstingen. Det kan till exempel gälla en mottagning som bedriver barn- och ungdomstandvård. Man vänder sig också till patientnämnden för den tandvård som bedrivs privat men där tandläkaren eller tandhygienisten har ett landstingsavtal för tandvård som ett led i en sjukdomsbehandling under en begränsad tid.</p>
+<p type="title">Om man tycker att ett fel har gjorts</p>
+<p>Till Inspektionen för vård och omsorg kan man anmäla en händelse eller en person man blivit behandlad av. Det har ingen betydelse om den personen jobbar inom folktandvården eller är privatpraktiserande.</p>
+<p>Man måste göra anmälan inom två år efter att man fått behandlingen och den ska vara skriftlig. I första hand är det man själv som patient som får anmäla, men även anhöriga och närstående kan göra en anmälan om man inte kan göra den själv.</p>
+<p>Både anmälan till Inspektionen för vård och omsorg och dess beslut är offentliga handlingar som alla som vill kan läsa. Däremot är det sekretess på patientjournaler och andra liknande handlingar som ingår i utredningen.</p>
+<p>Inspektionen för vård och omsorg kan rikta kritik mot tandvårdspersonal och kan även anmäla personer till Hälso- och sjukvårdens ansvarsnämnd, HSAN. Det ska ske om det behövs för att stoppa rutiner och arbetssätt som kan vara riskfyllda.</p>
+<p>HSAN kan pröva och besluta om</p>
+<list><p type="listitem">att återkalla legitimation från den tandläkare eller tandhygienist som har misskött sitt arbete</p>
+<p type="listitem">att utfärda prövotid, vilket innebär att tandläkaren eller tandhygienisten måste stå under uppsikt i upp till tre år, samt att en särskild plan upprättas under den tiden</p>
+<p type="listitem">att begränsa eller dra in en tandläkares rätt att skriva ut läkemedel.</p>
+</list><p>Inspektionen för vård och omsorg och HSAN tar inte ställning till om man kan få ersättning. Om man tycker att man har skadats av en behandling måste man ansöka om ekonomisk ersättning från Patientförsäkringen LÖF.</p>
+<p>En anmälan till Inspektionen för vård och omsorg kan göras även när man har övergripande klagomål. Det kan till exempel gälla kritik mot organisationen eller allmänna brister i patientsäkerheten. Klagomål ska utredas förutsättningslöst och man behöver inte själv veta vem som har gjort något fel eller vad som inte fungerat bra.</p>
+<p>Det är också till Inspektionen för vård och omsorg man ska vända sig om man vill få något raderat ur sin journal.</p>
+<p>Folktandvården eller den privata mottagningen är skyldig att anmäla sig själv till Inspektionen för vård och omsorg om det inträffar en skada eller att någon riskerar att få en allvarlig skada i tandvården. Det görs enligt Lex Maria.</p>
+<p type="title">Möjligheter att få ersättning</p>
+<p type="title">Man kan få ersättning om man skadas</p>
+<p>Blir man skadad när man har fått tandvård kan man ibland ha rätt till ekonomisk ersättning från patientförsäkringen, som alla tandvårdsmottagningar måste ha. Det spelar ingen roll om skadan har inträffat inom folktandvården eller inom den privata tandvården. Man kan få ersättning för skador som skett i samband med en undersökning eller en behandling. Detta gäller även om skadan exempelvis har uppstått på grund av ett misstag, att utrustning har gått sönder eller att man har fått en felaktig diagnos som medfört en skada.</p>
+<p>Några exempel på när man kan få ersättning från Patientförsäkringen:</p>
+<list><p type="listitem">Tandläkaren har missat att diagnostisera och behandla tandlossningssjukdom trots att man regelbundet har fått hela bettet undersökt, vilket har lett till att man har drabbats av tandlossning.</p>
+<p type="listitem">Fel tand har lagats eller dragits ut.</p>
+<p type="listitem">Man har skadats på grund av att utrustning på kliniken går sönder.</p>
+</list><p>Ersättningen som ges kan till exempel gälla fysiskt och psykiskt lidande, extra tandvårdskostnader och resekostnader som har uppkommit på grund av skadan samt förlorad arbetsinkomst.</p>
+<p>Tandvårdsbehandlingar innebär dock alltid en risk för komplikationer som inte är möjliga att undvika. Att behandlingen inte leder till önskat resultat eller att det kan bli besvärligt med värk efter en tandutdragning eller en lagning är till exempel något som är oundvikligt. Det kan man inte få ersättning för.</p>
+<p>Exempel på när man inte får ersättning:</p>
+<list><p type="listitem">När man inte tycker att resultatet är snyggt, till exempel att det är fel färg eller form på kronor och broar eller fyllningar.</p>
+<p type="listitem">Man har fått en protes som inte sitter stabilt när man äter eller talar.</p>
+<p type="listitem">När en fyllning inte håller och man måste ta sig till tandläkaren flera gånger för att få den lagad igen.</p>
+</list><p>Får man inte ersättning för en skada eller ett lidande beror det oftast på att det inte hade kunnat undvikas.</p>
+<p>Man gör en anmälan själv till Patientförsäkringen LÖF. Anmälan kan även göras av en anhörig eller någon närstående om man inte själv kan.</p>
+<p>Anmälan måste göras inom tre år efter att man fått kännedom om att man kan begära ekonomisk ersättning för skadan Det måste också vara möjligt för försäkringsbolaget att bedöma att det finns en skada. Det gör försäkringsbolaget med hjälp av journaler och röntgenbilder från tandläkaren som undersökt skadan.</p>
+<p type="title">Skada som har inträffat inom folktandvården</p>
+<p>Vill man anmäla en skada som har uppkommit då man har besökt folktandvården kan man göra det till parientförsäkringen hos Landstingens ömsesidiga försäkringsbolag, Patientförsäkringen LÖF. På deras webbplats finns blanketter som man ska fylla i när man gör en anmälan och där kan man läsa mer om vad som gäller för att man ska kunna få ersättning. Man kan också få information och hjälp av patientnämnden när man ska göra en anmälan.</p>
+<p>Om man är missnöjd med Patienförsäkringens beslut kan man överklaga det till Patientskadenämnden. Mer information om Patientskadenämnden finns på Patientförsäkringen LÖF:s webbplats.</p>
+<p type="title">Skada som har inträffat på en privat mottagning</p>
+<p>Om tandläkaren är medlem i organisationen Privattandläkarna kan man vända sig dit för att göra sin anmälan. Det gäller även om man fått skadan hos en tandhygienist eller tandsköterska som arbetar hos en tandläkare ansluten till Privattandläkarna. På Privattandläkarnas hemsida finns mer information om vart man ska vända sig.</p>
+<p>Om tandläkaren är verksam i Praktikertjänst kan man vända sig direkt till dem för att göra en anmälan.</p>
+<p>Är tandläkaren inte medlem i Privattandläkarna eller verksam i Praktikertjänst måste man ta reda på vilket försäkringsbolag anmälan ska skickas till. Det enklaste är att fråga sin tandläkare men man kan också vända sig till Patientförsäkringsföreningen, PFF, för att få upplysning om vart anmälan ska lämnas. Det gäller även om man har varit hos en privat tandhygienist.</p>
+<p type="title">Skada av läkemedel i samband med tandvård</p>
+<p>Om man fått en oförutsedd biverkning eller skada av ett läkemedel i samband med sin tandvårdsbehandling kan man ha rätt till ersättning från Läkemedelsförsäkringen. Läkemedelsförsäkringen är en försäkring som alla tillverkare och importörer av läkemedel i Sverige har. Man måste anmäla skadan till Läkemedelsförsäkringen inom tre år från det att man har fått kännedom om att skadan sannolikt har orsakats av ett läkemedel.</p>
+<p type="title">Missnöjd med tandvård utomlands</p>
+<p type="title">Anmälan kan inte göras i Sverige</p>
+<p>Har man blivit felbehandlad, fått en behandlingsskada eller är missnöjd med tandvård man fått utomlands, kan man inte anmäla det i Sverige. I stället måste anmälan göras i det land där man blivit undersökt eller behandlad.</p>
+<p>Försäkringsskyddet är oftast sämre i andra länder och som regel finns det mindre möjligheter att få hjälp. Nordiska länder har dock ett försäkringsskydd som har likheter med det svenska.</p>
+</body></document>

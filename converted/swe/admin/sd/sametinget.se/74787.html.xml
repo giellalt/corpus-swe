@@ -1,43 +1,15 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>241</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/74787</origFileName>
-    <parallel_text xml:lang="sme" location="75603.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Avslut av program 2007-2013 - Sametinget</p>
-    <p type="title">Avslut av program 2007-2013</p>
-    <p>Programperioden 2007-2013 närmar sig sitt slut och det är dags för projekten att göra projektavslut.</p>
-    <p>Viktiga datum att komma ihåg och förbereda inför:</p>
-    <list>
-      <p type="listitem"><em type="italic">30 juni 2014 </em>Sista dagen för projektperiod i projekten. </p>
-      <p type="listitem"><em type="italic">31 juli 2014 </em>Sista datum för att lämna in slutredovisning till nationell kontrollant. Hör av er till förvaltande myndighet för att begära anstånd med inlämning av redovisning om det på grund av semesterperioder är svårt att hinna till detta datum. </p>
-      <p type="listitem"><em type="italic">31 oktober 2014 </em>Sista datum för att lämna in ansökan om slututbetalning. Hör av er till förvaltande myndighet för att begära anstånd med inlämning av ansökan om slututbetalning om slutintygen från nationella kontrollanter inte är klara i tid. </p>
-    </list>
-    <p>
-      <em type="italic">Några råd på vägen: </em>
-    </p>
-    <list>
-      <p type="listitem">Förbered avslutandet av projektet i god tid före utsatt slutdatum.</p>
-      <p type="listitem">Påbörja skrivandet av slutrapporten i god tid innan den ska lämnas in. Reflektera över vad som har gått bra och vad som kanske inte har fungerat som det var tänkt. Projektens huvudaktiviteter kan pågå till och med den 31 maj 2014, den sista månaden i projekttiden är avsedd för avslutande aktiviteter som att skriva slutrapport.</p>
-      <p type="listitem">Tänk på att alla kostnader ska vara betalda senast 30 juni 2014 för att berättiga till stöd.</p>
-      <p type="listitem">Säkerställ att arkivering av originalverifikationer kan hållas till 31 augusti 2020.</p>
-      <p type="listitem">Säkerställ att de informations- och publicitetskrav som gäller för projektet har uppfyllts.</p>
-      <p type="listitem">Ta kontakt med handläggare på sekretariatet vid frågor och funderingar inför avslut.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>241</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/74787</origFileName><parallel_text xml:lang="sme" location="75603.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Avslut av program 2007-2013 - Sametinget</p>
+<p type="title">Avslut av program 2007-2013</p>
+<p>Programperioden 2007-2013 närmar sig sitt slut och det är dags för projekten att göra projektavslut.</p>
+<p>Viktiga datum att komma ihåg och förbereda inför:</p>
+<list><p type="listitem"><em type="italic">30 juni 2014 </em>Sista dagen för projektperiod i projekten. </p>
+<p type="listitem"><em type="italic">31 juli 2014 </em>Sista datum för att lämna in slutredovisning till nationell kontrollant. Hör av er till förvaltande myndighet för att begära anstånd med inlämning av redovisning om det på grund av semesterperioder är svårt att hinna till detta datum. </p>
+<p type="listitem"><em type="italic">31 oktober 2014 </em>Sista datum för att lämna in ansökan om slututbetalning. Hör av er till förvaltande myndighet för att begära anstånd med inlämning av ansökan om slututbetalning om slutintygen från nationella kontrollanter inte är klara i tid. </p>
+</list><p><em type="italic">Några råd på vägen: </em></p>
+<list><p type="listitem">Förbered avslutandet av projektet i god tid före utsatt slutdatum.</p>
+<p type="listitem">Påbörja skrivandet av slutrapporten i god tid innan den ska lämnas in. Reflektera över vad som har gått bra och vad som kanske inte har fungerat som det var tänkt. Projektens huvudaktiviteter kan pågå till och med den 31 maj 2014, den sista månaden i projekttiden är avsedd för avslutande aktiviteter som att skriva slutrapport.</p>
+<p type="listitem">Tänk på att alla kostnader ska vara betalda senast 30 juni 2014 för att berättiga till stöd.</p>
+<p type="listitem">Säkerställ att arkivering av originalverifikationer kan hållas till 31 augusti 2020.</p>
+<p type="listitem">Säkerställ att de informations- och publicitetskrav som gäller för projektet har uppfyllts.</p>
+<p type="listitem">Ta kontakt med handläggare på sekretariatet vid frågor och funderingar inför avslut.</p>
+</list></body></document>

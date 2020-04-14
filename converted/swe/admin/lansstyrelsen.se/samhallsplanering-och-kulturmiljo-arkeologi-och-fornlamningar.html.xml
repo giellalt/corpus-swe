@@ -1,40 +1,14 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>352</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/arkeologi-och-fornlamningar/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Arkeologi och fornlämningar - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Arkeologi och fornlämningar</p>
-    <p>
-      <em type="italic">Fornlämningar är spår efter äldre mänsklig verksamhet och skyddas av kulturmiljölagen (1988:950). Enligt lagen är det förbjudet att förändra, ta bort, skada eller täcka över en fornlämning men i vissa fall kan Länsstyrelsen ge tillstånd till ingrepp i fornlämningen. </em>
-    </p>
-    <p type="title">Ny lag 1 januari 2014</p>
-    <p>Den 1 januari 2014 trädde kulturmiljölagen (1988:950) i sin nya lydelse i kraft. På Riksantikvarieämbetets webbplats kan du läsa mer om de förändringar som lagen innebär .</p>
-    <p type="title">Tillstånd av Länsstyrelsen</p>
-    <p>Länsstyrelsen är tillsynsmyndighet över länets fornlämningar. Uppdraget består i att skydda, vårda, informera om och öka tillgängligheten till våra fornlämningsmiljöer, så att både dagens och morgondagens generationer kan förstå och uppleva det historiska kulturarvet. Vi prövar ansökningar och ger tillstånd till förändringar i ett fornlämningsområde.</p>
-    <p type="title">Vad är en fornlämning?</p>
-    <p>Fornlämningar är spåren efter en varaktigt övergiven mänsklig verksamhet. Det kan till exempel vara boplatser, gravfält, ruiner och kulturlager i medeltida städer. Nytt från 1 januari 2014 är att en lämning som kan antas ha tillkommit år 1850 eller senare inte omfattas av det allmänna skyddet för fornlämningar. Länsstyrelsen kan fornlämningsförklara lämningar som är yngre än 1850 om det finns särskilda skäl med hänsyn till dess kulturhistoriska värde.</p>
-    <p type="title">Fornlämningarnas lagskydd</p>
-    <p>Fornlämningar har ett automatiskt skydd genom kulturmiljölagen. Det innebär att en nyupptäckt fornlämning har ett omedelbart skydd utan att det behövs något myndighetsbeslut om det. Om du vid pågående arbete upptäcker äldre lämningar ska arbetet omedelbart avbrytas och Länsstyrelsen kontaktas. Lagskyddet gäller även för markområdet runt lämningen, och områdets storlek beror på fornlämningens betydelse och karaktär. En boplats har till exempel ett större skyddsområde än en milsten vid vägkanten.</p>
-    <p type="title">Arkeologiska undersökningar</p>
-    <p>Om du planerar ett arbete som kan störa eller förstöra en fornlämning, exempelvis genom nedgrävning av kabel eller nybyggnad av hus kan Länsstyrelsen begära att du som exploatör ska bekosta arkeologiska undersökningar. Undersökningsresultatet utgör underlag för vårt tillståndsbeslut och är en dokumentation av undersökningen och av fornlämningen med dess fynd. Inför mer omfattande arbeten, till exempel bygge av ny väg kan vi kräva att exploatören bekostar en utredning för att se om några tidigare okända fornlämningar kan beröras.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>352</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/arkeologi-och-fornlamningar/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Arkeologi och fornlämningar - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Arkeologi och fornlämningar</p>
+<p><em type="italic">Fornlämningar är spår efter äldre mänsklig verksamhet och skyddas av kulturmiljölagen (1988:950). Enligt lagen är det förbjudet att förändra, ta bort, skada eller täcka över en fornlämning men i vissa fall kan Länsstyrelsen ge tillstånd till ingrepp i fornlämningen. </em></p>
+<p type="title">Ny lag 1 januari 2014</p>
+<p>Den 1 januari 2014 trädde kulturmiljölagen (1988:950) i sin nya lydelse i kraft. På Riksantikvarieämbetets webbplats kan du läsa mer om de förändringar som lagen innebär .</p>
+<p type="title">Tillstånd av Länsstyrelsen</p>
+<p>Länsstyrelsen är tillsynsmyndighet över länets fornlämningar. Uppdraget består i att skydda, vårda, informera om och öka tillgängligheten till våra fornlämningsmiljöer, så att både dagens och morgondagens generationer kan förstå och uppleva det historiska kulturarvet. Vi prövar ansökningar och ger tillstånd till förändringar i ett fornlämningsområde.</p>
+<p type="title">Vad är en fornlämning?</p>
+<p>Fornlämningar är spåren efter en varaktigt övergiven mänsklig verksamhet. Det kan till exempel vara boplatser, gravfält, ruiner och kulturlager i medeltida städer. Nytt från 1 januari 2014 är att en lämning som kan antas ha tillkommit år 1850 eller senare inte omfattas av det allmänna skyddet för fornlämningar. Länsstyrelsen kan fornlämningsförklara lämningar som är yngre än 1850 om det finns särskilda skäl med hänsyn till dess kulturhistoriska värde.</p>
+<p type="title">Fornlämningarnas lagskydd</p>
+<p>Fornlämningar har ett automatiskt skydd genom kulturmiljölagen. Det innebär att en nyupptäckt fornlämning har ett omedelbart skydd utan att det behövs något myndighetsbeslut om det. Om du vid pågående arbete upptäcker äldre lämningar ska arbetet omedelbart avbrytas och Länsstyrelsen kontaktas. Lagskyddet gäller även för markområdet runt lämningen, och områdets storlek beror på fornlämningens betydelse och karaktär. En boplats har till exempel ett större skyddsområde än en milsten vid vägkanten.</p>
+<p type="title">Arkeologiska undersökningar</p>
+<p>Om du planerar ett arbete som kan störa eller förstöra en fornlämning, exempelvis genom nedgrävning av kabel eller nybyggnad av hus kan Länsstyrelsen begära att du som exploatör ska bekosta arkeologiska undersökningar. Undersökningsresultatet utgör underlag för vårt tillståndsbeslut och är en dokumentation av undersökningen och av fornlämningen med dess fynd. Inför mer omfattande arbeten, till exempel bygge av ny väg kan vi kräva att exploatören bekostar en utredning för att se om några tidigare okända fornlämningar kan beröras.</p>
+</body></document>

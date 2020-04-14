@@ -1,76 +1,42 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>353</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/planfragor/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-planfragor.html"/>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-planfragor.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Plan- och byggfrågor - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Plan- och byggfrågor</p>
-    <p>
-      <em type="italic">Kommunen ansvarar för planeringen av mark och vatten </em>
-    </p>
-    <p>Det är ett kommunalt ansvar att upprätta detalj- och översiktsplaner och behandla ansökningar om lov enligt plan- och bygglagen (PBL). De flesta kommuner har bra information om detta på sin webbplats.</p>
-    <p>
-      <em type="italic">Länsstyrelsen ger råd och stöd </em>
-    </p>
-    <p>Vi förser kommunerna med underlag för deras beslut i plan- och bygglovärenden, till exempel uppgifter om natur- och kulturvärden, förorenad mark samt ras- och översvämningsrisker. Länsstyrelsen informerar om lagändringar och lagtolkning, samt om nationella mål, planer och program, som har betydelse för en hållbar utveckling. Vi följer upp kommunernas tillämpning av PBL och rapporterar utvecklingstendenser i länet till Boverket och regeringen.</p>
-    <p>
-      <em type="italic">Länsstyrelsen bevakar särskilda frågor under planprocessen </em>
-    </p>
-    <p>Under planprocessen bevakar vi att kommunen tagit tillräcklig hänsyn till riksintressen, miljökvalitetsnormer, strandskydd, mellankommunala frågor samt hälsa och säkerhet. Om kommunen antar en detaljplan eller områdesbestämmelser, som strider mot något av dessa intressen, kan länsstyrelsen upphäva beslutet.</p>
-    <p>
-      <em type="italic">Länsstyrelsen behandlar överklaganden från enskilda </em>
-    </p>
-    <p>Den, som är berörd av ett kommunalt myndighetsbeslut enligt PBL, kan överklaga beslutet till länsstyrelsen. Vi granskar då om beslutet följer bestämmelserna i PBL. Överklagandet ska dock skickas till kommunen som därefter skickar in ärendet till länsstyrelsen.</p>
-    <p>
-      <em type="italic">Länsstyrelsen ger kommunerna tillsynsvägledning </em>
-    </p>
-    <p>Kommunen ska se till att allmänhet och byggherrar följer plan- och bygglagen. Vi ger vägledning angående denna tillsyn. Länsstyrelsen har inte tillsyn över enskilda ärenden.</p>
-    <p><em type="italic">Allmän information om plan- och bygglagen </em>finns på Boverkets webbplats pblkunskapsbanken . </p>
-    <p type="title">Kontakta oss</p>
-    <p>Frida Ryhag</p>
-    <p>Länsarkitekt</p>
-    <p>Frida punkt Ryhag snabela lansstyrelsen punkt se¤Frida punkt Ryhag snabela lansstyrelsen punkt se</p>
-    <p>010-2250458</p>
-    <p>Inger Friman</p>
-    <p>Planarkitekt</p>
-    <p>Inger punkt Friman snabela lansstyrelsen punkt se¤Inger punkt Friman snabela lansstyrelsen punkt se</p>
-    <p>010-2250433</p>
-    <p>Margareta Björck</p>
-    <p>Planarkitekt</p>
-    <p>margareta punkt bjorck snabela lansstyrelsen punkt se¤margareta punkt bjorck snabela lansstyrelsen punkt se</p>
-    <p>010-2250426</p>
-    <p>Linn Persson</p>
-    <p>Planarkitekt</p>
-    <p>linn punkt persson snabela lansstyrelsen punkt se¤linn punkt persson snabela lansstyrelsen punkt se</p>
-    <p>010-2250490</p>
-    <p>Erik Thorvaldsson</p>
-    <p>Planarkitekt</p>
-    <p>erik punkt thorvaldsson snabela lansstyrelsen punkt se¤erik punkt thorvaldsson snabela lansstyrelsen punkt se</p>
-    <p>010-2250489</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>353</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/planfragor/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-planfragor.html"/><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-planfragor.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Plan- och byggfrågor - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Plan- och byggfrågor</p>
+<p><em type="italic">Kommunen ansvarar för planeringen av mark och vatten </em></p>
+<p>Det är ett kommunalt ansvar att upprätta detalj- och översiktsplaner och behandla ansökningar om lov enligt plan- och bygglagen (PBL). De flesta kommuner har bra information om detta på sin webbplats.</p>
+<p><em type="italic">Länsstyrelsen ger råd och stöd </em></p>
+<p>Vi förser kommunerna med underlag för deras beslut i plan- och bygglovärenden, till exempel uppgifter om natur- och kulturvärden, förorenad mark samt ras- och översvämningsrisker. Länsstyrelsen informerar om lagändringar och lagtolkning, samt om nationella mål, planer och program, som har betydelse för en hållbar utveckling. Vi följer upp kommunernas tillämpning av PBL och rapporterar utvecklingstendenser i länet till Boverket och regeringen.</p>
+<p><em type="italic">Länsstyrelsen bevakar särskilda frågor under planprocessen </em></p>
+<p>Under planprocessen bevakar vi att kommunen tagit tillräcklig hänsyn till riksintressen, miljökvalitetsnormer, strandskydd, mellankommunala frågor samt hälsa och säkerhet. Om kommunen antar en detaljplan eller områdesbestämmelser, som strider mot något av dessa intressen, kan länsstyrelsen upphäva beslutet.</p>
+<p><em type="italic">Länsstyrelsen behandlar överklaganden från enskilda </em></p>
+<p>Den, som är berörd av ett kommunalt myndighetsbeslut enligt PBL, kan överklaga beslutet till länsstyrelsen. Vi granskar då om beslutet följer bestämmelserna i PBL. Överklagandet ska dock skickas till kommunen som därefter skickar in ärendet till länsstyrelsen.</p>
+<p><em type="italic">Länsstyrelsen ger kommunerna tillsynsvägledning </em></p>
+<p>Kommunen ska se till att allmänhet och byggherrar följer plan- och bygglagen. Vi ger vägledning angående denna tillsyn. Länsstyrelsen har inte tillsyn över enskilda ärenden.</p>
+<p><em type="italic">Allmän information om plan- och bygglagen </em>finns på Boverkets webbplats pblkunskapsbanken . </p>
+<p type="title">Kontakta oss</p>
+<p>Frida Ryhag</p>
+<p>Länsarkitekt</p>
+<p>Frida punkt Ryhag snabela lansstyrelsen punkt se¤Frida punkt Ryhag snabela lansstyrelsen punkt se</p>
+<p>010-2250458</p>
+<p>Inger Friman</p>
+<p>Planarkitekt</p>
+<p>Inger punkt Friman snabela lansstyrelsen punkt se¤Inger punkt Friman snabela lansstyrelsen punkt se</p>
+<p>010-2250433</p>
+<p>Margareta Björck</p>
+<p>Planarkitekt</p>
+<p>margareta punkt bjorck snabela lansstyrelsen punkt se¤margareta punkt bjorck snabela lansstyrelsen punkt se</p>
+<p>010-2250426</p>
+<p>Linn Persson</p>
+<p>Planarkitekt</p>
+<p>linn punkt persson snabela lansstyrelsen punkt se¤linn punkt persson snabela lansstyrelsen punkt se</p>
+<p>010-2250490</p>
+<p>Erik Thorvaldsson</p>
+<p>Planarkitekt</p>
+<p>erik punkt thorvaldsson snabela lansstyrelsen punkt se¤erik punkt thorvaldsson snabela lansstyrelsen punkt se</p>
+<p>010-2250489</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

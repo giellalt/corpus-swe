@@ -1,37 +1,10 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>446</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1060</origFileName>
-    <parallel_text xml:lang="sma" location="2232.html"/>
-    <parallel_text xml:lang="sme" location="5056.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sameröstlängden - Sametinget</p>
-    <p type="title">Sameröstlängd</p>
-    <p>Här ser du vad som gäller för att bli upptagen i den samiska röstlängden. För att ha rätt att rösta i valet måste du om du inte är registrerad, anmäla dig före 20 oktober året före valåret.</p>
-    <p>Skriv ut blankett  Klicka på länken för vald blankett till höger på denna sida. Skriv ut blanketten, fyll i dina uppgifter, skriv under och posta den till Sametingets kansli, Box 90, 981 22 Giron/Kiruna. Beställ blankett  Om du inte kan skriva ut blanketten, skicka ett e-mail med namn och adress till kansli@sametinget.se med texten <span type="quote">”Jag vill ha blanketten till sameröstlängden skickad till mig”</span>. Eller ring 0980-780 30 och beställ en blankett. Uppge på vilket språk och glöm inte namn och adress!</p>
-    <p>Vilka blir upptagna i sameröstlängden?</p>
-    <list>
-      <p type="listitem">Om du har en förälder som är eller har varit upptagen i sameröstlängden räcker det med att ange förälderns namn.</p>
-    </list>
-    <list>
-      <p type="listitem">Annars gäller enligt sametingslagen (1 kap. 2 §) två kriterier. Det ena är ett subjektivt kriterium, att du själv anser dig vara same. Det andra är ett objektivt kriterium som har med det samiska språket att göra. Antingen att du själv har eller har haft samiska som språk i hemmet, eller att någon av dina föräldrar har eller har haft det, eller att någon av dina mor- eller farföräldrar har eller har haft samiska som språk i hemmet. Det är alltså viktigt att du på något sätt gör sannolikt att den person du hänvisar till har kunnat samiska. På vilket sätt du gör det kan variera.</p>
-    </list>
-    <p>Beslut  Det är Sametingets valnämnd som fattar beslut om du kan upptas i röstlängden. Beslutet kan överklagas. <em type="italic">Preliminär röstlängd </em>En preliminär sameröstlängd upprättas senast den 15 november året före valåret. Den preliminära röstlängden hålls tillgänglig för granskning på de platser som den centrala valmyndigheten i samråd med Sametinget bestämmer. Sameröstlängden skall innehålla uppgifter om samer som tidigare varit upptagna i sameröstlängden och inte begärt att bli avförda ur den och samer som anmält sig enligt 4 § och uppfyller villkoren enligt 3 §. Närmare information annonseras i pressen och publiceras på vår hemsida. <em type="italic">Överklagan </em>Den som anmält sig men inte upptagits i den preliminära sameröstlängden kan överklaga det. Var och en som har upptagits i den preliminära röstlängden kan även överklaga att någon annan har upptagits i röstlängden. Överklagandet skall ha kommit in till länsstyrelsen i det län där Sametinget har sitt säte (Norrbottens län) senast den 15 december året före valåret. Överklagandet av beslutet om den preliminära sameröstlängden prövas vid offentligt sammanträde hos länsstyrelsen den 15 februari valåret, eller om denna dag är en lördag eller söndag, närmast följande måndag. </p>
-    <p><em type="italic">Slutlig sameröstlängd </em>Slutlig sameröstlängd ska vara upprättad senast den 1 mars valåret. </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>446</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1060</origFileName><parallel_text xml:lang="sma" location="2232.html"/><parallel_text xml:lang="sme" location="5056.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sameröstlängden - Sametinget</p>
+<p type="title">Sameröstlängd</p>
+<p>Här ser du vad som gäller för att bli upptagen i den samiska röstlängden. För att ha rätt att rösta i valet måste du om du inte är registrerad, anmäla dig före 20 oktober året före valåret.</p>
+<p>Skriv ut blankett  Klicka på länken för vald blankett till höger på denna sida. Skriv ut blanketten, fyll i dina uppgifter, skriv under och posta den till Sametingets kansli, Box 90, 981 22 Giron/Kiruna. Beställ blankett  Om du inte kan skriva ut blanketten, skicka ett e-mail med namn och adress till kansli@sametinget.se med texten <span type="quote">”Jag vill ha blanketten till sameröstlängden skickad till mig”</span>. Eller ring 0980-780 30 och beställ en blankett. Uppge på vilket språk och glöm inte namn och adress!</p>
+<p>Vilka blir upptagna i sameröstlängden?</p>
+<list><p type="listitem">Om du har en förälder som är eller har varit upptagen i sameröstlängden räcker det med att ange förälderns namn.</p>
+</list><list><p type="listitem">Annars gäller enligt sametingslagen (1 kap. 2 §) två kriterier. Det ena är ett subjektivt kriterium, att du själv anser dig vara same. Det andra är ett objektivt kriterium som har med det samiska språket att göra. Antingen att du själv har eller har haft samiska som språk i hemmet, eller att någon av dina föräldrar har eller har haft det, eller att någon av dina mor- eller farföräldrar har eller har haft samiska som språk i hemmet. Det är alltså viktigt att du på något sätt gör sannolikt att den person du hänvisar till har kunnat samiska. På vilket sätt du gör det kan variera.</p>
+</list><p>Beslut  Det är Sametingets valnämnd som fattar beslut om du kan upptas i röstlängden. Beslutet kan överklagas. <em type="italic">Preliminär röstlängd </em>En preliminär sameröstlängd upprättas senast den 15 november året före valåret. Den preliminära röstlängden hålls tillgänglig för granskning på de platser som den centrala valmyndigheten i samråd med Sametinget bestämmer. Sameröstlängden skall innehålla uppgifter om samer som tidigare varit upptagna i sameröstlängden och inte begärt att bli avförda ur den och samer som anmält sig enligt 4 § och uppfyller villkoren enligt 3 §. Närmare information annonseras i pressen och publiceras på vår hemsida. <em type="italic">Överklagan </em>Den som anmält sig men inte upptagits i den preliminära sameröstlängden kan överklaga det. Var och en som har upptagits i den preliminära röstlängden kan även överklaga att någon annan har upptagits i röstlängden. Överklagandet skall ha kommit in till länsstyrelsen i det län där Sametinget har sitt säte (Norrbottens län) senast den 15 december året före valåret. Överklagandet av beslutet om den preliminära sameröstlängden prövas vid offentligt sammanträde hos länsstyrelsen den 15 februari valåret, eller om denna dag är en lördag eller söndag, närmast följande måndag. </p>
+<p><em type="italic">Slutlig sameröstlängd </em>Slutlig sameröstlängd ska vara upprättad senast den 1 mars valåret. </p>
+</body></document>

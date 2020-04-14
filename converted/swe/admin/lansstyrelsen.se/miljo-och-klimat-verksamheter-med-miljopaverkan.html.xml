@@ -1,52 +1,24 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>355</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/miljo-och-klimat/verksamheter-med-miljopaverkan/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="miljo-och-klimat-verksamheter-med-miljopaverkan.html"/>
-    <parallel_text xml:lang="sma" location="miljo-och-klimat-verksamheter-med-miljopaverkan.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Verksamheter med miljöpåverkan - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Verksamheter med miljöpåverkan</p>
-    <p>
-      <em type="italic">En del verksamheter med miljöpåverkan måste ha tillstånd från eller anmälas till länsstyrelsen. Vi undersöker tidigare generationers föroreningar i mark och vatten samt arbetar med att åtgärda förorenade områden. </em>
-    </p>
-    <p type="title">Miljöfarliga verksamheter</p>
-    <p>Länsstyrelsen prövar och utövar tillsyn över miljöfarliga verksamheter enligt miljöbalken samt enligt följdförfattningar såsom förordningen (1998:899) om miljöfarlig verksamhet och hälsoskydd, miljöprövningsförordningen (2013:251) samt industriutsläppsförordningen (2013:250).</p>
-    <p>Exempel på miljöfarliga verksamheter:</p>
-    <list>
-      <p type="listitem">ytbehandlingsanläggningar</p>
-      <p type="listitem">gjuterier</p>
-      <p type="listitem">pappersbruk</p>
-      <p type="listitem">vindkraftverk, värmeverk och andra energianläggningar</p>
-      <p type="listitem">sågverk</p>
-      <p type="listitem">avfallsanläggningar</p>
-      <p type="listitem">avloppsreningsverk</p>
-      <p type="listitem">grus- och bergtäkter</p>
-      <p type="listitem">gruvor</p>
-    </list>
-    <p>Vid 12 av landets länsstyrelser finns särskilda miljöprövningsdelegationer som prövar ansökningar om tillstånd för miljöfarliga verksamheter enligt miljöbalken. Miljöprövningsdelegationerna har en självständig beslutsfunktion och det betyder att tillståndsprövningen inom länsstyrelsen är skild från det tillsynsansvar som vi också har enligt miljöbalken. I varje kommun finns också en kommunal miljömyndighet som sköter den lokala tillsynen av miljöfarliga verksamheter enligt miljöbalken. Länsstyrelserna ger stöd och råd till de kommunala miljömyndigheterna samt följer upp och utvärderar deras verksamhet inom ramen för vårt arbete med tillsynsvägledning.</p>
-    <p type="title">Förorenade områden</p>
-    <p>Det finns ett mycket stort antal områden i landet som är förorenade, och många är så förorenade att miljön och människors hälsa kan komma till skada. I de flesta fall gäller det tidigare industrier som har lämnat farliga ämnen kvar i mark och vatten. Länsstyrelsen arbetar med att inventera dessa områden samt att samordna åtgärder av de mest förorenade områdena.</p>
-    <p type="title">Vattenverksamhet</p>
-    <p>Vattenverksamhet är benämningen på verksamheter och åtgärder som förändrar vattnets djup eller läge, avvattnar mark, leder bort grundvatten eller ökar grundvattenmängden genom tillförsel av vatten. I allmänhet måste du söka tillstånd för eller anmäla sådana verksamheter eller åtgärder hos länsstyrelsen. Exempel på vattenverksamhet är kraftverks- och regleringsdammar, olika byggen i vatten såsom broar och tunnlar, muddring och vattenuttag för exempelvis dricksvattenändamål och bevattning.</p>
-    <p>Vi sköter tillsyn över vattenverksamheter i länet.</p>
-    <p type="title">Samråd enligt 12 kap 6 § miljöbalken</p>
-    <p>För åtgärder som inte är tillståndspliktiga eller anmälningspliktiga enligt andra regler i miljöbalken gäller i många fall skyldighet att anmäla åtgärden för samråd till tillsynsmyndigheten. Om Du är osäker på om en verksamhet eller åtgärd i naturen behöver anmälas för samråd, kontakta gärna tillsynsmyndigheten för ett förhandsbesked.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>355</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/miljo-och-klimat/verksamheter-med-miljopaverkan/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="miljo-och-klimat-verksamheter-med-miljopaverkan.html"/><parallel_text xml:lang="sma" location="miljo-och-klimat-verksamheter-med-miljopaverkan.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Verksamheter med miljöpåverkan - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Verksamheter med miljöpåverkan</p>
+<p><em type="italic">En del verksamheter med miljöpåverkan måste ha tillstånd från eller anmälas till länsstyrelsen. Vi undersöker tidigare generationers föroreningar i mark och vatten samt arbetar med att åtgärda förorenade områden. </em></p>
+<p type="title">Miljöfarliga verksamheter</p>
+<p>Länsstyrelsen prövar och utövar tillsyn över miljöfarliga verksamheter enligt miljöbalken samt enligt följdförfattningar såsom förordningen (1998:899) om miljöfarlig verksamhet och hälsoskydd, miljöprövningsförordningen (2013:251) samt industriutsläppsförordningen (2013:250).</p>
+<p>Exempel på miljöfarliga verksamheter:</p>
+<list><p type="listitem">ytbehandlingsanläggningar</p>
+<p type="listitem">gjuterier</p>
+<p type="listitem">pappersbruk</p>
+<p type="listitem">vindkraftverk, värmeverk och andra energianläggningar</p>
+<p type="listitem">sågverk</p>
+<p type="listitem">avfallsanläggningar</p>
+<p type="listitem">avloppsreningsverk</p>
+<p type="listitem">grus- och bergtäkter</p>
+<p type="listitem">gruvor</p>
+</list><p>Vid 12 av landets länsstyrelser finns särskilda miljöprövningsdelegationer som prövar ansökningar om tillstånd för miljöfarliga verksamheter enligt miljöbalken. Miljöprövningsdelegationerna har en självständig beslutsfunktion och det betyder att tillståndsprövningen inom länsstyrelsen är skild från det tillsynsansvar som vi också har enligt miljöbalken. I varje kommun finns också en kommunal miljömyndighet som sköter den lokala tillsynen av miljöfarliga verksamheter enligt miljöbalken. Länsstyrelserna ger stöd och råd till de kommunala miljömyndigheterna samt följer upp och utvärderar deras verksamhet inom ramen för vårt arbete med tillsynsvägledning.</p>
+<p type="title">Förorenade områden</p>
+<p>Det finns ett mycket stort antal områden i landet som är förorenade, och många är så förorenade att miljön och människors hälsa kan komma till skada. I de flesta fall gäller det tidigare industrier som har lämnat farliga ämnen kvar i mark och vatten. Länsstyrelsen arbetar med att inventera dessa områden samt att samordna åtgärder av de mest förorenade områdena.</p>
+<p type="title">Vattenverksamhet</p>
+<p>Vattenverksamhet är benämningen på verksamheter och åtgärder som förändrar vattnets djup eller läge, avvattnar mark, leder bort grundvatten eller ökar grundvattenmängden genom tillförsel av vatten. I allmänhet måste du söka tillstånd för eller anmäla sådana verksamheter eller åtgärder hos länsstyrelsen. Exempel på vattenverksamhet är kraftverks- och regleringsdammar, olika byggen i vatten såsom broar och tunnlar, muddring och vattenuttag för exempelvis dricksvattenändamål och bevattning.</p>
+<p>Vi sköter tillsyn över vattenverksamheter i länet.</p>
+<p type="title">Samråd enligt 12 kap 6 § miljöbalken</p>
+<p>För åtgärder som inte är tillståndspliktiga eller anmälningspliktiga enligt andra regler i miljöbalken gäller i många fall skyldighet att anmäla åtgärden för samråd till tillsynsmyndigheten. Om Du är osäker på om en verksamhet eller åtgärd i naturen behöver anmälas för samråd, kontakta gärna tillsynsmyndigheten för ett förhandsbesked.</p>
+</body></document>

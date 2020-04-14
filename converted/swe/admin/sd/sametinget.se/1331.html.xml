@@ -1,37 +1,11 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>289</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1331</origFileName>
-    <parallel_text xml:lang="sme" location="2845.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kansliet - Sametinget</p>
-    <p type="title">Sametingets kansli</p>
-    <p>Sametingets huvudkansli finns i Kiruna. Vi har även kontor i Jokkmokk, Tärnaby och Östersund.</p>
-    <p><em type="italic">Kanslichef </em>Sametingets kansli består av ett 50-tal statliga tjänstemän. Den högste tjänstemannen är kanslichefen som ska förse Sametingets styrelse med underlag för beslut och verkställa styrelsens beslut. Kanslichefen ska se till att verksamheten bedrivs effektivt och enligt gällande rätt. <em type="italic">Avdelningar </em>Direkt under kanslichefen finns kanslichefens stab. Kansliet är uppdelat i tre avdelningar: </p>
-    <list>
-      <p type="listitem">Avdelning för ekonomi &amp; administration</p>
-      <p type="listitem">Avdelning för språk-, kultur- och Samiskt Informationscentrum (SIC)</p>
-      <p type="listitem">Avdelning för samiskt näringsliv, miljö och samhälle</p>
-    </list>
-    <p><em type="italic">Verksamhet </em>Sametingets verksamhet spänner över vitt skilda områden som samiskt näringsliv, rennäring, rovdjursfrågor, landsbygdsutveckling, samhällsplanering, miljö och klimat, utbildning och forskning, främjande av samiska kulturyttringar och traditionell kunskap, kulturarvsfrågor, litteraturfrågor, språklig rådgivning, språklig revitalisering, metodutveckling, gränslöst samiskt samarbete, mänskliga rättigheter, minoritetsfrågor, internationella urfolksfrågor samt information om samer och samiska förhållanden. </p>
-    <p>
-      <em type="italic">Våra kontor: </em>
-    </p>
-    <p><em type="italic">Kiruna </em>Kanslichefen, avdelningscheferna för ekonomi och kultur, den centrala administrationen, den ekonomiska förvaltningen, kulturavdelningen, delar av näringslivsavdelningen och kanslichefens stab är placerade på huvudkontoret i Kiruna, liksom handläggningen för Interreg delprogram Sápmi och Landsbygdsprogrammet. <em type="italic">Jokkmokk </em>På lokalkontoret i Jokkmokk finns en lulesamisk språkkonsulent, en samisk bibliotekskonsulent och två näringshandläggare. En handläggare för landsbygdsprogrammet arbetar också i Jokkmokk. De har sina kontor på Ájtte fjäll- och samemuseum, där också Samernas bibliotek finns. <em type="italic">Tärnaby </em>I Tärnaby arbetar tre personer med bland annat ansvar för riksgränsstängsel och tjernobylersättningar. Den sydsamiske språkkonsulenten och två språkkonsulenter som tillhör Samiskt språkcentrum, har sitt kontor på Industrivägen bredvid busstationen. <em type="italic">Östersund </em>På lokalkontoret i Östersund arbetar enhetschefen för Landsbygdsprogrammet och två projektledare, en för Livsmiljöprogrammet Eallinbiras och en för statistikprojektet. Där finns Samiskt Informationscentrum (SIC) och Samiskt Språkcentrum, samt webbredaktören för minoritet.se. Sametingets lokalkontor ligger på andra våningen i Samernas Hus/Gaaltije (f d tullkammaren). </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>289</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1331</origFileName><parallel_text xml:lang="sme" location="2845.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kansliet - Sametinget</p>
+<p type="title">Sametingets kansli</p>
+<p>Sametingets huvudkansli finns i Kiruna. Vi har även kontor i Jokkmokk, Tärnaby och Östersund.</p>
+<p><em type="italic">Kanslichef </em>Sametingets kansli består av ett 50-tal statliga tjänstemän. Den högste tjänstemannen är kanslichefen som ska förse Sametingets styrelse med underlag för beslut och verkställa styrelsens beslut. Kanslichefen ska se till att verksamheten bedrivs effektivt och enligt gällande rätt. <em type="italic">Avdelningar </em>Direkt under kanslichefen finns kanslichefens stab. Kansliet är uppdelat i tre avdelningar: </p>
+<list><p type="listitem">Avdelning för ekonomi &amp; administration</p>
+<p type="listitem">Avdelning för språk-, kultur- och Samiskt Informationscentrum (SIC)</p>
+<p type="listitem">Avdelning för samiskt näringsliv, miljö och samhälle</p>
+</list><p><em type="italic">Verksamhet </em>Sametingets verksamhet spänner över vitt skilda områden som samiskt näringsliv, rennäring, rovdjursfrågor, landsbygdsutveckling, samhällsplanering, miljö och klimat, utbildning och forskning, främjande av samiska kulturyttringar och traditionell kunskap, kulturarvsfrågor, litteraturfrågor, språklig rådgivning, språklig revitalisering, metodutveckling, gränslöst samiskt samarbete, mänskliga rättigheter, minoritetsfrågor, internationella urfolksfrågor samt information om samer och samiska förhållanden. </p>
+<p><em type="italic">Våra kontor: </em></p>
+<p><em type="italic">Kiruna </em>Kanslichefen, avdelningscheferna för ekonomi och kultur, den centrala administrationen, den ekonomiska förvaltningen, kulturavdelningen, delar av näringslivsavdelningen och kanslichefens stab är placerade på huvudkontoret i Kiruna, liksom handläggningen för Interreg delprogram Sápmi och Landsbygdsprogrammet. <em type="italic">Jokkmokk </em>På lokalkontoret i Jokkmokk finns en lulesamisk språkkonsulent, en samisk bibliotekskonsulent och två näringshandläggare. En handläggare för landsbygdsprogrammet arbetar också i Jokkmokk. De har sina kontor på Ájtte fjäll- och samemuseum, där också Samernas bibliotek finns. <em type="italic">Tärnaby </em>I Tärnaby arbetar tre personer med bland annat ansvar för riksgränsstängsel och tjernobylersättningar. Den sydsamiske språkkonsulenten och två språkkonsulenter som tillhör Samiskt språkcentrum, har sitt kontor på Industrivägen bredvid busstationen. <em type="italic">Östersund </em>På lokalkontoret i Östersund arbetar enhetschefen för Landsbygdsprogrammet och två projektledare, en för Livsmiljöprogrammet Eallinbiras och en för statistikprojektet. Där finns Samiskt Informationscentrum (SIC) och Samiskt Språkcentrum, samt webbredaktören för minoritet.se. Sametingets lokalkontor ligger på andra våningen i Samernas Hus/Gaaltije (f d tullkammaren). </p>
+</body></document>

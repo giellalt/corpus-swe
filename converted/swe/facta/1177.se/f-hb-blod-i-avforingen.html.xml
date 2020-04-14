@@ -1,86 +1,34 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>894</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/F-HB-blod-i-avforingen</origFileName>
-    <parallel_text xml:lang="eng" location="blod_i_avforingen.html"/>
-    <parallel_text xml:lang="fin" location="blod_i_avforingen.html"/>
-    <parallel_text xml:lang="rus" location="blod_i_avforingen.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>F-HB, blod i avföringen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Cancer</p>
-    <list>
-      <p type="listitem">Cancerformer och fakta</p>
-      <p type="listitem">Första tiden efter beskedet</p>
-      <p type="listitem">Behandling vid cancer</p>
-      <p type="listitem">Att vara den som står bredvid</p>
-      <p type="listitem">Hjälp och stöd</p>
-      <p type="listitem">Barncancer</p>
-      <p type="listitem">Kris och sorg</p>
-      <p type="listitem">Andra språk/Translations</p>
-    </list>
-    <p type="title">F-HB, blod i avföringen</p>
-    <p type="title">Varför lämnar man provet?</p>
-    <p>F-Hb är ett prov som tas för att undersöka om det finns blod i avföringen . Man kan få lämna provet om man har fått besvär med tarmen, som till exempel förstoppning eller diarréer som inte går över av sig själv. Andra anledningar är blodbrist eller om man har gått ner i vikt utan att veta orsaken.</p>
-    <p>Provet kan ge vägledning till vad besvären beror på, och ger en möjlighet att hitta eventuella sjukdomar i tid så att man kan få rätt behandling.</p>
-    <p>Man får göra provet hemma och lämnar sedan in det på sin vårdmottagning eller skickar det till ett laboratorium för analys. Tarmbesvär är vanliga och därför är F-Hb ett prov som tas ofta.</p>
-    <p>
-      <em type="italic">Vad är F-Hb och var finns det? </em>
-    </p>
-    <p>När man lämnar avföringsprov är det hemoglobin, Hb, som visar att det finns blod i avföringen. Hb är ett järnhaltigt protein som ger blodet dess röda färg och som behövs för att blodet ska kunna transportera syre. F:et i F-Hb står för feces som är latin för avföring.</p>
-    <p>Det läcker alltid lite blod från de ytliga blodkärlen i tarmens slemhinna, ungefär 1-2 milliliter per dygn, som jämförelse rymmer en tesked 5 milliliter. Om man har en sjukdom i tarmen kan den blöda mer och blod kan då följa med i avföringen och ge utslag i testet för F-Hb.</p>
-    <p type="title">Så går det till</p>
-    <p>Man tar provet själv hemma och det bör göras vid minst tre olika tillfällen med någon eller några dagars mellanrum. Flera provtillfällen behövs eftersom mängden avföring varierar från dag till dag mellan olika människor, och därmed även mängden blod om man har en sjukdom. En blödning i tarmen kan också komma och gå och bara tillfälligt ge blod i avföringen.</p>
-    <p>
-      <em type="italic">Två slags tester </em>
-    </p>
-    <p>Det finns två typer av tester för F-Hb. Det ena är vanligare och kallas immunkemiskt test, medan det andra är en äldre form av test, så kallat peroxidastest.</p>
-    <p>Om man ska lämna ett peroxidastest kan det man äter ha betydelse för provresultatet. Därför ska man under minst tre dagar före provtagningen och under själva provtagningsdagarna</p>
-    <list>
-      <p type="listitem">äta fiberrik kost</p>
-      <p type="listitem">undvika mat som innehåller blod, framför allt rått eller halvrått kött, lever eller blodrätter</p>
-      <p type="listitem">undvika att äta färsk tomat, banan, rädisa, pepparrot, rova och sojabönor</p>
-      <p type="listitem">undvika stora mängder c-vitamin och järnmedicin.</p>
-    </list>
-    <p>Anvisningarna för vad man ska äta före ett peroxidastest kan variera lite beroende på vilken mottagning man besöker.</p>
-    <p>Man får alltid information från vårdpersonalen om hur man tar F-Hb-prov på rätt sätt.</p>
-    <p>
-      <em type="italic">Praktiska tips </em>
-    </p>
-    <p>När man ska ta avföringsprovet kan man lägga lite toalettpapper i toalettstolen, så att avföringen stannar och inte glider ner i vattnet. Själva provet tas genom att man sticker in provpinnen på flera ställen i avföringen. Man följer sedan anvisningarna för hur man ska förpacka och förvara provet. När alla prover är tagna tar man med dem till mottagningen eller laboratoriet. Man kan också bli anvisad att skicka in proverna med post till laboratoriet för analys. Rutinerna kan variera.</p>
-    <p>
-      <em type="italic">Ibland behöver man vänta med provtagningen </em>
-    </p>
-    <p>Kvinnor bör inte ta provet under menstruation, eftersom mensblod kan komma med i toaletten och på avföringen. Om man har hemorrojder som blöder kan det ge utslag på testet. Man bör därför vänta med provtagningen tills hemorrojderna har varit blödningsfria i några dagar.</p>
-    <p>Om man har blod i urinen och urin blandas med avföringen kan provresultatet påverkas. Man får då information från behandlande läkare om hur man ska ta provet.</p>
-    <p>
-      <em type="italic">Viktigt </em>
-    </p>
-    <p>Läkemedel som ökar risken för blödningar kan leda till en större mängd blod i mag-tarm-kanalen. Det gäller framför allt läkemedel som innehåller acetylsalicylsyra, till exempel Trombyl, Bamyl och Treo. Även andra läkemedel som tillhör gruppen cox-hämmare kan leda till ökade blödningar. Exempel på sådana läkemedel innehåller det verksamma ämnet diklofenak, ibumetin eller naproxen.Om man tar sådana läkemedel bör man därför alltid tala med den läkare som har ordinerat provet. Man kan behöva göra uppehåll med läkemedlet i samband med provtagningen.</p>
-    <p type="title">När får man svar?</p>
-    <p>Man brukar få svaret av sin läkare inom en vecka efter att man har lämnat in provet.</p>
-    <p>
-      <em type="italic">Vad betyder resultatet av provet? </em>
-    </p>
-    <p>Ett positivt svar innebär att det finns blod i avföringen. Om det inte går att hitta någon säker förklaring måste provsvaret alltid vägas samman med vilka symtom man har och kompletteras med andra prover och undersökningar för att se om det finns någon sjuklig förändring i tarmen. Tjocktarmen kan exempelvis bli undersökt med koloskopi ,  ändtarmen med rektoskopi och magsäck och tolvfingertarmen med gastroskopi .</p>
-    <p>Det är vanligt att det inte är en bakomliggande sjukdom som är orsaken. Det är bara ibland som det blod som hittats genom ett F-Hb-test är tecken på en allvarlig sjukdom. De vanligaste orsakerna till blod i avföringen är att man har hemorrojder eller sprickor i ändtarmsöppningen. Allvarliga orsaker är ovanliga men blir vanligare ju äldre man är.</p>
-    <p>Om svaret på avföringsprovet är negativt betyder det att det inte har hittats något blod i provet. Ett negativt prov betyder oftast att tarmens slemhinna är frisk. Men om läkaren ändå misstänker att det finns en bakomliggande sjukdom i tarmen så brukar man få gå igenom fler undersökningar för säkerhets skull.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>868</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/F-HB-blod-i-avforingen</origFileName><parallel_text xml:lang="eng" location="blod_i_avforingen.html"/><parallel_text xml:lang="fin" location="blod_i_avforingen.html"/><parallel_text xml:lang="rus" location="blod_i_avforingen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>F-HB, blod i avföringen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">F-HB, blod i avföringen</p>
+<p type="title">Varför lämnar man provet?</p>
+<p>F-Hb är ett prov som tas för att undersöka om det finns blod i avföringen . Man kan få lämna provet om man har fått besvär med tarmen, som till exempel förstoppning eller diarréer som inte går över av sig själv. Andra anledningar är blodbrist eller om man har gått ner i vikt utan att veta orsaken.</p>
+<p>Provet kan ge vägledning till vad besvären beror på, och ger en möjlighet att hitta eventuella sjukdomar i tid så att man kan få rätt behandling.</p>
+<p>Man får göra provet hemma och lämnar sedan in det på sin vårdmottagning eller skickar det till ett laboratorium för analys. Tarmbesvär är vanliga och därför är F-Hb ett prov som tas ofta.</p>
+<p><em type="italic">Vad är F-Hb och var finns det? </em></p>
+<p>När man lämnar avföringsprov är det hemoglobin, Hb, som visar att det finns blod i avföringen. Hb är ett järnhaltigt protein som ger blodet dess röda färg och som behövs för att blodet ska kunna transportera syre. F:et i F-Hb står för feces som är latin för avföring.</p>
+<p>Det läcker alltid lite blod från de ytliga blodkärlen i tarmens slemhinna, ungefär 1-2 milliliter per dygn, som jämförelse rymmer en tesked 5 milliliter. Om man har en sjukdom i tarmen kan den blöda mer och blod kan då följa med i avföringen och ge utslag i testet för F-Hb.</p>
+<p type="title">Så går det till</p>
+<p>Man tar provet själv hemma och det bör göras vid minst tre olika tillfällen med någon eller några dagars mellanrum. Flera provtillfällen behövs eftersom mängden avföring varierar från dag till dag mellan olika människor, och därmed även mängden blod om man har en sjukdom. En blödning i tarmen kan också komma och gå och bara tillfälligt ge blod i avföringen.</p>
+<p><em type="italic">Två slags tester </em></p>
+<p>Det finns två typer av tester för F-Hb. Det ena är vanligare och kallas immunkemiskt test, medan det andra är en äldre form av test, så kallat peroxidastest.</p>
+<p>Om man ska lämna ett peroxidastest kan det man äter ha betydelse för provresultatet. Därför ska man under minst tre dagar före provtagningen och under själva provtagningsdagarna</p>
+<list><p type="listitem">äta fiberrik kost</p>
+<p type="listitem">undvika mat som innehåller blod, framför allt rått eller halvrått kött, lever eller blodrätter</p>
+<p type="listitem">undvika att äta färsk tomat, banan, rädisa, pepparrot, rova och sojabönor</p>
+<p type="listitem">undvika stora mängder c-vitamin och järnmedicin.</p>
+</list><p>Anvisningarna för vad man ska äta före ett peroxidastest kan variera lite beroende på vilken mottagning man besöker.</p>
+<p>Man får alltid information från vårdpersonalen om hur man tar F-Hb-prov på rätt sätt.</p>
+<p><em type="italic">Praktiska tips </em></p>
+<p>När man ska ta avföringsprovet kan man lägga lite toalettpapper i toalettstolen, så att avföringen stannar och inte glider ner i vattnet. Själva provet tas genom att man sticker in provpinnen på flera ställen i avföringen. Man följer sedan anvisningarna för hur man ska förpacka och förvara provet. När alla prover är tagna tar man med dem till mottagningen eller laboratoriet. Man kan också bli anvisad att skicka in proverna med post till laboratoriet för analys. Rutinerna kan variera.</p>
+<p><em type="italic">Ibland behöver man vänta med provtagningen </em></p>
+<p>Kvinnor bör inte ta provet under menstruation, eftersom mensblod kan komma med i toaletten och på avföringen. Om man har hemorrojder som blöder kan det ge utslag på testet. Man bör därför vänta med provtagningen tills hemorrojderna har varit blödningsfria i några dagar.</p>
+<p>Om man har blod i urinen och urin blandas med avföringen kan provresultatet påverkas. Man får då information från behandlande läkare om hur man ska ta provet.</p>
+<p><em type="italic">Viktigt </em></p>
+<p>Läkemedel som ökar risken för blödningar kan leda till en större mängd blod i mag-tarm-kanalen. Det gäller framför allt läkemedel som innehåller acetylsalicylsyra, till exempel Trombyl, Bamyl och Treo. Även andra läkemedel som tillhör gruppen cox-hämmare kan leda till ökade blödningar. Exempel på sådana läkemedel innehåller det verksamma ämnet diklofenak, ibumetin eller naproxen.Om man tar sådana läkemedel bör man därför alltid tala med den läkare som har ordinerat provet. Man kan behöva göra uppehåll med läkemedlet i samband med provtagningen.</p>
+<p type="title">När får man svar?</p>
+<p>Man brukar få svaret av sin läkare inom en vecka efter att man har lämnat in provet.</p>
+<p><em type="italic">Vad betyder resultatet av provet? </em></p>
+<p>Ett positivt svar innebär att det finns blod i avföringen. Om det inte går att hitta någon säker förklaring måste provsvaret alltid vägas samman med vilka symtom man har och kompletteras med andra prover och undersökningar för att se om det finns någon sjuklig förändring i tarmen. Tjocktarmen kan exempelvis bli undersökt med koloskopi ,  ändtarmen med rektoskopi och magsäck och tolvfingertarmen med gastroskopi .</p>
+<p>Det är vanligt att det inte är en bakomliggande sjukdom som är orsaken. Det är bara ibland som det blod som hittats genom ett F-Hb-test är tecken på en allvarlig sjukdom. De vanligaste orsakerna till blod i avföringen är att man har hemorrojder eller sprickor i ändtarmsöppningen. Allvarliga orsaker är ovanliga men blir vanligare ju äldre man är.</p>
+<p>Om svaret på avföringsprovet är negativt betyder det att det inte har hittats något blod i provet. Ett negativt prov betyder oftast att tarmens slemhinna är frisk. Men om läkaren ändå misstänker att det finns en bakomliggande sjukdom i tarmen så brukar man få gå igenom fler undersökningar för säkerhets skull.</p>
+</body></document>

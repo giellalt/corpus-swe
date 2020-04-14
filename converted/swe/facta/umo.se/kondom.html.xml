@@ -1,85 +1,40 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>730</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Sex/Skydd-mot-konssjukdomar/Kondom</origFileName>
-    <parallel_text xml:lang="fin" location="kondomi.html"/>
-    <parallel_text xml:lang="fit" location="kontoomi.html"/>
-    <parallel_text xml:lang="sma" location="kondome.html"/>
-    <parallel_text xml:lang="sme" location="kondoma.html"/>
-    <parallel_text xml:lang="smj" location="buohtjaskuovddo.html"/>
-    <parallel_text location="karorakkepha.html" xml:lang="rmu"/>
-    <parallel_text location="kondom.html" xml:lang="rmy-rka"/>
-    <parallel_text location="kondomo.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="kondomi.html" xml:lang="rmf"/>
-    <parallel_text location="kondomi.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kondom</p>
-    <p>Alla undrar!  Vad undrar du?</p>
-    <p type="title">Kondom</p>
-    <p>En kondom är ett skydd av mycket tunn latex (gummi) som man kan sätta på en penis eller en sexleksak om man ska ha samlag.</p>
-    <p>» Texten finns på de nationella minoritetsspråken</p>
-    <p>Man kan använda kondom som skydd mot könssjukdomar vid olika sorters sex som slidsamlag, analsamlag och om man har munsex med en penis. Vid slidsamlag skyddar den även mot graviditet.</p>
-    <p>Man kan också använda kondom när man onanerar, om man tycker att det är skönt. Det är också ett sätt att bli bra på att sätta på den och att använda kondom.</p>
-    <p>Det finns kondomer i olika storlekar, former, färger och smaker. De flesta kondomer som finns att köpa i vanliga affärer är ganska lika, men att det går att hitta en stor variation av storlekar och former på nätet och i välsorterade sexbutiker.</p>
-    <p>Olika kondomer kan passa olika bra på olika penisar och därför kan det vara bra att testa sig fram för att hitta en kondom som man gillar.</p>
-    <p>De flesta kondomer är behandlade med glidmedel för att de ska vara sköna att använda och inte skava.</p>
-    <p>Om man är allergisk mot latex (gummi) kan man använda kondomer som är gjorda av plast.</p>
-    <p type="title">Hur använder man kondom?</p>
-    <p>Kondomen sätts på en penis som har stånd eller på en sexleksak. För att kondomen ska skydda mot könssjukdomar och graviditet är det viktigt att den är på under hela samlaget.</p>
-    <p>Om det kommer utlösning i kondomen ska man vara försiktig när man drar ur penisen så att ingen sperma läcker ut i slidan eller analen.</p>
-    <p>Man kan behöva öva en del på att sätta på en kondom på rätt sätt. Om man har en penis kan man öva genom att sätta på den när man onanerar. Om man inte har det kan man använda till exempel en dildo eller en morot att öva på.</p>
-    <p>Så här gör man för att sätta på en kondom på till exempel en penis eller en dildo:</p>
-    <list>
-      <p type="listitem">Öppna kondomförpackningen.</p>
-      <p type="listitem">Rulla upp kondomen en bit så att det syns åt vilket håll den ska rullas på.</p>
-      <p type="listitem">Om kondomen sätts på en penis ska den vara hård när kondomen rullas på.</p>
-      <p type="listitem">Om man har förhud ska den dras tillbaka.</p>
-      <p type="listitem">Lägg kondomen på toppen av ollonet, tryck med fingrarna på behållaren samtidigt som kondomen rullas ner för att ingen luft ska komma mellan penisen eller dildon och kondomen.</p>
-      <p type="listitem">När kondomen rullats ända ner, hasa då upp kondomen lite och dra ned den tills det inte finns något mer att rulla ut. Om kondomen sitter på en penis ska man dra ut den innan ståndet har lagt sig. Håll runt kondomen nere vid penisroten, när penis dras ut, så att kondomen inte åker av.</p>
-      <p type="listitem">Släng kondomen i soporna. Spola inte ner den i toaletten.</p>
-    </list>
-    <p type="title">Var kan man få tag på kondomer?</p>
-    <p>Kondomer brukar delas ut eller säljas på ungdomsmottagningar.</p>
-    <p>De finns också att köpa på bland annat apotek, i matbutiker, kiosker och på nätet. En större variation av kondomer finns i välsorterade sexbutiker och på nätet.</p>
-    <p type="title">Vad kostar kondomer?</p>
-    <p>Kondomer säljs oftast i paket med flera i. Hur mycket de kostar kan variera beroende på vilken sorts kondom man väljer och var man köper dem. På ungdomsmottagningar brukar kondomer delas ut gratis eller säljas till ett billigare pris.</p>
-    <p type="title">Hur säkert är kondom?</p>
-    <p>Kondom är ett säkert skydd mot både könssjukdomar och graviditet om den används på rätt sätt, under hela tiden man har samlag och varje gång man har samlag.</p>
-    <p>Kondomer ska förvaras i rumstemperatur och på en plats där det inte skaver mot något. Bra ställen att ha dem på är till exempel i en jackficka eller i en väska.</p>
-    <p>Om man har en kondom med sig i plånboken är det bra att byta ut den regelbundet, ungefär en gång i månaden. En kondom som är gammal eller uttorkad spricker lättare.</p>
-    <p>Det är bra att alltid kontrollera kondomens bäst före-datum. Latexkondomer håller i fem år om de är lufttätt förpackade och om de har förvarats på rätt sätt. En kondom som är gammal eller uttorkad spricker lättare.</p>
-    <p type="title">Fördelar</p>
-    <list>
-      <p type="listitem">Lätt att få tag på.</p>
-      <p type="listitem">Bra skydd mot könssjukdomar.</p>
-      <p type="listitem">Säkert skydd mot graviditet som inte påverkar kroppen.</p>
-    </list>
-    <p type="title">Nackdelar</p>
-    <list>
-      <p type="listitem">Man måste se till att ha dem till hands när man väl vill ha samlag.</p>
-      <p type="listitem">Man kan behöva en del övning innan den går lätt att sätta på och känns skön att använda.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>725</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Sex/Skydd-mot-konssjukdomar/Kondom</origFileName><parallel_text xml:lang="fin" location="kondomi.html"/><parallel_text xml:lang="fit" location="kontoomi.html"/><parallel_text xml:lang="sma" location="kondome.html"/><parallel_text xml:lang="sme" location="kondoma.html"/><parallel_text xml:lang="smj" location="buohtjaskuovddo.html"/><parallel_text location="karorakkepha.html" xml:lang="rmu"/><parallel_text location="kondom.html" xml:lang="rmy-rka"/><parallel_text location="kondomo.html" xml:lang="rmy-rlo"/><parallel_text location="kondomi.html" xml:lang="rmf"/><parallel_text location="kondomi.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kondom</p>
+<p type="title">Kondom</p>
+<p>En kondom är ett skydd av mycket tunn latex (gummi) som man kan sätta på en penis eller en sexleksak om man ska ha samlag.</p>
+<p>» Texten finns på de nationella minoritetsspråken</p>
+<p>Man kan använda kondom som skydd mot könssjukdomar vid olika sorters sex som slidsamlag, analsamlag och om man har munsex med en penis. Vid slidsamlag skyddar den även mot graviditet.</p>
+<p>Man kan också använda kondom när man onanerar, om man tycker att det är skönt. Det är också ett sätt att bli bra på att sätta på den och att använda kondom.</p>
+<p>Det finns kondomer i olika storlekar, former, färger och smaker. De flesta kondomer som finns att köpa i vanliga affärer är ganska lika, men att det går att hitta en stor variation av storlekar och former på nätet och i välsorterade sexbutiker.</p>
+<p>Olika kondomer kan passa olika bra på olika penisar och därför kan det vara bra att testa sig fram för att hitta en kondom som man gillar.</p>
+<p>De flesta kondomer är behandlade med glidmedel för att de ska vara sköna att använda och inte skava.</p>
+<p>Om man är allergisk mot latex (gummi) kan man använda kondomer som är gjorda av plast.</p>
+<p type="title">Hur använder man kondom?</p>
+<p>Kondomen sätts på en penis som har stånd eller på en sexleksak. För att kondomen ska skydda mot könssjukdomar och graviditet är det viktigt att den är på under hela samlaget.</p>
+<p>Om det kommer utlösning i kondomen ska man vara försiktig när man drar ur penisen så att ingen sperma läcker ut i slidan eller analen.</p>
+<p>Man kan behöva öva en del på att sätta på en kondom på rätt sätt. Om man har en penis kan man öva genom att sätta på den när man onanerar. Om man inte har det kan man använda till exempel en dildo eller en morot att öva på.</p>
+<p>Så här gör man för att sätta på en kondom på till exempel en penis eller en dildo:</p>
+<list><p type="listitem">Öppna kondomförpackningen.</p>
+<p type="listitem">Rulla upp kondomen en bit så att det syns åt vilket håll den ska rullas på.</p>
+<p type="listitem">Om kondomen sätts på en penis ska den vara hård när kondomen rullas på.</p>
+<p type="listitem">Om man har förhud ska den dras tillbaka.</p>
+<p type="listitem">Lägg kondomen på toppen av ollonet, tryck med fingrarna på behållaren samtidigt som kondomen rullas ner för att ingen luft ska komma mellan penisen eller dildon och kondomen.</p>
+<p type="listitem">När kondomen rullats ända ner, hasa då upp kondomen lite och dra ned den tills det inte finns något mer att rulla ut. Om kondomen sitter på en penis ska man dra ut den innan ståndet har lagt sig. Håll runt kondomen nere vid penisroten, när penis dras ut, så att kondomen inte åker av.</p>
+<p type="listitem">Släng kondomen i soporna. Spola inte ner den i toaletten.</p>
+</list><p type="title">Var kan man få tag på kondomer?</p>
+<p>Kondomer brukar delas ut eller säljas på ungdomsmottagningar.</p>
+<p>De finns också att köpa på bland annat apotek, i matbutiker, kiosker och på nätet. En större variation av kondomer finns i välsorterade sexbutiker och på nätet.</p>
+<p type="title">Vad kostar kondomer?</p>
+<p>Kondomer säljs oftast i paket med flera i. Hur mycket de kostar kan variera beroende på vilken sorts kondom man väljer och var man köper dem. På ungdomsmottagningar brukar kondomer delas ut gratis eller säljas till ett billigare pris.</p>
+<p type="title">Hur säkert är kondom?</p>
+<p>Kondom är ett säkert skydd mot både könssjukdomar och graviditet om den används på rätt sätt, under hela tiden man har samlag och varje gång man har samlag.</p>
+<p>Kondomer ska förvaras i rumstemperatur och på en plats där det inte skaver mot något. Bra ställen att ha dem på är till exempel i en jackficka eller i en väska.</p>
+<p>Om man har en kondom med sig i plånboken är det bra att byta ut den regelbundet, ungefär en gång i månaden. En kondom som är gammal eller uttorkad spricker lättare.</p>
+<p>Det är bra att alltid kontrollera kondomens bäst före-datum. Latexkondomer håller i fem år om de är lufttätt förpackade och om de har förvarats på rätt sätt. En kondom som är gammal eller uttorkad spricker lättare.</p>
+<p type="title">Fördelar</p>
+<list><p type="listitem">Lätt att få tag på.</p>
+<p type="listitem">Bra skydd mot könssjukdomar.</p>
+<p type="listitem">Säkert skydd mot graviditet som inte påverkar kroppen.</p>
+</list><p type="title">Nackdelar</p>
+<list><p type="listitem">Man måste se till att ha dem till hands när man väl vill ha samlag.</p>
+<p type="listitem">Man kan behöva en del övning innan den går lätt att sätta på och känns skön att använda.</p>
+</list></body></document>

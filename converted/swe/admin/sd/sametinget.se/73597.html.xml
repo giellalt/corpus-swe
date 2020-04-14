@@ -1,54 +1,18 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>488</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/73597</origFileName>
-    <parallel_text xml:lang="sme" location="73891.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Gruvor och mineraler i Sápmi - Sametinget</p>
-    <p type="title">Sametinget har enats om en gemensam gruvpolitik</p>
-    <p>Sametingets syn på mineraler och gruvor i Sápmi är ett samiskt ställningstagande hur naturresurser inom Sápmi ska hanteras.</p>
-    <p>Det är även ett inspel till regeringen och länen i deras utvecklingsarbete och till de myndigheter som på olika sätt beslutar i och bevakar frågor om miljö, näringslivsutveckling, samhällsbyggnad, resursanvändning och tillståndshantering.</p>
-    <p><em type="italic">En gemensam viljeinriktning </em>Efter flera års arbete har Sametingets plenum enats tvärpolitiskt om en gemensam hållning när det gäller mineraler och gruvor i Sápmi. </p>
-    <p>- Som jag ser det har vi arbetat med att försöka att konkretisera och förtydliga de ursprungliga dokumentet som behandlades under plenum i Umeå, som byggde på de remissvar som inkommit. Vi har även lagt till Gállok-uttalandet och Umeå-deklarationen. <em type="italic">Sametingets syn på mineraler och gruvor i Sápmi </em>har stötts och blötts och är nu en gemensam viljeinriktning i arbetet framåt som kommer att stärka alla samer, säger Marie Persson (LPSS) som suttit i arbetsgruppen för gruvpolicyn tillsammans med Matti Berg (SáR) och Josefina Skerk (JoF). <em type="italic">Nej till all exploatering tills dess att ILO 169 ratificerats </em>Det som framförallt tydliggjorts är varje sames enskilda rätt att säga nej till verksamheter som påverkar deras traditionella landområden, innan verksamheten påbörjas. </p>
-    <p>I talarstolen belyste Marie Persson att:</p>
-    <p>- Tills dess att ILO 169 och Nordisk samekonvention är ratificerad och implementerad i Sverige anser Sametinget att ytterligare mineralexploatering och prospektering av Sápmi INTE ska ske.</p>
-    <p>samt att</p>
-    <p>- Sametinget ska ha rätt till veto, berörda samer ska ha rätt till veto, berörda samebyar ska ha rätt till veto. För ett ja till en exploatering måste alla vara överens, det måste råda konsensus för att exploatering ska ske.</p>
-    <p>
-      <em type="italic">Sametingets syn på mineraler och gruvor bygger på följande grundläggande principer: </em>
-    </p>
-    <list>
-      <p type="listitem">
-        <em type="italic">Rätt till naturresurser och skydd </em>
-      </p>
-    </list>
-    <p>Principförklaringen bygger i mångt och mycket på Sametingets livsmiljöprogram <em type="italic">Eallinbiras. </em>Skrivningarna i FN:s Urfolkdeklaration artikel 26 lyfts fram; alla naturresurser över och under jord inom samernas traditionella områden, tillhör samerna. I artikel 27 har urfolken rätt till skydd för sin kultur. Bestämmelsen är absolut och skyddar samernas utövande av sin kultur, tro och traditionella näringar, tillika de moderna sätt som de traditionella näringarna utövas på och de områden och naturresurser som utgör basen för denna näringsutövning. </p>
-    <list>
-      <p type="listitem">
-        <em type="italic">Free, prior and informed consent </em>
-      </p>
-    </list>
-    <p>Principen om fritt och informerat samtycke <em type="italic">(free, prior and informed consent) </em>grundar sig i att urfolk har rätt att säga ja eller nej till verksamheter som påverkar deras traditionella landområden, innan verksamheten påbörjas. Det är en bärande princip i självbestämmanderätten. </p>
-    <list>
-      <p type="listitem">
-        <em type="italic">Svensk lagstiftning måste förändras </em>
-      </p>
-    </list>
-    <p>Minerallagen är en exploateringslag, där intentionen med lagstiftningen är att öka kunskapen om mineraltillgångarna och att tillgodose behovet av mineraler. Samernas rättigheter och intressen tillgodoses inte med dagens lagstiftning. Lagstiftningen säkerställer inte samernas rätt till självbestämmande och samernas rätt till mark och vatten respekteras inte. Minerallagen måste förändras och anpassas till samernas folkrättsliga rättigheter. Motsvarande förändringar måste göras i anslutande lagstiftningar, såsom miljöbalken och plan- och bygglagen.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>488</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/73597</origFileName><parallel_text xml:lang="sme" location="73891.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Gruvor och mineraler i Sápmi - Sametinget</p>
+<p type="title">Sametinget har enats om en gemensam gruvpolitik</p>
+<p>Sametingets syn på mineraler och gruvor i Sápmi är ett samiskt ställningstagande hur naturresurser inom Sápmi ska hanteras.</p>
+<p>Det är även ett inspel till regeringen och länen i deras utvecklingsarbete och till de myndigheter som på olika sätt beslutar i och bevakar frågor om miljö, näringslivsutveckling, samhällsbyggnad, resursanvändning och tillståndshantering.</p>
+<p><em type="italic">En gemensam viljeinriktning </em>Efter flera års arbete har Sametingets plenum enats tvärpolitiskt om en gemensam hållning när det gäller mineraler och gruvor i Sápmi. </p>
+<p>- Som jag ser det har vi arbetat med att försöka att konkretisera och förtydliga de ursprungliga dokumentet som behandlades under plenum i Umeå, som byggde på de remissvar som inkommit. Vi har även lagt till Gállok-uttalandet och Umeå-deklarationen. <em type="italic">Sametingets syn på mineraler och gruvor i Sápmi </em>har stötts och blötts och är nu en gemensam viljeinriktning i arbetet framåt som kommer att stärka alla samer, säger Marie Persson (LPSS) som suttit i arbetsgruppen för gruvpolicyn tillsammans med Matti Berg (SáR) och Josefina Skerk (JoF). <em type="italic">Nej till all exploatering tills dess att ILO 169 ratificerats </em>Det som framförallt tydliggjorts är varje sames enskilda rätt att säga nej till verksamheter som påverkar deras traditionella landområden, innan verksamheten påbörjas. </p>
+<p>I talarstolen belyste Marie Persson att:</p>
+<p>- Tills dess att ILO 169 och Nordisk samekonvention är ratificerad och implementerad i Sverige anser Sametinget att ytterligare mineralexploatering och prospektering av Sápmi INTE ska ske.</p>
+<p>samt att</p>
+<p>- Sametinget ska ha rätt till veto, berörda samer ska ha rätt till veto, berörda samebyar ska ha rätt till veto. För ett ja till en exploatering måste alla vara överens, det måste råda konsensus för att exploatering ska ske.</p>
+<p><em type="italic">Sametingets syn på mineraler och gruvor bygger på följande grundläggande principer: </em></p>
+<list><p type="listitem"><em type="italic">Rätt till naturresurser och skydd </em></p>
+</list><p>Principförklaringen bygger i mångt och mycket på Sametingets livsmiljöprogram <em type="italic">Eallinbiras. </em>Skrivningarna i FN:s Urfolkdeklaration artikel 26 lyfts fram; alla naturresurser över och under jord inom samernas traditionella områden, tillhör samerna. I artikel 27 har urfolken rätt till skydd för sin kultur. Bestämmelsen är absolut och skyddar samernas utövande av sin kultur, tro och traditionella näringar, tillika de moderna sätt som de traditionella näringarna utövas på och de områden och naturresurser som utgör basen för denna näringsutövning. </p>
+<list><p type="listitem"><em type="italic">Free, prior and informed consent </em></p>
+</list><p>Principen om fritt och informerat samtycke <em type="italic">(free, prior and informed consent) </em>grundar sig i att urfolk har rätt att säga ja eller nej till verksamheter som påverkar deras traditionella landområden, innan verksamheten påbörjas. Det är en bärande princip i självbestämmanderätten. </p>
+<list><p type="listitem"><em type="italic">Svensk lagstiftning måste förändras </em></p>
+</list><p>Minerallagen är en exploateringslag, där intentionen med lagstiftningen är att öka kunskapen om mineraltillgångarna och att tillgodose behovet av mineraler. Samernas rättigheter och intressen tillgodoses inte med dagens lagstiftning. Lagstiftningen säkerställer inte samernas rätt till självbestämmande och samernas rätt till mark och vatten respekteras inte. Minerallagen måste förändras och anpassas till samernas folkrättsliga rättigheter. Motsvarande förändringar måste göras i anslutande lagstiftningar, såsom miljöbalken och plan- och bygglagen.</p>
+</body></document>

@@ -1,83 +1,32 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>932</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Tema/Barn-och-foraldrar/Sjukdomar-och-besvar1/Sjukdomar-och-besvar-A-O/f12</origFileName>
-    <parallel_text xml:lang="eng" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fin" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Magsjuka hos småbarn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Barn och föräldrar</p>
-    <list>
-      <p type="listitem">Sjukdomar och besvär</p>
-      <p type="listitem">Mat, sömn och praktiska råd</p>
-      <p type="listitem">Skador och olycksfall</p>
-      <p type="listitem">Växa och utvecklas</p>
-      <p type="listitem">Barn och föräldrar i vården</p>
-      <p type="listitem">Familj och relationer</p>
-      <p type="listitem">Frågor och svar om barn</p>
-      <p type="listitem">Barnavdelningen</p>
-      <p type="listitem">Barnets tänder</p>
-      <p type="listitem">Läsare berättar</p>
-    </list>
-    <p type="title">Magsjuka hos småbarn - vad kan man göra själv?</p>
-    <list>
-      <p type="listitem">Barnet behöver vätska. Ibland kan det vara lättast att ge dryck med tesked och ge små mängder ofta.</p>
-    </list>
-    <p type="title">Besvären kommer snabbt</p>
-    <p>När barn är magsjuka är det vanligt att de kräks och har diarréer . De kan också ha ont i magen och feber . Magsjukan beror oftast på en infektion som orsakats av ett virus. Med små barn menas i den här texten barn upp till fem-sex år.</p>
-    <p>Besvären brukar börja ett par dagar efter att barnet har smittats och kommer snabbt. Ofta blir flera i familjen eller på förskolan sjuka. Vanligtvis går infektionen över på några dagar. Kräkningarna brukar upphöra inom ett dygn, men diarréerna kan fortsätta i en vecka.</p>
-    <p>Läs mer: kräkningar hos spädbarn 0-1 år , kräkningar hos barn över ett år</p>
-    <p type="title">Barn är känsligare för vätskeförluster</p>
-    <p>Man förlorar vätska och salter genom kräkningar och diarréer. Små barn är mycket känsligare för vätskeförluster än vuxna. Om ett litet barn förlorar mer vätska än det får i sig kan det snabbt bli sämre. Hög feber gör att barnet förlorar ännu mer vätska. Det är därför viktigt att ge dryck redan från allra första början av infektionen. De yngsta barnen är extra känsliga för vätskebrist.</p>
-    <p type="title">Om barnet ammas eller matas med flaska</p>
-    <p>Om barnet ammas ska man fortsätta med det. Man bör amma oftare än vanligt. Även om barnet fortsätter att kräkas bör man fortsätta att amma barnet ofta. Detsamma gäller för barn som matas med flaska. Om barnet inte vill suga kan man pröva med att mjölka ur elller pumpa ur och ge med sked. Man kan mjölka ur bröstet för hand eller med pump. Lämplig pump finns att köpa på apotek.</p>
-    <p>Om barnet har stora diarréer räcker det inte att barnet får bröstmjölk, barnet behöver då även få vätskeersättning.</p>
-    <p type="title">Vätskeersättning</p>
-    <p>Om barnet kräks mycket är vätskeersättning det bästa. Vätskeersättning för barn finns att köpa på apotek. Genom att vätskan innehåller salt återställs vätskebalansen i kroppen på ett bra sätt.</p>
-    <p>Om barnet kräks mycket behöver man ge ungefär två teskedar vätska var femte minut. Under ett dygn behövs mer vätska än vad man tror, till exempel kan en ettåring behöva drygt en liter.</p>
-    <p>I bland kanske barnet har lättare att få i sig annan dryck. Då får man försöka med det i stället, eftersom det viktigaste är att barnet får i sig vätska över huvud taget. Man bör dock undvika för söta drycker, som till exempel läsk och saft, eftersom alltför mycket socker kan ge mer diarré. Ge inte heller lightdrycker eftersom de inte innehåller något socker alls.</p>
-    <p type="title">När kräkningarna är över men diarréerna är kvar</p>
-    <p>Det är vanligt att kräkningarna först upphör medan diarréerna pågår ett tag till. Om barnet har diarré och om barnet ammas fortsätter man att amma som tidigare. Om barnet inte ammas, kan man ge modersmjölkersättning, ris- eller majsvälling beroende på barnets ålder. Börja med att ge små mängder åt gången för att se att barnet behåller maten.</p>
-    <p>När barnet vill börja äta är det bra att ge vanlig mat och blanda i extra fett. Om man vill pröva något som är stoppande så kan man ge morotssoppa, gjord på morotspuré och vatten till barn över sex månader. Tänk på att frukt ger lös avföring och vid svårare diarré bör man undvika fullkornsvälling. Vänta med fiberrika livsmedel tills barnet har blivit helt friskt.</p>
-    <p type="title">Om kräkningarna kommer tillbaka</p>
-    <p>Om kräkningarna kommer tillbaka igen, återgå till att ge vätskeersättning, men var samtidigt uppmärksam på om barnet börjar bli slött eller påverkat.</p>
-    <p type="title">Hur kan man förhindra smitta?</p>
-    <p>Eftersom magsjuka är mycket smittsamt är det bra om både barnet och resten av familjen tvättar händerna med flytande tvål före måltider och efter toalettbesök och att alla har egen handduk eller använder engångshandduk. Man kan också torka av toaletten ofta.</p>
-    <p>Om barnet har blöja är det bra att lägga använda blöjor i en plastpåse innan man slänger dem i soptunnan. Rengör skötbordet efter användning och tvätta händerna noggrant efter blöjbytet.</p>
-    <p>Barn ska vara hemma när kräks eller har diarré. Om barnet går i förskola eller familjedaghem kan det gå tillbaka dit när barnet äter som vanligt och inte har kräkts eller haft vattentunn diarré under minst två dygn. Barn som går i skolan ska stanna hemma i ett till två dygn efter att det har blivit friskt.</p>
-    <p type="title">Man kan behöva kontakta vården</p>
-    <p>Man ska söka vård på en vårdcentral eller en akutmottagning direkt om barnet har täta diarréer och kräkningar och visar tecken på vätskebrist, det vill säga är påtagligt trött och ointresserat av omgivningen, kissar lite eller sällan och inte orkar leka. Man bör även söka vård direkt om barnet förutom kräkningar och diarré har hög feber eller mycket ont i magen, eller om diarrén är blandad med blod eller slem.</p>
-    <p>Man ska ringa sjukvårdsrådgivningen eller kontakta en vårdcentral om barnet inte har blivit bättre inom ett dygn, eller om barnet efter en magsjuka är piggt men har haft lös avföring i mer än två veckor.</p>
-    <p>Om barn som är under sex månader får kräkningar och diarréer ska man alltid kontakta sjukvårdsrådgivningen eller en vårdcentral.</p>
-    <p>Om barnet har fått diarré i samband med en utlandsresa ska man kontakta en vårdcentral eller en barnläkarmottagning.</p>
-    <p>Det går alltid att ringa sjukvårdsrådgivningen på telefon 1177 för att få råd.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>897</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Tema/Barn-och-foraldrar/Sjukdomar-och-besvar1/Sjukdomar-och-besvar-A-O/f12</origFileName><parallel_text xml:lang="eng" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fin" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Magsjuka hos småbarn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Magsjuka hos småbarn - vad kan man göra själv?</p>
+<list><p type="listitem">Barnet behöver vätska. Ibland kan det vara lättast att ge dryck med tesked och ge små mängder ofta.</p>
+</list><p type="title">Besvären kommer snabbt</p>
+<p>När barn är magsjuka är det vanligt att de kräks och har diarréer . De kan också ha ont i magen och feber . Magsjukan beror oftast på en infektion som orsakats av ett virus. Med små barn menas i den här texten barn upp till fem-sex år.</p>
+<p>Besvären brukar börja ett par dagar efter att barnet har smittats och kommer snabbt. Ofta blir flera i familjen eller på förskolan sjuka. Vanligtvis går infektionen över på några dagar. Kräkningarna brukar upphöra inom ett dygn, men diarréerna kan fortsätta i en vecka.</p>
+<p>Läs mer: kräkningar hos spädbarn 0-1 år , kräkningar hos barn över ett år</p>
+<p type="title">Barn är känsligare för vätskeförluster</p>
+<p>Man förlorar vätska och salter genom kräkningar och diarréer. Små barn är mycket känsligare för vätskeförluster än vuxna. Om ett litet barn förlorar mer vätska än det får i sig kan det snabbt bli sämre. Hög feber gör att barnet förlorar ännu mer vätska. Det är därför viktigt att ge dryck redan från allra första början av infektionen. De yngsta barnen är extra känsliga för vätskebrist.</p>
+<p type="title">Om barnet ammas eller matas med flaska</p>
+<p>Om barnet ammas ska man fortsätta med det. Man bör amma oftare än vanligt. Även om barnet fortsätter att kräkas bör man fortsätta att amma barnet ofta. Detsamma gäller för barn som matas med flaska. Om barnet inte vill suga kan man pröva med att mjölka ur elller pumpa ur och ge med sked. Man kan mjölka ur bröstet för hand eller med pump. Lämplig pump finns att köpa på apotek.</p>
+<p>Om barnet har stora diarréer räcker det inte att barnet får bröstmjölk, barnet behöver då även få vätskeersättning.</p>
+<p type="title">Vätskeersättning</p>
+<p>Om barnet kräks mycket är vätskeersättning det bästa. Vätskeersättning för barn finns att köpa på apotek. Genom att vätskan innehåller salt återställs vätskebalansen i kroppen på ett bra sätt.</p>
+<p>Om barnet kräks mycket behöver man ge ungefär två teskedar vätska var femte minut. Under ett dygn behövs mer vätska än vad man tror, till exempel kan en ettåring behöva drygt en liter.</p>
+<p>I bland kanske barnet har lättare att få i sig annan dryck. Då får man försöka med det i stället, eftersom det viktigaste är att barnet får i sig vätska över huvud taget. Man bör dock undvika för söta drycker, som till exempel läsk och saft, eftersom alltför mycket socker kan ge mer diarré. Ge inte heller lightdrycker eftersom de inte innehåller något socker alls.</p>
+<p type="title">När kräkningarna är över men diarréerna är kvar</p>
+<p>Det är vanligt att kräkningarna först upphör medan diarréerna pågår ett tag till. Om barnet har diarré och om barnet ammas fortsätter man att amma som tidigare. Om barnet inte ammas, kan man ge modersmjölkersättning, ris- eller majsvälling beroende på barnets ålder. Börja med att ge små mängder åt gången för att se att barnet behåller maten.</p>
+<p>När barnet vill börja äta är det bra att ge vanlig mat och blanda i extra fett. Om man vill pröva något som är stoppande så kan man ge morotssoppa, gjord på morotspuré och vatten till barn över sex månader. Tänk på att frukt ger lös avföring och vid svårare diarré bör man undvika fullkornsvälling. Vänta med fiberrika livsmedel tills barnet har blivit helt friskt.</p>
+<p type="title">Om kräkningarna kommer tillbaka</p>
+<p>Om kräkningarna kommer tillbaka igen, återgå till att ge vätskeersättning, men var samtidigt uppmärksam på om barnet börjar bli slött eller påverkat.</p>
+<p type="title">Hur kan man förhindra smitta?</p>
+<p>Eftersom magsjuka är mycket smittsamt är det bra om både barnet och resten av familjen tvättar händerna med flytande tvål före måltider och efter toalettbesök och att alla har egen handduk eller använder engångshandduk. Man kan också torka av toaletten ofta.</p>
+<p>Om barnet har blöja är det bra att lägga använda blöjor i en plastpåse innan man slänger dem i soptunnan. Rengör skötbordet efter användning och tvätta händerna noggrant efter blöjbytet.</p>
+<p>Barn ska vara hemma när kräks eller har diarré. Om barnet går i förskola eller familjedaghem kan det gå tillbaka dit när barnet äter som vanligt och inte har kräkts eller haft vattentunn diarré under minst två dygn. Barn som går i skolan ska stanna hemma i ett till två dygn efter att det har blivit friskt.</p>
+<p type="title">Man kan behöva kontakta vården</p>
+<p>Man ska söka vård på en vårdcentral eller en akutmottagning direkt om barnet har täta diarréer och kräkningar och visar tecken på vätskebrist, det vill säga är påtagligt trött och ointresserat av omgivningen, kissar lite eller sällan och inte orkar leka. Man bör även söka vård direkt om barnet förutom kräkningar och diarré har hög feber eller mycket ont i magen, eller om diarrén är blandad med blod eller slem.</p>
+<p>Man ska ringa sjukvårdsrådgivningen eller kontakta en vårdcentral om barnet inte har blivit bättre inom ett dygn, eller om barnet efter en magsjuka är piggt men har haft lös avföring i mer än två veckor.</p>
+<p>Om barn som är under sex månader får kräkningar och diarréer ska man alltid kontakta sjukvårdsrådgivningen eller en vårdcentral.</p>
+<p>Om barnet har fått diarré i samband med en utlandsresa ska man kontakta en vårdcentral eller en barnläkarmottagning.</p>
+<p>Det går alltid att ringa sjukvårdsrådgivningen på telefon 1177 för att få råd.</p>
+</body></document>

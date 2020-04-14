@@ -1,59 +1,25 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Smakskolan: Känseln – hur känns maten?</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2018</year>
-    <wordcount>537</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-tunto-milta-ruoka-tuntuu/</origFileName>
-    <parallel_text xml:lang="fin" location="makukoulu_tunto_milta_ruoka_tuntuu.html"/>
-    <parallel_text xml:lang="sme" location="smahkkaskuvlla_dovdu_mo_borramus_dovdo.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Hoppa över till innehållet</p>
-    <p xml:lang="fkv">RuokaTutka</p>
-    <list>
-      <p type="listitem" xml:lang="fin">suomi</p>
-      <p type="listitem">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="fin">suomi</p>
-      <p type="listitem">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <p type="title">Smakskolan: Känseln – hur känns maten?</p>
-    <p>Med fingrarna kan man bedöma hur mjuk eller krispig en brödbit är. I munnen känner man matens mörhet eller seghet. Hur maten känns i munnen har stor betydelse för om man tycker om den. En felaktig konsistens, exempelvis ett mjukt knäckebröd eller ett hårt skumgodis, känns obehaglig.</p>
-    <p>Matens strukturella egenskaper delas in i mekaniska och geometriska egenskaper samt egenskaper som anknyter till vatten- och fettinnehåll. Mekaniska egenskaper, såsom hårdhet och kladdighet, beskriver i första hand det man känner när man tuggar. Geometriska egenskaper, såsom släthet, klimpighet eller trådighet, kan ses med blotta ögat men känns också i munnen. Med munnen uppfattar man också egenskaper som har med vatten- och fettinnehållet att göra, såsom torrhet, saftighet eller oljighet. Känselförnimmelserna förändras när man tuggar maten och den blandas med saliv och värms upp i munnen.</p>
-    <p>Vissa föreningar skapar en <em type="italic">kemokänselförnimmelse </em>i munnen och näsan, till exempel en brännande eller isande känsla. Vi uppfattar inte chili som brännande med smaksinnet, utan känner detta i munnen och näsan. Till de föreningar som orsakar kemokänselförnimmelser hör bland annat kapsaicinet i chili, mentolen i pepparmint och anetolen i anis. En kemokänselförnimmelse kan även framkalla nysningar och rinnande ögon. </p>
-    <p xml:lang="fkv">
-      <em type="italic">Känselsinnet </em>
-    </p>
-    <p>Känselreceptorerna i vår hud uppfattar beröring, smärta, temperatur, kemokänselförnimmelser samt våra musklers rörelser, position och sammandragningar. Olika typer av receptorer uppfattar olika typer av förnimmelser. Stimuli som når en receptor skickar receptorn ett meddelande via nerverna till hjärnan, där den tolkas som en känselförnimmelse. Känselreceptorer som uppfattar mat finns i fingrarna, läpparna och munnen. När man talar om hur maten känns i munnen avser man de förnimmelser man uppfattar på ytorna i munnen. <em type="italic">Kemokänsel </em>är känselförnimmelser som skapas av kemiska föreningar på munnens och näsans slemhinnor. </p>
-    <p>
-      <em type="italic">Känseluppgifter för lektionen </em>
-    </p>
-    <list>
-      <p type="listitem">När man bekantar sig med känselsinnet på lektionen är en påse ett bra hjälpmedel. Man kan använda en ogenomskinlig påse av tyg eller plast. För större barn kan man ha flera matrelaterade saker, såsom torra livsmedel, bestick och matlagningstillbehör, och barnen känner efter vilka matrelaterade föremål som finns i påsen. För mindre barn lägger man bara en sak att känna på i påsen i taget. Alla barn får känna på föremålen i påsen innan man berättar vad de är.</p>
-      <p type="listitem">Man kan öva på att beskriva de egenskaper som kan uppfattas med känselsinnet genom att en elev sticker in handen i en påse och känner på ett livsmedel eller ett matrelaterat föremål, och beskriver hur det känns medan de övriga försöker gissa vad det är.</p>
-      <p type="listitem">På lektionen kan man tillsammans gå igenom olika livsmedel och fundera på hur de känns i handen och i munnen. Ett knäckebröd är till exempel grovt, torrt, hårt och krispigt. Fundera tillsammans på något livsmedel, såsom morot, hel, som tärningar, i riven form, som kokt och som mos. Hur känns det i olika former i handen? Och i munnen? Hur förändras olika livsmedels, såsom knäckebrödets, biffens, äpplets, chokladens och glassens struktur i munnen?</p>
-      <p type="listitem">Kemokänseln kan demonstreras för eleverna genom att man smakar på pepparmintpastiller och för äldre elever även mild chili.</p>
-    </list>
-    <p type="title" xml:lang="vep">LÄS MER:</p>
-    <p type="title">Synsinnet – först tittar vi</p>
-    <p type="title">Lukt – kittlar i näsan</p>
-    <p type="title">Smak – känns på tungan</p>
-    <p type="title">Hörseln – även öronen gillar mat</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Smakskolan: Känseln – hur känns maten?</title><genre code="facta"/><author><unknown/></author><year>2018</year><wordcount>537</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-tunto-milta-ruoka-tuntuu/</origFileName><parallel_text xml:lang="fin" location="makukoulu_tunto_milta_ruoka_tuntuu.html"/><parallel_text xml:lang="sme" location="smahkkaskuvlla_dovdu_mo_borramus_dovdo.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Hoppa över till innehållet</p>
+<p xml:lang="fkv">RuokaTutka</p>
+<list><p type="listitem" xml:lang="fin">suomi</p>
+<p type="listitem">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><list><p type="listitem" xml:lang="fin">suomi</p>
+<p type="listitem">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><p type="title" xml:lang="nno">Smakskolan: Känseln – hur känns maten?</p>
+<p>Med fingrarna kan man bedöma hur mjuk eller krispig en brödbit är. I munnen känner man matens mörhet eller seghet. Hur maten känns i munnen har stor betydelse för om man tycker om den. En felaktig konsistens, exempelvis ett mjukt knäckebröd eller ett hårt skumgodis, känns obehaglig.</p>
+<p>Matens strukturella egenskaper delas in i mekaniska och geometriska egenskaper samt egenskaper som anknyter till vatten- och fettinnehåll. Mekaniska egenskaper, såsom hårdhet och kladdighet, beskriver i första hand det man känner när man tuggar. Geometriska egenskaper, såsom släthet, klimpighet eller trådighet, kan ses med blotta ögat men känns också i munnen. Med munnen uppfattar man också egenskaper som har med vatten- och fettinnehållet att göra, såsom torrhet, saftighet eller oljighet. Känselförnimmelserna förändras när man tuggar maten och den blandas med saliv och värms upp i munnen.</p>
+<p>Vissa föreningar skapar en <em type="italic">kemokänselförnimmelse </em>i munnen och näsan, till exempel en brännande eller isande känsla. Vi uppfattar inte chili som brännande med smaksinnet, utan känner detta i munnen och näsan. Till de föreningar som orsakar kemokänselförnimmelser hör bland annat kapsaicinet i chili, mentolen i pepparmint och anetolen i anis. En kemokänselförnimmelse kan även framkalla nysningar och rinnande ögon. </p>
+<p xml:lang="fkv"><em type="italic">Känselsinnet </em></p>
+<p>Känselreceptorerna i vår hud uppfattar beröring, smärta, temperatur, kemokänselförnimmelser samt våra musklers rörelser, position och sammandragningar. Olika typer av receptorer uppfattar olika typer av förnimmelser. Stimuli som når en receptor skickar receptorn ett meddelande via nerverna till hjärnan, där den tolkas som en känselförnimmelse. Känselreceptorer som uppfattar mat finns i fingrarna, läpparna och munnen. När man talar om hur maten känns i munnen avser man de förnimmelser man uppfattar på ytorna i munnen. <em type="italic">Kemokänsel </em>är känselförnimmelser som skapas av kemiska föreningar på munnens och näsans slemhinnor. </p>
+<p><em type="italic">Känseluppgifter för lektionen </em></p>
+<list><p type="listitem">När man bekantar sig med känselsinnet på lektionen är en påse ett bra hjälpmedel. Man kan använda en ogenomskinlig påse av tyg eller plast. För större barn kan man ha flera matrelaterade saker, såsom torra livsmedel, bestick och matlagningstillbehör, och barnen känner efter vilka matrelaterade föremål som finns i påsen. För mindre barn lägger man bara en sak att känna på i påsen i taget. Alla barn får känna på föremålen i påsen innan man berättar vad de är.</p>
+<p type="listitem">Man kan öva på att beskriva de egenskaper som kan uppfattas med känselsinnet genom att en elev sticker in handen i en påse och känner på ett livsmedel eller ett matrelaterat föremål, och beskriver hur det känns medan de övriga försöker gissa vad det är.</p>
+<p type="listitem">På lektionen kan man tillsammans gå igenom olika livsmedel och fundera på hur de känns i handen och i munnen. Ett knäckebröd är till exempel grovt, torrt, hårt och krispigt. Fundera tillsammans på något livsmedel, såsom morot, hel, som tärningar, i riven form, som kokt och som mos. Hur känns det i olika former i handen? Och i munnen? Hur förändras olika livsmedels, såsom knäckebrödets, biffens, äpplets, chokladens och glassens struktur i munnen?</p>
+<p type="listitem">Kemokänseln kan demonstreras för eleverna genom att man smakar på pepparmintpastiller och för äldre elever även mild chili.</p>
+</list><p type="title" xml:lang="vep">LÄS MER:</p>
+<p type="title">Synsinnet – först tittar vi</p>
+<p type="title">Lukt – kittlar i näsan</p>
+<p type="title">Smak – känns på tungan</p>
+<p type="title">Hörseln – även öronen gillar mat</p>
+</body></document>

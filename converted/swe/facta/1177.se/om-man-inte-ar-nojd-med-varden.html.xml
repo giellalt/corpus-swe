@@ -1,100 +1,56 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1174</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-varden</origFileName>
-    <parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="fin" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="sma" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="smj" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rka"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmn"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmu"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="yid"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Om du inte är nöjd med vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Om du inte är nöjd med vården</p>
-    <p>I den här filmen får du träffa Maj som är missnöjd med det läkemedel hon har fått, men hon känner inte att hennes frågor tas på allvar.</p>
-    <p>Om du känner att du inte blivit bra bemött eller fått rätt vård kan du klaga där du fått vården. Det kan gälla allt från mindre problem till svåra situationer som har lett till skador. Du kan också göra en anmälan.</p>
-    <p>Som patient har du rätt att bli bemött med respekt av personalen i hälso- och sjukvården. Du ska få en bra vård av god kvalitet. Vårdpersonalen ska också ge dig den information du behöver för att du ska kunna vara delaktig i din vård.</p>
-    <p>Om du inte är nöjd med den vård som du fått eller är missnöjd med bemötandet, har du rätt att klaga och lämna synpunkter. När du klagar kan det vara bra att be om ett skriftligt svar för att i lugn och ro kunna läsa svaret och undvika missförstånd.</p>
-    <p type="title">Flera sätt att klaga och anmäla</p>
-    <p>Det finns olika sätt att klaga om du är missnöjd med din vård. Du kan</p>
-    <list>
-      <p type="listitem">klaga direkt till läkaren eller annan personal som du träffade när du sökte vård</p>
-      <p type="listitem">kontakta patientnämnden eller patientombudsmannen i ditt landsting eller region</p>
-      <p type="listitem">anmäla till Inspektionen för vård och omsorg, IVO</p>
-      <p type="listitem">anmäla till Diskrimineringsombudsmannen, DO</p>
-      <p type="listitem">göra en polisanmälan.</p>
-    </list>
-    <p>Patientorganisationer kan ibland hjälpa dig med att klaga. De kan många gånger bedöma vilken instans det är bäst att framföra sina klagomål till och även hjälpa till med att göra en anmälan.</p>
-    <p type="title">Klaga direkt hos vårdpersonalen</p>
-    <p>Det är bra att i första hand vända sig direkt till den läkare eller annan vårdpersonal som har undersökt och behandlat dig. Ofta kan missförstånd och oklarheter redas ut på det sättet. Du kan också alltid vända dig till chefen vid den enhet som du besökt, till exempel verksamhetschefen på en ortopedmottagning.</p>
-    <p>Vill du klaga på kommunal hälso- och sjukvård, till exempel hemsjukvård, vänder du dig till kommunens medicinskt ansvariga sjuksköterska, även kallad MAS.</p>
-    <p>Vilken vård som drivs av landstinget, regionen och kommunen skiljer sig i olika delar av landet. Du kan fråga din kommun, region eller landsting om vem som ansvarar för vården. Oftast ansvarar kommunen för enklare hemsjukvård medan landstinget sköter mer avancerad sjukvård i hemmet.</p>
-    <p type="title">Patientnämnden tar emot klagomål</p>
-    <p>En patientnämnd, som ibland kallas förtroendenämnd, ska finnas i alla landsting och regioner. Dit kan du vända dig för att få råd och stöd, lämna synpunkter, klagomål och få information om dina rättigheter i vården. Du kan till exempel klaga över bemötande, diagnos, medicinering, avgifter, sekretessfrågor och vårdgaranti.</p>
-    <p>Av patientnämnden kan du till exempel få hjälp med</p>
-    <list>
-      <p type="listitem">information om hur du kan klaga</p>
-      <p type="listitem">att berätta för de ansvariga vad du varit med om i vården</p>
-      <p type="listitem">kontakter med vårdpersonal</p>
-      <p type="listitem">att hitta till rätt myndighet.</p>
-    </list>
-    <p>Patientnämnden tar emot frågor om och klagomål på</p>
-    <list>
-      <p type="listitem">tandvård som bedrivs av landsting och regioner</p>
-      <p type="listitem">privattandvård som har avtal med ett landsting eller en region</p>
-      <p type="listitem">hälso- och sjukvård som bedrivs av kommunen eller enligt avtal med kommunen</p>
-      <p type="listitem">den allmänna omvårdnad enligt socialtjänstlagen som man får i samband med hälso- och sjukvård.</p>
-    </list>
-    <p>Patientnämnden är fristående från hälso- och sjukvården och det kostar inget att vända sig dit.</p>
-    <p type="title">Går bra både att skriva och ringa</p>
-    <p>Man kan ringa eller skriva till patientnämnden. Nämndens tjänstemän tar emot klagomålen och utreder. I nämnden sitter politiker, som fattar besluten. Både politiker och tjänstemän i nämnden har tystnadsplikt.</p>
-    <p>Patientnämnden ska inte avgöra om sjukvårdspersonalen begått något fel eller inte. Det är en fråga för verksamhetsansvariga i vården eller för Inspektionen för vård och omsorg, IVO.</p>
-    <p>För att få kontakt med din patientnämnd kan du fråga vårdpersonalen där du fått vård, eller söka mer information på ditt landstings eller din regions webbplats.</p>
-    <p type="title">Patientombud</p>
-    <p>I några landsting och regioner finns särskilda patientombudsmän, som ibland även kallas patientombud eller patientvägledare. Om du till exempel känner dig illa bemött eller på annat sätt är missnöjd med vården, kan du kontakta patientombudet. Den personen kan hjälpa till och hänvisa vidare om du inte är nöjd med svaret eller bemötandet efter att först har vänt dig direkt till sjukvårdspersonalen.</p>
-    <p type="title">IVO - Inspektionen för vård och omsorg</p>
-    <p>Till Inspektionen för vård och omsorg , IVO, kan du anmäla om du råkat ut för en vårdskada. Tycker du att patientsäkerheten varit dålig i samband med vård eller behandling kan du anmäla det också. IVO utreder dock som regel inte händelser som är mer än två år gamla.</p>
-    <p>Alla vårdskador och händelser som skulle ha kunnat gå illa kan anmälas, oavsett om de sker i kommun, landsting, region eller i ett privat vårdföretag. Det är inte bara vårdpersonalens agerande som IVO utreder utan också vad det var som blev fel och varför. IVO ska komma med förslag på vad som behöver göras av vårdgivaren för att inte samma sak ska ske igen.</p>
-    <p>En anmälan från dig kan leda till att IVO riktar kritik mot en vårdcentral, ett sjukhus, en tandläkarmottagning, ett äldreboende eller mot hälso- och sjukvårdspersonal. Både din anmälan och IVO:s beslut är offentliga handlingar och kan läsas av alla som vill.</p>
-    <p>Om IVO bedömer att en person är olämplig i sitt yrke, görs en särskild utredning om det. Det kan leda till att IVO ansöker om att dra in den personens legitimation. Det gör IVO hos Hälso- och sjukvårdens ansvarsnämnd, HSAN .</p>
-    <p>Anmälningar av händelser som kan vara brottsliga överlämnar IVO till polisen. Det kan till exempel handla om att sjukvårdspersonal anklagas för sexuella övergrepp eller misshandel.</p>
-    <p>IVO utreder också ärenden enligt Lex Maria . Då är det vårdgivaren som själv anmäler händelser som har gett eller hade kunnat ge en allvarlig vårdskada. Även missförhållanden eller risker för missförhållanden inom omsorgen, till exempel ett äldreboende, ska anmälas till IVO enligt Lex Sarah .</p>
-    <p type="title">Legitimationen kan dras in</p>
-    <p>Hälso- och sjukvårdens ansvarsnämnd, HSAN, är en myndighet som avgör om vårdpersonal kan behålla sin legitimation. Det är i regel Inspektionen för vård och omsorg, IVO som anmäler till HSAN, men även Justitieombudsmannen och Justitiekanslern kan göra anmälningar till HSAN.</p>
-    <p>HSAN kan</p>
-    <list>
-      <p type="listitem">dra in legitimationen från den läkare eller sjuksköterska som har misskött sitt arbete</p>
-      <p type="listitem">bestämma om en prövotid då läkaren eller sjuksköterskan måste stå under uppsikt i upp till tre år</p>
-      <p type="listitem">begränsa eller dra in en läkares rätt att skriva ut läkemedel.</p>
-    </list>
-    <p type="title">Ytterligare sätt att klaga</p>
-    <p>Diskrimineringsombudsmannen , DO, arbetar mot diskriminering. Om du anser dig särbehandlad kan du anmäla det till DO. Du kan till exempel anmäla diskriminering på grund av kön, könsidentitet, sexuell läggning, ålder, etniska tillhörighet, funktionsförmåga eller religion.</p>
-    <p>Du kan alltid lämna synpunkter och klaga till de sjukvårdspolitiker som har ansvaret för den vård du har fått.</p>
-    <p type="title">Polisanmälan</p>
-    <p>Om du anser att ett brott har begåtts inom vården kan du göra en polisanmälan om till exempel sexuella trakasserier och våld. En anmälan kan också handla om vållande till annans död. I Sverige är det ovanligt att en sådan anmälning leder till åtal och fällande dom eftersom det krävs mycket starka bevis.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1174</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-varden</origFileName><parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="fin" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="sma" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="smj" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rka"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmn"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmu"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="yid"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rlo"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Om du inte är nöjd med vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Om du inte är nöjd med vården</p>
+<p>I den här filmen får du träffa Maj som är missnöjd med det läkemedel hon har fått, men hon känner inte att hennes frågor tas på allvar.</p>
+<p>Om du känner att du inte blivit bra bemött eller fått rätt vård kan du klaga där du fått vården. Det kan gälla allt från mindre problem till svåra situationer som har lett till skador. Du kan också göra en anmälan.</p>
+<p>Som patient har du rätt att bli bemött med respekt av personalen i hälso- och sjukvården. Du ska få en bra vård av god kvalitet. Vårdpersonalen ska också ge dig den information du behöver för att du ska kunna vara delaktig i din vård.</p>
+<p>Om du inte är nöjd med den vård som du fått eller är missnöjd med bemötandet, har du rätt att klaga och lämna synpunkter. När du klagar kan det vara bra att be om ett skriftligt svar för att i lugn och ro kunna läsa svaret och undvika missförstånd.</p>
+<p type="title">Flera sätt att klaga och anmäla</p>
+<p>Det finns olika sätt att klaga om du är missnöjd med din vård. Du kan</p>
+<list><p type="listitem">klaga direkt till läkaren eller annan personal som du träffade när du sökte vård</p>
+<p type="listitem">kontakta patientnämnden eller patientombudsmannen i ditt landsting eller region</p>
+<p type="listitem">anmäla till Inspektionen för vård och omsorg, IVO</p>
+<p type="listitem">anmäla till Diskrimineringsombudsmannen, DO</p>
+<p type="listitem">göra en polisanmälan.</p>
+</list><p>Patientorganisationer kan ibland hjälpa dig med att klaga. De kan många gånger bedöma vilken instans det är bäst att framföra sina klagomål till och även hjälpa till med att göra en anmälan.</p>
+<p type="title">Klaga direkt hos vårdpersonalen</p>
+<p>Det är bra att i första hand vända sig direkt till den läkare eller annan vårdpersonal som har undersökt och behandlat dig. Ofta kan missförstånd och oklarheter redas ut på det sättet. Du kan också alltid vända dig till chefen vid den enhet som du besökt, till exempel verksamhetschefen på en ortopedmottagning.</p>
+<p>Vill du klaga på kommunal hälso- och sjukvård, till exempel hemsjukvård, vänder du dig till kommunens medicinskt ansvariga sjuksköterska, även kallad MAS.</p>
+<p>Vilken vård som drivs av landstinget, regionen och kommunen skiljer sig i olika delar av landet. Du kan fråga din kommun, region eller landsting om vem som ansvarar för vården. Oftast ansvarar kommunen för enklare hemsjukvård medan landstinget sköter mer avancerad sjukvård i hemmet.</p>
+<p type="title">Patientnämnden tar emot klagomål</p>
+<p>En patientnämnd, som ibland kallas förtroendenämnd, ska finnas i alla landsting och regioner. Dit kan du vända dig för att få råd och stöd, lämna synpunkter, klagomål och få information om dina rättigheter i vården. Du kan till exempel klaga över bemötande, diagnos, medicinering, avgifter, sekretessfrågor och vårdgaranti.</p>
+<p>Av patientnämnden kan du till exempel få hjälp med</p>
+<list><p type="listitem">information om hur du kan klaga</p>
+<p type="listitem">att berätta för de ansvariga vad du varit med om i vården</p>
+<p type="listitem">kontakter med vårdpersonal</p>
+<p type="listitem">att hitta till rätt myndighet.</p>
+</list><p>Patientnämnden tar emot frågor om och klagomål på</p>
+<list><p type="listitem">tandvård som bedrivs av landsting och regioner</p>
+<p type="listitem">privattandvård som har avtal med ett landsting eller en region</p>
+<p type="listitem">hälso- och sjukvård som bedrivs av kommunen eller enligt avtal med kommunen</p>
+<p type="listitem">den allmänna omvårdnad enligt socialtjänstlagen som man får i samband med hälso- och sjukvård.</p>
+</list><p>Patientnämnden är fristående från hälso- och sjukvården och det kostar inget att vända sig dit.</p>
+<p type="title">Går bra både att skriva och ringa</p>
+<p>Man kan ringa eller skriva till patientnämnden. Nämndens tjänstemän tar emot klagomålen och utreder. I nämnden sitter politiker, som fattar besluten. Både politiker och tjänstemän i nämnden har tystnadsplikt.</p>
+<p>Patientnämnden ska inte avgöra om sjukvårdspersonalen begått något fel eller inte. Det är en fråga för verksamhetsansvariga i vården eller för Inspektionen för vård och omsorg, IVO.</p>
+<p>För att få kontakt med din patientnämnd kan du fråga vårdpersonalen där du fått vård, eller söka mer information på ditt landstings eller din regions webbplats.</p>
+<p type="title">Patientombud</p>
+<p>I några landsting och regioner finns särskilda patientombudsmän, som ibland även kallas patientombud eller patientvägledare. Om du till exempel känner dig illa bemött eller på annat sätt är missnöjd med vården, kan du kontakta patientombudet. Den personen kan hjälpa till och hänvisa vidare om du inte är nöjd med svaret eller bemötandet efter att först har vänt dig direkt till sjukvårdspersonalen.</p>
+<p type="title">IVO - Inspektionen för vård och omsorg</p>
+<p>Till Inspektionen för vård och omsorg , IVO, kan du anmäla om du råkat ut för en vårdskada. Tycker du att patientsäkerheten varit dålig i samband med vård eller behandling kan du anmäla det också. IVO utreder dock som regel inte händelser som är mer än två år gamla.</p>
+<p>Alla vårdskador och händelser som skulle ha kunnat gå illa kan anmälas, oavsett om de sker i kommun, landsting, region eller i ett privat vårdföretag. Det är inte bara vårdpersonalens agerande som IVO utreder utan också vad det var som blev fel och varför. IVO ska komma med förslag på vad som behöver göras av vårdgivaren för att inte samma sak ska ske igen.</p>
+<p>En anmälan från dig kan leda till att IVO riktar kritik mot en vårdcentral, ett sjukhus, en tandläkarmottagning, ett äldreboende eller mot hälso- och sjukvårdspersonal. Både din anmälan och IVO:s beslut är offentliga handlingar och kan läsas av alla som vill.</p>
+<p>Om IVO bedömer att en person är olämplig i sitt yrke, görs en särskild utredning om det. Det kan leda till att IVO ansöker om att dra in den personens legitimation. Det gör IVO hos Hälso- och sjukvårdens ansvarsnämnd, HSAN .</p>
+<p>Anmälningar av händelser som kan vara brottsliga överlämnar IVO till polisen. Det kan till exempel handla om att sjukvårdspersonal anklagas för sexuella övergrepp eller misshandel.</p>
+<p>IVO utreder också ärenden enligt Lex Maria . Då är det vårdgivaren som själv anmäler händelser som har gett eller hade kunnat ge en allvarlig vårdskada. Även missförhållanden eller risker för missförhållanden inom omsorgen, till exempel ett äldreboende, ska anmälas till IVO enligt Lex Sarah .</p>
+<p type="title">Legitimationen kan dras in</p>
+<p>Hälso- och sjukvårdens ansvarsnämnd, HSAN, är en myndighet som avgör om vårdpersonal kan behålla sin legitimation. Det är i regel Inspektionen för vård och omsorg, IVO som anmäler till HSAN, men även Justitieombudsmannen och Justitiekanslern kan göra anmälningar till HSAN.</p>
+<p>HSAN kan</p>
+<list><p type="listitem">dra in legitimationen från den läkare eller sjuksköterska som har misskött sitt arbete</p>
+<p type="listitem">bestämma om en prövotid då läkaren eller sjuksköterskan måste stå under uppsikt i upp till tre år</p>
+<p type="listitem">begränsa eller dra in en läkares rätt att skriva ut läkemedel.</p>
+</list><p type="title">Ytterligare sätt att klaga</p>
+<p>Diskrimineringsombudsmannen , DO, arbetar mot diskriminering. Om du anser dig särbehandlad kan du anmäla det till DO. Du kan till exempel anmäla diskriminering på grund av kön, könsidentitet, sexuell läggning, ålder, etniska tillhörighet, funktionsförmåga eller religion.</p>
+<p>Du kan alltid lämna synpunkter och klaga till de sjukvårdspolitiker som har ansvaret för den vård du har fått.</p>
+<p type="title">Polisanmälan</p>
+<p>Om du anser att ett brott har begåtts inom vården kan du göra en polisanmälan om till exempel sexuella trakasserier och våld. En anmälan kan också handla om vållande till annans död. I Sverige är det ovanligt att en sådan anmälning leder till åtal och fällande dom eftersom det krävs mycket starka bevis.</p>
+</body></document>

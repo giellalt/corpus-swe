@@ -1,48 +1,20 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>265</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/6292</origFileName>
-    <parallel_text xml:lang="sme" location="6056.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Interreg IVA Nord Delprogram Sápmi - Sametinget</p>
-    <p type="title">Delprogram Sápmi</p>
-    <p>Gränserna ska inte vara ett hinder för utveckling och integration i Europa. Genom INTERREG IV A Nord Sápmi prioriteras gränsöverskridande arbete bland samer.</p>
-    <p>Delprogramområdet Sápmi omfattar:</p>
-    <list>
-      <p type="listitem">Lapplands, Norra Österbottens och Mellersta Österbottens landskap i Finland</p>
-      <p type="listitem">Nordlands, Troms och Finnmarks, Nor- och Sörtröndelags fylken samt del av Hedmark fylkeskommun (Elgå Reinbetesdistrikt) i Norge</p>
-      <p type="listitem">Norrbottens, Västerbottens och Jämtlands län samt del av Dalarnas län (Idre samebys område) i Sverige.</p>
-    </list>
-    <p/>
-    <p>
-      <em type="bold">Vad krävs? </em>
-    </p>
-    <list>
-      <p type="listitem">Minst två sökande parter</p>
-      <p type="listitem">Projektet ska ha ett gränsregionalt mervärde</p>
-      <p type="listitem">Ansökan skall följa programmets innehåll (strukturfondsförordning, regelverk etc.)</p>
-      <p type="listitem">Projektet får inte snedvrida konkurrensen - måste vara förenligt med de s.k. statsstödsreglerna</p>
-      <p type="listitem">Projektet måste ligga utanför den ordinarie verksamheten - det ska finnas ett mervärde</p>
-      <p type="listitem">Projektet måste ha en profil vad det gäller det samiska språket</p>
-      <p type="listitem">Medfinansieringen ska vara ordnad</p>
-    </list>
-    <p><em type="italic">Finansiering </em>Grundprincipen i INTERREG är samfinansiering. Till nationell offentlig medfinansiering räknas medel från statliga organ, kommuner och landsting. <em type="italic">Budget Interreg </em>Hela Interreg IVA Nord räknar med en total budget på 74 007 340 euro, varav 33 966 446 euro är EU-medel och 17 274 940 euro är Norges del. <em type="italic">Budget delprogram Sápmi </em>För delprogram Sápmi satsas 4 349 845 euro i EU-medel. Till detta kommer 2 342 224 euro i nationell finansiering. Graden av medfinansiering är 65 %. Norge satsar 3 649 636 euro i programmet. Totalt inklusive Norge är fördelningen 10 341 705 euro för Interreg IVA Nord Sápmi under hela perioden 2007-2013. </p>
-    <p><em type="italic">Medel till förstudier </em>Det finns möjlighet att söka medel till förstudier. Använd den särskilda blanketten. </p>
-    <p><em type="italic">Blanketter </em>Blanketter, ansökningstider och övrig information finns på www.interregnord.com </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>265</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/6292</origFileName><parallel_text xml:lang="sme" location="6056.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Interreg IVA Nord Delprogram Sápmi - Sametinget</p>
+<p type="title">Delprogram Sápmi</p>
+<p>Gränserna ska inte vara ett hinder för utveckling och integration i Europa. Genom INTERREG IV A Nord Sápmi prioriteras gränsöverskridande arbete bland samer.</p>
+<p>Delprogramområdet Sápmi omfattar:</p>
+<list><p type="listitem">Lapplands, Norra Österbottens och Mellersta Österbottens landskap i Finland</p>
+<p type="listitem">Nordlands, Troms och Finnmarks, Nor- och Sörtröndelags fylken samt del av Hedmark fylkeskommun (Elgå Reinbetesdistrikt) i Norge</p>
+<p type="listitem">Norrbottens, Västerbottens och Jämtlands län samt del av Dalarnas län (Idre samebys område) i Sverige.</p>
+</list><p/>
+<p><em type="bold">Vad krävs? </em></p>
+<list><p type="listitem">Minst två sökande parter</p>
+<p type="listitem">Projektet ska ha ett gränsregionalt mervärde</p>
+<p type="listitem">Ansökan skall följa programmets innehåll (strukturfondsförordning, regelverk etc.)</p>
+<p type="listitem">Projektet får inte snedvrida konkurrensen - måste vara förenligt med de s.k. statsstödsreglerna</p>
+<p type="listitem">Projektet måste ligga utanför den ordinarie verksamheten - det ska finnas ett mervärde</p>
+<p type="listitem">Projektet måste ha en profil vad det gäller det samiska språket</p>
+<p type="listitem">Medfinansieringen ska vara ordnad</p>
+</list><p><em type="italic">Finansiering </em>Grundprincipen i INTERREG är samfinansiering. Till nationell offentlig medfinansiering räknas medel från statliga organ, kommuner och landsting. <em type="italic">Budget Interreg </em>Hela Interreg IVA Nord räknar med en total budget på 74 007 340 euro, varav 33 966 446 euro är EU-medel och 17 274 940 euro är Norges del. <em type="italic">Budget delprogram Sápmi </em>För delprogram Sápmi satsas 4 349 845 euro i EU-medel. Till detta kommer 2 342 224 euro i nationell finansiering. Graden av medfinansiering är 65 %. Norge satsar 3 649 636 euro i programmet. Totalt inklusive Norge är fördelningen 10 341 705 euro för Interreg IVA Nord Sápmi under hela perioden 2007-2013. </p>
+<p><em type="italic">Medel till förstudier </em>Det finns möjlighet att söka medel till förstudier. Använd den särskilda blanketten. </p>
+<p><em type="italic">Blanketter </em>Blanketter, ansökningstider och övrig information finns på www.interregnord.com </p>
+</body></document>

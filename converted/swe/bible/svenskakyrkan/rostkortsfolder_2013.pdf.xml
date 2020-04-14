@@ -1,59 +1,35 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>780</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.svenskakyrkan.se/default.aspx?id=1022005</origFileName>
-    <parallel_text xml:lang="sma" location="folder_kyrkoval2013_sydsamiska.pdf"/>
-    <parallel_text xml:lang="sme" location="folder_kyrkoval2013_nordsamiska.pdf"/>
-    <parallel_text location="folder_kyrkoval2013_romani_kelderash.pdf" xml:lang="rmy-rka"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Din röst spelar roll!</p>
-    <p>Söndagen den 15 september 2013 är det kyrkoval och du är röstberättigad. Här kommer ditt röstkort.</p>
-    <p>Vilka ska få ditt förtroende att fatta viktiga beslut de kommande fyra åren? Det handlar både om verksamhet i församlingen och om övergripande beslut för hela Svenska kyrkan. Hur ska din kyrkoavgift användas?  Vilka verksamheter ska finnas där du bor?  Vilka ställningstaganden ska kyrkan göra?  Ta chansen att påverka.</p>
-    <p>Välkommen att rösta i kyrkovalet!</p>
-    <p>Tillsammans med denna broschyr får du också ditt röstkort.  Ta med det när du ska rösta.</p>
-    <p>Vem kan du rösta på?</p>
-    <p>I kyrkovalet röstar du på nomineringsgrupper och deras kandidater.  Nomine rings grupperna är kyrkovalets motsvarighet till partierna i de  allmänna valen. Grupperna ger själva information om vad de vill åstad   komma. Listor för samtliga nomineringsgrupper och deras kandidater finns på  www.svenskakyrkan.se/kyrkoval. Du kan också tala med din församling.</p>
-    <p>Personrösta på tre kandidater</p>
-    <p>Du kan personrösta på tre kandidater genom att kryssa för dessa på valsedeln. Kryssen ökar kandidatens möjlighet att bli vald och få representera dig. Om ingen av kandidaterna kryssas för betyder det att din röst tillfaller nomineringsgruppen. Då räknas ingen personröst.</p>
-    <p>Var och när kan du rösta?</p>
-    <p>Den 2–11 september kan du förtidsrösta på expeditioner för förtidsröstning i hela landet. Det går även att brevrösta, vilket är ett alternativ om du t.ex. befinner dig utomlands. Ibland finns särskilda röstmottagningsställen. På valdagen den 15 september kan du rösta i din vallokal eller på särskilda röstmottagnings ställen. Mer information finns på ditt röstkort.</p>
-    <p>Förlorat ditt röstkort?</p>
-    <p>Om du blivit av med ditt röstkort kan du vända dig till din församling. Du kan också beställa ett nytt på www.svenskakyrkan.se/kyrkoval eller via Svenska kyrkans informationsservice, telefon 018-16 96 00. Röstkortet skickas till din folkbokföringsadress. Ett nytt röstkort kan även faxas till Svenska kyrkans utlandsförsamlingar.</p>
-    <p>Hur gick det i valet?</p>
-    <p>På www.svenskakyrkan.se/kyrkoval publiceras de preliminära resultaten allt eftersom rösterna räknats samman när vallokalerna har stängt. Då har inga personröster räknats.  Det slutgiltiga resultatet publiceras på samma plats när stiften har kontrollräknat alla röster.</p>
-    <p>I kyrkovalet kan du rösta i tre val; kyrkofullmäktige, stiftsfullmäktige och kyrkomötet. Den som är röstberättigad i Göteborgs kyrkliga samfällighet röstar även till samfällighet, det vill säga i fyra val. Din röst påverkar hur Svenska kyrkan styrs lokalt, regionalt och nationellt.</p>
-    <p>val till kyrkofullmäktige – ditt lokala val</p>
-    <p>Du väljer till kyrkofullmäktige i din församling eller, om din församling samverkar med andra församlingar, till kyrkofullmäktige i ditt pastorat. Kyrkofullmäktige bestämmer ramarna för den verksamhet som finns nära dig. Till exempel vilken verksamhet för barn och unga som ska finnas i församlingen, eller hur kör- och konsertverksamheten ska se ut. <em type="italic">Vita valsedlar.</em> </p>
-    <p>val till stiftet - regionalt</p>
-    <p>Svenska kyrkan är indelad i 13 stift. Stiftsfullmäktige är stiftets högsta beslutande organ. Stiftens främsta uppgift är att stödja församlingarna i deras verksamhet och förvaltning genom expertis inom flera områden. Till exempel i kyrkoantikvariska frågor när man ska renovera en kyrka. <em type="italic">Rosa valsedlar.</em> </p>
-    <p>val till kyrkomötet - nationellt</p>
-    <p>Kyrkomötet är Svenska kyrkan högsta beslutande organ med 251 ledamöter. Det beslutar om kyrkans gemensamma och övergripande frågor. Kyrkomötet behandlar till exempel frågor om hur kyrkan ska arbeta med klimatfrågan och vilka psalmer som ska finnas i psalmboken. <em type="italic">Gula valsedlar.</em> </p>
-    <p>val till församling och samfällighet – i Göteborg</p>
-    <p>I Göteborgs kyrkliga samfällighet delas ansvaret som beskrivs ovan under  <em type="italic">Val till kyrkofullmäktige – ditt lokala val</em> mellan ett kyrkofullmäktige i  Göteborgs kyrkliga samfällighet och kyrkofullmäktige i de församlingar  som ingår i samfälligheten. </p>
-    <p>Kyrkofullmäktige i Göteborgs kyrkliga samfällighet beslutar bland annat om ekonomi- och fastighetsfrågor. Du som bor i Göteborg kan i årets val rösta i fyra val. <em type="italic">Gröna valsedlar </em>till kyrkofullmäktige i församling och <em type="italic">vita valsedlar</em> till kyrkofullmäktige i samfälligheten (om du vill brevrösta kan du få grön  valsedel och extra valkuvert bl.a. från Göteborgs stift). </p>
-    <p>Vill du veta mer?</p>
-    <p>På www.svenskakyrkan.se/kyrkoval finns information på lätt svenska, på finska, nordsamiska, sydsamiska, lulesamiska, romani, meänkieli, engelska, franska, tyska, arabiska, spanska och teckenspråk. Inläst information på svenska går att ladda ner  som ljudfil eller kan beställas på cd från Svenska kyrkans informationsservice, telefon  018-16 96 00 eller via e-post info@svenskakyrkan.se. Du kan vända dig till din församling eller gå in på www.svenskakyrkan.se/kyrkoval för mer information.</p>
-    <p>kyrkan i vardagen</p>
-    <p>Som medlem får du vara med och påverka Svenska kyrkans vardagsarbete med t.ex. körer, stöd till utsatta, sjukhuskyrka, familjerådgivning och verksamhet för barn och unga.</p>
-    <p>livets skeden</p>
-    <p>I kyrkan möts vi också i samband med viktiga händelser som dop, konfirmation, stöd vid kriser och katastrofer</p>
-    <p>Svenska kyrkans personal finns med som stöd när olyckor, kriser och katastrofer har inträffat. Både utomlands och i Sverige.</p>
-    <p>mötesplatser i sverige och utomlands</p>
-    <p>Svenska kyrkan möter människor både i Sverige och utomlands som sommarkyrka, fjällkyrka, sjukhuskyrka, skolkyrka, vägkyrka, utlandskyrka och</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>780</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.svenskakyrkan.se/default.aspx?id=1022005</origFileName><parallel_text xml:lang="sma" location="folder_kyrkoval2013_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="folder_kyrkoval2013_nordsamiska.pdf"/><parallel_text location="folder_kyrkoval2013_romani_kelderash.pdf" xml:lang="rmy-rka"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Din röst spelar roll!</p>
+<p>Söndagen den 15 september 2013 är det kyrkoval och du är röstberättigad. Här kommer ditt röstkort.</p>
+<p>Vilka ska få ditt förtroende att fatta viktiga beslut de kommande fyra åren? Det handlar både om verksamhet i församlingen och om övergripande beslut för hela Svenska kyrkan. Hur ska din kyrkoavgift användas?  Vilka verksamheter ska finnas där du bor?  Vilka ställningstaganden ska kyrkan göra?  Ta chansen att påverka.</p>
+<p>Välkommen att rösta i kyrkovalet!</p>
+<p>Tillsammans med denna broschyr får du också ditt röstkort.  Ta med det när du ska rösta.</p>
+<p>Vem kan du rösta på?</p>
+<p>I kyrkovalet röstar du på nomineringsgrupper och deras kandidater.  Nomine rings grupperna är kyrkovalets motsvarighet till partierna i de  allmänna valen. Grupperna ger själva information om vad de vill åstad   komma. Listor för samtliga nomineringsgrupper och deras kandidater finns på  www.svenskakyrkan.se/kyrkoval. Du kan också tala med din församling.</p>
+<p>Personrösta på tre kandidater</p>
+<p>Du kan personrösta på tre kandidater genom att kryssa för dessa på valsedeln. Kryssen ökar kandidatens möjlighet att bli vald och få representera dig. Om ingen av kandidaterna kryssas för betyder det att din röst tillfaller nomineringsgruppen. Då räknas ingen personröst.</p>
+<p>Var och när kan du rösta?</p>
+<p>Den 2–11 september kan du förtidsrösta på expeditioner för förtidsröstning i hela landet. Det går även att brevrösta, vilket är ett alternativ om du t.ex. befinner dig utomlands. Ibland finns särskilda röstmottagningsställen. På valdagen den 15 september kan du rösta i din vallokal eller på särskilda röstmottagnings ställen. Mer information finns på ditt röstkort.</p>
+<p>Förlorat ditt röstkort?</p>
+<p>Om du blivit av med ditt röstkort kan du vända dig till din församling. Du kan också beställa ett nytt på www.svenskakyrkan.se/kyrkoval eller via Svenska kyrkans informationsservice, telefon 018-16 96 00. Röstkortet skickas till din folkbokföringsadress. Ett nytt röstkort kan även faxas till Svenska kyrkans utlandsförsamlingar.</p>
+<p>Hur gick det i valet?</p>
+<p>På www.svenskakyrkan.se/kyrkoval publiceras de preliminära resultaten allt eftersom rösterna räknats samman när vallokalerna har stängt. Då har inga personröster räknats.  Det slutgiltiga resultatet publiceras på samma plats när stiften har kontrollräknat alla röster.</p>
+<p>I kyrkovalet kan du rösta i tre val; kyrkofullmäktige, stiftsfullmäktige och kyrkomötet. Den som är röstberättigad i Göteborgs kyrkliga samfällighet röstar även till samfällighet, det vill säga i fyra val. Din röst påverkar hur Svenska kyrkan styrs lokalt, regionalt och nationellt.</p>
+<p>val till kyrkofullmäktige – ditt lokala val</p>
+<p>Du väljer till kyrkofullmäktige i din församling eller, om din församling samverkar med andra församlingar, till kyrkofullmäktige i ditt pastorat. Kyrkofullmäktige bestämmer ramarna för den verksamhet som finns nära dig. Till exempel vilken verksamhet för barn och unga som ska finnas i församlingen, eller hur kör- och konsertverksamheten ska se ut. <em type="italic">Vita valsedlar.</em> </p>
+<p>val till stiftet - regionalt</p>
+<p>Svenska kyrkan är indelad i 13 stift. Stiftsfullmäktige är stiftets högsta beslutande organ. Stiftens främsta uppgift är att stödja församlingarna i deras verksamhet och förvaltning genom expertis inom flera områden. Till exempel i kyrkoantikvariska frågor när man ska renovera en kyrka. <em type="italic">Rosa valsedlar.</em> </p>
+<p>val till kyrkomötet - nationellt</p>
+<p>Kyrkomötet är Svenska kyrkan högsta beslutande organ med 251 ledamöter. Det beslutar om kyrkans gemensamma och övergripande frågor. Kyrkomötet behandlar till exempel frågor om hur kyrkan ska arbeta med klimatfrågan och vilka psalmer som ska finnas i psalmboken. <em type="italic">Gula valsedlar.</em> </p>
+<p>val till församling och samfällighet – i Göteborg</p>
+<p>I Göteborgs kyrkliga samfällighet delas ansvaret som beskrivs ovan under  <em type="italic">Val till kyrkofullmäktige – ditt lokala val</em> mellan ett kyrkofullmäktige i  Göteborgs kyrkliga samfällighet och kyrkofullmäktige i de församlingar  som ingår i samfälligheten. </p>
+<p>Kyrkofullmäktige i Göteborgs kyrkliga samfällighet beslutar bland annat om ekonomi- och fastighetsfrågor. Du som bor i Göteborg kan i årets val rösta i fyra val. <em type="italic">Gröna valsedlar </em>till kyrkofullmäktige i församling och <em type="italic">vita valsedlar</em> till kyrkofullmäktige i samfälligheten (om du vill brevrösta kan du få grön  valsedel och extra valkuvert bl.a. från Göteborgs stift). </p>
+<p>Vill du veta mer?</p>
+<p>På www.svenskakyrkan.se/kyrkoval finns information på lätt svenska, på finska, nordsamiska, sydsamiska, lulesamiska, romani, meänkieli, engelska, franska, tyska, arabiska, spanska och teckenspråk. Inläst information på svenska går att ladda ner  som ljudfil eller kan beställas på cd från Svenska kyrkans informationsservice, telefon  018-16 96 00 eller via e-post info@svenskakyrkan.se. Du kan vända dig till din församling eller gå in på www.svenskakyrkan.se/kyrkoval för mer information.</p>
+<p>kyrkan i vardagen</p>
+<p>Som medlem får du vara med och påverka Svenska kyrkans vardagsarbete med t.ex. körer, stöd till utsatta, sjukhuskyrka, familjerådgivning och verksamhet för barn och unga.</p>
+<p>livets skeden</p>
+<p>I kyrkan möts vi också i samband med viktiga händelser som dop, konfirmation, stöd vid kriser och katastrofer</p>
+<p>Svenska kyrkans personal finns med som stöd när olyckor, kriser och katastrofer har inträffat. Både utomlands och i Sverige.</p>
+<p>mötesplatser i sverige och utomlands</p>
+<p>Svenska kyrkan möter människor både i Sverige och utomlands som sommarkyrka, fjällkyrka, sjukhuskyrka, skolkyrka, vägkyrka, utlandskyrka och</p>
+</body></document>

@@ -1,60 +1,21 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>220</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://gielemnastedh.no/wp-content/uploads/2013/08/Gïeleviermie-2013-Information.pdf</origFileName>
-    <parallel_text xml:lang="sma" location="gieleviermie-2013.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="vep">
-      <em type="bold">GÏELEVIERMIE  SYDSAMISK SPRÅKNÄTVERK  </em>
-    </p>
-    <p>Samiskt Språkcentrum, Sametinget Sverige har i samarbete med Aajege i Röros, Gïelem Nastedh, Snåsa Kommun och Gïeleaernie, Röyrvik Kommun glädjen att invitera till språknätverks-seminarium</p>
-    <p>
-      <em type="bold">Tema: <span type="quote" xml:lang="sma">”Dihte orre gïele”</span>- det nya samiska språket och språkrevitalisering </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold"> den 23 - 24 oktober 2013  Staare, Östersund </em>
-    </p>
-    <p>
-      <em type="bold">Målet med Gïeleviermie är att: </em>
-    </p>
-    <p>Skapa en arena där sydsamiska språket talas, hörs och syns.</p>
-    <p type="listitem">•  Ge deltagarna  kunskapslyft inom språkarbete.</p>
-    <p type="listitem">•  Dela kunskap och erfarenheter inom sydsamiskt språkarbete.</p>
-    <p type="listitem">•  Bidra till att skapa nätverk av språkkompetens inom sydsamiskt språk och kultur.</p>
-    <p xml:lang="nno"><em type="bold">Målgrupp:  </em> </p>
-    <p>Samiska språkarbetare och intresserade av samiskt språk  som önskar kunskapslyft inom sydsamiska på norsk och svensk sida av Saepmie.</p>
-    <p xml:lang="nno">
-      <em type="bold">Kort om program: Onsdag  den 23 oktober: </em>
-    </p>
-    <p>Tema är <span type="quote" xml:lang="sma">”Dïhte orre gïele”</span>. Med fokus på det nya språket – Hur ska detta bli tillgängligt? Hur ska det användas? Vad skall man  hänsyn till vid översättningsarbete?</p>
-    <p xml:lang="nno">
-      <em type="bold">Torsdag den 24 oktober:  </em>
-    </p>
-    <p>Tema är  <span type="quote" xml:lang="nob">”Språkrevitalisering”</span> där de olika språkcentra lyfter fram viktiga projekt inom temat. En ny bok om språkspärr och en nyutvecklad sydsamisk språkapp för smarttelefoner och läsplattor kommer att lanseras.<em type="bold">  </em></p>
-    <p xml:lang="nob">
-      <em type="bold">Anmälan senast 30 september 2013 via www.sametinget.se (se kalendarium) </em>
-    </p>
-    <p>
-      <em type="bold">För information kontakta </em>
-    </p>
-    <p xml:lang="sma">Saemien gïelejarnge,Samiskt Språkcentrum:</p>
-    <p xml:lang="nno">sylvia.sparrock@sametinget.se tel:+46 63 150856</p>
-    <p xml:lang="sma">Aajege: toini.bergstrom@stfk.no tel:  +47 72 41 93 00 / 907 23 513  Gïelem Nastedh: ann.sofi.fjallstrom@snasa.kommune.no tel: +47 962 28 758 Gïeleaernie: tove.mette.wigdahl@royrvik.kommune.no tel: +47 48028157</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>220</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://gielemnastedh.no/wp-content/uploads/2013/08/Gïeleviermie-2013-Information.pdf</origFileName><parallel_text xml:lang="sma" location="gieleviermie-2013.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep"><em type="bold">GÏELEVIERMIE  SYDSAMISK SPRÅKNÄTVERK  </em></p>
+<p>Samiskt Språkcentrum, Sametinget Sverige har i samarbete med Aajege i Röros, Gïelem Nastedh, Snåsa Kommun och Gïeleaernie, Röyrvik Kommun glädjen att invitera till språknätverks-seminarium</p>
+<p><em type="bold">Tema: <span type="quote" xml:lang="sma">”Dihte orre gïele”</span>- det nya samiska språket och språkrevitalisering </em></p>
+<p xml:lang="nob"><em type="bold"> den 23 - 24 oktober 2013  Staare, Östersund </em></p>
+<p><em type="bold">Målet med Gïeleviermie är att: </em></p>
+<p>Skapa en arena där sydsamiska språket talas, hörs och syns.</p>
+<p type="listitem">•  Ge deltagarna  kunskapslyft inom språkarbete.</p>
+<p type="listitem">•  Dela kunskap och erfarenheter inom sydsamiskt språkarbete.</p>
+<p type="listitem">•  Bidra till att skapa nätverk av språkkompetens inom sydsamiskt språk och kultur.</p>
+<p xml:lang="smj"><em type="bold">Målgrupp:  </em> </p>
+<p>Samiska språkarbetare och intresserade av samiskt språk  som önskar kunskapslyft inom sydsamiska på norsk och svensk sida av Saepmie.</p>
+<p xml:lang="nno"><em type="bold">Kort om program: Onsdag  den 23 oktober: </em></p>
+<p>Tema är <span type="quote" xml:lang="sma">”Dïhte orre gïele”</span>. Med fokus på det nya språket – Hur ska detta bli tillgängligt? Hur ska det användas? Vad skall man  hänsyn till vid översättningsarbete?</p>
+<p xml:lang="nno"><em type="bold">Torsdag den 24 oktober:  </em></p>
+<p>Tema är  <span type="quote" xml:lang="nob">”Språkrevitalisering”</span> där de olika språkcentra lyfter fram viktiga projekt inom temat. En ny bok om språkspärr och en nyutvecklad sydsamisk språkapp för smarttelefoner och läsplattor kommer att lanseras.<em type="bold">  </em></p>
+<p xml:lang="nob"><em type="bold">Anmälan senast 30 september 2013 via www.sametinget.se (se kalendarium) </em></p>
+<p><em type="bold">För information kontakta </em></p>
+<p xml:lang="sma">Saemien gïelejarnge,Samiskt Språkcentrum:</p>
+<p xml:lang="nno">sylvia.sparrock@sametinget.se tel:+46 63 150856</p>
+<p xml:lang="sma">Aajege: toini.bergstrom@stfk.no tel:  +47 72 41 93 00 / 907 23 513  Gïelem Nastedh: ann.sofi.fjallstrom@snasa.kommune.no tel: +47 962 28 758 Gïeleaernie: tove.mette.wigdahl@royrvik.kommune.no tel: +47 48028157</p>
+</body></document>

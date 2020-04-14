@@ -1,105 +1,58 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1089</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Jag/Sjalvkansla</origFileName>
-    <parallel_text xml:lang="eng" location="self-esteem.html"/>
-    <parallel_text xml:lang="fin" location="itsetunto.html"/>
-    <parallel_text xml:lang="fit" location="ittentunto.html"/>
-    <parallel_text xml:lang="sma" location="jijtjedomtese.html"/>
-    <parallel_text xml:lang="sme" location="iedovdu.html"/>
-    <parallel_text xml:lang="smj" location="iesjdabddo.html"/>
-    <parallel_text location="iri-zor.html" xml:lang="rmy-rka"/>
-    <parallel_text location="korkorioset.html" xml:lang="rmn"/>
-    <parallel_text location="soluskansla.html" xml:lang="rmu"/>
-    <parallel_text location="alejn-opshats.html" xml:lang="yid"/>
-    <parallel_text location="manuesko-aaripe-sjalvkansla.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="iegohoiba.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Självkänsla</p>
-    <p>Alla undrar!  Vad undrar du?</p>
-    <p type="title">Självkänsla</p>
-    <p>Självkänsla handlar om hur du tänker om dig själv och den du är. Den har inte att göra med om du är bra eller dålig på olika saker. Den handlar om att känna att du är värd något bara genom att vara du. Känslan av att man duger går att träna upp.</p>
-    <p>Självkänslan betyder mycket för hur man lever sitt liv och hur man mår. En bra självkänsla hjälper dig att göra sånt som är bra för dig, att du törs göra saker du vill, vågar knyta nya kontakter och kan säga både ja och nej till saker.</p>
-    <p>Om du har det jobbigt med självkänslan kan det tvärtom leda till att du avstår ifrån att göra sånt du egentligen skulle vilja. I stället kanske du gör saker som du inte har lust med, eller gör saker mer för att andra vill det.</p>
-    <p type="title">Självkänsla och självförtroende är inte samma sak</p>
-    <p>Självkänsla och självförtroende blandas ibland ihop, fast de inte riktigt är samma sak.</p>
-    <p>Självförtroende har med prestationer att göra, alltså hur mycket man tror på att man ska klara av saker.</p>
-    <p>Självkänslan handlar om hur man ser på vem man är innerst inne med både sina starka och svaga sidor.</p>
-    <p>Om du har en bra självkänsla påverkas du inte lika mycket av vad andra tycker och tänker. Det är lättare att vara dig själv. Du bryr dig inte om tillexempel om att andra inte tycker att du är bäst på olika saker.</p>
-    <p>Om du har låg självkänsla kan det tvärtom kännas jättejobbigt med en enstaka kommentar om till exempel ditt utseende eller något du säger.</p>
-    <p type="title">Samband mellan makt och självkänsla</p>
-    <p>Det finns ett samband mellan självkänsla och den makt man har över sitt liv. När man känner att man själv kan bestämma och påverka sitt liv är det lättare att ha en bra självkänsla.</p>
-    <p>Om självkänslan sjunker kan man känna sig maktlös. Det kan till exempel kännas svårt att påverka sin situation när man länge sökt jobb utan att få något, eller när de man bor ihop med bestämmer för mycket över ens liv.</p>
-    <p type="title">Hur kan bra självkänsla märkas?</p>
-    <p>Ens självkänsla kan vara bättre eller sämre i olika perioder i livet och den kan också vara olika stark i olika situationer. När man har bra självkänsla kan det märkas genom att man</p>
-    <list>
-      <p type="listitem">känner att man duger, trots att man inte är bra på allt</p>
-      <p type="listitem">känner att man har rätt att ta plats, att synas och höras och att man känner sig respekterad</p>
-      <p type="listitem">vågar tala om hur man mår eller vad man tycker</p>
-      <p type="listitem">accepterar att alla inte kan tycka om en</p>
-      <p type="listitem">känner att man har rätt att säga både ja och nej till saker</p>
-      <p type="listitem">kan be om hjälp när man behöver</p>
-      <p type="listitem">känner att man är värd att må bra, att man sköter om sig själv och gör saker som får en att må bra</p>
-      <p type="listitem">törs prova nya saker och nya situationer</p>
-      <p type="listitem">vågar misslyckas</p>
-      <p type="listitem">törs ta kontakt med människor</p>
-      <p type="listitem">kan ge både positiv och negativ kritik till andra</p>
-      <p type="listitem">står för den man är och hur man ser ut</p>
-      <p type="listitem">känner sig okej även om inte allt är perfekt</p>
-      <p type="listitem">törs stå för det man gör och det man har gjort</p>
-      <p type="listitem">kan erkänna misstag och be om förlåtelse om man gjort någon illa</p>
-      <p type="listitem">kan belöna och berömma sig själv.</p>
-    </list>
-    <p type="title">Hur kan låg självkänsla märkas?</p>
-    <p>När självkänslan är svag kan det märkas genom att man:</p>
-    <list>
-      <p type="listitem">känner sig dålig, att man inte tycker att man är värd något</p>
-      <p type="listitem">gör saker som inte är bra för en</p>
-      <p type="listitem">undviker att umgås med andra</p>
-      <p type="listitem">undviker att prova nya saker</p>
-      <p type="listitem">försöker vara andra till lags i vänskaps- och kärleksrelationer</p>
-      <p type="listitem">inte tar plats och tar för sig i olika situationer</p>
-      <p type="listitem">ofta är svartsjuk eller avundsjuk på andra</p>
-      <p type="listitem">blir jätteledsen om man misslyckas med något man gör.</p>
-    </list>
-    <p>Dålig självkänsla kan också visa sig genom att en person slåss, mobbar eller är taskig mot andra. Det kan också vara så att man försöker dölja dålig självkänsla genom att försöka vara superduktig och bäst på allt eller att man skryter om sig själv.</p>
-    <p type="title">Varför får man låg självkänsla?</p>
-    <p>Det finns många olika anledningar till att man kan ha låg självkänsla. Alla behöver få uppskattning, bli sedda och respekterade för den de är. Självkänslan sjunker om man ofta under sin uppväxt har fått höra att man inte är tillräckligt bra, inte duger någonting till eller är jobbig.</p>
-    <p>Samtidigt kan en person som har fått uppskattning bara när han eller hon har presterat bra, till exempel i en idrottstävling eller på ett prov i skolan, tro att hon eller han duger bara när de gjort något bra. Att man inte duger bara genom att finnas till.</p>
-    <p>Självkänslan påverkas också negativt om man inte blir sedd alls under uppväxten, till exempel om ens föräldrar eller de man växer upp med aldrig är hemma, om de är sjuka, missbrukar eller har för mycket i sina egna liv för att hinna och orka se sina barn.</p>
-    <p>Känslan av att inte duga kan också bero på att människor är olika känsliga från början. Om man är känslig kan man ha låg självkänsla, även om man har haft det bra när man växte upp.</p>
-    <p>Vad det än beror på att man har låg självkänsla, så kan den bli bättre. Att känna sig annorlunda, utanför och jämföra sig med andra</p>
-    <p>Det kan också spela roll för ens självkänsla hur pass lik man är den familj eller de personer man växer upp med. Om alla andra älskar sport och man själv inte är det minsta intresserad, kan man känna sig missförstådd och bli osäker på sig själv. Andra saker som kan bidra till att självkänslan sjunker kan vara att man:</p>
-    <list>
-      <p type="listitem">känner sig utanför eller är mobbad</p>
-      <p type="listitem">är arbetslös</p>
-      <p type="listitem">har svårt att bestämma vad man ska göra med sitt liv, som vilken utbildning man ska gå eller vilket yrke man ska satsa på</p>
-      <p type="listitem">mår psykiskt dåligt och till exempel har mycket ångest eller känner sig deprimerad.</p>
-    </list>
-    <p>Många jämför sig med dem de känner eller med personer i reklam och media. Ju högre krav du har på dig själv – att vara bra på allt, snygg och populär – desto svårare kan det vara att känna dig nöjd med dig själv.</p>
-    <p type="title">Självkänslan syns inte alltid utanpå</p>
-    <p>Det är svårt att se utanpå hur en person upplever sin självkänsla. Någon som till ytan ser väldigt lyckad ut, som ser bra ut, är duktig i skolan eller på jobbet och har många vänner, kan i själva verket ha låg självkänsla och känna att hon eller han inte duger och räcker till.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1084</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Jag/Sjalvkansla</origFileName><parallel_text xml:lang="eng" location="self-esteem.html"/><parallel_text xml:lang="fin" location="itsetunto.html"/><parallel_text xml:lang="fit" location="ittentunto.html"/><parallel_text xml:lang="sma" location="jijtjedomtese.html"/><parallel_text xml:lang="sme" location="iedovdu.html"/><parallel_text xml:lang="smj" location="iesjdabddo.html"/><parallel_text location="iri-zor.html" xml:lang="rmy-rka"/><parallel_text location="korkorioset.html" xml:lang="rmn"/><parallel_text location="soluskansla.html" xml:lang="rmu"/><parallel_text location="alejn-opshats.html" xml:lang="yid"/><parallel_text location="manuesko-aaripe-sjalvkansla.html" xml:lang="rmy-rlo"/><parallel_text location="iegohoiba.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Självkänsla</p>
+<p type="title">Självkänsla</p>
+<p>Självkänsla handlar om hur du tänker om dig själv och den du är. Den har inte att göra med om du är bra eller dålig på olika saker. Den handlar om att känna att du är värd något bara genom att vara du. Känslan av att man duger går att träna upp.</p>
+<p>Självkänslan betyder mycket för hur man lever sitt liv och hur man mår. En bra självkänsla hjälper dig att göra sånt som är bra för dig, att du törs göra saker du vill, vågar knyta nya kontakter och kan säga både ja och nej till saker.</p>
+<p>Om du har det jobbigt med självkänslan kan det tvärtom leda till att du avstår ifrån att göra sånt du egentligen skulle vilja. I stället kanske du gör saker som du inte har lust med, eller gör saker mer för att andra vill det.</p>
+<p type="title">Självkänsla och självförtroende är inte samma sak</p>
+<p>Självkänsla och självförtroende blandas ibland ihop, fast de inte riktigt är samma sak.</p>
+<p>Självförtroende har med prestationer att göra, alltså hur mycket man tror på att man ska klara av saker.</p>
+<p>Självkänslan handlar om hur man ser på vem man är innerst inne med både sina starka och svaga sidor.</p>
+<p>Om du har en bra självkänsla påverkas du inte lika mycket av vad andra tycker och tänker. Det är lättare att vara dig själv. Du bryr dig inte om tillexempel om att andra inte tycker att du är bäst på olika saker.</p>
+<p>Om du har låg självkänsla kan det tvärtom kännas jättejobbigt med en enstaka kommentar om till exempel ditt utseende eller något du säger.</p>
+<p type="title">Samband mellan makt och självkänsla</p>
+<p>Det finns ett samband mellan självkänsla och den makt man har över sitt liv. När man känner att man själv kan bestämma och påverka sitt liv är det lättare att ha en bra självkänsla.</p>
+<p>Om självkänslan sjunker kan man känna sig maktlös. Det kan till exempel kännas svårt att påverka sin situation när man länge sökt jobb utan att få något, eller när de man bor ihop med bestämmer för mycket över ens liv.</p>
+<p type="title">Hur kan bra självkänsla märkas?</p>
+<p>Ens självkänsla kan vara bättre eller sämre i olika perioder i livet och den kan också vara olika stark i olika situationer. När man har bra självkänsla kan det märkas genom att man</p>
+<list><p type="listitem">känner att man duger, trots att man inte är bra på allt</p>
+<p type="listitem">känner att man har rätt att ta plats, att synas och höras och att man känner sig respekterad</p>
+<p type="listitem">vågar tala om hur man mår eller vad man tycker</p>
+<p type="listitem">accepterar att alla inte kan tycka om en</p>
+<p type="listitem">känner att man har rätt att säga både ja och nej till saker</p>
+<p type="listitem">kan be om hjälp när man behöver</p>
+<p type="listitem">känner att man är värd att må bra, att man sköter om sig själv och gör saker som får en att må bra</p>
+<p type="listitem">törs prova nya saker och nya situationer</p>
+<p type="listitem">vågar misslyckas</p>
+<p type="listitem">törs ta kontakt med människor</p>
+<p type="listitem">kan ge både positiv och negativ kritik till andra</p>
+<p type="listitem">står för den man är och hur man ser ut</p>
+<p type="listitem">känner sig okej även om inte allt är perfekt</p>
+<p type="listitem">törs stå för det man gör och det man har gjort</p>
+<p type="listitem">kan erkänna misstag och be om förlåtelse om man gjort någon illa</p>
+<p type="listitem">kan belöna och berömma sig själv.</p>
+</list><p type="title">Hur kan låg självkänsla märkas?</p>
+<p>När självkänslan är svag kan det märkas genom att man:</p>
+<list><p type="listitem">känner sig dålig, att man inte tycker att man är värd något</p>
+<p type="listitem">gör saker som inte är bra för en</p>
+<p type="listitem">undviker att umgås med andra</p>
+<p type="listitem">undviker att prova nya saker</p>
+<p type="listitem">försöker vara andra till lags i vänskaps- och kärleksrelationer</p>
+<p type="listitem">inte tar plats och tar för sig i olika situationer</p>
+<p type="listitem">ofta är svartsjuk eller avundsjuk på andra</p>
+<p type="listitem">blir jätteledsen om man misslyckas med något man gör.</p>
+</list><p>Dålig självkänsla kan också visa sig genom att en person slåss, mobbar eller är taskig mot andra. Det kan också vara så att man försöker dölja dålig självkänsla genom att försöka vara superduktig och bäst på allt eller att man skryter om sig själv.</p>
+<p type="title">Varför får man låg självkänsla?</p>
+<p>Det finns många olika anledningar till att man kan ha låg självkänsla. Alla behöver få uppskattning, bli sedda och respekterade för den de är. Självkänslan sjunker om man ofta under sin uppväxt har fått höra att man inte är tillräckligt bra, inte duger någonting till eller är jobbig.</p>
+<p>Samtidigt kan en person som har fått uppskattning bara när han eller hon har presterat bra, till exempel i en idrottstävling eller på ett prov i skolan, tro att hon eller han duger bara när de gjort något bra. Att man inte duger bara genom att finnas till.</p>
+<p>Självkänslan påverkas också negativt om man inte blir sedd alls under uppväxten, till exempel om ens föräldrar eller de man växer upp med aldrig är hemma, om de är sjuka, missbrukar eller har för mycket i sina egna liv för att hinna och orka se sina barn.</p>
+<p>Känslan av att inte duga kan också bero på att människor är olika känsliga från början. Om man är känslig kan man ha låg självkänsla, även om man har haft det bra när man växte upp.</p>
+<p>Vad det än beror på att man har låg självkänsla, så kan den bli bättre. Att känna sig annorlunda, utanför och jämföra sig med andra</p>
+<p>Det kan också spela roll för ens självkänsla hur pass lik man är den familj eller de personer man växer upp med. Om alla andra älskar sport och man själv inte är det minsta intresserad, kan man känna sig missförstådd och bli osäker på sig själv. Andra saker som kan bidra till att självkänslan sjunker kan vara att man:</p>
+<list><p type="listitem">känner sig utanför eller är mobbad</p>
+<p type="listitem">är arbetslös</p>
+<p type="listitem">har svårt att bestämma vad man ska göra med sitt liv, som vilken utbildning man ska gå eller vilket yrke man ska satsa på</p>
+<p type="listitem">mår psykiskt dåligt och till exempel har mycket ångest eller känner sig deprimerad.</p>
+</list><p>Många jämför sig med dem de känner eller med personer i reklam och media. Ju högre krav du har på dig själv – att vara bra på allt, snygg och populär – desto svårare kan det vara att känna dig nöjd med dig själv.</p>
+<p type="title">Självkänslan syns inte alltid utanpå</p>
+<p>Det är svårt att se utanpå hur en person upplever sin självkänsla. Någon som till ytan ser väldigt lyckad ut, som ser bra ut, är duktig i skolan eller på jobbet och har många vänner, kan i själva verket ha låg självkänsla och känna att hon eller han inte duger och räcker till.</p>
+</body></document>

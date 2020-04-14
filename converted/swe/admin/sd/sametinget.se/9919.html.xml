@@ -1,47 +1,15 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>167</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/9919</origFileName>
-    <parallel_text xml:lang="sme" location="9921.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Therese vann teckningstävlingen - Sametinget</p>
-    <p type="title">Therese vann teckningstävlingen</p>
-    <p>Therese Labba från åk 3, Övre Soppero skola, vann Sametingets valnämnds&#13; teckningstävling. Hennes bild ska nu pryda omslaget till programbladet&#13; för Sametingets invigning den 25 augusti.</p>
-    <p>
-      <em type="bold">Framtidstro </em>
-    </p>
-    <p>Barnen skulle rita teckningar på temat <span type="quote">”Samisk framtid”</span>.</p>
-    <p>- Vi fick in 27 bidrag, berättar Börje Allas som är valnämndens ordförande. Valnämnden fastnade särskilt för barnens framtidstro, att samerna alltid ska finnas kvar. Många nämnde språket, slöjden och renarna i sina bildtexter.</p>
-    <p>
-      <em type="bold">Renar och renkalvar </em>
-    </p>
-    <p>Therese Labba har målat en färgstark bild av renar och renkalvar i gärdet på sommaren. Priset blir Sametingets officiella representationsgåva, den samiska saltskeden i silver.</p>
-    <p>
-      <em type="bold">Hedersomnämnande </em>
-    </p>
-    <p>Ett hedersomnämnande går till John-Ante Blind för hans kreativa tankar om framtidens skoter med bland annat självutskjutande lasso, värmekamera och krockkudde.</p>
-    <p>
-      <em type="bold">Diplom </em>
-    </p>
-    <p>Diplomen delas ut av Sametingets ålderspresident Lars-Jon Allas vid Sametingets högtidliga öppnande i Kiruna stadshus den 25 augusti 2009. Samtliga teckningar kommer att visas på Folkets Hus i samband med plenum.</p>
-    <p>
-      <em type="italic">Kontakt </em>
-    </p>
-    <p>Börje Allas, valnämndens ordförande, 070-308 15 18</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>167</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/9919</origFileName><parallel_text xml:lang="sme" location="9921.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Therese vann teckningstävlingen - Sametinget</p>
+<p type="title">Therese vann teckningstävlingen</p>
+<p>Therese Labba från åk 3, Övre Soppero skola, vann Sametingets valnämnds&#13; teckningstävling. Hennes bild ska nu pryda omslaget till programbladet&#13; för Sametingets invigning den 25 augusti.</p>
+<p><em type="bold">Framtidstro </em></p>
+<p>Barnen skulle rita teckningar på temat <span type="quote">”Samisk framtid”</span>.</p>
+<p>- Vi fick in 27 bidrag, berättar Börje Allas som är valnämndens ordförande. Valnämnden fastnade särskilt för barnens framtidstro, att samerna alltid ska finnas kvar. Många nämnde språket, slöjden och renarna i sina bildtexter.</p>
+<p><em type="bold">Renar och renkalvar </em></p>
+<p>Therese Labba har målat en färgstark bild av renar och renkalvar i gärdet på sommaren. Priset blir Sametingets officiella representationsgåva, den samiska saltskeden i silver.</p>
+<p><em type="bold">Hedersomnämnande </em></p>
+<p>Ett hedersomnämnande går till John-Ante Blind för hans kreativa tankar om framtidens skoter med bland annat självutskjutande lasso, värmekamera och krockkudde.</p>
+<p><em type="bold">Diplom </em></p>
+<p>Diplomen delas ut av Sametingets ålderspresident Lars-Jon Allas vid Sametingets högtidliga öppnande i Kiruna stadshus den 25 augusti 2009. Samtliga teckningar kommer att visas på Folkets Hus i samband med plenum.</p>
+<p><em type="italic">Kontakt </em></p>
+<p>Börje Allas, valnämndens ordförande, 070-308 15 18</p>
+</body></document>

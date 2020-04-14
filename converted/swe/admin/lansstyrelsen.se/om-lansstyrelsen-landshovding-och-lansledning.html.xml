@@ -1,35 +1,9 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>134</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/landshovding-och-lansledning/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="om-lansstyrelsen-landshovding-och-lansledning.html"/>
-    <parallel_text xml:lang="sma" location="om-lansstyrelsen-landshovding-och-lansledning.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Landshövding och länsledning - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Landshövding och länsledning</p>
-    <p>
-      <em type="italic">Landshövdingen är länsstyrelsens chef och utses direkt av regeringen. Länsstyrelsens ledning består av landshövdingen tillsammans med ett länsråd. </em>
-    </p>
-    <p type="title">Landshövdingen</p>
-    <p>Landshövdingen är regeringens företrädare i länet och utses ofta i ett sexårigt förordnande. Det kan förlängas om personen inte har uppnått pensionsåldern. En viktig uppgift för landshövdingen är att samordna den statliga verksamheten i länet. Landshövdingen ska även följa länets tillstånd och informera regeringen om länets behov.</p>
-    <p>Landshövdingar infördes i Sverige redan 1634, då Axel Oxenstierna delade in landet i olika kungliga områden (län).</p>
-    <p type="title">Länsrådet</p>
-    <p>I länet finns ett länsråd som leder det dagliga arbetet i Länsstyrelsen. Den personen fungerar också som landshövdingens närmaste medarbetare och ersättare när hon eller han inte är i tjänst eller har förhinder. Länsrådet utses av regeringen efter normalt rekryteringsförfarande.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>134</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/landshovding-och-lansledning/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="om-lansstyrelsen-landshovding-och-lansledning.html"/><parallel_text xml:lang="sma" location="om-lansstyrelsen-landshovding-och-lansledning.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Landshövding och länsledning - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Landshövding och länsledning</p>
+<p><em type="italic">Landshövdingen är länsstyrelsens chef och utses direkt av regeringen. Länsstyrelsens ledning består av landshövdingen tillsammans med ett länsråd. </em></p>
+<p type="title">Landshövdingen</p>
+<p>Landshövdingen är regeringens företrädare i länet och utses ofta i ett sexårigt förordnande. Det kan förlängas om personen inte har uppnått pensionsåldern. En viktig uppgift för landshövdingen är att samordna den statliga verksamheten i länet. Landshövdingen ska även följa länets tillstånd och informera regeringen om länets behov.</p>
+<p>Landshövdingar infördes i Sverige redan 1634, då Axel Oxenstierna delade in landet i olika kungliga områden (län).</p>
+<p type="title">Länsrådet</p>
+<p>I länet finns ett länsråd som leder det dagliga arbetet i Länsstyrelsen. Den personen fungerar också som landshövdingens närmaste medarbetare och ersättare när hon eller han inte är i tjänst eller har förhinder. Länsrådet utses av regeringen efter normalt rekryteringsförfarande.</p>
+</body></document>

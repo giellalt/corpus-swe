@@ -1,56 +1,22 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Smakskolan:  Hörseln – även öronen gillar mat</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2018</year>
-    <wordcount>491</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-kuulo-korvatkin-tykkaavat-ruuasta/</origFileName>
-    <parallel_text xml:lang="fin" location="makukoulu_kuulo_korvatkin_tykkaavat_ruuasta.html"/>
-    <parallel_text xml:lang="sme" location="smahkkaskuvlla_gullu_bealjitge_liikojit_borramusas.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Hoppa över till innehållet</p>
-    <p xml:lang="fkv">RuokaTutka</p>
-    <list>
-      <p type="listitem" xml:lang="fin">suomi</p>
-      <p type="listitem">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="fin">suomi</p>
-      <p type="listitem">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <p type="title">Smakskolan:  Hörseln – även öronen gillar mat</p>
-    <p>Mat förknippas med många olika ljud. Vissa ljud berättar om hur maten tillreds och andra uppstår när man äter den. Ljudet av kniven mot skärbrädan, stekpannans fräsande, kastrullens sjudande eller popcornens smällande förbereder oss för att äta. Vissa ljud, såsom knastrandet från ett knäckebröd eller ett kex, är en del av den njutning som ätandet för med sig. Krispiga och täta livsmedels strukturella egenskaper kan uppfattas med hörselsinnet. När man tuggar på frukter och grönsaker hörs ett frasande ljud. Om vi verkligen lyssnar efter de ljud som maten ger ifrån sig upptäcker vi även tystare ljud. Vissa ostar kan knastra och knarra, och man kan till och med höra porlandet från drycker. Även pratet om maten hör till de ljud som förknippas med ätandet och ger bland annat information om attityderna till maten.</p>
-    <p xml:lang="nob">
-      <em type="italic">Hörselsinnet </em>
-    </p>
-    <p>Hörselsinnet bygger på att trumhinnan inne i örongången vibrerar i takt med ljudvågorna. Vibrationerna fortplantas via hörselbenen som är fästa vid trumhinnan till innerörats hörselorgan, snäckan, där hörselcellerna finns. Ljudvågen som når snäckan får vätskan inne i den att vibrera och hörselcellerna att vidarebefordra informationen genom hörselnerven till hjärnan, där den tolkas som ljud.</p>
-    <p>
-      <em type="italic">Hörseluppgifter för lektionen </em>
-    </p>
-    <list>
-      <p type="listitem">I hörselspelet lägger man olika råvaror, såsom ärter, makaroner och gryn, i ogenomskinliga burkar eller askar. Det ska finnas två burkar med varje sort. Genom att skaka burkarna ska man försöka avgöra vilka som hör ihop. Äldre barn kan också fundera på vad burkarna kan tänkas innehålla. Ljudet påverkas av hur mycket av livsmedlet som finns i burken, så man bör alltid mäta upp samma mängd i de som hör ihop.</p>
-      <p type="listitem">Eleverna kan spela in ljud som har att göra med matlagning och ätande på sina mobiltelefoner, så att de andra på lektionen får gissa vad det är. Alternativt kan man producera ljud under lektionen bakom en skärm. Igenkännbara ljud uppstår exempelvis när man häller vatten eller ris i en kastrull, skalar eller river en morot, öppnar en läskflaska, biter i ett knäckebröd eller en surskorpa, vispar med en visp i en skål, tar av och lägger på ett kastrullock, prasslar med en livsmedelsförpackning eller klirrar med kärl och bestick. Till matrelaterade ljud hör även ljuden från hushållsapparater, såsom kaffe- och vattenkokare, mikrovågsugn och kylskåp. Matlagning, såsom att steka och koka på spisen, har också sin egen ljudvärld.</p>
-      <p type="listitem">På lektionen kan man ta fram idéer för en så högljudd måltid som möjligt. Hurdan skulle den vara? Vad skulle man äta och dricka? Vilken sorts ätande och drickande är mest ljudligt. Uppgiften blir mer effektiv om man har möjlighet att genomföra och spela in en måltid. När man lyssnat på inspelningen uppstår en bra diskussion om huruvida måltidens ljudvärld är trevlig och trivsam. Och hur kan man öka trivseln i skolmatsalen?</p>
-    </list>
-    <p type="title" xml:lang="vep">LÄS MER:</p>
-    <p type="title">Synsinnet – först tittar vi</p>
-    <p type="title">Lukt – kittlar i näsan</p>
-    <p type="title">Känseln – hur känns maten?</p>
-    <p type="title">Smak – känns på tungan</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Smakskolan:  Hörseln – även öronen gillar mat</title><genre code="facta"/><author><unknown/></author><year>2018</year><wordcount>491</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-kuulo-korvatkin-tykkaavat-ruuasta/</origFileName><parallel_text xml:lang="fin" location="makukoulu_kuulo_korvatkin_tykkaavat_ruuasta.html"/><parallel_text xml:lang="sme" location="smahkkaskuvlla_gullu_bealjitge_liikojit_borramusas.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Hoppa över till innehållet</p>
+<p xml:lang="fkv">RuokaTutka</p>
+<list><p type="listitem" xml:lang="fin">suomi</p>
+<p type="listitem">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><list><p type="listitem" xml:lang="fin">suomi</p>
+<p type="listitem">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><p type="title">Smakskolan:  Hörseln – även öronen gillar mat</p>
+<p>Mat förknippas med många olika ljud. Vissa ljud berättar om hur maten tillreds och andra uppstår när man äter den. Ljudet av kniven mot skärbrädan, stekpannans fräsande, kastrullens sjudande eller popcornens smällande förbereder oss för att äta. Vissa ljud, såsom knastrandet från ett knäckebröd eller ett kex, är en del av den njutning som ätandet för med sig. Krispiga och täta livsmedels strukturella egenskaper kan uppfattas med hörselsinnet. När man tuggar på frukter och grönsaker hörs ett frasande ljud. Om vi verkligen lyssnar efter de ljud som maten ger ifrån sig upptäcker vi även tystare ljud. Vissa ostar kan knastra och knarra, och man kan till och med höra porlandet från drycker. Även pratet om maten hör till de ljud som förknippas med ätandet och ger bland annat information om attityderna till maten.</p>
+<p xml:lang="nob"><em type="italic">Hörselsinnet </em></p>
+<p>Hörselsinnet bygger på att trumhinnan inne i örongången vibrerar i takt med ljudvågorna. Vibrationerna fortplantas via hörselbenen som är fästa vid trumhinnan till innerörats hörselorgan, snäckan, där hörselcellerna finns. Ljudvågen som når snäckan får vätskan inne i den att vibrera och hörselcellerna att vidarebefordra informationen genom hörselnerven till hjärnan, där den tolkas som ljud.</p>
+<p><em type="italic">Hörseluppgifter för lektionen </em></p>
+<list><p type="listitem">I hörselspelet lägger man olika råvaror, såsom ärter, makaroner och gryn, i ogenomskinliga burkar eller askar. Det ska finnas två burkar med varje sort. Genom att skaka burkarna ska man försöka avgöra vilka som hör ihop. Äldre barn kan också fundera på vad burkarna kan tänkas innehålla. Ljudet påverkas av hur mycket av livsmedlet som finns i burken, så man bör alltid mäta upp samma mängd i de som hör ihop.</p>
+<p type="listitem">Eleverna kan spela in ljud som har att göra med matlagning och ätande på sina mobiltelefoner, så att de andra på lektionen får gissa vad det är. Alternativt kan man producera ljud under lektionen bakom en skärm. Igenkännbara ljud uppstår exempelvis när man häller vatten eller ris i en kastrull, skalar eller river en morot, öppnar en läskflaska, biter i ett knäckebröd eller en surskorpa, vispar med en visp i en skål, tar av och lägger på ett kastrullock, prasslar med en livsmedelsförpackning eller klirrar med kärl och bestick. Till matrelaterade ljud hör även ljuden från hushållsapparater, såsom kaffe- och vattenkokare, mikrovågsugn och kylskåp. Matlagning, såsom att steka och koka på spisen, har också sin egen ljudvärld.</p>
+<p type="listitem">På lektionen kan man ta fram idéer för en så högljudd måltid som möjligt. Hurdan skulle den vara? Vad skulle man äta och dricka? Vilken sorts ätande och drickande är mest ljudligt. Uppgiften blir mer effektiv om man har möjlighet att genomföra och spela in en måltid. När man lyssnat på inspelningen uppstår en bra diskussion om huruvida måltidens ljudvärld är trevlig och trivsam. Och hur kan man öka trivseln i skolmatsalen?</p>
+</list><p type="title" xml:lang="vep">LÄS MER:</p>
+<p type="title">Synsinnet – först tittar vi</p>
+<p type="title">Lukt – kittlar i näsan</p>
+<p type="title">Känseln – hur känns maten?</p>
+<p type="title">Smak – känns på tungan</p>
+</body></document>

@@ -1,75 +1,45 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>414</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/val/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle-val.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-val.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Val - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Val</p>
-    <p>
-      <em type="italic">Länsstyrelsen är regional valmyndighet. Vi beslutar om valdistrikt, svarar för den slutliga rösträkningen i alla val och fastställer resultaten vid val till kommun- och landstingsfullmäktige. </em>
-    </p>
-    <p type="title">Före valet</p>
-    <p>Länsstyrelsen fastställer valkretsindelningen och beslutar om hur valdistrikten ska se ut. Vid valen till riksdagen, kommun- och landstingsfullmäktige tar vi emot alla valsedelsbeställningar och anmälningar av de kandidater som ska stå på partiernas valsedlar.</p>
-    <p>Vi ändrar i röstlängden om uppgifterna på ditt röstkort är fel. Röstlängden används sedan i vallokalerna för att pricka av vilka som har röstat, så att ingen kan rösta flera gånger. Har du inte kvar ditt röstkort kan vi ge dig ett nytt.</p>
-    <p type="title">Under valnatten</p>
-    <p>Vi ansvarar för valnattsrapporteringen, vilket innebär att de olika valdistrikten rapporterar sina röstresultat till oss på valnatten. När vi har kontrollerat uppgifterna registreras de till Valmyndigheten som visar resultatet på en webbsida. Tidningar, radio, tv, webb och andra nyhetskanaler hämtar sedan uppgifterna om de preliminära valresultaten från Valmyndigheten.</p>
-    <p type="title">Direkt efter valet</p>
-    <p>Vi gör den slutliga sammanräkningen i alla val. Det innebär att vi</p>
-    <list>
-      <p type="listitem">kontrollräknar valnattens resultat</p>
-      <p type="listitem">granskar ogiltiga röster</p>
-      <p type="listitem">fördelar röster på olika valsedelstyper</p>
-      <p type="listitem">räknar personröster</p>
-      <p type="listitem">utser ledamöter och ersättare till landsting- och kommunfullmäktige.</p>
-    </list>
-    <p>Rösträkningen är en allmän förrättning, det betyder att vem som helst får komma och titta på när vi räknar.</p>
-    <p type="title">Mellan valen</p>
-    <p>Mellan valen utser vi efterträdare för de ledamöter och ersättare i landstings- och kommunfullmäktige som avgår under mandatperioden.</p>
-    <p>En annan uppgift är att utbilda de kommunala valnämnderna inför valen och sedan ge dem råd och hjälp för att valen ska kunna genomföras på ett lagenligt och säkert sätt.</p>
-    <p>Dessutom kan Länsstyrelsen genomföra extra val och folkomröstningar med kort varsel om riksdagen beslutar om det.</p>
-    <p type="title">Det finns fyra allmänna val</p>
-    <list>
-      <p type="listitem">till riksdagen,</p>
-      <p type="listitem">till landstingsfullmäktige,</p>
-      <p type="listitem">till kommunfullmäktige och</p>
-      <p type="listitem">till Europaparlamentet.</p>
-    </list>
-    <p>Ordinarie val till riksdagen, landstings- och kommunfullmäktige hålls den andra söndagen i september vart fjärde år.</p>
-    <p>Val till Europaparlamentet hålls i maj eller juni vart femte år under en period som Europaparlamentet beslutar. Valet genomförs enligt respektive EU-lands nationella vallag och i Sverige säger vallagen att valdagen alltid är på en söndag.</p>
-    <p type="title">Val.se</p>
-    <p type="title">Kontakta oss</p>
-    <p>Helle Bryn-Jensen</p>
-    <p>Rättsenheten</p>
-    <p>helle punkt bryn-jensen snabela lansstyrelsen punkt se¤helle punkt bryn-jensen snabela lansstyrelsen punkt se</p>
-    <p>010-2250396</p>
-    <p>Lars A Andersson</p>
-    <p>Rättsenheten</p>
-    <p>lars punkt a punkt andersson snabela lansstyrelsen punkt se¤lars punkt a punkt andersson snabela lansstyrelsen punkt se</p>
-    <p>010-2250391</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>414</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/val/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle-val.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle-val.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Val - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Val</p>
+<p><em type="italic">Länsstyrelsen är regional valmyndighet. Vi beslutar om valdistrikt, svarar för den slutliga rösträkningen i alla val och fastställer resultaten vid val till kommun- och landstingsfullmäktige. </em></p>
+<p type="title">Före valet</p>
+<p>Länsstyrelsen fastställer valkretsindelningen och beslutar om hur valdistrikten ska se ut. Vid valen till riksdagen, kommun- och landstingsfullmäktige tar vi emot alla valsedelsbeställningar och anmälningar av de kandidater som ska stå på partiernas valsedlar.</p>
+<p>Vi ändrar i röstlängden om uppgifterna på ditt röstkort är fel. Röstlängden används sedan i vallokalerna för att pricka av vilka som har röstat, så att ingen kan rösta flera gånger. Har du inte kvar ditt röstkort kan vi ge dig ett nytt.</p>
+<p type="title">Under valnatten</p>
+<p>Vi ansvarar för valnattsrapporteringen, vilket innebär att de olika valdistrikten rapporterar sina röstresultat till oss på valnatten. När vi har kontrollerat uppgifterna registreras de till Valmyndigheten som visar resultatet på en webbsida. Tidningar, radio, tv, webb och andra nyhetskanaler hämtar sedan uppgifterna om de preliminära valresultaten från Valmyndigheten.</p>
+<p type="title">Direkt efter valet</p>
+<p>Vi gör den slutliga sammanräkningen i alla val. Det innebär att vi</p>
+<list><p type="listitem">kontrollräknar valnattens resultat</p>
+<p type="listitem">granskar ogiltiga röster</p>
+<p type="listitem">fördelar röster på olika valsedelstyper</p>
+<p type="listitem">räknar personröster</p>
+<p type="listitem">utser ledamöter och ersättare till landsting- och kommunfullmäktige.</p>
+</list><p>Rösträkningen är en allmän förrättning, det betyder att vem som helst får komma och titta på när vi räknar.</p>
+<p type="title">Mellan valen</p>
+<p>Mellan valen utser vi efterträdare för de ledamöter och ersättare i landstings- och kommunfullmäktige som avgår under mandatperioden.</p>
+<p>En annan uppgift är att utbilda de kommunala valnämnderna inför valen och sedan ge dem råd och hjälp för att valen ska kunna genomföras på ett lagenligt och säkert sätt.</p>
+<p>Dessutom kan Länsstyrelsen genomföra extra val och folkomröstningar med kort varsel om riksdagen beslutar om det.</p>
+<p type="title">Det finns fyra allmänna val</p>
+<list><p type="listitem">till riksdagen,</p>
+<p type="listitem">till landstingsfullmäktige,</p>
+<p type="listitem">till kommunfullmäktige och</p>
+<p type="listitem">till Europaparlamentet.</p>
+</list><p>Ordinarie val till riksdagen, landstings- och kommunfullmäktige hålls den andra söndagen i september vart fjärde år.</p>
+<p>Val till Europaparlamentet hålls i maj eller juni vart femte år under en period som Europaparlamentet beslutar. Valet genomförs enligt respektive EU-lands nationella vallag och i Sverige säger vallagen att valdagen alltid är på en söndag.</p>
+<p type="title">Val.se</p>
+<p type="title">Kontakta oss</p>
+<p>Helle Bryn-Jensen</p>
+<p>Rättsenheten</p>
+<p>helle punkt bryn-jensen snabela lansstyrelsen punkt se¤helle punkt bryn-jensen snabela lansstyrelsen punkt se</p>
+<p>010-2250396</p>
+<p>Lars A Andersson</p>
+<p>Rättsenheten</p>
+<p>lars punkt a punkt andersson snabela lansstyrelsen punkt se¤lars punkt a punkt andersson snabela lansstyrelsen punkt se</p>
+<p>010-2250391</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

@@ -1,31 +1,9 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>164</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1131</origFileName>
-    <parallel_text xml:lang="sme" location="72401.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Statistik rennäring - Sametinget</p>
-    <p>Antal rovdjur i renskötselområdet jämfört med slaktade renar 1999-2010. (Källa: Sametinget och Naturvårdsverket)</p>
-    <p type="title">Statistik Rennäring</p>
-    <p>Sametinget har lanserat en statistikfunktion med grafer och tabeller som gör det enkelt att jämföra och följa utvecklingen inom rennäringen, renslakten med mera. Välj typ av statistik i vänstermenyn så får du upp grafer, tabeller och alternativ så att du kan förfina din sökning.</p>
-    <p>Vi visar övergripande uppgifter på ett överskådligt sätt. Statistik som rör ett alltför litet urval visas ej.</p>
-    <p><em type="italic">Hur aktuella är siffrorna? </em>Statistiken för innevarande säsong 2013/2014 uppdaterades den 13 juli 2014. Det innebär att statistiken innehåller siffror från de slakterier som hade lämnat in sina prisstödsuppgifter till Sametinget dagarna innan. </p>
-    <p>Merparten av prisstödsuppgifterna bedöms vara inne i augusti / september. Slaktstatistiken för 2013/2014 är med andra ord fortfarande preliminär och justeringar kommer att ske under hösten.</p>
-    <p><em type="italic">Frågor </em>Om du har frågor eller får problem kan du kontakta projektledaren för statistik-projektet Rickard Doj, tel. 063-15 08 76 eller använd kontaktformuläret till höger. </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>164</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1131</origFileName><parallel_text xml:lang="sme" location="72401.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Statistik rennäring - Sametinget</p>
+<p>Antal rovdjur i renskötselområdet jämfört med slaktade renar 1999-2010. (Källa: Sametinget och Naturvårdsverket)</p>
+<p type="title">Statistik Rennäring</p>
+<p>Sametinget har lanserat en statistikfunktion med grafer och tabeller som gör det enkelt att jämföra och följa utvecklingen inom rennäringen, renslakten med mera. Välj typ av statistik i vänstermenyn så får du upp grafer, tabeller och alternativ så att du kan förfina din sökning.</p>
+<p>Vi visar övergripande uppgifter på ett överskådligt sätt. Statistik som rör ett alltför litet urval visas ej.</p>
+<p><em type="italic">Hur aktuella är siffrorna? </em>Statistiken för innevarande säsong 2013/2014 uppdaterades den 13 juli 2014. Det innebär att statistiken innehåller siffror från de slakterier som hade lämnat in sina prisstödsuppgifter till Sametinget dagarna innan. </p>
+<p>Merparten av prisstödsuppgifterna bedöms vara inne i augusti / september. Slaktstatistiken för 2013/2014 är med andra ord fortfarande preliminär och justeringar kommer att ske under hösten.</p>
+<p><em type="italic">Frågor </em>Om du har frågor eller får problem kan du kontakta projektledaren för statistik-projektet Rickard Doj, tel. 063-15 08 76 eller använd kontaktformuläret till höger. </p>
+</body></document>

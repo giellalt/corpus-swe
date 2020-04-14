@@ -1,82 +1,48 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Ansökan om äldreomsorg - Krokoms kommun</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>322</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.krokom.se/omsorgochhjalp/aldre/ansokanomaldreomsorg.3426.html</origFileName>
-    <parallel_text xml:lang="sma" location="ansokanomaldreomsorg.3426.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="ron">Translate site</p>
-    <list>
-      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
-      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
-      <p type="listitem" xml:lang="eng">Press</p>
-      <p type="listitem" xml:lang="vep">A-Ö</p>
-      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
-      <p type="listitem" xml:lang="vep">Intranät</p>
-      <p type="listitem">Lyssna</p>
-      <p type="listitem" xml:lang="sms">Lättläst</p>
-      <p type="listitem" xml:lang="ron">Translate</p>
-    </list>
-    <p xml:lang="isl">Sök</p>
-    <list>
-      <p type="listitem">Kommun och politik</p>
-      <p type="listitem">Utbildning och barnomsorg</p>
-      <p type="listitem">Bygga, bo och miljö</p>
-      <p type="listitem">Omsorg och hjälp</p>
-      <p type="listitem">Näringsliv och arbete</p>
-      <p type="listitem">Kultur, fritid och turism</p>
-      <p type="listitem">Trafik och infrastruktur</p>
-    </list>
-    <p>Mina favoriter</p>
-    <p type="title">Ansökan om äldreomsorg</p>
-    <p>Om du behöver vård och omsorg och inte själv kan tillgodose dina behov, till exempel klara vardagliga sysslor själv eller behöver hjälp med personlig omvårdnad kan du få stöd och hjälp av socialtjänstens äldreomsorg.</p>
-    <p type="title">Så här går det till</p>
-    <p><em type="italic">1. Du kontaktar oss </em>Kontakta aktuell biståndshandläggare för ditt område, se kontaktinformation till höger. Det är vi som beviljar insatserna inom äldreomsorgen. </p>
-    <p><em type="italic">2. Vi besöker dig </em>En biståndshandläggare besöker dig i hemmet, ger information och svarar på frågor. Du får även möjlighet att beskriva den hjälp som du behöver. </p>
-    <p><em type="italic">3. Du gör en ansökan </em>Du gör en ansökan om insatser. Din ansökan kan vara antingen muntlig eller skriftlig. </p>
-    <p><em type="italic">4. Vi utreder dina behov </em>Ditt behov av insatser utreds av biståndshandläggaren. Ansökan prövas utifrån socialtjänstlagen och de riktlinjer som socialnämnden har antagit. </p>
-    <p><em type="italic">5. Ett beslut fattas </em>Biståndshandläggaren beslutar om vilken insats du har rätt till. Du meddelas beslutet skriftligt. Om du får avslag på hela eller delar av din ansökan, anges skälen i beslutet. Är du inte nöjd med beslutet kan det överklagas, du får hjälp med detta av en biståndshandläggare. Alla insatser är dock inte överklagningsbara, endast 4 kap, § 1. </p>
-    <p>Skulle dina behov ändras med tiden kontaktar du oss igen för en ny ansökan.</p>
-    <p xml:lang="nob">Blankett</p>
-    <p xml:lang="nno">Uppdaterad 2015-03-25 av Karin Engström</p>
-    <p xml:lang="sma">Åarjelsaemien gïele</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Facebook</p>
-      <p type="listitem" xml:lang="nno">Twitter</p>
-      <p type="listitem" xml:lang="eng">E-post</p>
-    </list>
-    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
-    <p xml:lang="eng">Kontaktinformation</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Marie Hermansson</p>
-      <p type="listitem" xml:lang="deu">Verksamhetschef bistånd</p>
-      <p type="listitem" xml:lang="koi">0640 165 07</p>
-      <p type="listitem">
-        <em type="italic">Biståndshandläggare </em>
-      </p>
-      <p type="listitem">Här når du våra biståndshandläggare</p>
-    </list>
-    <p>Läs mer</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Blanketter</p>
-      <p type="listitem">Riktlinjer för mat i äldreomsorgen</p>
-      <p type="listitem" xml:lang="nob">Äldreomsorgsplan</p>
-      <p type="listitem" xml:lang="eng">Måltidspolicy</p>
-    </list>
-    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Ansökan om äldreomsorg - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>322</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/omsorgochhjalp/aldre/ansokanomaldreomsorg.3426.html</origFileName><parallel_text xml:lang="sma" location="ansokanomaldreomsorg.3426.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="ron">Translate site</p>
+<list><p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+<p type="listitem" xml:lang="nob">Om webbplatsen</p>
+<p type="listitem" xml:lang="eng">Press</p>
+<p type="listitem" xml:lang="est">A-Ö</p>
+<p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+<p type="listitem" xml:lang="vep">Intranät</p>
+<p type="listitem">Lyssna</p>
+<p type="listitem" xml:lang="sms">Lättläst</p>
+<p type="listitem" xml:lang="ron">Translate</p>
+</list><p xml:lang="isl">Sök</p>
+<list><p type="listitem">Kommun och politik</p>
+<p type="listitem">Utbildning och barnomsorg</p>
+<p type="listitem">Bygga, bo och miljö</p>
+<p type="listitem">Omsorg och hjälp</p>
+<p type="listitem">Näringsliv och arbete</p>
+<p type="listitem">Kultur, fritid och turism</p>
+<p type="listitem">Trafik och infrastruktur</p>
+</list><p>Mina favoriter</p>
+<p type="title">Ansökan om äldreomsorg</p>
+<p>Om du behöver vård och omsorg och inte själv kan tillgodose dina behov, till exempel klara vardagliga sysslor själv eller behöver hjälp med personlig omvårdnad kan du få stöd och hjälp av socialtjänstens äldreomsorg.</p>
+<p type="title">Så här går det till</p>
+<p><em type="italic">1. Du kontaktar oss </em>Kontakta aktuell biståndshandläggare för ditt område, se kontaktinformation till höger. Det är vi som beviljar insatserna inom äldreomsorgen. </p>
+<p><em type="italic">2. Vi besöker dig </em>En biståndshandläggare besöker dig i hemmet, ger information och svarar på frågor. Du får även möjlighet att beskriva den hjälp som du behöver. </p>
+<p><em type="italic">3. Du gör en ansökan </em>Du gör en ansökan om insatser. Din ansökan kan vara antingen muntlig eller skriftlig. </p>
+<p><em type="italic">4. Vi utreder dina behov </em>Ditt behov av insatser utreds av biståndshandläggaren. Ansökan prövas utifrån socialtjänstlagen och de riktlinjer som socialnämnden har antagit. </p>
+<p><em type="italic">5. Ett beslut fattas </em>Biståndshandläggaren beslutar om vilken insats du har rätt till. Du meddelas beslutet skriftligt. Om du får avslag på hela eller delar av din ansökan, anges skälen i beslutet. Är du inte nöjd med beslutet kan det överklagas, du får hjälp med detta av en biståndshandläggare. Alla insatser är dock inte överklagningsbara, endast 4 kap, § 1. </p>
+<p>Skulle dina behov ändras med tiden kontaktar du oss igen för en ny ansökan.</p>
+<p xml:lang="nob">Blankett</p>
+<p xml:lang="nno">Uppdaterad 2015-03-25 av Karin Engström</p>
+<p xml:lang="sma">Åarjelsaemien gïele</p>
+<list><p type="listitem" xml:lang="nno">Facebook</p>
+<p type="listitem" xml:lang="nno">Twitter</p>
+<p type="listitem" xml:lang="eng">E-post</p>
+</list><p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+<p xml:lang="eng">Kontaktinformation</p>
+<list><p type="listitem" xml:lang="nob">Marie Hermansson</p>
+<p type="listitem">Verksamhetschef bistånd</p>
+<p type="listitem" xml:lang="vep">0640 165 07</p>
+<p type="listitem"><em type="italic">Biståndshandläggare </em></p>
+<p type="listitem">Här når du våra biståndshandläggare</p>
+</list><p>Läs mer</p>
+<list><p type="listitem" xml:lang="nob">Blanketter</p>
+<p type="listitem">Riktlinjer för mat i äldreomsorgen</p>
+<p type="listitem" xml:lang="nob">Äldreomsorgsplan</p>
+<p type="listitem" xml:lang="eng">Måltidspolicy</p>
+</list><p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+</body></document>

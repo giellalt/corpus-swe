@@ -1,72 +1,41 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Om Skolan |  Samernas Utbildningscentrum</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>529</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.samernas.se/om-samernas</origFileName>
-    <parallel_text xml:lang="smj" location="skavlabirra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="smj">Samij Åhpadusguovdásj/Samernas Utbildningscentrum</p>
-    <p><em type="bold">Innehåll </em>Allmänt om skolan Historik Stiftelsen &amp; Ekonomi Skolans uppdrag och målsättning Lokaler Styrelseinstruktion Kvalitetspolicy Miljöpolicy Jämställdhetsplan Krisplaner </p>
-    <p><em type="italic">Allmänt om skolan </em>Sámij åhpadusguovdásj är en samisk utbildningsinstitution med gamla anor. Sedan starten 1942 har skolan med det dåvarande namnet Samernas Folkhögskola gett utbildningar till det samiska folket. Skolan har haft en mycket stor betydelse för det samiska samhället. </p>
-    <p><em type="bold">Stiftelsen Samernas utbildningscentrum samt ekonomi </em>Samernas Utbildningscentrum/Sámij åhpadusguovdásj är en samisk utbildningsinstitution, organiserad som en stiftelse med SSR, Svenska Samernas Riksförbund, Same Ätnam samt Jokkmokks Kommun som stiftelsebildare. Stiftelsens stadgar styr verksamheten. </p>
-    <p>Skolan har en särskild ordning och har ett statsbidrag som direkt kanaliseras till skolan. Sámij åhpadusguovdásj har ej krav att ha en allmän linje vilket andra folkhögskolor har. Övriga finansiärer till skolan är Jokkmokks kommun samt Landstinget i Norrbotten. Övriga intäkter är projektbidrag, bokförsäljning, hyresintäkter etc. Omsättningen ligger kring 12 500 000kr/år.</p>
-    <p><em type="bold">Skolans uppdrag &amp; målsättning </em>Vårt övergripande mål är att bäst gagna samernas sak och vi har till uppgift att särskilt främja samisk utbildningsverksamhet. Sámij åhpadusguovdásj kan sägas ha en dubbel målsättning. Dels ska den ge enskilda samer en utbildning anpassad till deras behov och önskemål och dels ska den svara för en allmän kursverksamhet och genom samverkan med folkbildningsorganisationer och andra institutioner sprida kunskaper om samerna till en vid krets av människor. </p>
-    <p><em type="bold">Lokaler </em>Verksamheten bedrivs i egna moderna lokaler och verkstäder. Skolan har egen matsal (vilande under 2004) med ett ändamålsenligt kök och elevhem med rum för våra elever och gästlärare. Elevhemmet är nyrenoverat under sommaren 2004. Se byggnaderna i bild på länken <span type="quote">”området”</span> på skolans huvudsida. </p>
-    <p><em type="bold">Styrelseinstruktion </em>Skolan har samlat alla styrdokument till ett enda samlingsdokument kallat styrelseinstruktion. Fördelen är att ha riktlinjer, policys och planer för skolans alla verksamheter. Skolans styrelseinstruktion tar upp följande: </p>
-    <list>
-      <p type="listitem">Ägarnas ansvar</p>
-      <p type="listitem">Styrelsens arbetsformer</p>
-      <p type="listitem" xml:lang="nno">Delegationsordning rektor</p>
-      <p type="listitem">Riktlinjer för lärarråd, ämnesråd och personalmöte</p>
-      <p type="listitem">Befattningsbeskrivningar</p>
-      <p type="listitem" xml:lang="deu">Attestinstruktion</p>
-      <p type="listitem" xml:lang="deu">Personalreglemente</p>
-      <p type="listitem">Elevkårens stadgar och elevreglemente</p>
-      <p type="listitem" xml:lang="eng">Lönepolicy</p>
-      <p type="listitem" xml:lang="est">Lärartidsavtal</p>
-      <p type="listitem" xml:lang="nno">3-årig verksamhetsplan</p>
-      <p type="listitem" xml:lang="fin">Jämställdhetsplan</p>
-      <p type="listitem" xml:lang="est">Kvalitetspolicy</p>
-      <p type="listitem" xml:lang="fkv">Miljöpolicy</p>
-      <p type="listitem">Plan för systematiskt arbetsmiljöarbete</p>
-    </list>
-    <p>Styrelseinstruktionen ska vara ett levande dokument och revideras årligen. Arbete pågår med en marknadsföringsplan.</p>
-    <p><em type="bold">Kvalitetspolicy </em>Sámij åhpadusguovdásj ska bedriva ett aktivt kvalitetsarbete genom att </p>
-    <list>
-      <p type="listitem">ha starka nätverk till det samiska samhällslivet och dess behov av utbildningar</p>
-      <p type="listitem">ha tydliga och aktuella mål för verksamheten, utbildningslinjerna och kurserna</p>
-      <p type="listitem">ge studenter en god information innan och vid start om utbildningen</p>
-      <p type="listitem">ha aktuella handlingsplaner och policys</p>
-      <p type="listitem">ha ett aktivt studerandeinflytande och en aktiv elevkår</p>
-      <p type="listitem">ha bra lärarkompetens</p>
-      <p type="listitem">ha en bra studiemiljö och bra utrustning/läromedel</p>
-      <p type="listitem">ha en bra studerandeservice/administration och arbetsmiljö för anställda samt elever</p>
-      <p type="listitem">erbjuda <em type="italic">rätt </em>utbildningar </p>
-      <p type="listitem">ha väl fungerande metoder för uppföljning och åtgärder</p>
-      <p type="listitem">upprätta en årlig kvalitetsredovisning efter läsåret som delges styrelsen på dess junimöte</p>
-    </list>
-    <p xml:lang="nob">Se kvalitetspolicyn (pdf-format)</p>
-    <p><em type="bold">Miljöpolicy </em>Vår miljöpolicy syftar till att minska påverkan på miljön och minimera negativ miljöpåverkan. Som samisk institution har vi gamla traditioner och värderingar att vårda vad det gäller hänsyn till naturen och miljön. Sámij åhpadusguovdásj ska vara ett föredöme i miljöarbetet och verka för en hållbar utveckling. Se miljöpolicy (pdf-format) </p>
-    <p><em type="bold">Jämställdhetsplan </em>Sámij åhpadusguovdásj har som mål med sitt jämställdhetsarbete att ingen diskriminering som grundar sig på könstillhörighet eller etnisk tillhörighet ska förekomma. Se Jämställdhetsplan (pdf-format) </p>
-    <p><em type="bold">Krisplaner </em>Skolans krisplaner tar upp konflikt,mobbning, dödsfall/olyckor samt missbruk. Se Krisplanerna (pdf-format) </p>
-    <p type="title" xml:lang="deu">Språkstudier</p>
-    <p type="title" xml:lang="fin">Slöjdlinjen</p>
-    <p type="title">Rennäringslinje</p>
-    <p type="title" xml:lang="nno">Samisk Mat</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Om Skolan |  Samernas Utbildningscentrum</title><genre code="facta"/><author><unknown/></author><wordcount>524</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.samernas.se/om-samernas</origFileName><parallel_text xml:lang="smj" location="skavlabirra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="smj">Samij Åhpadusguovdásj/Samernas Utbildningscentrum</p>
+<p><em type="bold">Innehåll </em>Allmänt om skolan Historik Stiftelsen &amp; Ekonomi Skolans uppdrag och målsättning Lokaler Styrelseinstruktion Kvalitetspolicy Miljöpolicy Jämställdhetsplan Krisplaner </p>
+<p><em type="italic">Allmänt om skolan </em>Sámij åhpadusguovdásj är en samisk utbildningsinstitution med gamla anor. Sedan starten 1942 har skolan med det dåvarande namnet Samernas Folkhögskola gett utbildningar till det samiska folket. Skolan har haft en mycket stor betydelse för det samiska samhället. </p>
+<p><em type="bold">Stiftelsen Samernas utbildningscentrum samt ekonomi </em>Samernas Utbildningscentrum/Sámij åhpadusguovdásj är en samisk utbildningsinstitution, organiserad som en stiftelse med SSR, Svenska Samernas Riksförbund, Same Ätnam samt Jokkmokks Kommun som stiftelsebildare. Stiftelsens stadgar styr verksamheten. </p>
+<p>Skolan har en särskild ordning och har ett statsbidrag som direkt kanaliseras till skolan. Sámij åhpadusguovdásj har ej krav att ha en allmän linje vilket andra folkhögskolor har. Övriga finansiärer till skolan är Jokkmokks kommun samt Landstinget i Norrbotten. Övriga intäkter är projektbidrag, bokförsäljning, hyresintäkter etc. Omsättningen ligger kring 12 500 000kr/år.</p>
+<p><em type="bold">Skolans uppdrag &amp; målsättning </em>Vårt övergripande mål är att bäst gagna samernas sak och vi har till uppgift att särskilt främja samisk utbildningsverksamhet. Sámij åhpadusguovdásj kan sägas ha en dubbel målsättning. Dels ska den ge enskilda samer en utbildning anpassad till deras behov och önskemål och dels ska den svara för en allmän kursverksamhet och genom samverkan med folkbildningsorganisationer och andra institutioner sprida kunskaper om samerna till en vid krets av människor. </p>
+<p><em type="bold">Lokaler </em>Verksamheten bedrivs i egna moderna lokaler och verkstäder. Skolan har egen matsal (vilande under 2004) med ett ändamålsenligt kök och elevhem med rum för våra elever och gästlärare. Elevhemmet är nyrenoverat under sommaren 2004. Se byggnaderna i bild på länken <span type="quote">”området”</span> på skolans huvudsida. </p>
+<p><em type="bold">Styrelseinstruktion </em>Skolan har samlat alla styrdokument till ett enda samlingsdokument kallat styrelseinstruktion. Fördelen är att ha riktlinjer, policys och planer för skolans alla verksamheter. Skolans styrelseinstruktion tar upp följande: </p>
+<list><p type="listitem">Ägarnas ansvar</p>
+<p type="listitem" xml:lang="rmy-rka">Styrelsens arbetsformer</p>
+<p type="listitem" xml:lang="nno">Delegationsordning rektor</p>
+<p type="listitem">Riktlinjer för lärarråd, ämnesråd och personalmöte</p>
+<p type="listitem">Befattningsbeskrivningar</p>
+<p type="listitem" xml:lang="deu">Attestinstruktion</p>
+<p type="listitem" xml:lang="deu">Personalreglemente</p>
+<p type="listitem">Elevkårens stadgar och elevreglemente</p>
+<p type="listitem" xml:lang="eng">Lönepolicy</p>
+<p type="listitem" xml:lang="est">Lärartidsavtal</p>
+<p type="listitem" xml:lang="nno">3-årig verksamhetsplan</p>
+<p type="listitem" xml:lang="fin">Jämställdhetsplan</p>
+<p type="listitem" xml:lang="est">Kvalitetspolicy</p>
+<p type="listitem" xml:lang="fkv">Miljöpolicy</p>
+<p type="listitem">Plan för systematiskt arbetsmiljöarbete</p>
+</list><p>Styrelseinstruktionen ska vara ett levande dokument och revideras årligen. Arbete pågår med en marknadsföringsplan.</p>
+<p><em type="bold">Kvalitetspolicy </em>Sámij åhpadusguovdásj ska bedriva ett aktivt kvalitetsarbete genom att </p>
+<list><p type="listitem">ha starka nätverk till det samiska samhällslivet och dess behov av utbildningar</p>
+<p type="listitem">ha tydliga och aktuella mål för verksamheten, utbildningslinjerna och kurserna</p>
+<p type="listitem">ge studenter en god information innan och vid start om utbildningen</p>
+<p type="listitem">ha aktuella handlingsplaner och policys</p>
+<p type="listitem">ha ett aktivt studerandeinflytande och en aktiv elevkår</p>
+<p type="listitem">ha bra lärarkompetens</p>
+<p type="listitem">ha en bra studiemiljö och bra utrustning/läromedel</p>
+<p type="listitem">ha en bra studerandeservice/administration och arbetsmiljö för anställda samt elever</p>
+<p type="listitem">erbjuda <em type="italic">rätt </em>utbildningar </p>
+<p type="listitem">ha väl fungerande metoder för uppföljning och åtgärder</p>
+<p type="listitem">upprätta en årlig kvalitetsredovisning efter läsåret som delges styrelsen på dess junimöte</p>
+</list><p xml:lang="nob">Se kvalitetspolicyn (pdf-format)</p>
+<p><em type="bold">Miljöpolicy </em>Vår miljöpolicy syftar till att minska påverkan på miljön och minimera negativ miljöpåverkan. Som samisk institution har vi gamla traditioner och värderingar att vårda vad det gäller hänsyn till naturen och miljön. Sámij åhpadusguovdásj ska vara ett föredöme i miljöarbetet och verka för en hållbar utveckling. Se miljöpolicy (pdf-format) </p>
+<p><em type="bold">Jämställdhetsplan </em>Sámij åhpadusguovdásj har som mål med sitt jämställdhetsarbete att ingen diskriminering som grundar sig på könstillhörighet eller etnisk tillhörighet ska förekomma. Se Jämställdhetsplan (pdf-format) </p>
+<p><em type="bold">Krisplaner </em>Skolans krisplaner tar upp konflikt,mobbning, dödsfall/olyckor samt missbruk. Se Krisplanerna (pdf-format) </p>
+</body></document>

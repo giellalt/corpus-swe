@@ -1,44 +1,18 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Om Muddus/Muttos nationalpark</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>313</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>https://sverigesnationalparker.se/park/muddus--muttos-nationalpark/nationalparksfakta/</origFileName>
-    <parallel_text xml:lang="smj" location="muddus_muttus_suoddjimparka_birra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Nationalparksfakta | Muddus / Muttos nationalpark | Välj nationalpark | Sveriges nationalparker</p>
-    <p>Webbplatsen använder kakor (cookies) för att fungera på ett bra sätt. Här kan du läsa mer om hur vi använder kakor! Jag accepterar Läs mer</p>
-    <p>Meny</p>
-    <p>Sök</p>
-    <p>Sök</p>
-    <list>
-      <p type="listitem">Till startsidan</p>
-      <p type="listitem">Välj nationalpark</p>
-    </list>
-    <p>Muddus / Muttos nationalpark</p>
-    <p type="title">Om Muddus/Muttos nationalpark</p>
-    <p>Muddus/Muttos är Sveriges största skogliga nationalpark och är en del av världsarvet Laponia. I Muddus/Muttos hittar du en natur som är opåverkad av skogsbruket./</p>
-    <list>
-      <p type="listitem">Lyssna på en kort beskrivning om Muddus/Muttos nationalpark (mp3 91 kB)</p>
-    </list>
-    <p>Här kan du vandra genom gammelskogar och myrmarker där det finns myrholmar och myrsjöar. Här finns även lite mer dramatisk natur såsom branta klippraviner och det 42 meter höga Muddusagahtjaldak / Muddusfallet. I den södra delen av nationalparken rinner Muttosälven ut i Stora Luleälv.</p>
-    <p>I nationalparken finns även ett rikt fågel- och djurliv. Här kan du få höra storlommen och se skogsfågel som tjädern. Tjädern trivs bra i de gamla tallskogarna. Du kanske även får se björn eller älg. Muddus/Muttos har varit och är än idag ett viktigt område för renen och renskötseln.</p>
-    <p>När du vandrar längs stigarna kan du se diskreta spår i träden av de människor som funnits här i området före oss. I träden har de markerat färdvägarna genom att blecka dem, och från tallarna har de tagit bark till att göra mjöl av. I marken kan man se husgrunder av de nybyggen som fanns här för omkring 100 år sedan.</p>
-    <p type="title">Tyst gammelskog</p>
-    <p>Muddus/Muttos nationalpark är en av Sveriges tystaste platser, samt ett av få väglösa skogsområden i Sverige. Forskare som har mätt ljudvolymen har visat att det här och liknande skogsområden är tystare platser än annan natur.</p>
-    <p type="title">Ingår i världsarvet Laponia</p>
-    <p>1996 utsågs världsarvet Laponia, där Muddus/Muttos ingår tillsammans med nationalparkerna Sarek, Padjelanta/Badjelánnda och Stora Sjöfallet/Stuor Muorkke. Till Laponia hör också naturreservaten Sjávnja/Sjaunja och Stubbá/Stubba samt områdena Sulidälbmá, Tjuoldavuobme och Ráhpaäno suorgudahka (Lájtávrredeltat).</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Om Muddus/Muttos nationalpark</title><genre code="facta"/><author><unknown/></author><wordcount>313</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://sverigesnationalparker.se/park/muddus--muttos-nationalpark/nationalparksfakta/</origFileName><parallel_text xml:lang="smj" location="muddus_muttus_suoddjimparka_birra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Nationalparksfakta | Muddus / Muttos nationalpark | Välj nationalpark | Sveriges nationalparker</p>
+<p>Webbplatsen använder kakor (cookies) för att fungera på ett bra sätt. Här kan du läsa mer om hur vi använder kakor! Jag accepterar Läs mer</p>
+<p>Meny Sök</p>
+<p>Sök</p>
+<list><p type="listitem">Till startsidan</p>
+<p type="listitem">Välj nationalpark</p>
+</list><p>Muddus / Muttos nationalpark</p>
+<p type="title">Om Muddus/Muttos nationalpark</p>
+<p>Muddus/Muttos är Sveriges största skogliga nationalpark och är en del av världsarvet Laponia. I Muddus/Muttos hittar du en natur som är opåverkad av skogsbruket./</p>
+<list><p type="listitem">Lyssna på en kort beskrivning om Muddus/Muttos nationalpark (mp3 91 kB)</p>
+</list><p>Här kan du vandra genom gammelskogar och myrmarker där det finns myrholmar och myrsjöar. Här finns även lite mer dramatisk natur såsom branta klippraviner och det 42 meter höga Muddusagahtjaldak / Muddusfallet. I den södra delen av nationalparken rinner Muttosälven ut i Stora Luleälv.</p>
+<p>I nationalparken finns även ett rikt fågel- och djurliv. Här kan du få höra storlommen och se skogsfågel som tjädern. Tjädern trivs bra i de gamla tallskogarna. Du kanske även får se björn eller älg. Muddus/Muttos har varit och är än idag ett viktigt område för renen och renskötseln.</p>
+<p>När du vandrar längs stigarna kan du se diskreta spår i träden av de människor som funnits här i området före oss. I träden har de markerat färdvägarna genom att blecka dem, och från tallarna har de tagit bark till att göra mjöl av. I marken kan man se husgrunder av de nybyggen som fanns här för omkring 100 år sedan.</p>
+<p type="title">Tyst gammelskog</p>
+<p>Muddus/Muttos nationalpark är en av Sveriges tystaste platser, samt ett av få väglösa skogsområden i Sverige. Forskare som har mätt ljudvolymen har visat att det här och liknande skogsområden är tystare platser än annan natur.</p>
+<p type="title">Ingår i världsarvet Laponia</p>
+<p>1996 utsågs världsarvet Laponia, där Muddus/Muttos ingår tillsammans med nationalparkerna Sarek, Padjelanta/Badjelánnda och Stora Sjöfallet/Stuor Muorkke. Till Laponia hör också naturreservaten Sjávnja/Sjaunja och Stubbá/Stubba samt områdena Sulidälbmá, Tjuoldavuobme och Ráhpaäno suorgudahka (Lájtávrredeltat).</p>
+</body></document>

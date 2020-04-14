@@ -1,67 +1,41 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>480</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/kameraovervakning/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle-kameraovervakning.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-kameraovervakning.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kameraövervakning - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Kameraövervakning</p>
-    <p>
-      <em type="italic">Länsstyrelsen kan bevilja tillstånd för kameraövervakning. I vissa fall räcker det med att du anmäler det till oss i förväg. </em>
-    </p>
-    <p>Regler om kameraövervakning finns i kameraövervakningslagen (2013:460).</p>
-    <p type="title">Kameraövervakningslagen</p>
-    <p>Kameraövervakning som innebär att kameror riktas mot en plats dit allmänheten har tillträde kräver tillstånd från Länsstyrelsen. Om det är en butik, bank, post, parkeringshus eller tunnelbanestation som ska övervakas räcker det att du gör en anmälan till oss.</p>
-    <p>Du behöver inget tillstånd för att övervaka slutna områden inom företag, industriprocesser, rum i hemmet och liknande. Det avgörande är att allmänheten inte har tillträde till platsen.</p>
-    <p>Länsstyrelsen övervakar att reglerna följs bland annat genom att besöka de platser dit allmänheten har tillträde.</p>
-    <p type="title">Datainspektionen</p>
-    <p>Datainspektionen har det centrala ansvaret för tillsynen enligt kameraövervakningslagen. De ska bland annat ge råd och stöd till allmänheten samt till de som erbjuder och använder övervakningsutrustning. Mer information finns på Datainspektionens webbplats .</p>
-    <p type="title">Tillstånd – anmälan</p>
-    <p type="title">Tillstånd till kameraövervakning</p>
-    <p>Tillstånd till kameraövervakning krävs om man avser att övervaka en plats som allmänheten har tillträde till. I detta sammanhang är det ointressant om platsen är ett offentligt eller privat område. Områden som inte anses upplåtna för allmänheten är till exempel trappuppgångar i flerfamiljshus eller utrymmen och områden på arbetsplatser där allmänheten inte tillåts uppehålla sig. Ansökan om tillstånd görs till Länsstyrelsen. Tillstånd till kameraövervakning kan ges om intresset av sådan övervakning väger tyngre än den enskildes intresse av att inte bli övervakad (integritetsintresset). Vid bedömning av intresset av kameraövervakning ska det särskilt beaktas om övervakningen behövs för att förebygga, avslöja eller utreda brott, förhindra olyckor eller andra därmed jämförliga ändamål.</p>
-    <p type="title">Anmälan av kameraövervakning</p>
-    <p>Kameraövervakning i banklokaler, postkontor, butikslokaler, parkeringshus och tunnelbanevagnar/stationer undantas i vissa fall från kravet på tillstånd. Denna förenkling har bland annat gjorts mot bakgrund av behovet av skydd mot rån och stölder i sådana lokaler.</p>
-    <p type="title">Skyltning</p>
-    <p>Oavsett var kameraövervakningen sker måste man upplysa om detta genom tydlig skyltning på övervakningsplatsen. Om det inte av förhållandena på platsen framgår vem som bedriver övervakningen, ska upplysning om detta också ske.</p>
-    <p type="title">Ljudavlyssning och ljudupptagning</p>
-    <p>Lagen omfattar även avlyssning eller upptagning av ljud som sker i samband med kameraövervakning. Avlyssning eller upptagning av ljud får inte ske utan tillstånd samt att man lämnar upplysning om detta.</p>
-    <p type="title">Undantag från tillståndsplikten</p>
-    <p>Trafikverket, polismyndigheten, försvarsmakten och i lagen angivna skyddsobjekt får i vissa fall bedriva kameraövervakning utan tillstånd. Detta gäller också statliga kasinon enligt kasinolagen.</p>
-    <p>Lagen gäller inte för rent privat övervakning på plats dit allmänheten inte har tillträde.</p>
-    <p type="title">Kontakta oss</p>
-    <p>Karin Kjellin</p>
-    <p>Jurist</p>
-    <p>Rättsenheten</p>
-    <p>karin punkt kjellin snabela lansstyrelsen punkt se¤karin punkt kjellin snabela lansstyrelsen punkt se</p>
-    <p>010-2250406</p>
-    <p>Lars A Andersson</p>
-    <p>Länsjurist</p>
-    <p>Rättsenheten</p>
-    <p>lars punkt a punkt andersson snabela lansstyrelsen punkt se¤lars punkt a punkt andersson snabela lansstyrelsen punkt se</p>
-    <p>010-2250391</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>480</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/kameraovervakning/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle-kameraovervakning.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle-kameraovervakning.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kameraövervakning - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Kameraövervakning</p>
+<p><em type="italic">Länsstyrelsen kan bevilja tillstånd för kameraövervakning. I vissa fall räcker det med att du anmäler det till oss i förväg. </em></p>
+<p>Regler om kameraövervakning finns i kameraövervakningslagen (2013:460).</p>
+<p type="title">Kameraövervakningslagen</p>
+<p>Kameraövervakning som innebär att kameror riktas mot en plats dit allmänheten har tillträde kräver tillstånd från Länsstyrelsen. Om det är en butik, bank, post, parkeringshus eller tunnelbanestation som ska övervakas räcker det att du gör en anmälan till oss.</p>
+<p>Du behöver inget tillstånd för att övervaka slutna områden inom företag, industriprocesser, rum i hemmet och liknande. Det avgörande är att allmänheten inte har tillträde till platsen.</p>
+<p>Länsstyrelsen övervakar att reglerna följs bland annat genom att besöka de platser dit allmänheten har tillträde.</p>
+<p type="title">Datainspektionen</p>
+<p>Datainspektionen har det centrala ansvaret för tillsynen enligt kameraövervakningslagen. De ska bland annat ge råd och stöd till allmänheten samt till de som erbjuder och använder övervakningsutrustning. Mer information finns på Datainspektionens webbplats .</p>
+<p type="title">Tillstånd – anmälan</p>
+<p type="title">Tillstånd till kameraövervakning</p>
+<p>Tillstånd till kameraövervakning krävs om man avser att övervaka en plats som allmänheten har tillträde till. I detta sammanhang är det ointressant om platsen är ett offentligt eller privat område. Områden som inte anses upplåtna för allmänheten är till exempel trappuppgångar i flerfamiljshus eller utrymmen och områden på arbetsplatser där allmänheten inte tillåts uppehålla sig. Ansökan om tillstånd görs till Länsstyrelsen. Tillstånd till kameraövervakning kan ges om intresset av sådan övervakning väger tyngre än den enskildes intresse av att inte bli övervakad (integritetsintresset). Vid bedömning av intresset av kameraövervakning ska det särskilt beaktas om övervakningen behövs för att förebygga, avslöja eller utreda brott, förhindra olyckor eller andra därmed jämförliga ändamål.</p>
+<p type="title">Anmälan av kameraövervakning</p>
+<p>Kameraövervakning i banklokaler, postkontor, butikslokaler, parkeringshus och tunnelbanevagnar/stationer undantas i vissa fall från kravet på tillstånd. Denna förenkling har bland annat gjorts mot bakgrund av behovet av skydd mot rån och stölder i sådana lokaler.</p>
+<p type="title">Skyltning</p>
+<p>Oavsett var kameraövervakningen sker måste man upplysa om detta genom tydlig skyltning på övervakningsplatsen. Om det inte av förhållandena på platsen framgår vem som bedriver övervakningen, ska upplysning om detta också ske.</p>
+<p type="title">Ljudavlyssning och ljudupptagning</p>
+<p>Lagen omfattar även avlyssning eller upptagning av ljud som sker i samband med kameraövervakning. Avlyssning eller upptagning av ljud får inte ske utan tillstånd samt att man lämnar upplysning om detta.</p>
+<p type="title">Undantag från tillståndsplikten</p>
+<p>Trafikverket, polismyndigheten, försvarsmakten och i lagen angivna skyddsobjekt får i vissa fall bedriva kameraövervakning utan tillstånd. Detta gäller också statliga kasinon enligt kasinolagen.</p>
+<p>Lagen gäller inte för rent privat övervakning på plats dit allmänheten inte har tillträde.</p>
+<p type="title">Kontakta oss</p>
+<p>Karin Kjellin</p>
+<p>Jurist</p>
+<p>Rättsenheten</p>
+<p>karin punkt kjellin snabela lansstyrelsen punkt se¤karin punkt kjellin snabela lansstyrelsen punkt se</p>
+<p>010-2250406</p>
+<p>Lars A Andersson</p>
+<p>Länsjurist</p>
+<p>Rättsenheten</p>
+<p>lars punkt a punkt andersson snabela lansstyrelsen punkt se¤lars punkt a punkt andersson snabela lansstyrelsen punkt se</p>
+<p>010-2250391</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

@@ -1,68 +1,20 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>502</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/6786</origFileName>
-    <parallel_text xml:lang="sme" location="6810.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Höjd ambitionsnivå i svensk minoritetspolitik - Sametinget</p>
-    <p>Baer är nöjd. Foto: Marie Enoksson.</p>
-    <p type="title">Höjd ambitionsnivå i svensk minoritetspolitik</p>
-    <p>Idag presenterade integrations- och jämställdhetsminister Nyamko Sabuni innehållet i en lagrådsremiss rörande de nationella minoriteternas rättigheter.</p>
-    <p><em type="italic"><span type="quote">"Från erkännande till egenmakt"</span> </em>Regeringens samlade strategi kallas <span type="quote">"Från erkännande till egenmakt"</span>. Lagrådsremissen innehåller flera viktiga förslag för att stärka de nationella minoriteternas egenmakt och förutsättningar att bevara och revitalisera sina språk och kulturer. Integrations- och jämställdhetsminister Nyamko Sabuni presenterade lagrådsremissen vid en presskonferens den 29 januari 2009. <em type="italic">Folkrättsliga förpliktelser </em>- Det är dags för Sverige att ta ansvar för förverkligandet av de nationella minoriteternas rättigheter. En samlad strategi behövs för att möta de nationella minoriteternas behov, öka kunskapen om de nationella minoriteterna och för att förbättra efterlevnaden av Sveriges folkrättsliga förpliktelser, säger integrations- och jämställdhetsminister Nyamko Sabuni. Regeringen kommer att höja anslaget från 10 till 80 miljoner kronor från och med 2010 för denna minoritetspolitiska reform. <em type="italic">Politiskt genombrott </em>Sametingets styrelseordförande Lars-Anders Baer kallar lagrådsremissen för ett politiskt genombrott. - Det är inte bara vackra ord och fagra löften utan en tydlig signal i ekonomiska termer om att ambitionsnivån ska höjas avsevärt, konstaterar han nöjt. </p>
-    <p>
-      <em type="italic">De viktigaste förslagen är: </em>
-    </p>
-    <list>
-      <p type="listitem">Ny lag om nationella minoriteter och minoritetsspråk</p>
-    </list>
-    <list>
-      <p type="listitem">Stärkt inflytande för nationella minoriteter: Regeringen föreslår att de nationella minoriteternas rätt till inflytande lagregleras. Det är särskilt viktigt att de nationella minoriteterna ges möjlighet till samråd på lokal nivå.</p>
-    </list>
-    <list>
-      <p type="listitem">Utvidgat förvaltningsområde för finska och samiska: För utvidgning av förvaltningsområdena avsätts 50 miljoner kronor av reformutrymmet till statsbidrag till berörda kommuner.</p>
-    </list>
-    <list>
-      <p type="listitem">Utvidgat förvaltningsområde för samiska språket: Förvaltningsområde för samiska språket utvidgas till 13 nya kommuner. Dessa är: Arvidsjaur, Berg, Härjedalen, Lycksele, Malå, Sorsele, Storuman, Strömsund, Umeå, Vilhelmina, Åre, Älvdalen och Östersund. Kommuner som sedan tidigare ingår i förvaltningsområdet är: Arjeplog,Gällivare, Jokkmokk och Kiruna.</p>
-    </list>
-    <list>
-      <p type="listitem">Bättre uppföljning och styrning av minoritetspolitiken: Styrning och genomförande behöver bli bättre på nationell och lokal nivå. Sametinget ges ansvar att följa upp minoritetspolitikens genomförande.</p>
-    </list>
-    <list>
-      <p type="listitem">Insatser för att stärka minoritetsspråken: Regeringen avsätter särskilda medel för revitaliseringsinsatser för de nationella minoritetsspråken.</p>
-    </list>
-    <list>
-      <p type="listitem">Samiska språkcentra inrättas: Två samiska språkcentra etableras i det sydsamiska området, i Östersund respektive Tärnaby. Syftet är att stärka revitaliseringen av det samiska språket. Sametinget föreslås bli huvudman för dessa språkcentra.</p>
-    </list>
-    <list>
-      <p type="listitem">Integrerad samisk undervisning: För att stärka det samiska språkets fortlevnad utökas tillgången på integrerad samisk undervisning.</p>
-    </list>
-    <list>
-      <p type="listitem">Tydligare roll för Sametinget: Sametinget ska i fortsättningen fastställa mål för ‒ och inte endast leda ‒ det samiska språkarbetet. Det innebär ett tillägg i sametingslagen.</p>
-    </list>
-    <list>
-      <p type="listitem">Insatser för att höja kunskap: Sametinget ges i uppdrag att genomföra kunskapshöjande insatser. Sametinget ges även i uppdrag att skapa och ansvara för en hemsida rörande de nationella minoriteterna.</p>
-    </list>
-    <list>
-      <p type="listitem">Förskoleverksamhet: Fler barn kan få förskoleverksamhet helt eller delvis på finska och samiska eftersom förvaltningsområdena för finska och samiska utvidgas till nya kommuner.</p>
-    </list>
-    <list>
-      <p type="listitem">Ortnamn skyltade på minoritetsspråk: Vägverket ges i uppdrag att öka sitt arbete med skyltning av minoritetsspråkiga ortnamn. Statliga och kommunala myndigheter bör i sin verksamhet värna minoritetsspråkiga ortnamn och synliggöra minoritetsspråkens närvaro genom skyltning och annan utmärkning.</p>
-    </list>
-    <p><em type="italic">Kontakt </em>Lars-Anders Baer, mobil 070-316 20 56 </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>502</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/6786</origFileName><parallel_text xml:lang="sme" location="6810.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Höjd ambitionsnivå i svensk minoritetspolitik - Sametinget</p>
+<p>Baer är nöjd. Foto: Marie Enoksson.</p>
+<p type="title">Höjd ambitionsnivå i svensk minoritetspolitik</p>
+<p>Idag presenterade integrations- och jämställdhetsminister Nyamko Sabuni innehållet i en lagrådsremiss rörande de nationella minoriteternas rättigheter.</p>
+<p><em type="italic"><span type="quote">"Från erkännande till egenmakt"</span> </em>Regeringens samlade strategi kallas <span type="quote">"Från erkännande till egenmakt"</span>. Lagrådsremissen innehåller flera viktiga förslag för att stärka de nationella minoriteternas egenmakt och förutsättningar att bevara och revitalisera sina språk och kulturer. Integrations- och jämställdhetsminister Nyamko Sabuni presenterade lagrådsremissen vid en presskonferens den 29 januari 2009. <em type="italic">Folkrättsliga förpliktelser </em>- Det är dags för Sverige att ta ansvar för förverkligandet av de nationella minoriteternas rättigheter. En samlad strategi behövs för att möta de nationella minoriteternas behov, öka kunskapen om de nationella minoriteterna och för att förbättra efterlevnaden av Sveriges folkrättsliga förpliktelser, säger integrations- och jämställdhetsminister Nyamko Sabuni. Regeringen kommer att höja anslaget från 10 till 80 miljoner kronor från och med 2010 för denna minoritetspolitiska reform. <em type="italic">Politiskt genombrott </em>Sametingets styrelseordförande Lars-Anders Baer kallar lagrådsremissen för ett politiskt genombrott. - Det är inte bara vackra ord och fagra löften utan en tydlig signal i ekonomiska termer om att ambitionsnivån ska höjas avsevärt, konstaterar han nöjt. </p>
+<p><em type="italic">De viktigaste förslagen är: </em></p>
+<list><p type="listitem">Ny lag om nationella minoriteter och minoritetsspråk</p>
+</list><list><p type="listitem">Stärkt inflytande för nationella minoriteter: Regeringen föreslår att de nationella minoriteternas rätt till inflytande lagregleras. Det är särskilt viktigt att de nationella minoriteterna ges möjlighet till samråd på lokal nivå.</p>
+</list><list><p type="listitem">Utvidgat förvaltningsområde för finska och samiska: För utvidgning av förvaltningsområdena avsätts 50 miljoner kronor av reformutrymmet till statsbidrag till berörda kommuner.</p>
+</list><list><p type="listitem">Utvidgat förvaltningsområde för samiska språket: Förvaltningsområde för samiska språket utvidgas till 13 nya kommuner. Dessa är: Arvidsjaur, Berg, Härjedalen, Lycksele, Malå, Sorsele, Storuman, Strömsund, Umeå, Vilhelmina, Åre, Älvdalen och Östersund. Kommuner som sedan tidigare ingår i förvaltningsområdet är: Arjeplog,Gällivare, Jokkmokk och Kiruna.</p>
+</list><list><p type="listitem">Bättre uppföljning och styrning av minoritetspolitiken: Styrning och genomförande behöver bli bättre på nationell och lokal nivå. Sametinget ges ansvar att följa upp minoritetspolitikens genomförande.</p>
+</list><list><p type="listitem">Insatser för att stärka minoritetsspråken: Regeringen avsätter särskilda medel för revitaliseringsinsatser för de nationella minoritetsspråken.</p>
+</list><list><p type="listitem">Samiska språkcentra inrättas: Två samiska språkcentra etableras i det sydsamiska området, i Östersund respektive Tärnaby. Syftet är att stärka revitaliseringen av det samiska språket. Sametinget föreslås bli huvudman för dessa språkcentra.</p>
+</list><list><p type="listitem">Integrerad samisk undervisning: För att stärka det samiska språkets fortlevnad utökas tillgången på integrerad samisk undervisning.</p>
+</list><list><p type="listitem">Tydligare roll för Sametinget: Sametinget ska i fortsättningen fastställa mål för ‒ och inte endast leda ‒ det samiska språkarbetet. Det innebär ett tillägg i sametingslagen.</p>
+</list><list><p type="listitem">Insatser för att höja kunskap: Sametinget ges i uppdrag att genomföra kunskapshöjande insatser. Sametinget ges även i uppdrag att skapa och ansvara för en hemsida rörande de nationella minoriteterna.</p>
+</list><list><p type="listitem">Förskoleverksamhet: Fler barn kan få förskoleverksamhet helt eller delvis på finska och samiska eftersom förvaltningsområdena för finska och samiska utvidgas till nya kommuner.</p>
+</list><list><p type="listitem">Ortnamn skyltade på minoritetsspråk: Vägverket ges i uppdrag att öka sitt arbete med skyltning av minoritetsspråkiga ortnamn. Statliga och kommunala myndigheter bör i sin verksamhet värna minoritetsspråkiga ortnamn och synliggöra minoritetsspråkens närvaro genom skyltning och annan utmärkning.</p>
+</list><p><em type="italic">Kontakt </em>Lars-Anders Baer, mobil 070-316 20 56 </p>
+</body></document>

@@ -1,31 +1,9 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>209</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/62118</origFileName>
-    <parallel_text xml:lang="sme" location="63697.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sámi Giellagáldu - Sametinget</p>
-    <p type="title">Sámi Giellagáldu</p>
-    <p>De tre Sametingen i Norden har bedrivit ett gemensamt projekt för att omorganisera språksamarbetet, kallat Sámi Giellagáldu-projektet. Sámi Giellagáldu var organisatoriskt underlagt Samiskt Parlamentariskt Råd. Det finska Sametinget har haft huvudansvaret för arbetet. Projekttiden har nu tagit slut.</p>
-    <p><em type="italic">Ett interreg-projekt </em>Projektet startade i januari 2013, och projektperioden löpte ut i juni 2014. Det finansierades huvudsakligen av EU:s Interreg Nord IV-program, delprogram Sápmi. De tre sametingen, Lapin liitto i Finland, och Troms og Nordland Fylkeskommune bidrog med finansiering. Under projekttiden har sametingen arbetat för att centret ska få fast finansiering, men ännu inte lyckats. </p>
-    <p><em type="italic">Verksamhet </em>Tanken var att Sámi Giellagáldu skulle ha det yttersta ansvaret för språkliga frågor och förmedla språktjänster direkt till användarna. Centrets uppgift: Att utveckla det nordiska språksamarbetet och stärka det samiska språkets ställning i Norge, Finland och Sverige. Sámi Giellagáldus verksamhet omfattade språkutveckling, godkännande av terminologi, ortnamn, språknormering och information om språkliga frågor. </p>
-    <p><em type="italic">Fem språk </em>Projektet jobbade med fem samiska språk: syd-, lule-, nord-, enare- och skoltsamiska. Det fanns fem språkkommittéer med mandat att fatta beslut angående terminologi, normering och ortnamn. </p>
-    <p><em type="italic">Decentraliserad organisation </em>Sámi Giellagáldu är inte och var inte en fysisk institution. De anställda tillhörde administrativt sett de respektive sametingen. Projektet hade tolv anställda, varav nio språkkonsulenter. </p>
-    <p><em type="italic">Kontakt: </em>info(at)giellagaldu.com </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>209</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/62118</origFileName><parallel_text xml:lang="sme" location="63697.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sámi Giellagáldu - Sametinget</p>
+<p type="title">Sámi Giellagáldu</p>
+<p>De tre Sametingen i Norden har bedrivit ett gemensamt projekt för att omorganisera språksamarbetet, kallat Sámi Giellagáldu-projektet. Sámi Giellagáldu var organisatoriskt underlagt Samiskt Parlamentariskt Råd. Det finska Sametinget har haft huvudansvaret för arbetet. Projekttiden har nu tagit slut.</p>
+<p><em type="italic">Ett interreg-projekt </em>Projektet startade i januari 2013, och projektperioden löpte ut i juni 2014. Det finansierades huvudsakligen av EU:s Interreg Nord IV-program, delprogram Sápmi. De tre sametingen, Lapin liitto i Finland, och Troms og Nordland Fylkeskommune bidrog med finansiering. Under projekttiden har sametingen arbetat för att centret ska få fast finansiering, men ännu inte lyckats. </p>
+<p><em type="italic">Verksamhet </em>Tanken var att Sámi Giellagáldu skulle ha det yttersta ansvaret för språkliga frågor och förmedla språktjänster direkt till användarna. Centrets uppgift: Att utveckla det nordiska språksamarbetet och stärka det samiska språkets ställning i Norge, Finland och Sverige. Sámi Giellagáldus verksamhet omfattade språkutveckling, godkännande av terminologi, ortnamn, språknormering och information om språkliga frågor. </p>
+<p><em type="italic">Fem språk </em>Projektet jobbade med fem samiska språk: syd-, lule-, nord-, enare- och skoltsamiska. Det fanns fem språkkommittéer med mandat att fatta beslut angående terminologi, normering och ortnamn. </p>
+<p><em type="italic">Decentraliserad organisation </em>Sámi Giellagáldu är inte och var inte en fysisk institution. De anställda tillhörde administrativt sett de respektive sametingen. Projektet hade tolv anställda, varav nio språkkonsulenter. </p>
+<p><em type="italic">Kontakt: </em>info(at)giellagaldu.com </p>
+</body></document>

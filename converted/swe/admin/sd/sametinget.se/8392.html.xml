@@ -1,76 +1,30 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>556</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/8392</origFileName>
-    <parallel_text xml:lang="sme" location="72057.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ordförklaringar - Sametinget</p>
-    <p type="title">Ordförklaringar</p>
-    <p>Ger vissa ord och begrepp inom rennäringen huvudbry för dig? Här finns förklaringar till några av dem.</p>
-    <p>
-      <em type="italic">Renskötselområde </em>
-    </p>
-    <p>Det område i Sverige där renskötsel får bedrivas. Omfattar närmare 50 procent av Sveriges yta. Renskötselområdet utgörs av tre viktiga huvudområden där renskötseln har olika rättigheter: Åretruntmarkerna (renbetesfjällen), vinterbetesmarkerna och områden för koncessionsrenskötsel.</p>
-    <p>
-      <em type="italic">Sameby </em>
-    </p>
-    <p>Såväl ett geografiskt begränsat område där viss sameby har rätt att tillsammans bedriva renskötsel, som en juridisk person som företräder de renskötande medlemmarna. Även andra rättigheter ingår i renskötselrätten (se rennäringslagen ).</p>
-    <p>
-      <em type="italic">Urminnes hävd </em>
-    </p>
-    <p>Samebyarnas användning av marker i renskötselområdet är en nyttjanderätt grundad på urminnes hävd. Det innebär att markerna använts för renskötsel under så lång tid att ingen vet när bruket började eller hur det gick till. Rennäringen i Sverige bedrivs i dag på både privat mark och mark som staten hävdar äganderätt till.</p>
-    <p>
-      <em type="italic">Året-runt-markerna </em>
-    </p>
-    <p>Året-runt-marker får användas till renbete under hela året.</p>
-    <list>
-      <p type="listitem">För fjällsamebyarna innebär <span type="quote">”året-runt-markerna”</span> området ovanför odlingsgränsen och upp till riksgränsen</p>
-      <p type="listitem">För skogssamebyarna innebär <span type="quote">”året-runt-markerna”</span> gränsbestämda områden ovanför lappmarksgränsen</p>
-      <p type="listitem">För samebyarna i Jämtlands och Dalarnas län innebär <span type="quote">”året-runt-markerna”</span> områden inom renbetesfjällen i Jämtlands län och de områden i Jämtlands och Dalarnas län som av staten var särskilt upplåtna till renbete</p>
-    </list>
-    <p>
-      <em type="italic">Renbetesfjällen </em>
-    </p>
-    <p>Renbetesfjällen omfattar i huvudsak av staten hävdade ägda fastigheter. Samerna har enligt rennäringslagen vidsträckta rättigheter och skydd för att kunna bedriva sin näring inom renbetesfjällen och i viss mån även inom sedvanemarkerna.</p>
-    <p>
-      <em type="italic">Vinterbetesmarkerna </em>
-    </p>
-    <p>Vinterbetesmarkerna är marker som enbart får användas till renbete under tiden 1 oktober till och med 30 april. För fjäll- och skogssamebyar innebär <span type="quote">”vinterbetesmarkerna”</span> de delar av renskötselområdet i Sverige som inte utgörs av <span type="quote">”året-runt-markerna”</span> och koncessionsområden.</p>
-    <p>
-      <em type="italic">Områden för koncessionsrenskötsel </em>
-    </p>
-    <p>Den som är same kan få tillstånd (koncession) att driva renskötsel i Norrbottens län nedanför lappmarksgränsen inom område där renskötsel av ålder förekommer under hela året (Kalix- och Torne älvdalar). Inom detta så kallade koncessionsområde bedrivs renskötsel under hela året. Tillståndet innefattar även rätt att sköta ett visst antal renar åt dem som äger eller brukar jordbruksfastigheter i området. Dessa ägare eller brukare får äga högst 30 renar vardera.</p>
-    <p>
-      <em type="italic">Bruttoareal </em>
-    </p>
-    <p>Med bruttoareal menas det totala betesområdet som ges av samebyns administrativt fastställda samebygränser och av samebyn redovisat sedvaneområde. I bruttoarealen har <em type="italic">inte </em>exempelvis högfjällsområden eller annan mark som ej går att bruka till renbete räknats bort. </p>
-    <p>
-      <em type="italic">Nettoareal </em>
-    </p>
-    <p>Den areal som samebyn kan använda till faktiskt renbete efter att markintrång och naturliga förutsättningar som omöjliggör renskötsel räknats bort.</p>
-    <p>
-      <em type="italic">Riksintressen </em>
-    </p>
-    <p>Med riksintresse menas ett område, plats eller enstaka objekt som anses viktig för landet och representerar ett allmänt intresse. Kriteriet för riksintressen är att de har särskild betydelse för sitt samhällsområde och ska skyddas från påverkan. Rennäringen är ett riksintresse. Andra riksintressen är exempelvis vägar, mineralresurser, naturvård, kulturmiljöer, fiske och friluftsliv.</p>
-    <p>
-      <em type="italic">Resiliens </em>
-    </p>
-    <p>Resiliens är ett systems långsiktiga förmåga att klara av förändring och vidareutvecklas. Resiliens innefattar både förmågan att stå emot stress eller förändring och att återuppbygga viktiga funktioner som gått förlorade:</p>
-    <p><em type="italic">- För renen </em>kan det handla om att klara av en hård vinter med dåligt bete. <em type="italic">- För en sameby </em>kan det handla om att klara av ytterligare exploateringar på samebyns betesland. Det kan gälla allt från vindkraft och gruvor till turism eller att klara av en rättstvist både ekonomisk och psykosocialt. <em type="italic">- För den enskilda renägaren </em>kan det handla om att hantera stora ekonomiska förluster på grund av hög rovdjurspredation. </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>556</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/8392</origFileName><parallel_text xml:lang="sme" location="72057.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ordförklaringar - Sametinget</p>
+<p type="title">Ordförklaringar</p>
+<p>Ger vissa ord och begrepp inom rennäringen huvudbry för dig? Här finns förklaringar till några av dem.</p>
+<p><em type="italic">Renskötselområde </em></p>
+<p>Det område i Sverige där renskötsel får bedrivas. Omfattar närmare 50 procent av Sveriges yta. Renskötselområdet utgörs av tre viktiga huvudområden där renskötseln har olika rättigheter: Åretruntmarkerna (renbetesfjällen), vinterbetesmarkerna och områden för koncessionsrenskötsel.</p>
+<p><em type="italic">Sameby </em></p>
+<p>Såväl ett geografiskt begränsat område där viss sameby har rätt att tillsammans bedriva renskötsel, som en juridisk person som företräder de renskötande medlemmarna. Även andra rättigheter ingår i renskötselrätten (se rennäringslagen ).</p>
+<p><em type="italic">Urminnes hävd </em></p>
+<p>Samebyarnas användning av marker i renskötselområdet är en nyttjanderätt grundad på urminnes hävd. Det innebär att markerna använts för renskötsel under så lång tid att ingen vet när bruket började eller hur det gick till. Rennäringen i Sverige bedrivs i dag på både privat mark och mark som staten hävdar äganderätt till.</p>
+<p><em type="italic">Året-runt-markerna </em></p>
+<p>Året-runt-marker får användas till renbete under hela året.</p>
+<list><p type="listitem">För fjällsamebyarna innebär <span type="quote">”året-runt-markerna”</span> området ovanför odlingsgränsen och upp till riksgränsen</p>
+<p type="listitem">För skogssamebyarna innebär <span type="quote">”året-runt-markerna”</span> gränsbestämda områden ovanför lappmarksgränsen</p>
+<p type="listitem">För samebyarna i Jämtlands och Dalarnas län innebär <span type="quote">”året-runt-markerna”</span> områden inom renbetesfjällen i Jämtlands län och de områden i Jämtlands och Dalarnas län som av staten var särskilt upplåtna till renbete</p>
+</list><p><em type="italic">Renbetesfjällen </em></p>
+<p>Renbetesfjällen omfattar i huvudsak av staten hävdade ägda fastigheter. Samerna har enligt rennäringslagen vidsträckta rättigheter och skydd för att kunna bedriva sin näring inom renbetesfjällen och i viss mån även inom sedvanemarkerna.</p>
+<p><em type="italic">Vinterbetesmarkerna </em></p>
+<p>Vinterbetesmarkerna är marker som enbart får användas till renbete under tiden 1 oktober till och med 30 april. För fjäll- och skogssamebyar innebär <span type="quote">”vinterbetesmarkerna”</span> de delar av renskötselområdet i Sverige som inte utgörs av <span type="quote">”året-runt-markerna”</span> och koncessionsområden.</p>
+<p><em type="italic">Områden för koncessionsrenskötsel </em></p>
+<p>Den som är same kan få tillstånd (koncession) att driva renskötsel i Norrbottens län nedanför lappmarksgränsen inom område där renskötsel av ålder förekommer under hela året (Kalix- och Torne älvdalar). Inom detta så kallade koncessionsområde bedrivs renskötsel under hela året. Tillståndet innefattar även rätt att sköta ett visst antal renar åt dem som äger eller brukar jordbruksfastigheter i området. Dessa ägare eller brukare får äga högst 30 renar vardera.</p>
+<p><em type="italic">Bruttoareal </em></p>
+<p>Med bruttoareal menas det totala betesområdet som ges av samebyns administrativt fastställda samebygränser och av samebyn redovisat sedvaneområde. I bruttoarealen har <em type="italic">inte </em>exempelvis högfjällsområden eller annan mark som ej går att bruka till renbete räknats bort. </p>
+<p><em type="italic">Nettoareal </em></p>
+<p>Den areal som samebyn kan använda till faktiskt renbete efter att markintrång och naturliga förutsättningar som omöjliggör renskötsel räknats bort.</p>
+<p><em type="italic">Riksintressen </em></p>
+<p>Med riksintresse menas ett område, plats eller enstaka objekt som anses viktig för landet och representerar ett allmänt intresse. Kriteriet för riksintressen är att de har särskild betydelse för sitt samhällsområde och ska skyddas från påverkan. Rennäringen är ett riksintresse. Andra riksintressen är exempelvis vägar, mineralresurser, naturvård, kulturmiljöer, fiske och friluftsliv.</p>
+<p><em type="italic">Resiliens </em></p>
+<p>Resiliens är ett systems långsiktiga förmåga att klara av förändring och vidareutvecklas. Resiliens innefattar både förmågan att stå emot stress eller förändring och att återuppbygga viktiga funktioner som gått förlorade:</p>
+<p><em type="italic">- För renen </em>kan det handla om att klara av en hård vinter med dåligt bete. <em type="italic">- För en sameby </em>kan det handla om att klara av ytterligare exploateringar på samebyns betesland. Det kan gälla allt från vindkraft och gruvor till turism eller att klara av en rättstvist både ekonomisk och psykosocialt. <em type="italic">- För den enskilda renägaren </em>kan det handla om att hantera stora ekonomiska förluster på grund av hög rovdjurspredation. </p>
+</body></document>

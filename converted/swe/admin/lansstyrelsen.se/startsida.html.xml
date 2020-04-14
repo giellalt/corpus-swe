@@ -1,48 +1,13 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>82</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Teckensprak/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="startsida.html"/>
-    <parallel_text xml:lang="fin" location="startsida.html"/>
-    <parallel_text xml:lang="fit" location="startsida.html"/>
-    <parallel_text xml:lang="sma" location="startsida.html"/>
-    <parallel_text xml:lang="sme" location="startsida.html"/>
-    <parallel_text location="startsida.html" xml:lang="rmu"/>
-    <parallel_text location="startsida.html" xml:lang="rmy-rka"/>
-    <parallel_text location="startsida.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="startsida.html" xml:lang="rmf"/>
-    <parallel_text location="startsida.html" xml:lang="rmn"/>
-    <parallel_text location="startsida.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Länsstyrelsen - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Länsstyrelsen</p>
-    <p>Länsstyrelsen är en statlig myndighet som finns nära människorna i varje län. Vi är en viktig länk mellan människor och kommuner å ena sidan och regering, riksdag och centrala myndigheter å den andra.</p>
-    <p>Här finns en lista över våra teckenspråksfilmer med information om vad vi gör.</p>
-    <list>
-      <p type="listitem">Djur och natur</p>
-      <p type="listitem">Miljö och klimat</p>
-      <p type="listitem">Lantbruk och landsbygd</p>
-      <p type="listitem">Näringsliv och föreningar</p>
-      <p type="listitem">Människa och samhälle</p>
-      <p type="listitem">Samhällsplanering och kulturmiljö</p>
-      <p type="listitem">Om Länsstyrelsen</p>
-    </list>
-    <p>Filmerna finns också under de olika flikarna tillsammans med text.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>82</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Teckensprak/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="startsida.html"/><parallel_text xml:lang="fin" location="startsida.html"/><parallel_text xml:lang="fit" location="startsida.html"/><parallel_text xml:lang="sma" location="startsida.html"/><parallel_text xml:lang="sme" location="startsida.html"/><parallel_text location="startsida.html" xml:lang="rmu"/><parallel_text location="startsida.html" xml:lang="rmy-rka"/><parallel_text location="startsida.html" xml:lang="rmy-rlo"/><parallel_text location="startsida.html" xml:lang="rmf"/><parallel_text location="startsida.html" xml:lang="rmn"/><parallel_text location="startsida.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Länsstyrelsen - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Länsstyrelsen</p>
+<p>Länsstyrelsen är en statlig myndighet som finns nära människorna i varje län. Vi är en viktig länk mellan människor och kommuner å ena sidan och regering, riksdag och centrala myndigheter å den andra.</p>
+<p>Här finns en lista över våra teckenspråksfilmer med information om vad vi gör.</p>
+<list><p type="listitem">Djur och natur</p>
+<p type="listitem">Miljö och klimat</p>
+<p type="listitem">Lantbruk och landsbygd</p>
+<p type="listitem">Näringsliv och föreningar</p>
+<p type="listitem">Människa och samhälle</p>
+<p type="listitem">Samhällsplanering och kulturmiljö</p>
+<p type="listitem">Om Länsstyrelsen</p>
+</list><p>Filmerna finns också under de olika flikarna tillsammans med text.</p>
+</body></document>

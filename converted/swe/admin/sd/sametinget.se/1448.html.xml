@@ -1,32 +1,9 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>298</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1448</origFileName>
-    <parallel_text xml:lang="sme" location="3330.html"/>
-    <parallel_text xml:lang="smj" location="4019.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tjernobyl - Sametinget</p>
-    <p>Mätning av cesiumhalt i renkött. Foto: Isabella Nutti.</p>
-    <p type="title">Tjernobyl</p>
-    <p>1986 drabbades södra Västerbotten och norra Jämtland av radioaktivt nedfall från kärnkraftsolyckan i Tjernobyl. Sedan dess kontrolleras renkött genom ett speciellt övervakningsprogram.</p>
-    <p>Kompensation  Staten kompenserar renägarna för förluster på grund av tjernobylolyckan. Tidigarelagd slakt och utfodring av ren på vintern har bidragit till att antalet kasserade slaktkroppar minskat. Ansökan  I högerspalten finns blanketter som renägare och samebyar ska använda vid ansökan. Öppna pdf-filen och fyll i uppgifterna i på datorn. Skriv ut blanketten. Glöm inte att skriva under innan du skickar in den till:</p>
-    <p><em type="italic">Sametinget </em>Sören Långberg Klippen 133 924 94 Sorsele </p>
-    <p><em type="italic">Övervakningsprogram </em>Renkött kontrolleras sedan 1986 genom ett speciellt övervakningsprogram. Renskötselområdet är sedan 2002 indelat i två områdeskategorier baserat på föregående års provtagningsresultat. I icke-friklassade områden tas prover från samtliga slaktkroppar. Vår leverantör av laboratorietjänster heter från och med 1 april 2010 <em type="italic">Alcontrol AB </em>. <em type="italic">Vinterföda </em>Provtagningen är mest omfattande under vinterhalvåret. Renens vinterföda (lav) innehåller mer cesium än sommardieten (gräs, örter och löv). De slaktkroppar som har cesiumvärden över 1 500 becquerel kasseras. Rent kött  1986 kasserades 27 000 renar. Under säsongen 2007/08 slaktades 65 223 renar i Sverige. Av dessa kasserades endast 115 stycken på grund av för hög halt av cesium-137, vilket motsvarar 0,018 %. Säsongen 2008/09 kasserades 16 renar och 2009/10 57 renar. Hittills har den effektiva halveringstiden varit i genomsnitt 6 år. </p>
-    <p><em type="italic">Variation mellan åren </em>Variationen mellan olika år beror främst på när man slaktar och var renarna har varit. En viktig faktor är i vilken utsträckning man tar ut slaktren på hösten när de flesta renar ligger lågt i värdet. Ändå kan enstaka djur ligga över gränsvärdet. Om renarna har utfodrats före slakt behöver ingen ren kasseras. Läs mer på livsmedelsverkets hemsida om riskerna med radioaktiva ämnen i maten </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>298</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1448</origFileName><parallel_text xml:lang="sme" location="3330.html"/><parallel_text xml:lang="smj" location="4019.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tjernobyl - Sametinget</p>
+<p>Mätning av cesiumhalt i renkött. Foto: Isabella Nutti.</p>
+<p type="title">Tjernobyl</p>
+<p>1986 drabbades södra Västerbotten och norra Jämtland av radioaktivt nedfall från kärnkraftsolyckan i Tjernobyl. Sedan dess kontrolleras renkött genom ett speciellt övervakningsprogram.</p>
+<p>Kompensation  Staten kompenserar renägarna för förluster på grund av tjernobylolyckan. Tidigarelagd slakt och utfodring av ren på vintern har bidragit till att antalet kasserade slaktkroppar minskat. Ansökan  I högerspalten finns blanketter som renägare och samebyar ska använda vid ansökan. Öppna pdf-filen och fyll i uppgifterna i på datorn. Skriv ut blanketten. Glöm inte att skriva under innan du skickar in den till:</p>
+<p><em type="italic">Sametinget </em>Sören Långberg Klippen 133 924 94 Sorsele </p>
+<p><em type="italic">Övervakningsprogram </em>Renkött kontrolleras sedan 1986 genom ett speciellt övervakningsprogram. Renskötselområdet är sedan 2002 indelat i två områdeskategorier baserat på föregående års provtagningsresultat. I icke-friklassade områden tas prover från samtliga slaktkroppar. Vår leverantör av laboratorietjänster heter från och med 1 april 2010 <em type="italic">Alcontrol AB </em>. <em type="italic">Vinterföda </em>Provtagningen är mest omfattande under vinterhalvåret. Renens vinterföda (lav) innehåller mer cesium än sommardieten (gräs, örter och löv). De slaktkroppar som har cesiumvärden över 1 500 becquerel kasseras. Rent kött  1986 kasserades 27 000 renar. Under säsongen 2007/08 slaktades 65 223 renar i Sverige. Av dessa kasserades endast 115 stycken på grund av för hög halt av cesium-137, vilket motsvarar 0,018 %. Säsongen 2008/09 kasserades 16 renar och 2009/10 57 renar. Hittills har den effektiva halveringstiden varit i genomsnitt 6 år. </p>
+<p><em type="italic">Variation mellan åren </em>Variationen mellan olika år beror främst på när man slaktar och var renarna har varit. En viktig faktor är i vilken utsträckning man tar ut slaktren på hösten när de flesta renar ligger lågt i värdet. Ändå kan enstaka djur ligga över gränsvärdet. Om renarna har utfodrats före slakt behöver ingen ren kasseras. Läs mer på livsmedelsverkets hemsida om riskerna med radioaktiva ämnen i maten </p>
+</body></document>

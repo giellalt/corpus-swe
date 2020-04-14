@@ -1,54 +1,28 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>391</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/lonegaranti/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle-lonegaranti.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-lonegaranti.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lönegaranti - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Lönegaranti</p>
-    <p>MostPhotos</p>
-    <p><em type="italic">Länsstyrelsen ansvarar för att betala ut lönegaranti till anställda i företag som går i konkurs eller genomgår en företagsrekonstruktion. Detta sker efter beslut av konkursförvaltaren eller rekonstruktören. </em> </p>
-    <p><em type="italic">Vad innebär en konkurs eller en företagsrekonstruktion för dig som arbetstagare? </em> </p>
-    <p>Om du är anställd på ett företag som går i konkurs eller genomgår företagsrekonstruktion omfattas du av lönegarantilagen. Det innebär att du kan få ersättning för lön eller liknande som arbetsgivaren är skyldig dig.</p>
-    <p>När ett företag försätts i konkurs eller ska genomgå en rekonstruktion, utser Tingsrätten en konkursförvaltare eller rekonstruktör, som beslutar vilka personer som har rätt till lönegaranti och vilka belopp som ska betalas ut. Efter att Länsstyrelsen har fått ett skriftligt beslut från konkursförvaltaren eller rekonstruktören betalar Länsstyrelsen ut lönegarantin.</p>
-    <p>Lönegarantin innebär också att du kan få ut din uppsägningslön under den uppsägningstid (1–6 månader) som LAS (lagen om anställningsskydd SFS 1982:80) anger. Du ska vara anmäld som arbetssökande vid Arbetsförmedlingen. Maxbeloppet för lönegaranti är fyra prisbasbelopp (2014 uppgår detta till 177 600 kr).</p>
-    <p><em type="italic">När ska jag använda blanketten <span type="quote">”Försäkran”</span>? </em> </p>
-    <p>Innestående lön och innestående semesterersättning betalas ut utan att du behöver lämna in en försäkran.</p>
-    <p>Om konkursförvaltaren eller rekonstruktören fattat beslut om uppsägningslön, skickar Länsstyrelsen ut blanketten <span type="quote">”Försäkran enligt lönegarantilagen”</span>. För att få din lönegaranti utbetald ska du skicka in en ifylld och undertecknad blankett. Alla blanketter som Länsstyrelsen har skickat till dig ska fyllas i och sändas tillbaka till Länsstyrelsen. Om du i försäkran uppger att du har haft eller kommer få någon annan inkomst eller ersättning för den aktuella perioden fattar konkursförvaltaren eller rekonstruktören ett nytt beslut om uppsägningslön.</p>
-    <p><em type="italic">När du skickar in din försäkransblankett, tänk på </em> </p>
-    <list>
-      <p type="listitem">att skicka in blanketten tidigast det datum som står angivet under <span type="quote">”Insändes tidigast”</span> på varje blankett</p>
-      <p type="listitem">att fylla i det svarsalternativ som gäller för dig, det finns sex olika alternativ</p>
-      <p type="listitem">att skriva under blanketten och ange det telefonnummer, där man kan nå dig</p>
-      <p type="listitem">att när du skickar in din första blankett även skicka med intyg om att du är inskriven som arbetssökande på Arbetsförmedlingen </p>
-    </list>
-    <p type="title">Kontakta oss</p>
-    <p>Länsstyrelsen Dalarna, Lönegaranti, 791 84 Falun</p>
-    <p>lonegarantin punkt dalarna snabela lansstyrelsen punkt se¤lonegarantin punkt dalarna snabela lansstyrelsen punkt se</p>
-    <p>010 225 00 00</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>391</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/lonegaranti/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle-lonegaranti.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle-lonegaranti.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lönegaranti - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Lönegaranti</p>
+<p>MostPhotos</p>
+<p><em type="italic">Länsstyrelsen ansvarar för att betala ut lönegaranti till anställda i företag som går i konkurs eller genomgår en företagsrekonstruktion. Detta sker efter beslut av konkursförvaltaren eller rekonstruktören. </em> </p>
+<p><em type="italic">Vad innebär en konkurs eller en företagsrekonstruktion för dig som arbetstagare? </em> </p>
+<p>Om du är anställd på ett företag som går i konkurs eller genomgår företagsrekonstruktion omfattas du av lönegarantilagen. Det innebär att du kan få ersättning för lön eller liknande som arbetsgivaren är skyldig dig.</p>
+<p>När ett företag försätts i konkurs eller ska genomgå en rekonstruktion, utser Tingsrätten en konkursförvaltare eller rekonstruktör, som beslutar vilka personer som har rätt till lönegaranti och vilka belopp som ska betalas ut. Efter att Länsstyrelsen har fått ett skriftligt beslut från konkursförvaltaren eller rekonstruktören betalar Länsstyrelsen ut lönegarantin.</p>
+<p>Lönegarantin innebär också att du kan få ut din uppsägningslön under den uppsägningstid (1–6 månader) som LAS (lagen om anställningsskydd SFS 1982:80) anger. Du ska vara anmäld som arbetssökande vid Arbetsförmedlingen. Maxbeloppet för lönegaranti är fyra prisbasbelopp (2014 uppgår detta till 177 600 kr).</p>
+<p><em type="italic">När ska jag använda blanketten <span type="quote">”Försäkran”</span>? </em> </p>
+<p>Innestående lön och innestående semesterersättning betalas ut utan att du behöver lämna in en försäkran.</p>
+<p>Om konkursförvaltaren eller rekonstruktören fattat beslut om uppsägningslön, skickar Länsstyrelsen ut blanketten <span type="quote">”Försäkran enligt lönegarantilagen”</span>. För att få din lönegaranti utbetald ska du skicka in en ifylld och undertecknad blankett. Alla blanketter som Länsstyrelsen har skickat till dig ska fyllas i och sändas tillbaka till Länsstyrelsen. Om du i försäkran uppger att du har haft eller kommer få någon annan inkomst eller ersättning för den aktuella perioden fattar konkursförvaltaren eller rekonstruktören ett nytt beslut om uppsägningslön.</p>
+<p><em type="italic">När du skickar in din försäkransblankett, tänk på </em> </p>
+<list><p type="listitem">att skicka in blanketten tidigast det datum som står angivet under <span type="quote">”Insändes tidigast”</span> på varje blankett</p>
+<p type="listitem">att fylla i det svarsalternativ som gäller för dig, det finns sex olika alternativ</p>
+<p type="listitem">att skriva under blanketten och ange det telefonnummer, där man kan nå dig</p>
+<p type="listitem">att när du skickar in din första blankett även skicka med intyg om att du är inskriven som arbetssökande på Arbetsförmedlingen </p>
+</list><p type="title">Kontakta oss</p>
+<p>Länsstyrelsen Dalarna, Lönegaranti, 791 84 Falun</p>
+<p>lonegarantin punkt dalarna snabela lansstyrelsen punkt se¤lonegarantin punkt dalarna snabela lansstyrelsen punkt se</p>
+<p>010 225 00 00</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

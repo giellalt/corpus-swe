@@ -1,59 +1,39 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Smakskolan – låt sinnena jobba</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2018</year>
-    <wordcount>497</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-aistit-kayttoon/</origFileName>
-    <parallel_text xml:lang="fin" location="makukoulu_aistit_kayttoon.html"/>
-    <parallel_text xml:lang="sme" location="smahkkaskuvlla_aiccut_atnui.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Hoppa över till innehållet</p>
-    <p xml:lang="fkv">RuokaTutka</p>
-    <list>
-      <p type="listitem" xml:lang="fin">suomi</p>
-      <p type="listitem">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <list>
-      <p type="listitem">Aktiviteter att göra på lektionen och hemma <list><p type="listitem">Uppgifter</p><p type="listitem" xml:lang="nno">MatRadarn spelet</p><p type="listitem" xml:lang="vep">MatRadarTube</p><p type="listitem" xml:lang="nno">Testlabbet</p></list></p>
-      <p type="listitem">Fakta om mat <list><p type="listitem">Mjölk ger mycket gott</p><p type="listitem">Grönsaker är supermat</p><p type="listitem" xml:lang="eng">Matfostran</p><p type="listitem" xml:lang="fin">Skolmat</p><p type="listitem">Ekologiskt smakar gott</p><p type="listitem" xml:lang="nno">Mat och sinnen <list><p type="listitem">Topp 5  i hemmets och skolans matfostran</p><p type="listitem" xml:lang="nno">Smakskolan – låt sinnena jobba</p></list></p></list></p>
-      <p type="listitem">Om projektet</p>
-      <p type="listitem" xml:lang="vep">Tecken</p>
-      <p type="listitem">MatKonst-tävlingen</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="fin">suomi</p>
-      <p type="listitem">svenska</p>
-      <p type="listitem" xml:lang="smj">davvisámegiella</p>
-    </list>
-    <p type="title" xml:lang="nno">Smakskolan – låt sinnena jobba</p>
-    <p>
-      <em type="italic">I smakskolan får man lära sig om mat </em>
-    </p>
-    <p>Med sinnena kan man uppfatta egenskaper hos maten som har att göra med dess smak, doft, utseende, ljud och struktur. När vi talar om mat fokuserar vi oftast på smaken, medan andra sinnen får mindre uppmärksamhet. Särskilt barn som är ovilliga att smaka på nya livsmedel vågar först bekanta sig med dem med andra sinnen, så att tröskeln för att smaka sänks.</p>
-    <p><em type="italic">Smakskolans övningar </em>kan kombineras med många olika skolämnen, exempelvis huslig ekonomi och miljölära. På lektionerna i modersmål kan man lära sig att uttrycka sina sinnesupplevelser och på lektionerna i bildkonst kan man behandla matens färger och former. Även i samband med skollunchen kan man göra en liten smakskolövning. På så sätt stödjer smakskolan möjligheterna till matfostran även vid skollunchen och kan öka uppskattningen för skolmaten. Man kan gärna lyfta fram för eleverna att smakskolan inte handlar om rätt och fel svar, utan att var och en får berätta om sin egen upplevelse. </p>
-    <p>Med hjälp av smakskolan, som bygger på <em type="italic">sapere-modellen för matfostran </em>, får barnen lära känna sina egna sinnen och lära sig att använda dem på ett mångsidigt sätt. De får spännande upplevelser av mat och mod att prova på nya smaker. Barnen lär sig att uttrycka sig själva och använda den information som sinnena ger när de utvärderar mat. Genom smakövningarna lär de sig även att värdesätta maten och matkulturen samt bekantar sig med matens kemiska och fysikaliska egenskaper och deras betydelse för de förnimbara egenskaperna. </p>
-    <p>Sapere-metoden fokuserar på undersökande och experimentell inlärning. Den utvecklades i Frankrike för skolelever i åldern 9–12 år, men har tillämpats för alla åldrar från småbarnspedagogiken till vuxna. Sapere-metoden har givit lovande forskningsresultat både i Finland och på annat håll li Europa. Smakskolan har förbättrat elevernas förmåga att känna igen smaker och lukter samt beskriva mat. De sinnesövningar som ingår i metoden har minskat barnens rädsla för nya livsmedel, gjort deras diet mångsidigare samt förbättrat självkänslan bland barn som inte klarat sig så bra i skolan.</p>
-    <p>Smakskolans metod går ut på att bekanta sig med livsmedel med ett sinne i taget. Smaksinnet behandlas sist, eftersom nyfikenheten att smaka lättast väcks när barnet i lugn och ro får bekanta sig med nya livsmedel med alla sina sinnen.</p>
-    <p type="title" xml:lang="vep">LÄS MER:</p>
-    <p type="title">Synsinnet – först tittar vi</p>
-    <p type="title">Lukt – kittlar i näsan</p>
-    <p type="title">Känseln – hur känns maten?</p>
-    <p type="title">Smak – känns på tungan</p>
-    <p type="title">Hörseln – även öronen gillar mat</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Smakskolan – låt sinnena jobba</title><genre code="facta"/><author><unknown/></author><year>2018</year><wordcount>497</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.ruokatutka.fi/sv/for-fostrare/tietoa-ruuasta/ruoka-ja-aistit/makukoulu-aistit-kayttoon/</origFileName><parallel_text xml:lang="fin" location="makukoulu_aistit_kayttoon.html"/><parallel_text xml:lang="sme" location="smahkkaskuvlla_aiccut_atnui.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Hoppa över till innehållet</p>
+<p xml:lang="fkv">RuokaTutka</p>
+<list><p type="listitem" xml:lang="fin">suomi</p>
+<p type="listitem">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><list><p type="listitem">Aktiviteter att göra på lektionen och hemma <list><p type="listitem">Uppgifter</p>
+<p type="listitem" xml:lang="nno">MatRadarn spelet</p>
+<p type="listitem" xml:lang="vep">MatRadarTube</p>
+<p type="listitem" xml:lang="nno">Testlabbet</p>
+</list></p>
+<p type="listitem">Fakta om mat <list><p type="listitem">Mjölk ger mycket gott</p>
+<p type="listitem">Grönsaker är supermat</p>
+<p type="listitem" xml:lang="eng">Matfostran</p>
+<p type="listitem" xml:lang="fin">Skolmat</p>
+<p type="listitem">Ekologiskt smakar gott</p>
+<p type="listitem" xml:lang="nno">Mat och sinnen <list><p type="listitem" xml:lang="nno">Topp 5  i hemmets och skolans matfostran</p>
+<p type="listitem" xml:lang="nno">Smakskolan – låt sinnena jobba</p>
+</list></p>
+</list></p>
+<p type="listitem">Om projektet</p>
+<p type="listitem" xml:lang="rmu">Tecken</p>
+<p type="listitem">MatKonst-tävlingen</p>
+</list><list><p type="listitem" xml:lang="fin">suomi</p>
+<p type="listitem">svenska</p>
+<p type="listitem" xml:lang="smj">davvisámegiella</p>
+</list><p type="title" xml:lang="nno">Smakskolan – låt sinnena jobba</p>
+<p><em type="italic">I smakskolan får man lära sig om mat </em></p>
+<p>Med sinnena kan man uppfatta egenskaper hos maten som har att göra med dess smak, doft, utseende, ljud och struktur. När vi talar om mat fokuserar vi oftast på smaken, medan andra sinnen får mindre uppmärksamhet. Särskilt barn som är ovilliga att smaka på nya livsmedel vågar först bekanta sig med dem med andra sinnen, så att tröskeln för att smaka sänks.</p>
+<p><em type="italic">Smakskolans övningar </em>kan kombineras med många olika skolämnen, exempelvis huslig ekonomi och miljölära. På lektionerna i modersmål kan man lära sig att uttrycka sina sinnesupplevelser och på lektionerna i bildkonst kan man behandla matens färger och former. Även i samband med skollunchen kan man göra en liten smakskolövning. På så sätt stödjer smakskolan möjligheterna till matfostran även vid skollunchen och kan öka uppskattningen för skolmaten. Man kan gärna lyfta fram för eleverna att smakskolan inte handlar om rätt och fel svar, utan att var och en får berätta om sin egen upplevelse. </p>
+<p>Med hjälp av smakskolan, som bygger på <em type="italic">sapere-modellen för matfostran </em>, får barnen lära känna sina egna sinnen och lära sig att använda dem på ett mångsidigt sätt. De får spännande upplevelser av mat och mod att prova på nya smaker. Barnen lär sig att uttrycka sig själva och använda den information som sinnena ger när de utvärderar mat. Genom smakövningarna lär de sig även att värdesätta maten och matkulturen samt bekantar sig med matens kemiska och fysikaliska egenskaper och deras betydelse för de förnimbara egenskaperna. </p>
+<p>Sapere-metoden fokuserar på undersökande och experimentell inlärning. Den utvecklades i Frankrike för skolelever i åldern 9–12 år, men har tillämpats för alla åldrar från småbarnspedagogiken till vuxna. Sapere-metoden har givit lovande forskningsresultat både i Finland och på annat håll li Europa. Smakskolan har förbättrat elevernas förmåga att känna igen smaker och lukter samt beskriva mat. De sinnesövningar som ingår i metoden har minskat barnens rädsla för nya livsmedel, gjort deras diet mångsidigare samt förbättrat självkänslan bland barn som inte klarat sig så bra i skolan.</p>
+<p>Smakskolans metod går ut på att bekanta sig med livsmedel med ett sinne i taget. Smaksinnet behandlas sist, eftersom nyfikenheten att smaka lättast väcks när barnet i lugn och ro får bekanta sig med nya livsmedel med alla sina sinnen.</p>
+<p type="title" xml:lang="vep">LÄS MER:</p>
+<p type="title">Synsinnet – först tittar vi</p>
+<p type="title">Lukt – kittlar i näsan</p>
+<p type="title">Känseln – hur känns maten?</p>
+<p type="title">Smak – känns på tungan</p>
+<p type="title">Hörseln – även öronen gillar mat</p>
+</body></document>

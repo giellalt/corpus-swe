@@ -1,30 +1,7 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>81</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1032</origFileName>
-    <parallel_text xml:lang="sme" location="3324.html"/>
-    <parallel_text xml:lang="smj" location="4018.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samhällsplanering - Sametinget</p>
-    <p type="title">Samhällsplanering</p>
-    <p>Sametinget har ett ansvar för att bevaka samiska intressen i samhällsplaneringen. Det innebär att andra aktörer inte kan <span type="quote">"glömma bort"</span> det samiska perspektivet.</p>
-    <p>Sametinget har enligt sametingslagen ett ansvar att bevaka samiska intressen när det gäller samhällsplanering. Varje år besvarar näringsavdelningen ett stort antal remisser som berör näring, miljö och samhälle.</p>
-    <p>Om du vill ha tag på ett särskilt yttrande, kan du ringa Sametingets kansli, tel. 0980-780 30.</p>
-    <p>Klicka här för att komma till Underlag för planer</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>81</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1032</origFileName><parallel_text xml:lang="sme" location="3324.html"/><parallel_text xml:lang="smj" location="4018.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samhällsplanering - Sametinget</p>
+<p type="title">Samhällsplanering</p>
+<p>Sametinget har ett ansvar för att bevaka samiska intressen i samhällsplaneringen. Det innebär att andra aktörer inte kan <span type="quote">"glömma bort"</span> det samiska perspektivet.</p>
+<p>Sametinget har enligt sametingslagen ett ansvar att bevaka samiska intressen när det gäller samhällsplanering. Varje år besvarar näringsavdelningen ett stort antal remisser som berör näring, miljö och samhälle.</p>
+<p>Om du vill ha tag på ett särskilt yttrande, kan du ringa Sametingets kansli, tel. 0980-780 30.</p>
+<p>Klicka här för att komma till Underlag för planer</p>
+</body></document>

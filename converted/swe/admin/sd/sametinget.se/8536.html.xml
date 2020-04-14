@@ -1,37 +1,11 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>121</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/8536</origFileName>
-    <parallel_text xml:lang="sme" location="10193.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Renmärkesregistret - Sametinget</p>
-    <p type="title">Sametingets sökbara renmärkesregister</p>
-    <p>Renmärkesregistret finns på webben som en service för samebyar och enskilda renägare. Här kan du enkelt kolla vem som äger en viss ren. Renen kanske har blivit såld som en okänd ren av en samebyn eller blivit tåg- eller bildödad.</p>
-    <p>
-      <em type="italic">I vårt register kan du: </em>
-    </p>
-    <list>
-      <p type="listitem">söka vem som äger en viss ren</p>
-      <p type="listitem">rita in renmärken för att se om en viss kombination av snitt används eller inte</p>
-      <p type="listitem">söka på namn</p>
-      <p type="listitem">söka på samebyar</p>
-    </list>
-    <p><em type="italic">För mobiltelefonen </em>Vi har även ett renmärkesregister anpassat för användning i lite äldre mobiltelefoner som inte är s.k. <span type="quote">"smartphones"</span>. För att kunna använda registret måste du ha tillgång till internet-uppkoppling via telefonen. </p>
-    <p type="title">För att beställa renmärkesregistret till din mobil, läs mer här</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>121</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/8536</origFileName><parallel_text xml:lang="sme" location="10193.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Renmärkesregistret - Sametinget</p>
+<p type="title">Sametingets sökbara renmärkesregister</p>
+<p>Renmärkesregistret finns på webben som en service för samebyar och enskilda renägare. Här kan du enkelt kolla vem som äger en viss ren. Renen kanske har blivit såld som en okänd ren av en samebyn eller blivit tåg- eller bildödad.</p>
+<p><em type="italic">I vårt register kan du: </em></p>
+<list><p type="listitem">söka vem som äger en viss ren</p>
+<p type="listitem">rita in renmärken för att se om en viss kombination av snitt används eller inte</p>
+<p type="listitem">söka på namn</p>
+<p type="listitem">söka på samebyar</p>
+</list><p><em type="italic">För mobiltelefonen </em>Vi har även ett renmärkesregister anpassat för användning i lite äldre mobiltelefoner som inte är s.k. <span type="quote">"smartphones"</span>. För att kunna använda registret måste du ha tillgång till internet-uppkoppling via telefonen. </p>
+<p type="title">För att beställa renmärkesregistret till din mobil, läs mer här</p>
+</body></document>

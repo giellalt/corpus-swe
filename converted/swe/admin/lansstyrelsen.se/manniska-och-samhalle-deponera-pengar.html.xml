@@ -1,40 +1,14 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>466</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/deponera-pengar/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle-deponera-pengar.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-deponera-pengar.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Deponera pengar - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Deponera pengar</p>
-    <p>
-      <em type="italic">Länsstyrelsen kan deponera dina pengar på ett särskilt konto, det vill säga ta emot och förvara pengar som du ska betala till någon. </em>
-    </p>
-    <p type="title">Deponera hyran</p>
-    <p>Som hyresgäst kan du ibland göra avdrag på hyran och deponera det avdragna beloppet hos Länsstyrelsen, till exempel om du anser att du har rätt till nedsatt hyra på grund av brister i hyreslägenheten. Det kan även handla om en tvist om hyrans storlek. Fördelen med att deponera hyran hos Länsstyrelsen jämfört med att bara låta bli att betala är att hyresvärden då inte får hävda att hyresrätten är förverkad. Du kan alltså inte bli vräkt för att du inte har betalat. Däremot kan hyresrätten förverkas om du deponerar en för stor del av hyran, till exempel hela månadshyran även om bara ett rum i en trerumslägenhet varit oanvändbart. Hyresrätten kan också förverkas om du deponerar efter hyrans förfallodag.</p>
-    <p type="title">Deponera arrende</p>
-    <p>Som arrendator kan du i vissa situationer göra avdrag på arrendeavgiften och deponera det avdragna beloppet hos Länsstyrelsen. Avdraget måste motsvara värdet på det du anser dig ha rätt till. Det kan till exempel handla om att du anser dig ha rätt till ersättning för en skada eller att du inte är överens med ägaren om vad som ska betalas. Fördelen med att deponera arrendet hos Länsstyrelsen jämfört med att bara låta bli att betala är att jordägaren inte får hävda att arrenderätten är förverkad för att du inte har betalat, och att du därmed förlorar rätten till arrendestället. Däremot kan arrenderätten förverkas om du deponerar en för stor del av avgiften, till exempel hela arrendeavgiften även om bara en tjugondel av arrendeställets ägor har försämrats genom jordras. Arrenderätten kan också förverkas om du deponerar efter avgiftens förfallodag.</p>
-    <p type="title">Säkerhet för att få deponera</p>
-    <p>För att du som hyresgäst eller arrendator ska få deponera pengar hos Länsstyrelsen måste du lämna en säkerhet i form av en pant eller borgensförbindelse. Säkerheten ska täcka eventuella rättegångskostnader och dröjsmålsränta om hyresvärden eller jordägaren enligt domstol får rätt till det deponerade beloppet.</p>
-    <p type="title">Lösenbelopp för tvångsinlösta aktier</p>
-    <p>När aktier har blivit tvångsinlösta kan det vara oklart vem eller vilka som äger dem, eller också vill aktieägarna inte ta emot lösenbeloppet (värdet på de inlösta aktierna). Då kan lösenbeloppet deponeras hos Länsstyrelsen, vilket kallas nedsättning av lösenbelopp. För att du som aktieägare sedan ska kunna få del av lösenbeloppet skickar du aktiebrevet eller värdepappersavin till oss.</p>
-    <p type="title">Nedsättning av pengar hos myndighet i vissa fall</p>
-    <p>Om du är skyldig någon pengar kan du i vissa fall deponera pengarna hos Länsstyrelsen. Det gäller om du inte vet vem det är som ska ha pengarna eller om den som ska ha pengarna vägrar att ta emot dem. Din skuld anses då vara betald i tid om vissa förutsättningar enligt lagen är uppfyllda.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>466</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/deponera-pengar/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle-deponera-pengar.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle-deponera-pengar.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Deponera pengar - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Deponera pengar</p>
+<p><em type="italic">Länsstyrelsen kan deponera dina pengar på ett särskilt konto, det vill säga ta emot och förvara pengar som du ska betala till någon. </em></p>
+<p type="title">Deponera hyran</p>
+<p>Som hyresgäst kan du ibland göra avdrag på hyran och deponera det avdragna beloppet hos Länsstyrelsen, till exempel om du anser att du har rätt till nedsatt hyra på grund av brister i hyreslägenheten. Det kan även handla om en tvist om hyrans storlek. Fördelen med att deponera hyran hos Länsstyrelsen jämfört med att bara låta bli att betala är att hyresvärden då inte får hävda att hyresrätten är förverkad. Du kan alltså inte bli vräkt för att du inte har betalat. Däremot kan hyresrätten förverkas om du deponerar en för stor del av hyran, till exempel hela månadshyran även om bara ett rum i en trerumslägenhet varit oanvändbart. Hyresrätten kan också förverkas om du deponerar efter hyrans förfallodag.</p>
+<p type="title">Deponera arrende</p>
+<p>Som arrendator kan du i vissa situationer göra avdrag på arrendeavgiften och deponera det avdragna beloppet hos Länsstyrelsen. Avdraget måste motsvara värdet på det du anser dig ha rätt till. Det kan till exempel handla om att du anser dig ha rätt till ersättning för en skada eller att du inte är överens med ägaren om vad som ska betalas. Fördelen med att deponera arrendet hos Länsstyrelsen jämfört med att bara låta bli att betala är att jordägaren inte får hävda att arrenderätten är förverkad för att du inte har betalat, och att du därmed förlorar rätten till arrendestället. Däremot kan arrenderätten förverkas om du deponerar en för stor del av avgiften, till exempel hela arrendeavgiften även om bara en tjugondel av arrendeställets ägor har försämrats genom jordras. Arrenderätten kan också förverkas om du deponerar efter avgiftens förfallodag.</p>
+<p type="title">Säkerhet för att få deponera</p>
+<p>För att du som hyresgäst eller arrendator ska få deponera pengar hos Länsstyrelsen måste du lämna en säkerhet i form av en pant eller borgensförbindelse. Säkerheten ska täcka eventuella rättegångskostnader och dröjsmålsränta om hyresvärden eller jordägaren enligt domstol får rätt till det deponerade beloppet.</p>
+<p type="title">Lösenbelopp för tvångsinlösta aktier</p>
+<p>När aktier har blivit tvångsinlösta kan det vara oklart vem eller vilka som äger dem, eller också vill aktieägarna inte ta emot lösenbeloppet (värdet på de inlösta aktierna). Då kan lösenbeloppet deponeras hos Länsstyrelsen, vilket kallas nedsättning av lösenbelopp. För att du som aktieägare sedan ska kunna få del av lösenbeloppet skickar du aktiebrevet eller värdepappersavin till oss.</p>
+<p type="title">Nedsättning av pengar hos myndighet i vissa fall</p>
+<p>Om du är skyldig någon pengar kan du i vissa fall deponera pengarna hos Länsstyrelsen. Det gäller om du inte vet vem det är som ska ha pengarna eller om den som ska ha pengarna vägrar att ta emot dem. Din skuld anses då vara betald i tid om vissa förutsättningar enligt lagen är uppfyllda.</p>
+</body></document>

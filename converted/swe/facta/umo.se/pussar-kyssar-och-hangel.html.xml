@@ -1,66 +1,27 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>869</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Karlek--vanskap/Pussar-kyssar-och-hangel</origFileName>
-    <parallel_text xml:lang="fin" location="pussailu-suutelu-ja-hyvaily.html"/>
-    <parallel_text xml:lang="fit" location="muiskuja-pyssia-ja--kuherteluahonglaamista.html"/>
-    <parallel_text xml:lang="sma" location="tjonnestidh-tjuvliestidh-jih-gijhkierdidh.html"/>
-    <parallel_text xml:lang="sme" location="cummat-ja-rahkastallan.html"/>
-    <parallel_text xml:lang="smj" location="bunestime-tjullasa-ja-hangel.html"/>
-    <parallel_text location="tjomm-ta-schala.html" xml:lang="rmu"/>
-    <parallel_text location="umidimos-aj-asbajimos.html" xml:lang="rmy-rka"/>
-    <parallel_text location="vut-umidipe-thaj-hangel-seksualno-khelipe.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="tumiba-ta-mangdoliba.html" xml:lang="rmf"/>
-    <parallel_text location="umibe.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Pussar, kyssar och hångel</p>
-    <p>Alla undrar!  Vad undrar du?</p>
-    <p type="title">Pussar, kyssar och hångel</p>
-    <p>Att pussas, kyssas och hångla är något som många brukar tycka om. Om man inte har gjort det kanske man fantiserar om och längtar efter att göra det. Samtidigt kan det kännas lite nervöst inför första kyssen eller hånglet. Hur gör man egentligen när man hånglar?</p>
-    <p>» Texten finns på de nationella minoritetsspråken</p>
-    <p>Om man undrar hur man ska göra när man kysser eller hånglar, kan det vara bra att tänka på att det inte finns några regler för hur man gör. Om man testar sig fram och gör på ett sätt som känns bra för en själv, känns det oftast bra för den man kysser och hånglar med också.</p>
-    <p type="title">Pussar</p>
-    <p>Att pussas är att trycka sina läppar mot någon annans läppar eller mot något annat ställe på någons kropp, ofta gör man också ett litet smackljud samtidigt. När man pussar någon är munnen stängd.</p>
-    <p type="title">Kyssar</p>
-    <p>När man kysser någon så brukar både läppar och tungor röra vid varandra. Det är som att man smeker och blir smekt med tungan och läpparna. Det kan också beskrivas som att man smakar på någon annan. Ett vanligt sätt att börja kyssas är att börja med att pussas. Vill man då kyssas kan man sära lite på läpparna och sticka ut tungan en liten, liten bit så att den nuddar den andres läppar. Då får man se om den också särar på läpparna så tungorna kan mötas.</p>
-    <p>Det finns inga regler för hur man ska göra när man kysser varandra, till exempel hur långt man ska sticka in tungan eller hur mycket man ska sära på läpparna, utan det bestämmer man själv. Oftast brukar det lösa sig av sig självt när man väl kysser någon. Men ett tips är att börja försiktigt så man inte trycker in tungan och rör runt den hårt i den andres mun på en gång. Det brukar bli bra för båda om man provar sig fram. Det är svårt att kyssa någon rakt framifrån eftersom näsorna lätt krockar, därför brukar man behöva vicka lite på huvudet för att komma åt. Det kan vara lättast att andas med näsan när man kysser någon. Man får prova sig fram vad som känns skönt. Det går jättebra att kyssas med tandställning eller piercning. Man kan också kyssa varandra på kroppen. Var på kroppen man kysser eller vill bli kysst bestämmer man själv tillsammans med den som man kysser eller blir kysst av.</p>
-    <p type="title">Kramar och smekningar</p>
-    <p>Det kan kännas skönt att känna på någon annans kropp, till exempel genom kramar och smekningar. Man kan smekas och kramas både med och utan kläder.</p>
-    <p type="title">Hångel</p>
-    <p>Hur hånglar man, egentligen? Att hångla brukar det kallas när man kysser, pussar, kramar och smeker någon. Att kyssas och kramas samtidigt kan alltså vara hångel. Precis som smek och pussar på kroppen också kan vara hångel. När man hånglar kan man också trycka och gnida sig mot varandra.</p>
-    <p>Man kan hångla på många olika sätt, till exempel lugnt och stilla eller hårt och hetsigt. Ofta varierar hånglet under tiden man gör det. Det kan också variera från gång till gång och från person till person. Man kan hångla fullt påklädd, med lite kläder eller helt naken. Man kan också hångla i olika ställningar, till exempel stående, sittande eller liggande.</p>
-    <p>Att hångla mycket och med lite eller utan kläder kallas ibland för att grovhångla.</p>
-    <p type="title">Strul</p>
-    <p>En del kallar hångel för att man strular. Men strul kan också betyda andra saker. En del tycker till exempel att man strular när man flirtar eller har sex med någon eller några andra. En person man gjort detta med kan också kallas för <span type="quote">"ett strul"</span>.</p>
-    <p type="title">Vad gör kyssar och hångel skönt?</p>
-    <p>Att vara nära och bli smekt av någon gör att huden, tungan och läpparna reagerar och skickar signaler till hjärnan att det känns skönt och pirrigt. Det kan också göra att man blir kåt. Det är nerverna i kroppen som sköter om känseln och skickar signaler till hjärnan. För att det ska kännas skönt och härligt att hångla är det viktigt att både man själv och den man hånglar med vill göra det.</p>
-    <p>Olika personer tycker olika mycket om att kyssas och hångla. Det finns inget rätt eller fel sätt att känna, utan man får lyssna på sig själv om man tycker det är skönt att kyssas och hångla eller om man hellre vill känna närhet på andra sätt.</p>
-    <p>Man har alltid rätt att säga ifrån om man inte vill kyssas eller hångla, eller om något inte känns bra under tiden man gör det. Man ska aldrig ställa upp och kyssas och hångla bara för att någon annan vill.</p>
-    <p type="title">Smak och lukt</p>
-    <p>Alla smakar och luktar olika. Hur man luktar och smakar förändras också, till exempel beroende på vad man ätit, hur man tvättat sig, hur kläderna luktar och så vidare. Om man är förkyld och har en infektion så kan man till exempel lukta annorlunda i munnen än man gör annars.</p>
-    <p type="title">Kan man bli gravid eller få könssjukdomar av hångel?</p>
-    <p>Man kan inte bli gravid av hångel. Man kan inte heller få någon könssjukdom. Hångel är alltså ett både skönt och säkert sätt att vara nära någon.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>864</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Karlek--vanskap/Pussar-kyssar-och-hangel</origFileName><parallel_text xml:lang="fin" location="pussailu-suutelu-ja-hyvaily.html"/><parallel_text xml:lang="fit" location="muiskuja-pyssia-ja--kuherteluahonglaamista.html"/><parallel_text xml:lang="sma" location="tjonnestidh-tjuvliestidh-jih-gijhkierdidh.html"/><parallel_text xml:lang="sme" location="cummat-ja-rahkastallan.html"/><parallel_text xml:lang="smj" location="bunestime-tjullasa-ja-hangel.html"/><parallel_text location="tjomm-ta-schala.html" xml:lang="rmu"/><parallel_text location="umidimos-aj-asbajimos.html" xml:lang="rmy-rka"/><parallel_text location="vut-umidipe-thaj-hangel-seksualno-khelipe.html" xml:lang="rmy-rlo"/><parallel_text location="tumiba-ta-mangdoliba.html" xml:lang="rmf"/><parallel_text location="umibe.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Pussar, kyssar och hångel</p>
+<p type="title">Pussar, kyssar och hångel</p>
+<p>Att pussas, kyssas och hångla är något som många brukar tycka om. Om man inte har gjort det kanske man fantiserar om och längtar efter att göra det. Samtidigt kan det kännas lite nervöst inför första kyssen eller hånglet. Hur gör man egentligen när man hånglar?</p>
+<p>» Texten finns på de nationella minoritetsspråken</p>
+<p>Om man undrar hur man ska göra när man kysser eller hånglar, kan det vara bra att tänka på att det inte finns några regler för hur man gör. Om man testar sig fram och gör på ett sätt som känns bra för en själv, känns det oftast bra för den man kysser och hånglar med också.</p>
+<p type="title">Pussar</p>
+<p>Att pussas är att trycka sina läppar mot någon annans läppar eller mot något annat ställe på någons kropp, ofta gör man också ett litet smackljud samtidigt. När man pussar någon är munnen stängd.</p>
+<p type="title">Kyssar</p>
+<p>När man kysser någon så brukar både läppar och tungor röra vid varandra. Det är som att man smeker och blir smekt med tungan och läpparna. Det kan också beskrivas som att man smakar på någon annan. Ett vanligt sätt att börja kyssas är att börja med att pussas. Vill man då kyssas kan man sära lite på läpparna och sticka ut tungan en liten, liten bit så att den nuddar den andres läppar. Då får man se om den också särar på läpparna så tungorna kan mötas.</p>
+<p>Det finns inga regler för hur man ska göra när man kysser varandra, till exempel hur långt man ska sticka in tungan eller hur mycket man ska sära på läpparna, utan det bestämmer man själv. Oftast brukar det lösa sig av sig självt när man väl kysser någon. Men ett tips är att börja försiktigt så man inte trycker in tungan och rör runt den hårt i den andres mun på en gång. Det brukar bli bra för båda om man provar sig fram. Det är svårt att kyssa någon rakt framifrån eftersom näsorna lätt krockar, därför brukar man behöva vicka lite på huvudet för att komma åt. Det kan vara lättast att andas med näsan när man kysser någon. Man får prova sig fram vad som känns skönt. Det går jättebra att kyssas med tandställning eller piercning. Man kan också kyssa varandra på kroppen. Var på kroppen man kysser eller vill bli kysst bestämmer man själv tillsammans med den som man kysser eller blir kysst av.</p>
+<p type="title">Kramar och smekningar</p>
+<p>Det kan kännas skönt att känna på någon annans kropp, till exempel genom kramar och smekningar. Man kan smekas och kramas både med och utan kläder.</p>
+<p type="title">Hångel</p>
+<p>Hur hånglar man, egentligen? Att hångla brukar det kallas när man kysser, pussar, kramar och smeker någon. Att kyssas och kramas samtidigt kan alltså vara hångel. Precis som smek och pussar på kroppen också kan vara hångel. När man hånglar kan man också trycka och gnida sig mot varandra.</p>
+<p>Man kan hångla på många olika sätt, till exempel lugnt och stilla eller hårt och hetsigt. Ofta varierar hånglet under tiden man gör det. Det kan också variera från gång till gång och från person till person. Man kan hångla fullt påklädd, med lite kläder eller helt naken. Man kan också hångla i olika ställningar, till exempel stående, sittande eller liggande.</p>
+<p>Att hångla mycket och med lite eller utan kläder kallas ibland för att grovhångla.</p>
+<p type="title">Strul</p>
+<p>En del kallar hångel för att man strular. Men strul kan också betyda andra saker. En del tycker till exempel att man strular när man flirtar eller har sex med någon eller några andra. En person man gjort detta med kan också kallas för <span type="quote">"ett strul"</span>.</p>
+<p type="title">Vad gör kyssar och hångel skönt?</p>
+<p>Att vara nära och bli smekt av någon gör att huden, tungan och läpparna reagerar och skickar signaler till hjärnan att det känns skönt och pirrigt. Det kan också göra att man blir kåt. Det är nerverna i kroppen som sköter om känseln och skickar signaler till hjärnan. För att det ska kännas skönt och härligt att hångla är det viktigt att både man själv och den man hånglar med vill göra det.</p>
+<p>Olika personer tycker olika mycket om att kyssas och hångla. Det finns inget rätt eller fel sätt att känna, utan man får lyssna på sig själv om man tycker det är skönt att kyssas och hångla eller om man hellre vill känna närhet på andra sätt.</p>
+<p>Man har alltid rätt att säga ifrån om man inte vill kyssas eller hångla, eller om något inte känns bra under tiden man gör det. Man ska aldrig ställa upp och kyssas och hångla bara för att någon annan vill.</p>
+<p type="title">Smak och lukt</p>
+<p>Alla smakar och luktar olika. Hur man luktar och smakar förändras också, till exempel beroende på vad man ätit, hur man tvättat sig, hur kläderna luktar och så vidare. Om man är förkyld och har en infektion så kan man till exempel lukta annorlunda i munnen än man gör annars.</p>
+<p type="title">Kan man bli gravid eller få könssjukdomar av hångel?</p>
+<p>Man kan inte bli gravid av hångel. Man kan inte heller få någon könssjukdom. Hångel är alltså ett både skönt och säkert sätt att vara nära någon.</p>
+</body></document>

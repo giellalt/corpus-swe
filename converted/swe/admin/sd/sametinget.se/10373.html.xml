@@ -1,49 +1,17 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>319</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/10373</origFileName>
-    <parallel_text xml:lang="sme" location="10403.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samiska kvarlevor ska hem till Sápmi för att återbegravas - Sametinget</p>
-    <p>Kenneth Dådring.</p>
-    <p type="title">Samiska kvarlevor ska hem till Sápmi för att återbegravas</p>
-    <p>Sametingets styrelseordförande Sara Larsson betonar att samiska&#13; kvarlevor ska hem till Sápmi för att återbegravas. Men det är en&#13; process som måste få ta tid. Styrelsen har beslutat att ett etiskt råd ska utses. Det ska vara ett&#13; rådgivande organ för etiska frågor vad gäller hantering och förvaring&#13; av samiska mänskliga kvarlevor.</p>
-    <p>
-      <em type="bold">Ska förvaras på Ájtte </em>
-    </p>
-    <p>Historiska museet har gått med på att mänskliga kvarlevor med förmodat samiskt ursprung ska få förvaras vid Ájtte, svenskt Fjäll- och Samemuseum i Jokkmokk. Detta efter en begäran av Sametinget. Det gäller tolv kranier från Rounala ödekyrkogård. Kranierna grävdes upp ur sina gravar år 1915 vid en arkeologisk utgrävning.</p>
-    <p>
-      <em type="bold">Upprop </em>
-    </p>
-    <p>De samiska kvarlevorna i statliga samlingar symboliserar själva kärnan av kolonialismen och de övergrepp som begicks mot det samiska folket. Nu pågår ett upprop på Facebook som heter <span type="quote">”Begrav våra samiska förfäder”</span> som tycker att Ájtte gått i en fälla som går med på att förvara kranierna där.</p>
-    <p>- Jag är glad att människor engagerar sig. Det här är en stor symbolisk fråga som berör många, säger Sara Larsson.</p>
-    <p>
-      <em type="bold">Första steg </em>
-    </p>
-    <p>Sametinget har begärt att de tolv kranierna från Rounala ödekyrkogård ska förvaras på Ájtte. I ett första skede är det viktigt att kvarlevorna kommer hem till Sápmi.</p>
-    <p>- Att återföra kranierna till Sápmi är ett viktigt första steg. Men det ska inte stanna där, säger Sara Larsson.</p>
-    <p>
-      <em type="bold">Etiskt råd </em>
-    </p>
-    <p>- Nu ska vi utse ett etiskt råd som ska vara ett rådgivande organ för etiska frågor vad gäller hantering och förvaring av samiska mänskliga kvarlevor. Det är viktigt att vi hanterar frågan på ett bra och genomtänkt sätt. Det är många etiska frågor som måste diskuteras och lösas innan vi är mogna att återbegrava kvarlevorna på ett värdigt sätt, poängterar Larsson, Sametingets styrelseordförande.</p>
-    <p>
-      <em type="italic">Kontakt </em>
-    </p>
-    <p>Sara Larsson, styrelseordförande, 070-378 88 24</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>319</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/10373</origFileName><parallel_text xml:lang="sme" location="10403.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samiska kvarlevor ska hem till Sápmi för att återbegravas - Sametinget</p>
+<p>Kenneth Dådring.</p>
+<p type="title">Samiska kvarlevor ska hem till Sápmi för att återbegravas</p>
+<p>Sametingets styrelseordförande Sara Larsson betonar att samiska&#13; kvarlevor ska hem till Sápmi för att återbegravas. Men det är en&#13; process som måste få ta tid. Styrelsen har beslutat att ett etiskt råd ska utses. Det ska vara ett&#13; rådgivande organ för etiska frågor vad gäller hantering och förvaring&#13; av samiska mänskliga kvarlevor.</p>
+<p><em type="bold">Ska förvaras på Ájtte </em></p>
+<p>Historiska museet har gått med på att mänskliga kvarlevor med förmodat samiskt ursprung ska få förvaras vid Ájtte, svenskt Fjäll- och Samemuseum i Jokkmokk. Detta efter en begäran av Sametinget. Det gäller tolv kranier från Rounala ödekyrkogård. Kranierna grävdes upp ur sina gravar år 1915 vid en arkeologisk utgrävning.</p>
+<p><em type="bold">Upprop </em></p>
+<p>De samiska kvarlevorna i statliga samlingar symboliserar själva kärnan av kolonialismen och de övergrepp som begicks mot det samiska folket. Nu pågår ett upprop på Facebook som heter <span type="quote">”Begrav våra samiska förfäder”</span> som tycker att Ájtte gått i en fälla som går med på att förvara kranierna där.</p>
+<p>- Jag är glad att människor engagerar sig. Det här är en stor symbolisk fråga som berör många, säger Sara Larsson.</p>
+<p><em type="bold">Första steg </em></p>
+<p>Sametinget har begärt att de tolv kranierna från Rounala ödekyrkogård ska förvaras på Ájtte. I ett första skede är det viktigt att kvarlevorna kommer hem till Sápmi.</p>
+<p>- Att återföra kranierna till Sápmi är ett viktigt första steg. Men det ska inte stanna där, säger Sara Larsson.</p>
+<p><em type="bold">Etiskt råd </em></p>
+<p>- Nu ska vi utse ett etiskt råd som ska vara ett rådgivande organ för etiska frågor vad gäller hantering och förvaring av samiska mänskliga kvarlevor. Det är viktigt att vi hanterar frågan på ett bra och genomtänkt sätt. Det är många etiska frågor som måste diskuteras och lösas innan vi är mogna att återbegrava kvarlevorna på ett värdigt sätt, poängterar Larsson, Sametingets styrelseordförande.</p>
+<p><em type="italic">Kontakt </em></p>
+<p>Sara Larsson, styrelseordförande, 070-378 88 24</p>
+</body></document>

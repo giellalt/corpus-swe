@@ -1,62 +1,13 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>324</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/Second-opinion-en-andra-lakarbedomning</origFileName>
-    <parallel_text xml:lang="eng" location="second-opinion-en-andra-lakarbedomning.html"/>
-    <parallel_text xml:lang="fin" location="second-opinion-en-andra-lakarbedomning.html"/>
-    <parallel_text xml:lang="fit" location="second-opinion-en-andra-lakarbedomning.html"/>
-    <parallel_text xml:lang="sma" location="second-opinion.html"/>
-    <parallel_text xml:lang="sme" location="second-opinion-en-andra-lakarbedomning.html"/>
-    <parallel_text xml:lang="smj" location="second-opinion-en-andra-lakerbedomning.html"/>
-    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmy-rka"/>
-    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmn"/>
-    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmu"/>
-    <parallel_text location="second-opinion-en-andra-lakerbedomning.html" xml:lang="yid"/>
-    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Second opinion, en andra läkarbedömning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Cancer</p>
-    <list>
-      <p type="listitem">Cancerformer och fakta</p>
-      <p type="listitem">Första tiden efter beskedet</p>
-      <p type="listitem">Behandling vid cancer</p>
-      <p type="listitem">Att vara den som står bredvid</p>
-      <p type="listitem">Hjälp och stöd</p>
-      <p type="listitem">Barncancer</p>
-      <p type="listitem">Kris och sorg</p>
-      <p type="listitem">Andra språk/Translations</p>
-    </list>
-    <p type="title">Second opinion, en andra läkarbedömning</p>
-    <p>Om du har fått veta att du har en livshotande eller särskilt allvarlig sjukdom eller skada har du möjlighet att få en ny medicinsk bedömning, tidigare kallad second opinion. Det innebär att du blir undersökt av en annan läkare än den du först vände dig till. Syftet med att få en ny medicinsk bedömning är att du ska vara säker på att du får den vård och behandling som passar bäst för dig.</p>
-    <p>Allvarliga sjukdomar eller skador som kan ge möjlighet till en andra medicinsk bedömning är till exempel cancer eller någon sjukdom i nervsystemet.</p>
-    <p type="title">Hur gör jag?</p>
-    <p>Om du vill få en ny medicinsk bedömning kan du fråga din läkare eller någon annan som jobbar på den mottagning där du fått din första bedömning. Om du beviljas en ny medicinsk bedömning får du oftast en remiss till en annan specialistvårdsmottagning där den nya bedömningen görs. Det landsting eller den region där du är folkbokförd ska bekosta en ny medicinsk bedömning, även om det innebär att du måste resa till ett annat landsting. Ditt hemlandsting ska också betala för resan.</p>
-    <p>Om den nya medicinska bedömningen resulterar i att du får ett alternativt behandlingsförslag ska du också kunna få den behandlingen om</p>
-    <list>
-      <p type="listitem">den står i överensstämmelse med vetenskap och beprövad erfarenhet, och</p>
-      <p type="listitem">det med hänsyn till din aktuella sjukdom eller skada och till kostnaderna för behandlingen framstår som befogat.</p>
-    </list>
-    <p>Landstinget eller regionen där du är folkbokförd ska stå för kostnaden.</p>
-    <p>Du kan alltid vända dig till patientnämnden eller patientombudsmannen i ditt landsting eller din region för att få information om hur du ska göra för att få en ny medicinsk bedömning.</p>
-    <p>Läs mer: Om man inte är nöjd med vården</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>298</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/Second-opinion-en-andra-lakarbedomning</origFileName><parallel_text xml:lang="eng" location="second-opinion-en-andra-lakarbedomning.html"/><parallel_text xml:lang="fin" location="second-opinion-en-andra-lakarbedomning.html"/><parallel_text xml:lang="fit" location="second-opinion-en-andra-lakarbedomning.html"/><parallel_text xml:lang="sma" location="second-opinion.html"/><parallel_text xml:lang="sme" location="second-opinion-en-andra-lakarbedomning.html"/><parallel_text xml:lang="smj" location="second-opinion-en-andra-lakerbedomning.html"/><parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmy-rka"/><parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmn"/><parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmu"/><parallel_text location="second-opinion-en-andra-lakerbedomning.html" xml:lang="yid"/><parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmy-rlo"/><parallel_text location="second-opinion-en-andra-lakarbedomning.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Second opinion, en andra läkarbedömning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Second opinion, en andra läkarbedömning</p>
+<p>Om du har fått veta att du har en livshotande eller särskilt allvarlig sjukdom eller skada har du möjlighet att få en ny medicinsk bedömning, tidigare kallad second opinion. Det innebär att du blir undersökt av en annan läkare än den du först vände dig till. Syftet med att få en ny medicinsk bedömning är att du ska vara säker på att du får den vård och behandling som passar bäst för dig.</p>
+<p>Allvarliga sjukdomar eller skador som kan ge möjlighet till en andra medicinsk bedömning är till exempel cancer eller någon sjukdom i nervsystemet.</p>
+<p type="title">Hur gör jag?</p>
+<p>Om du vill få en ny medicinsk bedömning kan du fråga din läkare eller någon annan som jobbar på den mottagning där du fått din första bedömning. Om du beviljas en ny medicinsk bedömning får du oftast en remiss till en annan specialistvårdsmottagning där den nya bedömningen görs. Det landsting eller den region där du är folkbokförd ska bekosta en ny medicinsk bedömning, även om det innebär att du måste resa till ett annat landsting. Ditt hemlandsting ska också betala för resan.</p>
+<p>Om den nya medicinska bedömningen resulterar i att du får ett alternativt behandlingsförslag ska du också kunna få den behandlingen om</p>
+<list><p type="listitem">den står i överensstämmelse med vetenskap och beprövad erfarenhet, och</p>
+<p type="listitem">det med hänsyn till din aktuella sjukdom eller skada och till kostnaderna för behandlingen framstår som befogat.</p>
+</list><p>Landstinget eller regionen där du är folkbokförd ska stå för kostnaden.</p>
+<p>Du kan alltid vända dig till patientnämnden eller patientombudsmannen i ditt landsting eller din region för att få information om hur du ska göra för att få en ny medicinsk bedömning.</p>
+<p>Läs mer: Om man inte är nöjd med vården</p>
+</body></document>

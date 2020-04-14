@@ -1,93 +1,55 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Priser |  Samernas Utbildningscentrum</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>161</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.samernas.se/konferenser/priser</origFileName>
-    <parallel_text xml:lang="sme" location="hatte.html"/>
-    <parallel_text xml:lang="smj" location="hatte.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="nob">Aktuella priser</p>
-    <p xml:lang="dan">
-      <em type="bold">Boende </em>
-    </p>
-    <p xml:lang="nob">
-      <em type="bold">Priser </em>
-    </p>
-    <p>Enkelrum med dusch/wc</p>
-    <p xml:lang="nno">2400kr/månad, 550kr/dygn, 1600kr/vecka</p>
-    <p>Enkelrum med dusch/wc med trinett</p>
-    <p xml:lang="nno">2600 kr/månad, 600kr/dygn, 1700kr/vecka</p>
-    <p>Enkelrum gamla elevhemmet, dusch/wc i korridor</p>
-    <p xml:lang="nno">2100kr/månad, 400kr/dygn, 1300kr/vecka</p>
-    <p>Extra madrass/fällbar säng/person</p>
-    <p xml:lang="nob">200kr/dygn</p>
-    <p xml:lang="ron">Motorvärmare</p>
-    <p xml:lang="nno">170kr/månad, 25kr/dygn</p>
-    <p xml:lang="deu">
-      <em type="bold">Kurs&amp;Konferens </em>
-    </p>
-    <p>Aula/dag (upp till 80 pers)</p>
-    <p xml:lang="nno">1900kr</p>
-    <p xml:lang="nno">Aula/ ½dag</p>
-    <p xml:lang="nno">1200kr</p>
-    <p>Större möteslokal (Sal 1,3 5) /dag</p>
-    <p xml:lang="nno">1000kr</p>
-    <p>Större möteslokal (Sal 1,3 5) / ½ dag</p>
-    <p xml:lang="nno">600kr</p>
-    <p xml:lang="nno">Mindre möteslokal (Sal 2,4) /dag</p>
-    <p xml:lang="nno">600kr</p>
-    <p xml:lang="nno">Mindre möteslokal (Sal 2,4) / ½ dag</p>
-    <p xml:lang="nno">400kr</p>
-    <p>Matsal /dag**</p>
-    <p xml:lang="nno">1000kr</p>
-    <p>Matsalen / ½ dag**</p>
-    <p xml:lang="nno">600kr</p>
-    <p>Kök / dag**</p>
-    <p xml:lang="nno">1500kr</p>
-    <p>Kök / ½dag**</p>
-    <p xml:lang="nno">1000kr</p>
-    <p xml:lang="nno">Datastudio, 16 pc inkl 1 lärarpc</p>
-    <p xml:lang="nno">3700kr/dag, 500kr/tim</p>
-    <p xml:lang="vep">Videokonferensstudio</p>
-    <p xml:lang="nno">600kr/tim</p>
-    <p xml:lang="vep">Smedjan</p>
-    <p xml:lang="nno">400kr/dag</p>
-    <p xml:lang="isl">Skinnberedningsrum</p>
-    <p xml:lang="nno">400kr/dag</p>
-    <p>* Inkl overhead, tavla, papper, penna. Pc, dataprojektor, diaprojektor efter förfrågan</p>
-    <p>
-      <em type="bold">Förtäring </em>
-    </p>
-    <p xml:lang="deu">Lunch/Middag</p>
-    <p>Erbjuds i samverkan med Ájttes restaurang</p>
-    <p>Vatten/Frukt/godis för seminariedeltagare</p>
-    <p xml:lang="nno">25kr/deltagare/dag</p>
-    <p>Kaffe&amp;fika/deltagare/tillfälle</p>
-    <p xml:lang="nno">50kr/deltagare</p>
-    <p xml:lang="dan">
-      <em type="bold">Övrigt </em>
-    </p>
-    <p>Tolkanläggning (&lt;50 mottagare)</p>
-    <p xml:lang="nno">Dag 1: 3000kr, tillkommande dagar: 2000kr/dagen. 2000kr/dag , ytterligare mottagare kostar 20kr/mottagare/dag. skolan har 140 mottagare.</p>
-    <p>Priserna gäller från 15 juni -12</p>
-    <p type="title" xml:lang="deu">Språkstudier</p>
-    <p type="title" xml:lang="fin">Slöjdlinjen</p>
-    <p type="title">Rennäringslinje</p>
-    <p type="title" xml:lang="nno">Samisk Mat</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Priser |  Samernas Utbildningscentrum</title><genre code="facta"/><author><unknown/></author><wordcount>156</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.samernas.se/konferenser/priser</origFileName><parallel_text xml:lang="sme" location="hatte.html"/><parallel_text xml:lang="smj" location="hatte.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="nob">Aktuella priser</p>
+<p xml:lang="dan"><em type="bold">Boende </em></p>
+<p xml:lang="nob"><em type="bold">Priser </em></p>
+<p>Enkelrum med dusch/wc</p>
+<p xml:lang="nno">2400kr/månad, 550kr/dygn, 1600kr/vecka</p>
+<p>Enkelrum med dusch/wc med trinett</p>
+<p xml:lang="nno">2600 kr/månad, 600kr/dygn, 1700kr/vecka</p>
+<p>Enkelrum gamla elevhemmet, dusch/wc i korridor</p>
+<p xml:lang="nno">2100kr/månad, 400kr/dygn, 1300kr/vecka</p>
+<p>Extra madrass/fällbar säng/person</p>
+<p xml:lang="nob">200kr/dygn</p>
+<p xml:lang="ron">Motorvärmare</p>
+<p xml:lang="nno">170kr/månad, 25kr/dygn</p>
+<p xml:lang="deu"><em type="bold">Kurs&amp;Konferens </em></p>
+<p>Aula/dag (upp till 80 pers)</p>
+<p xml:lang="nno">1900kr</p>
+<p>Aula/ ½dag</p>
+<p xml:lang="nno">1200kr</p>
+<p>Större möteslokal (Sal 1,3 5) /dag</p>
+<p xml:lang="nno">1000kr</p>
+<p>Större möteslokal (Sal 1,3 5) / ½ dag</p>
+<p xml:lang="nno">600kr</p>
+<p xml:lang="nno">Mindre möteslokal (Sal 2,4) /dag</p>
+<p xml:lang="nno">600kr</p>
+<p xml:lang="nno">Mindre möteslokal (Sal 2,4) / ½ dag</p>
+<p xml:lang="nno">400kr</p>
+<p>Matsal /dag**</p>
+<p xml:lang="nno">1000kr</p>
+<p>Matsalen / ½ dag**</p>
+<p xml:lang="nno">600kr</p>
+<p>Kök / dag**</p>
+<p xml:lang="nno">1500kr</p>
+<p>Kök / ½dag**</p>
+<p xml:lang="nno">1000kr</p>
+<p xml:lang="nno">Datastudio, 16 pc inkl 1 lärarpc</p>
+<p xml:lang="nno">3700kr/dag, 500kr/tim</p>
+<p xml:lang="rmy-rka">Videokonferensstudio</p>
+<p xml:lang="nno">600kr/tim</p>
+<p xml:lang="vep">Smedjan</p>
+<p xml:lang="nno">400kr/dag</p>
+<p xml:lang="isl">Skinnberedningsrum</p>
+<p xml:lang="nno">400kr/dag</p>
+<p>* Inkl overhead, tavla, papper, penna. Pc, dataprojektor, diaprojektor efter förfrågan</p>
+<p><em type="bold">Förtäring </em></p>
+<p xml:lang="deu">Lunch/Middag</p>
+<p>Erbjuds i samverkan med Ájttes restaurang</p>
+<p>Vatten/Frukt/godis för seminariedeltagare</p>
+<p xml:lang="nno">25kr/deltagare/dag</p>
+<p>Kaffe&amp;fika/deltagare/tillfälle</p>
+<p xml:lang="nno">50kr/deltagare</p>
+<p xml:lang="dan"><em type="bold">Övrigt </em></p>
+<p>Tolkanläggning (&lt;50 mottagare)</p>
+<p xml:lang="nno">Dag 1: 3000kr, tillkommande dagar: 2000kr/dagen. 2000kr/dag , ytterligare mottagare kostar 20kr/mottagare/dag. skolan har 140 mottagare.</p>
+<p>Priserna gäller från 15 juni -12</p>
+</body></document>

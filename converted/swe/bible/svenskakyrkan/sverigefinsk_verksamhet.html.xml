@@ -1,34 +1,12 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>428</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.svenskakyrkan.se/harnosandsstift/sverigefinsk%20verksamhet</origFileName>
-    <parallel_text xml:lang="fin" location="default.aspx_id=650396.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sverigefinskt - Svenska kyrkan - Härnösands stift</p>
-    <p type="title">Nya behov för stiftets sverigefinska verksamhet</p>
-    <p type="title">Sverigefinsk verksamhet i Härnösands stift och stiftets församlingar aktualiserar finska språket och finska traditioner så att den sverigefinska befolkningen ska vara synlig och bidra till en hel kyrka.</p>
-    <p>Härnösands stift har en finlandsfödd biskop, Tuulikki Koivunen Bylund. Det betyder att den flerspråkiga – och inte minst den sverigefinska – verksamheten har en särskild aktualitet. Det sverigefinska arbetet i stiftets församlingar har en lång tradition och hör samman med de stora inflyttningarna från Finland från andra världskriget och framåt, främst till stiftets stora industriområden längs kusten. Nu finns större antal sverigefinländare kring Sundsvall, Kramfors och Örnsköldsvik. Det är också där stiftets sverigefinska verksamhet är koncentrerad.</p>
-    <p><em type="italic">Både språk och kultur </em>Den sverigefinska verksamheten i stiftet och församlingarna handlar inte enbart om språk utan också om kultur – på samma sätt som i den samiska och den teckenspråkiga verksamheten. Allt fler unga med finsk bakgrund saknar det finska språket och önskar lära sig det för att tydliggöra sin identitet och för att kunna kommunicera med äldre släktingar. Tillgång till finska språket och finsk kulturbakgrund blir viktig. I kyrkans verksamhet talar vi om synlighet och inkludering, att få bidra till, påverka och berika helheten. Samtidigt ökar betydelsen av det finska språket hos många äldre, där modersmålet till slut är det enda återstående språket. Det innebär för församlingarna ett växande behov av finskspråkig diakoni. </p>
-    <p><em type="italic">Gudstjänster och körer </em>Församlingarnas sverigefinska verksamhet – ofta genomförd i samverkan med grannförsamlingar eller med stiftet – består främst av finskspråkiga eller tvåspråkiga gudstjänster och kyrkliga handlingar (dop, konfirmation, vigsel, begravning) men också av studiecirklar, körer, morsdagsfirande, själavård och arrangemang kring <span type="quote">”de vackraste julsångerna”</span>. </p>
-    <p>Samverkan mellan församlingar och finska föreningar behöver stärkas, inte bara när det handlar om de traditionella sverigefinska högtiderna utan också till exempel för att aktualisera och stärka det finska språket. Det finns i all sverigefinsk verksamhet stort behov av ideella medarbetare, inte minst när det gäller den finska telejouren samt besök hos gamla, sjuka och ensamma.</p>
-    <p><em type="italic">Resurscentrum stöder församlingarna </em>Härnösands stifts sverigefinska resurs- och utvecklingscentrum är placerat i Sundsvall där den största sverigefinska befolkningen finns. Det ska dels stödja församlingarnas sverigefinska verksamhet, dels arbeta med rekrytering, utbildning, information och opinionsbildning. Under verksamhetsåret 2011-2012 finns vid centret i Sundsvall, förutom diakon, projektanställd präst. </p>
-    <p>På stiftsnivå, och med nära koppling till resurs- och utvecklingscentrumet, finns en sverigefinsk referensgrupp som ett bollplank för den anställda personalen och med relation till stiftsstyrelsen.</p>
-    <p>För mer information: Minna Lehto , diakon, telefon: 060-531 01 22 Reijo Oivaeus , präst, telefon: : 060-53 101 14, 073-271 01 14</p>
-    <p>//</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>428</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.svenskakyrkan.se/harnosandsstift/sverigefinsk%20verksamhet</origFileName><parallel_text xml:lang="fin" location="default.aspx_id=650396.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sverigefinskt - Svenska kyrkan - Härnösands stift</p>
+<p type="title">Nya behov för stiftets sverigefinska verksamhet</p>
+<p type="title">Sverigefinsk verksamhet i Härnösands stift och stiftets församlingar aktualiserar finska språket och finska traditioner så att den sverigefinska befolkningen ska vara synlig och bidra till en hel kyrka.</p>
+<p>Härnösands stift har en finlandsfödd biskop, Tuulikki Koivunen Bylund. Det betyder att den flerspråkiga – och inte minst den sverigefinska – verksamheten har en särskild aktualitet. Det sverigefinska arbetet i stiftets församlingar har en lång tradition och hör samman med de stora inflyttningarna från Finland från andra världskriget och framåt, främst till stiftets stora industriområden längs kusten. Nu finns större antal sverigefinländare kring Sundsvall, Kramfors och Örnsköldsvik. Det är också där stiftets sverigefinska verksamhet är koncentrerad.</p>
+<p><em type="italic">Både språk och kultur </em>Den sverigefinska verksamheten i stiftet och församlingarna handlar inte enbart om språk utan också om kultur – på samma sätt som i den samiska och den teckenspråkiga verksamheten. Allt fler unga med finsk bakgrund saknar det finska språket och önskar lära sig det för att tydliggöra sin identitet och för att kunna kommunicera med äldre släktingar. Tillgång till finska språket och finsk kulturbakgrund blir viktig. I kyrkans verksamhet talar vi om synlighet och inkludering, att få bidra till, påverka och berika helheten. Samtidigt ökar betydelsen av det finska språket hos många äldre, där modersmålet till slut är det enda återstående språket. Det innebär för församlingarna ett växande behov av finskspråkig diakoni. </p>
+<p><em type="italic">Gudstjänster och körer </em>Församlingarnas sverigefinska verksamhet – ofta genomförd i samverkan med grannförsamlingar eller med stiftet – består främst av finskspråkiga eller tvåspråkiga gudstjänster och kyrkliga handlingar (dop, konfirmation, vigsel, begravning) men också av studiecirklar, körer, morsdagsfirande, själavård och arrangemang kring <span type="quote">”de vackraste julsångerna”</span>. </p>
+<p>Samverkan mellan församlingar och finska föreningar behöver stärkas, inte bara när det handlar om de traditionella sverigefinska högtiderna utan också till exempel för att aktualisera och stärka det finska språket. Det finns i all sverigefinsk verksamhet stort behov av ideella medarbetare, inte minst när det gäller den finska telejouren samt besök hos gamla, sjuka och ensamma.</p>
+<p><em type="italic">Resurscentrum stöder församlingarna </em>Härnösands stifts sverigefinska resurs- och utvecklingscentrum är placerat i Sundsvall där den största sverigefinska befolkningen finns. Det ska dels stödja församlingarnas sverigefinska verksamhet, dels arbeta med rekrytering, utbildning, information och opinionsbildning. Under verksamhetsåret 2011-2012 finns vid centret i Sundsvall, förutom diakon, projektanställd präst. </p>
+<p>På stiftsnivå, och med nära koppling till resurs- och utvecklingscentrumet, finns en sverigefinsk referensgrupp som ett bollplank för den anställda personalen och med relation till stiftsstyrelsen.</p>
+<p>För mer information: Minna Lehto , diakon, telefon: 060-531 01 22 Reijo Oivaeus , präst, telefon: : 060-53 101 14, 073-271 01 14</p>
+<p>//</p>
+</body></document>

@@ -1,76 +1,36 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1008</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1922</origFileName>
-    <parallel_text xml:lang="sme" location="3513.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Repatriering - Sametinget</p>
-    <p>Återförandet av samiska mänskliga kvarlevor till de områden där de hör hemma är av principiellt stor betydelse. (Personerna på bilden har inget direkt samband med textens innehåll.) Foto: Okänd.</p>
-    <p type="title">Samiska mänskliga kvarlevor måste återbördas</p>
-    <p>Frågan om samiska mänskliga kvarlevor i svenska statliga&#13; samlingar har fått stor uppmärksamhet i media. Dels är det en konkret&#13; påminnelse om en rasistisk tid som de flesta förskräcks över, dels&#13; ett bevis på att samer diskriminerats, till och med i&#13; vetenskapens namn. För samerna är det betydelsefullt att få ge förfäderna en värdig återbegravning.</p>
-    <p><em type="italic">Krav på repatriering inget nytt </em>Krav på återförande eller repatriering av föremål och kvarlevor har rests bland världens urfolk sedan 1970-talet, i takt med ökat politiskt medvetande och krav på självbestämmande. Repatriering handlar om rätten till det förflutna och till sina förfäder. Det handlar också om försoning, ett sätt för staterna att erkänna den orätt man gjort och ge tillbaka det som stulits. </p>
-    <p>
-      <em type="italic">Regeringsuppdrag </em>
-    </p>
-    <p>Ett regeringsuppdrag till statliga museer och institutioner (U2005/3451/Kr) har gett viss kunskap i hur mycket mänskligt skelettmaterial som finns i statliga samlingar. Den sammanställning som Sametinget gjort över samiska mänskliga kvarlevor visar att rapporteringen inte varit fullständig. En del institutioner som till exempel Statens historiska museer har inte tagit med det samiska skelettmaterialet i Sverige i sin sammanställning, utan bara samiskt skelettmaterial från Ryssland och Norge. Uppdraget att inventera samlingar efter mänskliga kvarlevor gavs endast till statliga museer och institutioner. Enligt en rapport från Ájtte fjäll- och samemuseum från år 2005 finns samiska kvarlevor även på Nordiska museet, Norrbottens museum, Skellefteå museum och på Västerbottens museum.</p>
-    <p>
-      <em type="bold">Sametinget vill veta </em>
-    </p>
-    <p>
-      <em type="bold">mer </em>
-    </p>
-    <p>Sametingets politiska organ kräver i ett beslut från den 22 februari 2007 en fullständig identifiering av allt samiskt skelettmaterial i samtliga statliga samlingar och en repatriering av de mänskliga kvarlevorna till de områden där de hör hemma. Sametinget vill också veta hur museer och institutioner tillskansat sig materialet - alltså om det skett genom gravöppningar eller på annat sätt.</p>
-    <p>Svenska kyrkan eller ej?</p>
-    <p>Svenska kyrkan har föreslagit att kroppsdelar av samer som förvaras på museer och andra statliga institutioner, ska begravas enligt kyrkans ordning, samt att kvarlevor som inte kan knytas till enskilda personer bör begravas i en gemensam grav som får karaktär av minnesmärke. Sametinget anser att frågan om återbegravningar i Svenska kyrkans regi, och kollektiv begravning med minnesmärke får bli en senare fråga och avgöras från fall till fall. Kvarlevorna ska visas den respekt de förtjänar och behandlas utifrån den tid de levde i. Det finns ju även kvarlevor från förkristen tid.</p>
-    <p>
-      <em type="bold">Respekt för förfäderna </em>
-    </p>
-    <p>Samernas gamla religion var en naturreligion. Den gick i stora drag ut på att naturen var besjälad och att människorna levde i en värld som var befolkad även av andra övernaturliga varelser. Till exempel fortsatte förfäderna att leva i en annan dimension och vördades av de efterlevande. Idag praktiseras inte den gamla samiska religionen. I slutet av 1700-talet anses samerna ha blivit kristna, i den betydelsen att alla blivit döpta. Men fortfarande känner man stor vördnad för sina förfäder. Betydelsen av att samiska mänskliga kvarlevor åter får vila i sina gravar och inte förvaras på en hylla i en svensk institution ska inte underskattas. I det samiska samhället är en begravning en viktig händelse. Då samlas släkten och man hedrar den döde med sin närvaro. Begravningsakten och minnesstunden pågår i flera timmar och blir ett värdigt avslut. Det är ingenting man skyndar igenom eller låter gå spårlöst förbi. Därför är frågan om repatriering och återbegravning av stor betydelse.</p>
-    <p>
-      <em type="bold">Processen </em>
-    </p>
-    <p>Regeringen för en dialog med Sametinget och berörda institutioner och museer för att göra återlämnandet möjligt. Det är en fråga som inte löses i en hast. Det kommer säkerligen att ta flera år innan vi får se de första samiska kvarlevorna återbördas från statens samlingar. Och vägen till ett kollektivt minnesmärke är nog ännu längre innan det beslutats var detta minnesmärke ska placeras.</p>
-    <p>
-      <em type="bold">Första repatrieringen i Sápmi </em>
-    </p>
-    <p>1997 ägde den första samiska repatrieringen rum på samiskt område. Det var Mons Sombys och Aslak Haettas kranier som återbördades från det anatomiska institutet i Oslo och blev begravna i Talvik kyrka utanför Alta i Norge. De båda blev år 1854 halshuggna för sitt deltagande i det så kallade Kautokeinoupproret. Tillsammans med norska Sametinget drev ättlingarna framgångsrikt frågan om repatriering.</p>
-    <p>Skuggmannen återbegravd 2002</p>
-    <p>Den andra repatrieringen ägde rum i Sverige 2002. Det var den så kallade</p>
-    <p>
-      <em type="italic">Soejvengeelle </em>
-    </p>
-    <p>(skuggmannen på sydsamiska) som blev återbegravd i sin ursprungliga grav vid Atoklimpen i Tärnaby. Forskaren Ernst Manker från Nordiska museet gjorde på 1950-talet en arkeologisk undersökning och tog med sig delar av skelettet för vidare undersökning mot löfte att skelettdelarna skulle återbördas. Tack vare en skriftlig anteckning i Nordiska museets arkiv och en ihärdig sameförening kunde</p>
-    <p>
-      <em type="italic">Soejvengeelle </em>
-    </p>
-    <p>återbegravas i sin ursprungliga grav i oktober 2002.</p>
-    <p>Heliga föremål</p>
-    <p>I samband med plenums diskussion om samiska mänskliga kvarlevor kom även frågan om återbördande av samisk heliga föremål att beröras. Det är en annan fråga om än intimt sammanknippad med återbördandet av samiska kvarlevor. I den frågan har plenum inte fattat några beslut.</p>
-    <p>Litteraturtips:</p>
-    <list>
-      <p type="listitem">Baglo, Cathrine,(2001): Vitenskaplige stereotypier. Om konstruksjonen av samene som kulturhistorisk enhet i tida fram mot 1910. Hovedfagsoppgave i arkeologi. Universitetet i Tromsø.</p>
-      <p type="listitem">Broberg, Gunnar, (1981/82): <span type="quote">"Lappkaravaner på villovägar. Antropologin och synen på samerna fram mot sekelskiftet 1900"</span>, i: Lynchos, s. 27-86.</p>
-      <p type="listitem">Catomeris, Christian, (2004): Det ohyggliga arvet. Sverige och främlingen genom tiderna. Ordfront. Stockholm.</p>
-      <p type="listitem">Lundmark, Lennart, (1998): Så länge vi har marker. Samerna och staten under sexhundra år. Rabén Prisma. Stockholm.</p>
-      <p type="listitem">Lundmark, Lennart, (2002): <span type="quote">"Lappen är ombytlig, ostadig och obekväm"</span>. Svenska statens samepolitik i rasismens tidevarv. Norrlands universitetsförlag. Umeå.</p>
-      <p type="listitem">Schanche Audhild, (2000) Graver i ur og berg. Samisk gravskikk og religion fra forhistorisk til nyere tid. Davvi Girji OS, Karasjok.</p>
-      <p type="listitem">Red. Åsa Virdi Kroik, (2005): Efter förfädernas sed. Om samisk religion. Göteborg. Innehåller bl a artikeln <span type="quote">"Soejvengeelle - en samisk grav i Vapsten"</span> av Andreas Stångberg</p>
-      <p type="listitem">Red. Åsa Virdi Kroik, (2001): Efter förfädernas sed. Samisk tro i förändring. Stockholm. Innehåller bl a en artikel om återförandet av två samiska kranier: <span type="quote">"Historien om Mons Sombys och Aslak Haettas huvuden"</span> av Ebba Olofsson.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1008</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1922</origFileName><parallel_text xml:lang="sme" location="3513.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Repatriering - Sametinget</p>
+<p>Återförandet av samiska mänskliga kvarlevor till de områden där de hör hemma är av principiellt stor betydelse. (Personerna på bilden har inget direkt samband med textens innehåll.) Foto: Okänd.</p>
+<p type="title">Samiska mänskliga kvarlevor måste återbördas</p>
+<p>Frågan om samiska mänskliga kvarlevor i svenska statliga&#13; samlingar har fått stor uppmärksamhet i media. Dels är det en konkret&#13; påminnelse om en rasistisk tid som de flesta förskräcks över, dels&#13; ett bevis på att samer diskriminerats, till och med i&#13; vetenskapens namn. För samerna är det betydelsefullt att få ge förfäderna en värdig återbegravning.</p>
+<p><em type="italic">Krav på repatriering inget nytt </em>Krav på återförande eller repatriering av föremål och kvarlevor har rests bland världens urfolk sedan 1970-talet, i takt med ökat politiskt medvetande och krav på självbestämmande. Repatriering handlar om rätten till det förflutna och till sina förfäder. Det handlar också om försoning, ett sätt för staterna att erkänna den orätt man gjort och ge tillbaka det som stulits. </p>
+<p><em type="italic">Regeringsuppdrag </em></p>
+<p>Ett regeringsuppdrag till statliga museer och institutioner (U2005/3451/Kr) har gett viss kunskap i hur mycket mänskligt skelettmaterial som finns i statliga samlingar. Den sammanställning som Sametinget gjort över samiska mänskliga kvarlevor visar att rapporteringen inte varit fullständig. En del institutioner som till exempel Statens historiska museer har inte tagit med det samiska skelettmaterialet i Sverige i sin sammanställning, utan bara samiskt skelettmaterial från Ryssland och Norge. Uppdraget att inventera samlingar efter mänskliga kvarlevor gavs endast till statliga museer och institutioner. Enligt en rapport från Ájtte fjäll- och samemuseum från år 2005 finns samiska kvarlevor även på Nordiska museet, Norrbottens museum, Skellefteå museum och på Västerbottens museum.</p>
+<p><em type="bold">Sametinget vill veta </em></p>
+<p><em type="bold">mer </em></p>
+<p>Sametingets politiska organ kräver i ett beslut från den 22 februari 2007 en fullständig identifiering av allt samiskt skelettmaterial i samtliga statliga samlingar och en repatriering av de mänskliga kvarlevorna till de områden där de hör hemma. Sametinget vill också veta hur museer och institutioner tillskansat sig materialet - alltså om det skett genom gravöppningar eller på annat sätt.</p>
+<p>Svenska kyrkan eller ej?</p>
+<p>Svenska kyrkan har föreslagit att kroppsdelar av samer som förvaras på museer och andra statliga institutioner, ska begravas enligt kyrkans ordning, samt att kvarlevor som inte kan knytas till enskilda personer bör begravas i en gemensam grav som får karaktär av minnesmärke. Sametinget anser att frågan om återbegravningar i Svenska kyrkans regi, och kollektiv begravning med minnesmärke får bli en senare fråga och avgöras från fall till fall. Kvarlevorna ska visas den respekt de förtjänar och behandlas utifrån den tid de levde i. Det finns ju även kvarlevor från förkristen tid.</p>
+<p><em type="bold">Respekt för förfäderna </em></p>
+<p>Samernas gamla religion var en naturreligion. Den gick i stora drag ut på att naturen var besjälad och att människorna levde i en värld som var befolkad även av andra övernaturliga varelser. Till exempel fortsatte förfäderna att leva i en annan dimension och vördades av de efterlevande. Idag praktiseras inte den gamla samiska religionen. I slutet av 1700-talet anses samerna ha blivit kristna, i den betydelsen att alla blivit döpta. Men fortfarande känner man stor vördnad för sina förfäder. Betydelsen av att samiska mänskliga kvarlevor åter får vila i sina gravar och inte förvaras på en hylla i en svensk institution ska inte underskattas. I det samiska samhället är en begravning en viktig händelse. Då samlas släkten och man hedrar den döde med sin närvaro. Begravningsakten och minnesstunden pågår i flera timmar och blir ett värdigt avslut. Det är ingenting man skyndar igenom eller låter gå spårlöst förbi. Därför är frågan om repatriering och återbegravning av stor betydelse.</p>
+<p><em type="bold">Processen </em></p>
+<p>Regeringen för en dialog med Sametinget och berörda institutioner och museer för att göra återlämnandet möjligt. Det är en fråga som inte löses i en hast. Det kommer säkerligen att ta flera år innan vi får se de första samiska kvarlevorna återbördas från statens samlingar. Och vägen till ett kollektivt minnesmärke är nog ännu längre innan det beslutats var detta minnesmärke ska placeras.</p>
+<p><em type="bold">Första repatrieringen i Sápmi </em></p>
+<p>1997 ägde den första samiska repatrieringen rum på samiskt område. Det var Mons Sombys och Aslak Haettas kranier som återbördades från det anatomiska institutet i Oslo och blev begravna i Talvik kyrka utanför Alta i Norge. De båda blev år 1854 halshuggna för sitt deltagande i det så kallade Kautokeinoupproret. Tillsammans med norska Sametinget drev ättlingarna framgångsrikt frågan om repatriering.</p>
+<p>Skuggmannen återbegravd 2002</p>
+<p>Den andra repatrieringen ägde rum i Sverige 2002. Det var den så kallade</p>
+<p><em type="italic">Soejvengeelle </em></p>
+<p>(skuggmannen på sydsamiska) som blev återbegravd i sin ursprungliga grav vid Atoklimpen i Tärnaby. Forskaren Ernst Manker från Nordiska museet gjorde på 1950-talet en arkeologisk undersökning och tog med sig delar av skelettet för vidare undersökning mot löfte att skelettdelarna skulle återbördas. Tack vare en skriftlig anteckning i Nordiska museets arkiv och en ihärdig sameförening kunde</p>
+<p><em type="italic">Soejvengeelle </em></p>
+<p>återbegravas i sin ursprungliga grav i oktober 2002.</p>
+<p>Heliga föremål</p>
+<p>I samband med plenums diskussion om samiska mänskliga kvarlevor kom även frågan om återbördande av samisk heliga föremål att beröras. Det är en annan fråga om än intimt sammanknippad med återbördandet av samiska kvarlevor. I den frågan har plenum inte fattat några beslut.</p>
+<p>Litteraturtips:</p>
+<list><p type="listitem">Baglo, Cathrine,(2001): Vitenskaplige stereotypier. Om konstruksjonen av samene som kulturhistorisk enhet i tida fram mot 1910. Hovedfagsoppgave i arkeologi. Universitetet i Tromsø.</p>
+<p type="listitem">Broberg, Gunnar, (1981/82): <span type="quote">"Lappkaravaner på villovägar. Antropologin och synen på samerna fram mot sekelskiftet 1900"</span>, i: Lynchos, s. 27-86.</p>
+<p type="listitem">Catomeris, Christian, (2004): Det ohyggliga arvet. Sverige och främlingen genom tiderna. Ordfront. Stockholm.</p>
+<p type="listitem">Lundmark, Lennart, (1998): Så länge vi har marker. Samerna och staten under sexhundra år. Rabén Prisma. Stockholm.</p>
+<p type="listitem">Lundmark, Lennart, (2002): <span type="quote">"Lappen är ombytlig, ostadig och obekväm"</span>. Svenska statens samepolitik i rasismens tidevarv. Norrlands universitetsförlag. Umeå.</p>
+<p type="listitem">Schanche Audhild, (2000) Graver i ur og berg. Samisk gravskikk og religion fra forhistorisk til nyere tid. Davvi Girji OS, Karasjok.</p>
+<p type="listitem">Red. Åsa Virdi Kroik, (2005): Efter förfädernas sed. Om samisk religion. Göteborg. Innehåller bl a artikeln <span type="quote">"Soejvengeelle - en samisk grav i Vapsten"</span> av Andreas Stångberg</p>
+<p type="listitem">Red. Åsa Virdi Kroik, (2001): Efter förfädernas sed. Samisk tro i förändring. Stockholm. Innehåller bl a en artikel om återförandet av två samiska kranier: <span type="quote">"Historien om Mons Sombys och Aslak Haettas huvuden"</span> av Ebba Olofsson.</p>
+</list></body></document>

@@ -1,60 +1,24 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>310</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/bevakningsforetag/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar-bevakningsforetag.html"/>
-    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-bevakningsforetag.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bevakningsföretag - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Bevakningsföretag</p>
-    <p>
-      <em type="italic">Ett bevakningsföretag bevakar fastigheter, anläggningar, vissa verksamheter, offentliga tillställningar eller en enskild person. Alla bevakningsföretag måste ha tillstånd (auktorisation) av Länsstyrelsen. </em>
-    </p>
-    <p>
-      <em type="italic">Allmänt </em>
-    </p>
-    <p>Ett bevakningsföretag är ett företag som yrkesmässigt bevakar fastighet, anläggning, viss verksamhet, offentlig tillställning eller något annat sådant eller bevakar enskild person för dennes skydd.</p>
-    <p>Ett bevakningsföretag ska vara auktoriserat för att få bedriva verksamhet och all personal, det vill säga även de som inte är väktare, ska vara godkänd för anställning.</p>
-    <p>Länsstyrelsen prövar ansökningar om auktorisation och godkännande av personal samt godkännande av väktarhundar.</p>
-    <p>
-      <em type="italic">Ansökan om auktorisation </em>
-    </p>
-    <p>För att få auktorisation krävs att verksamheten kan antas bli bedriven på ett sakkunnigt och omdömesgillt sätt och i övrigt i överensstämmelse med god sed inom branschen. Verksamheten får inte ha en från allmän synpunkt olämplig inriktning. Vid prövningen av ansökan ska Länsstyrelsen särskilt beakta att företaget har en lämplig organisation och att verksamheten är planlagd på lämpligt sätt.</p>
-    <p>Det krävs särskild auktorisation för att ett bevakningsföretags verksamhet även ska få omfatta bevakning av enskild person för dennes skydd. Vidare krävs särskild auktorisation för att bedriva utbildning av personal i bevakningstjänst. Ett företag som utan att vara bevakningsföretag bedriver utbildning av bevakningspersonal kallas utbildningsföretag.</p>
-    <p>Avgiften för prövning av ansökan om auktorisation uppgår för närvarande till 3.700 kronor.</p>
-    <p>
-      <em type="italic">Ansökan om godkännande av personal </em>
-    </p>
-    <p>Ansökningar om godkännande av personal görs hos Länsstyrelsen av det bevakningsföretag som anställt eller tänker anställa någon. Den som ska godkännas ska vara laglydig, medborgerligt pålitlig samt i övrigt vara lämplig.</p>
-    <p>Avgiften för prövning av ansökan om godkännande av personal uppgår för närvarande till 700 kronor.</p>
-    <p>
-      <em type="italic">Tillsyn </em>
-    </p>
-    <p>Länsstyrelsen utövar tillsyn över de bevaknings- och utbildningsföretag man meddelat auktorisation och den personal man meddelat godkännande för. Tillsyn sker genom inspektioner och prövning av personalens laglydnad.</p>
-    <p>
-      <em type="italic">Upplysningar och blanketter </em>
-    </p>
-    <p>För närmare upplysningar och blanketter - kontakta Länsstyrelsen.</p>
-    <p type="title">Kontakta oss</p>
-    <p>Sven Ångquist</p>
-    <p>Jurist</p>
-    <p>Rättsenheten</p>
-    <p>010-2250419</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>310</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/bevakningsforetag/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="naringsliv-och-foreningar-bevakningsforetag.html"/><parallel_text xml:lang="sma" location="naringsliv-och-foreningar-bevakningsforetag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bevakningsföretag - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Bevakningsföretag</p>
+<p><em type="italic">Ett bevakningsföretag bevakar fastigheter, anläggningar, vissa verksamheter, offentliga tillställningar eller en enskild person. Alla bevakningsföretag måste ha tillstånd (auktorisation) av Länsstyrelsen. </em></p>
+<p><em type="italic">Allmänt </em></p>
+<p>Ett bevakningsföretag är ett företag som yrkesmässigt bevakar fastighet, anläggning, viss verksamhet, offentlig tillställning eller något annat sådant eller bevakar enskild person för dennes skydd.</p>
+<p>Ett bevakningsföretag ska vara auktoriserat för att få bedriva verksamhet och all personal, det vill säga även de som inte är väktare, ska vara godkänd för anställning.</p>
+<p>Länsstyrelsen prövar ansökningar om auktorisation och godkännande av personal samt godkännande av väktarhundar.</p>
+<p><em type="italic">Ansökan om auktorisation </em></p>
+<p>För att få auktorisation krävs att verksamheten kan antas bli bedriven på ett sakkunnigt och omdömesgillt sätt och i övrigt i överensstämmelse med god sed inom branschen. Verksamheten får inte ha en från allmän synpunkt olämplig inriktning. Vid prövningen av ansökan ska Länsstyrelsen särskilt beakta att företaget har en lämplig organisation och att verksamheten är planlagd på lämpligt sätt.</p>
+<p>Det krävs särskild auktorisation för att ett bevakningsföretags verksamhet även ska få omfatta bevakning av enskild person för dennes skydd. Vidare krävs särskild auktorisation för att bedriva utbildning av personal i bevakningstjänst. Ett företag som utan att vara bevakningsföretag bedriver utbildning av bevakningspersonal kallas utbildningsföretag.</p>
+<p>Avgiften för prövning av ansökan om auktorisation uppgår för närvarande till 3.700 kronor.</p>
+<p><em type="italic">Ansökan om godkännande av personal </em></p>
+<p>Ansökningar om godkännande av personal görs hos Länsstyrelsen av det bevakningsföretag som anställt eller tänker anställa någon. Den som ska godkännas ska vara laglydig, medborgerligt pålitlig samt i övrigt vara lämplig.</p>
+<p>Avgiften för prövning av ansökan om godkännande av personal uppgår för närvarande till 700 kronor.</p>
+<p><em type="italic">Tillsyn </em></p>
+<p>Länsstyrelsen utövar tillsyn över de bevaknings- och utbildningsföretag man meddelat auktorisation och den personal man meddelat godkännande för. Tillsyn sker genom inspektioner och prövning av personalens laglydnad.</p>
+<p><em type="italic">Upplysningar och blanketter </em></p>
+<p>För närmare upplysningar och blanketter - kontakta Länsstyrelsen.</p>
+<p type="title">Kontakta oss</p>
+<p>Sven Ångquist</p>
+<p>Jurist</p>
+<p>Rättsenheten</p>
+<p>010-2250419</p>
+</body></document>

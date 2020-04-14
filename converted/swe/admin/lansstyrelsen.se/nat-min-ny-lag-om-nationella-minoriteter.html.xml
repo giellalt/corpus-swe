@@ -1,61 +1,29 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>325</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/Pages/ny-lag-om-nationella-minoriteter.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-laki-kansallisista-vahemmistoista-.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-laake-nasjovnelle-unnebelahkoej-bjre.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-lahka-riikkalas-unniloguid-birra.html"/>
-    <parallel_text xml:lang="smj" location="nat-min-lahka-rijkalasj-unneplagoj-birra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Lagen om nationella minoriteter - Länsstyrelsen i Stockholm</p>
-    <list/>
-    <p type="title">Lagen om nationella minoriteter</p>
-    <p>
-      <em type="italic">Lagen om nationella minoriteter och minoritetsspråk trädde i kraft den 1 januari 2010. Den ersätter lagarna om rätt att använda samiska respektive finska och meänkieli hos förvaltningsmyndigheter och domstolar. Ändringar har också gjorts i sametingslagen och socialtjänstlagen. </em>
-    </p>
-    <p>Lotta Landström</p>
-    <p>Sveriges internationella förpliktelser innebär att vissa minoritetsrättigheter ska förverkligas i hela landet. Alla fem nationella minoriteter omfattas därför av den nya lagen (2009:724).</p>
-    <p type="title">Grundskydd</p>
-    <p>Det så kallade grundskyddet innebär bland annat att:</p>
-    <list>
-      <p type="listitem">förvaltningsmyndigheter ska informera de nationella minoriteterna på lämpligt sätt om deras rättigheter när det behövs,</p>
-      <p type="listitem">det allmänna har ett särskilt ansvar för att skydda och främja de nationella minoritetsspråken och ska även främja de nationella minoriteternas möjligheter att behålla och utveckla sin kultur i Sverige,</p>
-      <p type="listitem">barns utveckling av en kulturell identitet och användning av det egna minoritetsspråket ska främjas särskilt,</p>
-      <p type="listitem">förvaltningsmyndigheter ska ge de nationella minoriteterna möjlighet till inflytande i frågor som berör dem och så långt det är möjligt samråda med representanter för minoriteterna i sådana frågor.</p>
-    </list>
-    <p type="title">Särskilda rättigheter</p>
-    <p>Dessutom gäller särskilda rättigheter för finsk- samisk- och meänkieli talande inom respektive förvaltningsområde. Dessa rättigheter är bland annat att:</p>
-    <list>
-      <p type="listitem">enskilda har rätt att använda språken vid muntliga och skriftliga kontakter med myndigheter i enskilt ärende där myndigheten är beslutsfattare,</p>
-      <p type="listitem">myndigheten är skyldig att ge muntligt svar på samma språk samt att på begäran ge en skriftlig översättning av beslut och motivering. Myndigheten kan bestämma särskild tid och plats där servicen ges på minoritetsspråk,</p>
-      <p type="listitem">förvaltningsmyndigheter ska verka för att det finns tillgång till personal med kunskaper i minoritetsspråken,</p>
-      <p type="listitem">kommunerna har särskilda skyldigheter att anordna äldre- och barnomsorg, helt eller delvis på minoritetsspråken om någon i förvaltningsområdet önskar detta.</p>
-    </list>
-    <p type="title">Kontakta oss</p>
-    <p>Enheten för arbetsmarknads- och rättighetsfrågor (minoritetsfrågor)</p>
-    <p>stockholm snabela lansstyrelsen punkt se¤stockholm snabela lansstyrelsen punkt se</p>
-    <p>010-223 10 00</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>325</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/Pages/ny-lag-om-nationella-minoriteter.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-laki-kansallisista-vahemmistoista-.html"/><parallel_text xml:lang="sma" location="nat-min-laake-nasjovnelle-unnebelahkoej-bjre.html"/><parallel_text xml:lang="sme" location="nat-min-lahka-riikkalas-unniloguid-birra.html"/><parallel_text xml:lang="smj" location="nat-min-lahka-rijkalasj-unneplagoj-birra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Lagen om nationella minoriteter - Länsstyrelsen i Stockholm</p>
+<list/><p type="title">Lagen om nationella minoriteter</p>
+<p><em type="italic">Lagen om nationella minoriteter och minoritetsspråk trädde i kraft den 1 januari 2010. Den ersätter lagarna om rätt att använda samiska respektive finska och meänkieli hos förvaltningsmyndigheter och domstolar. Ändringar har också gjorts i sametingslagen och socialtjänstlagen. </em></p>
+<p>Lotta Landström</p>
+<p>Sveriges internationella förpliktelser innebär att vissa minoritetsrättigheter ska förverkligas i hela landet. Alla fem nationella minoriteter omfattas därför av den nya lagen (2009:724).</p>
+<p type="title">Grundskydd</p>
+<p>Det så kallade grundskyddet innebär bland annat att:</p>
+<list><p type="listitem">förvaltningsmyndigheter ska informera de nationella minoriteterna på lämpligt sätt om deras rättigheter när det behövs,</p>
+<p type="listitem">det allmänna har ett särskilt ansvar för att skydda och främja de nationella minoritetsspråken och ska även främja de nationella minoriteternas möjligheter att behålla och utveckla sin kultur i Sverige,</p>
+<p type="listitem">barns utveckling av en kulturell identitet och användning av det egna minoritetsspråket ska främjas särskilt,</p>
+<p type="listitem">förvaltningsmyndigheter ska ge de nationella minoriteterna möjlighet till inflytande i frågor som berör dem och så långt det är möjligt samråda med representanter för minoriteterna i sådana frågor.</p>
+</list><p type="title">Särskilda rättigheter</p>
+<p>Dessutom gäller särskilda rättigheter för finsk- samisk- och meänkieli talande inom respektive förvaltningsområde. Dessa rättigheter är bland annat att:</p>
+<list><p type="listitem">enskilda har rätt att använda språken vid muntliga och skriftliga kontakter med myndigheter i enskilt ärende där myndigheten är beslutsfattare,</p>
+<p type="listitem">myndigheten är skyldig att ge muntligt svar på samma språk samt att på begäran ge en skriftlig översättning av beslut och motivering. Myndigheten kan bestämma särskild tid och plats där servicen ges på minoritetsspråk,</p>
+<p type="listitem">förvaltningsmyndigheter ska verka för att det finns tillgång till personal med kunskaper i minoritetsspråken,</p>
+<p type="listitem">kommunerna har särskilda skyldigheter att anordna äldre- och barnomsorg, helt eller delvis på minoritetsspråken om någon i förvaltningsområdet önskar detta.</p>
+</list><p type="title">Kontakta oss</p>
+<p>Enheten för arbetsmarknads- och rättighetsfrågor (minoritetsfrågor)</p>
+<p>stockholm snabela lansstyrelsen punkt se¤stockholm snabela lansstyrelsen punkt se</p>
+<p>010-223 10 00</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

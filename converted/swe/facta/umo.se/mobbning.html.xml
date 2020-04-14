@@ -1,62 +1,23 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>638</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Vald--krankningar/Mobbning</origFileName>
-    <parallel_text xml:lang="fin" location="kiusaaminen.html"/>
-    <parallel_text xml:lang="fit" location="mobbaus-eli-mobbinki.html"/>
-    <parallel_text xml:lang="sma" location="irhkeme.html"/>
-    <parallel_text xml:lang="sme" location="givssideapmi.html"/>
-    <parallel_text xml:lang="smj" location="nuppastibme.html"/>
-    <parallel_text location="miak-attjer-manisch-mobbning.html" xml:lang="rmu"/>
-    <parallel_text location="prasajimo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="mobbing.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="holjiba.html" xml:lang="rmf"/>
-    <parallel_text location="mobibe.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mobbning</p>
-    <p>Alla undrar!  Vad undrar du?</p>
-    <p type="title">Mobbning</p>
-    <p>När man blir illa behandlad av människor runt omkring en, kallas det mobbning. En enstaka taskig grej räknas inte som mobbning. Det är när det händer flera gånger och får den som behandlas illa att må dåligt, som det räknas som mobbning.</p>
-    <p>» Texten finns på de nationella minoritetsspråken</p>
-    <p>Den som blir utsatt för mobbning kan känna sig rädd, ledsen och kränkt. Man kan förstås bli ledsen och må dåligt om det bara händer en gång, även om det inte kallas mobbning. Men för den som blir mobbad under en längre tid kan det påverka självkänslan och man kan känna sig väldigt ensam.</p>
-    <p type="title">Vad är mobbning?</p>
-    <p>Mobbning kan vara viskningar, blickar, skratt, knuffar, slag och elaka ord. Det kan också vara taskiga sms, mejl eller inlägg på facebook eller om man blir förföljd på nätet.</p>
-    <p>Mobbning kan också vara att någon blir utfryst bara för att personen inte klär sig som andra tycker att man ska klä sig, eller för att man ser ut på speciellt ett sätt. Det kan vara att man inte får vara med, eller att folk sprider rykten om en. Om det får någon att må dåligt, är det mobbning.</p>
-    <p>Mobbning är ett starkt ord för många. Kanske förstår inte de som mobbar att det verkligen handlar om mobbning. De kanske till exempel säger att det bara är ett bråk. Men i ett bråk är man liksom mer jämnstarka och ungefär lika taskiga mot varandra.</p>
-    <p>På samma sätt är det med elaka skämt. Den som mobbar kan ibland skylla ifrån sig och säga att det bara var ett skämt. Men om någon mår dåligt av det, är det mobbning. Ibland är mobbningen så allvarlig att det är brottsligt. Till exempel misshandel, om man slår någon. Trakasserier eller diskriminering är också brott. Det är brottligt att hota någon, eller att pressa någon under 15 år att göra sexuella saker på nätet.</p>
-    <p>Om någon sprider kränkande bilder på någon annan, är det också ett slags mobbning som är olaglig. Man får inte ta kort eller filma någon som till exempel är på toa, i duschen eller i omklädningsrummet, utan den personens tillåtelse. Det är ett brott, som kan straffas med böter eller fängelse.</p>
-    <p type="title">Lagen om kränkande fotografering</p>
-    <p>Här förklarar Juridikprofessorn Mårten Schultz och juristen Tove Lindgren vad lagen betyder och vad kan man göra om man blir utsatt.</p>
-    <p>Om man behandlar någon illa på grund av till exempel den personens kön eller religion, är det diskriminering. Så fort någon blir illa behandlad, ska det tas på allvar!</p>
-    <p>» Diskriminering</p>
-    <p>» Polisanmälan</p>
-    <p type="title">Vad beror mobbning på?</p>
-    <p>Ofta kan mobbningen starta när det är dålig stämning i en grupp. De som mobbar försöker kanske hålla ihop i en liten grupp genom att vara taskiga mot någon annan. Ibland beror mobbningen på att det inte finns någon vuxen i närheten som tar ansvar för att alla beter sig på ett bra sätt mot varandra. Mobbning kan också bero på att den som mobbar mår dåligt och ger sig på andra för att själv känna sig starkare. Ibland kan mobbningen öka för att de som är runt omkring inte vågar säga ifrån. De kanske är rädda för att själva bli mobbade eller förlora vänner.</p>
-    <p type="title">Hur kan mobbningen minska?</p>
-    <p>Det är aldrig en ung persons ansvar att förhindra mobbning. I skolan är det de vuxna som har ansvaret för att ingen blir utsatt för mobbning. Ändå kan alla bidra för att minska mobbning.</p>
-    <p>Om man märker att någon blir kränkt eller känner sig utanför, kan man visa att man bryr sig. Ibland kan det räcka med att säga hej, eller fråga något vardagligt, för att någon ska känna att man bryr sig.</p>
-    <p>Man kan också vara till hjälp genom att berätta för någon som jobbar i skolan om man märker att någon blir mobbad.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>633</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Vald--krankningar/Mobbning</origFileName><parallel_text xml:lang="fin" location="kiusaaminen.html"/><parallel_text xml:lang="fit" location="mobbaus-eli-mobbinki.html"/><parallel_text xml:lang="sma" location="irhkeme.html"/><parallel_text xml:lang="sme" location="givssideapmi.html"/><parallel_text xml:lang="smj" location="nuppastibme.html"/><parallel_text location="miak-attjer-manisch-mobbning.html" xml:lang="rmu"/><parallel_text location="prasajimo.html" xml:lang="rmy-rka"/><parallel_text location="mobbing.html" xml:lang="rmy-rlo"/><parallel_text location="holjiba.html" xml:lang="rmf"/><parallel_text location="mobibe.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mobbning</p>
+<p type="title">Mobbning</p>
+<p>När man blir illa behandlad av människor runt omkring en, kallas det mobbning. En enstaka taskig grej räknas inte som mobbning. Det är när det händer flera gånger och får den som behandlas illa att må dåligt, som det räknas som mobbning.</p>
+<p>» Texten finns på de nationella minoritetsspråken</p>
+<p>Den som blir utsatt för mobbning kan känna sig rädd, ledsen och kränkt. Man kan förstås bli ledsen och må dåligt om det bara händer en gång, även om det inte kallas mobbning. Men för den som blir mobbad under en längre tid kan det påverka självkänslan och man kan känna sig väldigt ensam.</p>
+<p type="title">Vad är mobbning?</p>
+<p>Mobbning kan vara viskningar, blickar, skratt, knuffar, slag och elaka ord. Det kan också vara taskiga sms, mejl eller inlägg på facebook eller om man blir förföljd på nätet.</p>
+<p>Mobbning kan också vara att någon blir utfryst bara för att personen inte klär sig som andra tycker att man ska klä sig, eller för att man ser ut på speciellt ett sätt. Det kan vara att man inte får vara med, eller att folk sprider rykten om en. Om det får någon att må dåligt, är det mobbning.</p>
+<p>Mobbning är ett starkt ord för många. Kanske förstår inte de som mobbar att det verkligen handlar om mobbning. De kanske till exempel säger att det bara är ett bråk. Men i ett bråk är man liksom mer jämnstarka och ungefär lika taskiga mot varandra.</p>
+<p>På samma sätt är det med elaka skämt. Den som mobbar kan ibland skylla ifrån sig och säga att det bara var ett skämt. Men om någon mår dåligt av det, är det mobbning. Ibland är mobbningen så allvarlig att det är brottsligt. Till exempel misshandel, om man slår någon. Trakasserier eller diskriminering är också brott. Det är brottligt att hota någon, eller att pressa någon under 15 år att göra sexuella saker på nätet.</p>
+<p>Om någon sprider kränkande bilder på någon annan, är det också ett slags mobbning som är olaglig. Man får inte ta kort eller filma någon som till exempel är på toa, i duschen eller i omklädningsrummet, utan den personens tillåtelse. Det är ett brott, som kan straffas med böter eller fängelse.</p>
+<p type="title">Lagen om kränkande fotografering</p>
+<p>Här förklarar Juridikprofessorn Mårten Schultz och juristen Tove Lindgren vad lagen betyder och vad kan man göra om man blir utsatt.</p>
+<p>Om man behandlar någon illa på grund av till exempel den personens kön eller religion, är det diskriminering. Så fort någon blir illa behandlad, ska det tas på allvar!</p>
+<p>» Diskriminering</p>
+<p>» Polisanmälan</p>
+<p type="title">Vad beror mobbning på?</p>
+<p>Ofta kan mobbningen starta när det är dålig stämning i en grupp. De som mobbar försöker kanske hålla ihop i en liten grupp genom att vara taskiga mot någon annan. Ibland beror mobbningen på att det inte finns någon vuxen i närheten som tar ansvar för att alla beter sig på ett bra sätt mot varandra. Mobbning kan också bero på att den som mobbar mår dåligt och ger sig på andra för att själv känna sig starkare. Ibland kan mobbningen öka för att de som är runt omkring inte vågar säga ifrån. De kanske är rädda för att själva bli mobbade eller förlora vänner.</p>
+<p type="title">Hur kan mobbningen minska?</p>
+<p>Det är aldrig en ung persons ansvar att förhindra mobbning. I skolan är det de vuxna som har ansvaret för att ingen blir utsatt för mobbning. Ändå kan alla bidra för att minska mobbning.</p>
+<p>Om man märker att någon blir kränkt eller känner sig utanför, kan man visa att man bryr sig. Ibland kan det räcka med att säga hej, eller fråga något vardagligt, för att någon ska känna att man bryr sig.</p>
+<p>Man kan också vara till hjälp genom att berätta för någon som jobbar i skolan om man märker att någon blir mobbad.</p>
+</body></document>

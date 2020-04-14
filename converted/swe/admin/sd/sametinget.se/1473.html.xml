@@ -1,41 +1,19 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>369</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1473</origFileName>
-    <parallel_text xml:lang="sme" location="6380.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Självbestämmande - Sametinget</p>
-    <p>Omröstning i plenum. Foto: Marie Enoksson.</p>
-    <p type="title">Självbestämmande</p>
-    <p>Enligt internationell rätt utgör det samiska folket ett urfolk. Det samiska folket har en egen kultur, ett eget språk, egna näringar och framför allt en tydlig koppling till sina traditionella land- och vattenområden. Juridiskt sett är det skillnad på att vara ett urfolk eller en minoritet.</p>
-    <p>En enkel förklaring till synen på samiskt självbestämmande är att samernas ståndpunkt ska vara avgörande i frågor som berör dem som samer. Samiskt självbestämmande handlar inte om att bilda en egen stat. Den rätten ger inte folkrätten eftersom principen om staternas rätt till territoriell integritet sätter begränsningar för självbestämmanderättens utövande.</p>
-    <p>Kollektiv rätt</p>
-    <p>Urfolksrättigheter betonar urfolkens rätt att bevara och utveckla sina samhällen parallellt med majoritetssamhället. Minoritetsrättigheter är alltid individuella medan många av urfolkens rättigheter är kollektiva.</p>
-    <p>Intern aspekt av självbestämmande</p>
-    <p>Den interna aspekten innefattar en rätt för alla folk att själv bestämma över sin ekonomiska, sociala och kulturella utveckling. Urfolk har enligt internationell lag rätt att styra bl a sitt språks utveckling, utbildning, information, media, traditionell kunskap, traditionella kulturella uttryck, hälsoväsende, bostadspolitik och socialväsende. De har rätt att forma och bevara sin identitet som ett distinkt folk. Dessutom ingår en rätt att bli konsulterad i egenskap av folk, i samtliga frågor som berör folket i fråga.</p>
-    <p>Extern aspekt av självbestämmande</p>
-    <p>Den externa aspekten är kopplad till urfolkens traditionella land- och vattenområden samt naturresurser. En del av självbestämmanderätten är att ge urfolk rätt att besluta om och/eller utöva inflytande över sina land- och vattenområden, naturresurser samt traditionella levnadsformer. Flera FN-organ har understrukit att urfolk har rätt att kontrollera sina traditionella land- och vattenområden, naturresurser samt traditionella försörjningsformer.</p>
-    <p>Urfolksdeklarationen</p>
-    <p>2007 antog FN en urfolksdeklaration som bland annat erkänner urfolkens rätt till självbestämmande samt rätt att äga, bruka och kontrollera land och naturresurser. Landområden som samer traditionellt brukat kan enligt deklarationen inte längre betraktas som statens egendom. Enligt deklarationen ska samerna ha rätt till återställande av eller kompensation för mark och naturresurser som tagits i bruk utan samernas samtycke.</p>
-    <p>Internationell representationsrätt</p>
-    <p>Självbestämmanderätten tillkommer samerna som ett folk, oavsett statsgränser. Den samiska befolkningen på svensk sida skall kunna utöva självbestämmanderätten i gemenskap med samerna på finsk, norsk och rysk sida.</p>
-    <p>Läs mer om självbestämmande under</p>
-    <p>Folkrätt</p>
-    <p>.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>369</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1473</origFileName><parallel_text xml:lang="sme" location="6380.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Självbestämmande - Sametinget</p>
+<p>Omröstning i plenum. Foto: Marie Enoksson.</p>
+<p type="title">Självbestämmande</p>
+<p>Enligt internationell rätt utgör det samiska folket ett urfolk. Det samiska folket har en egen kultur, ett eget språk, egna näringar och framför allt en tydlig koppling till sina traditionella land- och vattenområden. Juridiskt sett är det skillnad på att vara ett urfolk eller en minoritet.</p>
+<p>En enkel förklaring till synen på samiskt självbestämmande är att samernas ståndpunkt ska vara avgörande i frågor som berör dem som samer. Samiskt självbestämmande handlar inte om att bilda en egen stat. Den rätten ger inte folkrätten eftersom principen om staternas rätt till territoriell integritet sätter begränsningar för självbestämmanderättens utövande.</p>
+<p>Kollektiv rätt</p>
+<p>Urfolksrättigheter betonar urfolkens rätt att bevara och utveckla sina samhällen parallellt med majoritetssamhället. Minoritetsrättigheter är alltid individuella medan många av urfolkens rättigheter är kollektiva.</p>
+<p>Intern aspekt av självbestämmande</p>
+<p>Den interna aspekten innefattar en rätt för alla folk att själv bestämma över sin ekonomiska, sociala och kulturella utveckling. Urfolk har enligt internationell lag rätt att styra bl a sitt språks utveckling, utbildning, information, media, traditionell kunskap, traditionella kulturella uttryck, hälsoväsende, bostadspolitik och socialväsende. De har rätt att forma och bevara sin identitet som ett distinkt folk. Dessutom ingår en rätt att bli konsulterad i egenskap av folk, i samtliga frågor som berör folket i fråga.</p>
+<p>Extern aspekt av självbestämmande</p>
+<p>Den externa aspekten är kopplad till urfolkens traditionella land- och vattenområden samt naturresurser. En del av självbestämmanderätten är att ge urfolk rätt att besluta om och/eller utöva inflytande över sina land- och vattenområden, naturresurser samt traditionella levnadsformer. Flera FN-organ har understrukit att urfolk har rätt att kontrollera sina traditionella land- och vattenområden, naturresurser samt traditionella försörjningsformer.</p>
+<p>Urfolksdeklarationen</p>
+<p>2007 antog FN en urfolksdeklaration som bland annat erkänner urfolkens rätt till självbestämmande samt rätt att äga, bruka och kontrollera land och naturresurser. Landområden som samer traditionellt brukat kan enligt deklarationen inte längre betraktas som statens egendom. Enligt deklarationen ska samerna ha rätt till återställande av eller kompensation för mark och naturresurser som tagits i bruk utan samernas samtycke.</p>
+<p>Internationell representationsrätt</p>
+<p>Självbestämmanderätten tillkommer samerna som ett folk, oavsett statsgränser. Den samiska befolkningen på svensk sida skall kunna utöva självbestämmanderätten i gemenskap med samerna på finsk, norsk och rysk sida.</p>
+<p>Läs mer om självbestämmande under</p>
+<p>Folkrätt</p>
+<p>.</p>
+</body></document>

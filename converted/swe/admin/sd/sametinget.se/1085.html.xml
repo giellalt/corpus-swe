@@ -1,29 +1,7 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>328</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1085</origFileName>
-    <parallel_text xml:lang="sme" location="2896.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Språksituationen i Sverige - Sametinget</p>
-    <p>Språkbad i sydsamiska. Foto: Sigrid Stångberg.</p>
-    <p type="title">Språksituationen i Sverige</p>
-    <p>Samiska är ett hotat språk, men det finns en stark vilja till språkbevarande och språkutveckling.</p>
-    <p><em type="italic">Språkbytesprocess </em>På många håll inom Sápmi pågår ett språkbyte som är långt framskridet. Det svenska majoritetsspråket dominerar. Samiskan tenderar att vara ett språk man talar i hemmet. De allra flesta äldre samer har aldrig eller endast bristfälligt fått lära sig att läsa eller skriva i skolan på sitt eget modersmål. </p>
-    <p><em type="italic">Allvarlig situation </em>Situationen för samiskan kan bedömas som allvarlig. Språkbytesprocessen handlar om flera faktorer. Alltifrån en negativ regional utveckling i de samiska bosättningsområdena till mer personliga funderingar <span type="quote">”om det verkligen lönar sig att kunna språket”</span>. Men det finns också positiva krafter. <em type="italic">Positiv yttre påverkan </em>Vi har en påverkan från det internationella samfundet som baxar den svenska samepolitiken framför sig. Den internationella folkrätten och urfolksfrågor är idag aktuella. Det blir allt svårare för svenska staten att stå utanför. Med detta följer frågor om kulturell autonomi - med rättigheter till egen kultur, språk och självbestämmande i egna angelägenheter. Ett exempel är Europarådets konvention om skydd för nationella minoriteter och den så kallade stadgan om minoritetsspråk som lett fram till den samiska språklagen i Sverige. Nuvarande utveckling av de politiska och ideologiska förhållandena talar för ett samiskt språkbevarande. Ökat intresse  Intresset för språket växer i takt med ökad självkänsla och styrkt identitetsuppfattning hos samerna själva. Idag ser vi hur en rik mångfald av samiska kulturyttringar framträder på ett öppet och självklart sätt. Denna medvetenhet smittar av sig, inte minst från samiska ungdomar. <em type="italic">Nya kommunikationsmöjligheter </em>Dagens samnordiska strävanden är gynnsamma. Ökad rörlighet och fler kontaktytor ger nya möjligheter för en vidgad språkanvändning. De nya kommunikationsmöjligheterna öppnar upp samiskan, särskilt för skriftspråket. EU-finansieringar möjliggör intressanta kultur- och språkprojekt. Microsoft har utvecklat språkstöd för samiska språk. Norska Sametinget har finansierat ett projekt där man tagit fram ett rättstavningsprogram för nordsamiska, lulesamiska och sydsamiska. Samiskan finns faktiskt kvar, redo att låta sig bevaras, användas och utvecklas! </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>328</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1085</origFileName><parallel_text xml:lang="sme" location="2896.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Språksituationen i Sverige - Sametinget</p>
+<p>Språkbad i sydsamiska. Foto: Sigrid Stångberg.</p>
+<p type="title">Språksituationen i Sverige</p>
+<p>Samiska är ett hotat språk, men det finns en stark vilja till språkbevarande och språkutveckling.</p>
+<p><em type="italic">Språkbytesprocess </em>På många håll inom Sápmi pågår ett språkbyte som är långt framskridet. Det svenska majoritetsspråket dominerar. Samiskan tenderar att vara ett språk man talar i hemmet. De allra flesta äldre samer har aldrig eller endast bristfälligt fått lära sig att läsa eller skriva i skolan på sitt eget modersmål. </p>
+<p><em type="italic">Allvarlig situation </em>Situationen för samiskan kan bedömas som allvarlig. Språkbytesprocessen handlar om flera faktorer. Alltifrån en negativ regional utveckling i de samiska bosättningsområdena till mer personliga funderingar <span type="quote">”om det verkligen lönar sig att kunna språket”</span>. Men det finns också positiva krafter. <em type="italic">Positiv yttre påverkan </em>Vi har en påverkan från det internationella samfundet som baxar den svenska samepolitiken framför sig. Den internationella folkrätten och urfolksfrågor är idag aktuella. Det blir allt svårare för svenska staten att stå utanför. Med detta följer frågor om kulturell autonomi - med rättigheter till egen kultur, språk och självbestämmande i egna angelägenheter. Ett exempel är Europarådets konvention om skydd för nationella minoriteter och den så kallade stadgan om minoritetsspråk som lett fram till den samiska språklagen i Sverige. Nuvarande utveckling av de politiska och ideologiska förhållandena talar för ett samiskt språkbevarande. Ökat intresse  Intresset för språket växer i takt med ökad självkänsla och styrkt identitetsuppfattning hos samerna själva. Idag ser vi hur en rik mångfald av samiska kulturyttringar framträder på ett öppet och självklart sätt. Denna medvetenhet smittar av sig, inte minst från samiska ungdomar. <em type="italic">Nya kommunikationsmöjligheter </em>Dagens samnordiska strävanden är gynnsamma. Ökad rörlighet och fler kontaktytor ger nya möjligheter för en vidgad språkanvändning. De nya kommunikationsmöjligheterna öppnar upp samiskan, särskilt för skriftspråket. EU-finansieringar möjliggör intressanta kultur- och språkprojekt. Microsoft har utvecklat språkstöd för samiska språk. Norska Sametinget har finansierat ett projekt där man tagit fram ett rättstavningsprogram för nordsamiska, lulesamiska och sydsamiska. Samiskan finns faktiskt kvar, redo att låta sig bevaras, användas och utvecklas! </p>
+</body></document>

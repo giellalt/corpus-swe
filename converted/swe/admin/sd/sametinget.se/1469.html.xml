@@ -1,41 +1,13 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>156</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1469</origFileName>
-    <parallel_text xml:lang="sme" location="5808.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samernas bibliotek - Sametinget</p>
-    <p type="title">Samernas bibliotek</p>
-    <p>Ansvarar för Samernas bibliotek i Jokkmokk gör vår bibliotekskonsulent Peter Sarri.</p>
-    <p>
-      <em type="bold">Verksamhetsmål: </em>
-    </p>
-    <list>
-      <p type="listitem">Verka för att litteraturen på samiska och litteratur om samer och samiska förhållanden får en ökad spridning och skapa intresse för litteratur på samiska och om samer. Detta skall göras bland annat genom att informera och ge råd till biblioteken om befintlig litteratur samt informera och vägleda institutioner, skolor, organisationer och enskilda (via litteraturlistor på internet, besök, föreläsningar)</p>
-      <p type="listitem">Bygga upp Samernas bibliotek, som inkluderar ett samiskt depåbibliotek för lån till bibliotek, skolor, organisationer, föreningar, institutioner</p>
-      <p type="listitem">Verka för ökat samarbete med samiska nordiska institutioner i biblioteksfrågor för att tillvarata gemensamma resurser, vilket skall ske genom att åstadkomma informationsutbyte och samordning av verksamhet inom biblioteksområdet</p>
-      <p type="listitem">initiera och deltaga i gemensamma projekt</p>
-    </list>
-    <p>Du kan vända dig till den samiska bibliotekskonsulenten när du vill...</p>
-    <list>
-      <p type="listitem">veta något om samisk skönlitteratur och författare</p>
-      <p type="listitem">forska om samer och behöver litteraturvägledning</p>
-      <p type="listitem">få information om Samernas bibliotek</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>156</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1469</origFileName><parallel_text xml:lang="sme" location="5808.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samernas bibliotek - Sametinget</p>
+<p type="title">Samernas bibliotek</p>
+<p>Ansvarar för Samernas bibliotek i Jokkmokk gör vår bibliotekskonsulent Peter Sarri.</p>
+<p><em type="bold">Verksamhetsmål: </em></p>
+<list><p type="listitem">Verka för att litteraturen på samiska och litteratur om samer och samiska förhållanden får en ökad spridning och skapa intresse för litteratur på samiska och om samer. Detta skall göras bland annat genom att informera och ge råd till biblioteken om befintlig litteratur samt informera och vägleda institutioner, skolor, organisationer och enskilda (via litteraturlistor på internet, besök, föreläsningar)</p>
+<p type="listitem">Bygga upp Samernas bibliotek, som inkluderar ett samiskt depåbibliotek för lån till bibliotek, skolor, organisationer, föreningar, institutioner</p>
+<p type="listitem">Verka för ökat samarbete med samiska nordiska institutioner i biblioteksfrågor för att tillvarata gemensamma resurser, vilket skall ske genom att åstadkomma informationsutbyte och samordning av verksamhet inom biblioteksområdet</p>
+<p type="listitem">initiera och deltaga i gemensamma projekt</p>
+</list><p>Du kan vända dig till den samiska bibliotekskonsulenten när du vill...</p>
+<list><p type="listitem">veta något om samisk skönlitteratur och författare</p>
+<p type="listitem">forska om samer och behöver litteraturvägledning</p>
+<p type="listitem">få information om Samernas bibliotek</p>
+</list></body></document>

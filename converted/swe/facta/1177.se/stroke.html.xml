@@ -1,312 +1,254 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>5211</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Tema/Stroke/Att-fa-en-stroke/Stroke</origFileName>
-    <parallel_text xml:lang="eng" location="sammanfattning-stroke.html"/>
-    <parallel_text xml:lang="fin" location="stroke---slaganfall.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Stroke - slaganfall - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Stroke</p>
-    <list>
-      <p type="listitem">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title">Stroke - slaganfall</p>
-    <p type="title">Sammanfattning</p>
-    <p type="title">Sammanfattning</p>
-    <p type="title">Allmänt</p>
-    <p>Om man får en stroke, ett slaganfall, innebär det att man har fått en blodpropp eller en blödning i hjärnan. Det leder till en syrebrist i hjärnan som skadar de funktioner som styrs från området där blodproppen eller blödningen sitter. Stroke är livshotande och man behöver omedelbart få vård.</p>
-    <p>De flesta som får en stroke är över 65 år, men även yngre kan få det. Risken ökar om man till exempel röker, har högt blodtryck, höga blodfetter, diabetes eller har förmaksflimmer.</p>
-    <p>Det är vanligt att man har kvar besvär efter en stroke, men det varierar från person till person. Med hjälp av vård och rehabilitering kan många bli bättre eller hitta nya sätt att göra saker på.</p>
-    <p type="title">Symtom</p>
-    <p>Om man får en stroke är det vanligt att man plötsligt får</p>
-    <list>
-      <p type="listitem">domningar eller förlamning i ansikte, armar och ben, ofta i ena kroppshalvan</p>
-      <p type="listitem">svårt att tala eller förstå vad andra säger</p>
-      <p type="listitem">synstörningar på ena eller båda ögonen</p>
-      <p type="listitem">svårt att gå</p>
-      <p type="listitem">oförklarlig yrsel, ostadighet eller balansproblem.</p>
-    </list>
-    <p>Man kan också plötsligt få kraftig huvudvärk som man inte känner igen.</p>
-    <p type="title">Behandling</p>
-    <p>Ju snabbare man får vård, desto större är möjligheten att besvären försvinner eller blir bättre.</p>
-    <p>Om man har en blodpropp brukar man få medicin som förebygger nya blodproppar. Man kan också behöva få medicin som löser upp blodproppen, men bara om man kommer in till sjukhuset snabbt efter att symtomen började. Har man en blödning i hjärnan kan man behöva opereras.</p>
-    <p>Man kan också behöva annan behandling, till exempel medicin som sänker blodtrycket.</p>
-    <p>Man får ofta stanna en tid på sjukhuset för vård och rehabilitering.</p>
-    <p type="title">När ska man söka vård?</p>
-    <p>Om man själv eller någon i närheten har symtom som man misstänker beror på stroke ska man genast ringa 112.</p>
-    <p>Man kan alltid ringa sjukvårdsrådgivningen för råd.</p>
-    <p>Visa mer</p>
-    <p type="title">Vad händer i kroppen?</p>
-    <p type="title">Stroke är en allvarlig sjukdom</p>
-    <p>Stroke är ett samlingsnamn för hjärnskador som orsakas av en blodpropp eller blödning i hjärnan. Skadorna visar sig som en plötslig förlust av olika funktioner som styrs från hjärnan, till exempel tal, rörelser, känsel och syn. Stroke kallades tidigare för slaganfall.</p>
-    <p>Stroke är en allvarlig sjukdom som kan vara livshotande, framför allt om den beror på en blödning i hjärnan. Stroke är också en av de främsta orsakerna till långvariga funktionshinder hos vuxna. Om man får en stroke behöver man omedelbart få sjukhusvård.</p>
-    <p type="title">Orsakas av en blödning eller blodpropp i hjärnan</p>
-    <p>Blodcirkulationen har som uppgift att tillföra syre och näring till kroppens alla delar och frakta bort restprodukter. För att hjärnan ska kunna fungera som den ska behöver blodcirulationen till hjärnan vara bra.</p>
-    <p>Om man får en stroke har det uppstått syrebrist i någon del av hjärnan, vilket leder till att hjärnceller i det området dör. De funktioner som styrs från den delen av hjärnan kan då inte fungera som de ska. Vilka funktioner det är beror på vilken del av hjärnan som är skadad.</p>
-    <p>Stroke orsakas av att man till exempel har fått en</p>
-    <list>
-      <p type="listitem">blodpropp som kommer från hjärtat eller halsens pulsådror</p>
-      <p type="listitem">blodpropp som uppkommer vid förträngningar i hjärnans blodkärl</p>
-      <p type="listitem">blödning inuti hjärnan</p>
-      <p type="listitem">blödning mellan hjärnhinnorna, så kallad subaraknoidalblödning.</p>
-    </list>
-    <p type="title">TIA – en varningssignal</p>
-    <p>TIA, transitorisk ischemisk attack, är en störning i hjärnans blodcirkulation som går över. Det betyder att man får symtom som liknar dem man får vid stroke, men som försvinner helt inom ett dygn. Ofta varar symtomen vid TIA endast några minuter.</p>
-    <p>TIA beror på att en liten blodpropp en kort stund täpper till blodcirkulationen i ett litet kärl i hjärnan. Blodcirkulationen brukar snart bli som den ska igen och därför hinner inte någon bestående skada uppstå. Men om man får en TIA finns det en risk för att man får en ny eller större blodpropp inom de närmsta dygnen, så därför behöver man söka vård direkt på en akutmottagning för att bli undersökt och få förebyggande medicin för att minska risken för en stroke.</p>
-    <p type="title">Framför allt äldre som får stroke</p>
-    <p>I Sverige får ungefär 30 000 personer en stroke varje år. Tre fjärdedelar av dem får en stroke för första gången.</p>
-    <p>Medelåldern för att insjukna i stroke är 75 år och de allra flesta är över 65 år. Ungefär var femte person som får en stroke är yngre än så. Medelåldern bland kvinnor som får en stroke är något högre än bland män.</p>
-    <p type="title">Följderna efter en stroke är olika</p>
-    <p>Vilka besvär man får efter en stroke är olika från person till person, beroende på vilken del av hjärnan som har skadats och hur utbredd skadan är. Man kan till exempel vara förlamad eller ha nedsatt känsel i ena sidan av kroppen, få svårt att äta eller dricka, svårt att tala och att förstå vad andra säger. Man kan även bli nedstämd, få personlighetsförändringar och problem att minnas. Risken för att man ska få demens ökar också.</p>
-    <p>De första månaderna efter en stroke sker ofta stora förbättringar. En del besvär kan bli mer eller mindre bestående, men förbättringar kan ske även flera år efter en stroke.</p>
-    <p type="title">Vad beror stroke på?</p>
-    <p type="title">En blodpropp täpper till blodcirkulationen</p>
-    <p>Den allra vanligaste orsaken till stroke är att en blodpropp täpper till blodcirkulationen i ett område i hjärnan. Det kallas också för hjärninfarkt.</p>
-    <p>En blodpropp kan bildas i ett trångt blodkärl i hjärnan och kallas då trombos. Ofta är det ett mindre blodkärl i hjärnan i de djupa delarna av hjärnan som har täppts till, så kallad småkärlssjukdom.</p>
-    <p>En blodpropp kan också uppstå i en förträngning i en halspulsåder eller i hjärtat och följa med blodet till hjärnan. En sådan propp kallas emboli.</p>
-    <p>En blodpropp från hjärtat beror oftast på en störning av hjärtrytmen, ett så kallat förmaksflimmer. Andra orsaker till att en blodpropp ger sig iväg från hjärtat kan vara till exempel en hjärtinfarkt eller en inopererad klaffprotes i hjärtat. Om man har fått en hjärtinfarkt ökar risken för att blodet levrar sig och proppar bildas i hjärtat som sedan ger siv iväg till hjärnan. Men det är inte samma propp som orsakade hjärtinfarkten.</p>
-    <p type="title">En blödning i hjärnan</p>
-    <p>Stroke kan bero på en blödning från ett blodkärl. Den kan uppstå inne i hjärnan eller på hjärnans yta mellan hjärnhinnorna.</p>
-    <p>Hjärnblödningar inne i hjärnan orsakas ofta av högt blodtryck . Blödningar från blodkärl på hjärnans yta orsakas för det mesta av ett medfött pulsåderbråck.</p>
-    <p type="title">Vad som kan öka risken för att få stroke</p>
-    <p>Risken för att få en stroke ökar med åldern. Risken ökar också om man röker, dricker mycket alkohol under lång tid eller rör sig väldigt lite fysiskt. Man har även större risk om man har</p>
-    <list>
-      <p type="listitem">högt blodtryck</p>
-      <p type="listitem">diabetes</p>
-      <p type="listitem">förmaksflimmer</p>
-      <p type="listitem">en förträngning på halspulsådern</p>
-      <p type="listitem">höga blodfetter</p>
-      <p type="listitem">en ärftlighet för hjärt-kärlsjukdomar.</p>
-    </list>
-    <p type="title">Ärftlighet</p>
-    <p>Om man har stroke i släkten, hos föräldrar eller syskon, har man själv en ökad risk för att få en stroke. En del av riskökningen beror på att till exempel högt blodtryck och höga blodfetter kan vara ärftligt, medan en del förklaras av att man tar efter levnadsvanor som rökning och brist på motion från andra personer i familjen</p>
-    <p type="title">Mer på 1177 Vårdguiden</p>
-    <list>
-      <p type="listitem">Diabetes typ 2</p>
-      <p type="listitem">Förmaksflimmer, attackvis</p>
-      <p type="listitem">Förmaksflimmer, kroniskt</p>
-    </list>
-    <p type="title">Hur kan man minska risken att få en stroke?</p>
-    <p type="title">Man kan minska risken själv</p>
-    <p>Man kan göra mycket själv för att minska risken för en stroke. Det är särskilt viktigt att tänka på om man har en ärftlighet.</p>
-    <p>Om man röker minskar risken betydligt om man slutar. Är man över 50 år bör man kontrollera blodtrycket regelbundet, för att högt blodtryck ska kunna upptäckas och behandlas.</p>
-    <p>Det är bra att röra på sig regelbundet, äta nyttigt och varierat och gå ner i vikt om man är överviktig. Det minskar även risken för andra hjärt-kärlsjukdomar och typ 2-diabetes. Man bör undvika att sitta still för mycket.</p>
-    <p>Om man själv märker att man har oregelbunden hjärtrytm bör man söka läkare.</p>
-    <p type="title">Råd om bra matvanor</p>
-    <p>Vad man äter påverkar risken för att få en stroke. De allra flesta mår bra av att äta mat som innehåller mindre skadligt fett och mer frukt, grönsaker, fisk och mat som innehåller mycket fibrer. Här finns några råd:</p>
-    <list>
-      <p type="listitem">Ät mycket frukt och grönt, gärna 500 gram om dagen. Det motsvarar till exempel tre frukter och två rejäla portioner grönsaker.</p>
-      <p type="listitem">Välj gärna nyckelhålsmärkta livsmedel.</p>
-      <p type="listitem">Ät fisk ofta, gärna tre gånger i veckan.</p>
-      <p type="listitem">Använd gärna flytande margarin eller olja i matlagningen.</p>
-      <p type="listitem">Välj i första hand fullkorn när du äter bröd, flingor, gryn, pasta och ris.</p>
-      <p type="listitem">Använd mindre socker och salt.</p>
-      <p type="listitem">Undvik stora mängder alkohol.</p>
-    </list>
-    <p type="title">Mer på 1177 Vårdguiden</p>
-    <list>
-      <p type="listitem">Hälsosamma matråd</p>
-      <p type="listitem">Motion</p>
-    </list>
-    <p type="title">Symtom</p>
-    <p type="title">Symtomen kommer plötsligt</p>
-    <p>Om man får en stroke eller TIA slutar plötsligt flera funktioner i kroppen att fungera som de ska. Vilka symtom man får beror på vilken del av hjärnan som är skadad, men det är vanligt att man plötsligt</p>
-    <list>
-      <p type="listitem">får domningar eller förlamningar i ansikte, armar och ben, oftast i ena kroppshalvan</p>
-      <p type="listitem">blir förvirrad eller får svårt att tala och förstå</p>
-      <p type="listitem">får synstörningar på ena eller båda ögonen</p>
-      <p type="listitem">får svårt att gå, blir yr, får svindel eller försämrad balans</p>
-      <p type="listitem">får kraftig huvudvärk utan klar orsak.</p>
-    </list>
-    <p type="title">AKUT-testet</p>
-    <p>AKUT-testet är en enkel metod för att undersöka om en person har drabbats av stroke. Bokstäverna i ordet AKUT står för det här:</p>
-    <list>
-      <p type="listitem">A - <em type="italic">Ansikte </em>- vilket syftar på att man ska be personen le och visa tänderna. Om mungipan hänger ska man ringa nödnumret 112. </p>
-      <p type="listitem">K - <em type="italic">Kroppsdel </em>- som syftar på att man ska be personen lyfta armarna och hålla kvar i 10 sekunder. Om en arm faller ska man ringa 112. </p>
-      <p type="listitem">U - <em type="italic">Uttal </em>- syftar på att man ska be personen säga en enkel mening. Om personen sluddrar eller inte hittar rätt ord ska man ringa 112. </p>
-      <p type="listitem">T - <em type="italic">Tid </em>- anger att ju fortare personen får behandling desto mindre blir skadorna. </p>
-    </list>
-    <p type="title">Skada i höger hjärnhalva</p>
-    <p>Den högra hjärnhalvan kontrollerar rörelser i vänstra kroppshalvan. Det är också den högra hjärnhalvan som styr förmågan att analysera och att bedöma avstånd, storlek, hastighet eller position.</p>
-    <p>En skada i höger hjärnhalva orsakar ofta en förlamning eller nedsättning av känseln i den vänstra kroppshalvan. Man kan också få problem med sinnesintrycken och att orientera sig i rummet. Det kan leda till att man till exempel får svårt att bedöma avstånd, plocka upp föremål, knäppa knappar eller knyta skorna. Det kan bli problem att kommunicera på grund av att man får svårt att tolka känslor och attityder i tonfall och mimik. Det är också vanligt med personlighetsförändringar.</p>
-    <p type="title">Neglekt</p>
-    <p>Om man får en stroke är det vanligt att man får något som kallas neglekt. Det innebär att man har svårt att uppfatta, eller ignorerar helt, saker som befinner sig vid ena sidan av kroppen. Man kan också ha svårt att uppfatta den egna kroppshalvan eller ena delen av synfältet. Ordet neglekt kommer från engelskans neglect, som betyder negligera, strunta i.</p>
-    <p>Oftast är det information från vänster sida man inte uppfattar eftersom det är vanligast med neglekt vid skador i höger hjärnhalva. Neglekt kan till exempel göra att man bara äter maten på ena sidan av tallriken eller bara rakar halva ansiktet.</p>
-    <p type="title">Skador i vänster hjärnhalva</p>
-    <p>Hos de flesta som är högerhänta sitter de centra som styr språket i den vänstra hjärnhalvan. Skador i den vänstra hjärnhalvan kan därför göra att man till exempel får svårt att tala, förstå talat språk, läsa, skriva eller räkna. Liksom vid skada på den andra hjärnhalvan kan man bli förlamad och få försämrad känsel i den motsatta kroppshalvan.</p>
-    <p type="title">Afasi – språksvårigheter</p>
-    <p>Det är vanligt att man får svårt att tala och att själv uttrycka sig när man har fått en stroke. Det kallas afasi. Vilka språkliga svårigheter man får, och hur stora de är, beror på vilken del av hjärnan som är skadad.</p>
-    <p>Ofta förbättras tal- och språksvårigheterna redan efter några dagar eller veckor efter en stroke, men det är vanligt att man har fortsatt problem med språket lång tid efter.</p>
-    <p type="title">Skada i lillhjärnan</p>
-    <p>Om man får en propp eller blödning i lillhjärnan är det vanligt att man får yrsel, svårigheter med att samordna rörelser, balansproblem och ibland ofrivilliga ögonrörelser.</p>
-    <p type="title">Skada i hjärnstammen</p>
-    <p>Skador i hjärnstammen kan påverka medvetandet. Man kan även bli förlamad i ena kroppshalvan, ansiktet eller få sämre känsel. Andra besvär kan vara att man får svårt att svälja på grund av förlamning i svalget eller svårt att prata på grund av förlamning i tungan.</p>
-    <p type="title">Blödning i blodkärl på hjärnans yta</p>
-    <p>Om man får svår och plötslig huvudvärk kan det bero på en blödning i blodkärl på hjärnans yta, så kallad subaraknoidalblödning. Ofta mår man också illa och kräks. Vid en stor blödning kan man förlora medvetandet.</p>
-    <p>Blödningen beror oftast på att ett pulsåderbråck har brustit i hjärnan. Ett pulsåderbråck är en utvidgning på en pulsåder, som för det mesta beror på att blodkärlets vägg är försvagad.</p>
-    <p type="title">Blödning inne i hjärnan</p>
-    <p>Symtomen vid en blodpropp i hjärnan och en blödning inne i hjärnan är ofta likadana. Om man får en större blödning i hjärnan är det vanligare att man får huvudvärk, illamående, kräkningar och svårt att hålla sig vaken eller till och med förlorar medvetandet.</p>
-    <p type="title">Söka vård</p>
-    <p type="title">När ska man söka vård?</p>
-    <p>Om man själv eller någon i närheten har symtom som man misstänker beror på stroke ska man genast ringa 112.</p>
-    <p>Man ska alltid söka vård så fort som möjligt, även om symtomen har gått över.</p>
-    <p>Det går alltid att ringa sjukvårdsrådgivningen på telefon 1177 för att få råd.</p>
-    <p type="title">Ta inte bilen</p>
-    <p>Om man har symtom som tyder på en stroke ska man aldrig själv köra bil till sjukhuset.</p>
-    <p type="title">Undersökningar och utredningar</p>
-    <p type="title">En noggrann utredning görs</p>
-    <p>När man kommer in till sjukhuset undersöks</p>
-    <list>
-      <p type="listitem">symtomen i detalj</p>
-      <p type="listitem">exakt var skadan sitter</p>
-      <p type="listitem">om man har fått en blodpropp eller en blödning</p>
-      <p type="listitem">om det kan handla om en annan sjukdom som ger liknande symtom, till exempel epilepsi, hjärnhinneinflammation eller migrän</p>
-      <p type="listitem">vilka funktioner som är påverkade</p>
-      <p type="listitem">vilket behov av rehabilitering man har</p>
-      <p type="listitem">om det är möjligt att påbörja en behandling med blodproppslösande medicin på en gång.</p>
-    </list>
-    <p type="title">Man får genomgå olika undersökningar</p>
-    <p>På sjukhuset görs en kartläggning av tidigare sjukdomar och man själv och ofta en närstående blir intervjuade om det som har hänt. En kroppsundersökning brukar göras, där särskilt hjärtat, blodtrycket och nervsystemet undersöks.</p>
-    <p>Man brukar få lämna blodprov för att kontrollera blodvärdet, blodplättar, blodsocker och blodfetter.</p>
-    <p type="title">Några andra vanliga undersökningar</p>
-    <p>Andra vanliga undersökning man kan få genomgå är</p>
-    <list>
-      <p type="listitem">EKG för att kontrollera om det kan vara en rubbning av hjärtrytmen, hjärtinfarkt eller någon blodsjukdom som kan ligga bakom.</p>
-      <p type="listitem">Datortomografi av hjärnan för att se om orsaken är en blodpropp eller en blödning.</p>
-      <p type="listitem">Ultraljudsundersökning av halskärlen för att upptäcka eventuella förträngningar.</p>
-    </list>
-    <p>Ibland kan det behövas fler undersökningar, till exempel ultraljudsundersökning av hjärtat, kärlröntgen, ryggvätskeprov eller särskilda blodprover.</p>
-    <p type="title">Undersökning vid misstänkt hjärnblödning</p>
-    <p>Om läkaren misstänker att det finns en blödning på hjärnans yta behöver man så fort som möjligt genomgå en datortomografiundersökning. Då syns blödningen oftast, men inte alltid. Om det inte syns någon blödning, men läkaren ändå misstänker en hjärnblödning, undersöks ryggvätskan genom att man får lämna ett speciellt prov, ryggvätskeprov. Provet görs också genom en så kallad lumbalpunktion och innebär att läkaren sticker in en tunn nål mellan de nedersta ryggkotorna för att komma åt den vätska som omger ryggmärgen. Det är samma vätska som omger hjärnan, och den undersöks för att se om den innehåller blod.</p>
-    <p>Om man har en hjärnblödning brukar man utredas vidare på en neurokirurgisk klinik.</p>
-    <p type="title">Olika funktioner undersöks</p>
-    <p>De första undersökningarna görs för att utreda orsaken till en stroke, för att kunna påbörja behandling. Därefter undersöks hur skadan påverkar olika kroppsliga funktioner. Då testas till exempel hur man förflyttar sig, balans, förmåga att svälja och tala. Den intellektuella förmågan testas ibland också.</p>
-    <p>Undersökningarna görs av personal från stroketeamet, till exempel arbetsterapeut, sjuksköterska, sjukgymnast och logoped. Personalen testar vilka förmågor man har och vilka funktioner som har blivit skadade.</p>
-    <p type="title">Behandling</p>
-    <p type="title">Vård på särskild strokeenhet</p>
-    <p>De allra flesta som får en stroke vårdas på en särskild strokeenhet på ett sjukhus, där akutvård och rehabilitering kombineras. På en strokeenhet arbetar vårdpersonal som är specialutbildade inom stroke och rehabilitering efter stroke. Det är bland annat läkare, sjuksköterskor, undersköterskor, sjukgymnaster, logopeder, arbetsterapeuter och kuratorer.</p>
-    <p>Målet med behandlingen är att minska följderna av sjukdomen. Omvårdnad och rehabilitering är samma vid stroke orsakad av hjärnblödning och av blodpropp.</p>
-    <p type="title">Om orsaken är en blodpropp</p>
-    <p>Vilken behandling man får beror på vad som är orsaken till att man har fått en stroke. Om utredningen visar att orsaken är en blodpropp får man medicin som förebygger nya blodproppar .</p>
-    <p>För att begränsa skadorna i hjärnan behöver närings- och syretillförseln vara så bra som möjligt. Därför kontrolleras blodtryck, hjärnfunktionerna, andning och eventuell diabetes noggrant och behandlas om det behövs.</p>
-    <p>En del kan få blodproppslösande medicin direkt i blodet med ett dropp. Det är en behandling som man måste få inom 4, 5 timmar efter att de första symtomen började, så därför är det så viktigt att komma till sjukhus snabbt när man får symtom på en stroke. Behandlingen med propplösande medicin kan öka risken för hjärnblödning. Om man till exempel har haft en hjärnblödning tidigare, om man har mycket lindriga symtom eller om skadan är mycket svår brukar riskerna med behandlingen vara för stora.</p>
-    <p>Ibland, vid allvarligare blodpropp, kan blodproppen avlägsnas med hjälp av en slang som förs in i pulsådern i ljumsken och når hjärnan. Den behandlingen måste ske inom de närmaste timmarna efter att man har blivit sjuk.</p>
-    <p type="title">Behandling vid blödning i hjärnan</p>
-    <p>En blödning mellan hjärnhinnorna beror ofta på ett litet pulsåderbråck på hjärnans yta. Läkaren kan då ofta genom en särskild metod få blodet att levra sig i pulsåderbråcket så att det hindrar en ny blödning. Metoden går ut på att läkaren för in metalltrådar som rullar ihop sig till ett nystan i pulsåderbråcket. Metalltrådarna förs in med hjälp av en kateter via pulsådern i ljumsken.</p>
-    <p>Ibland, men det är ovanligt, kan man behöva opereras även om blödningen har skett inne i hjärnvävnaden. Men det brukar bara vara om man snabbt försämras och blödningen ligger ytligt.</p>
-    <p type="title">Operation av förträngning på halspulsådern</p>
-    <p>Om man har en kraftigare förträngning på halspulsådern brukar man opereras, för att ta bort förträngningen och därmed förhindra att det bildas nya blodproppar. En sådan operation görs oftast inom två veckor efter blodproppen.</p>
-    <p>Operationen tar ungefär en halvtimme och man är antingen sövd eller får lokalbedövning. Genom huden på halsen öppnar kirurgen halspulsådern och rensar ut förträngningen från kärlet.</p>
-    <p>Man brukar stanna på sjukhuset några dagar efter operationen.</p>
-    <p type="title">Mediciner kan minska risken för stroke</p>
-    <p>För att man inte ska få en ny stroke får man ofta behandling med läkemedel. Det är till exempel</p>
-    <list>
-      <p type="listitem">blodtryckssänkande mediciner mot högt blodtryck. Även om man har normalt blodtryck verkar risken för en ny stroke minska om blodtrycket sänks ytterligare.</p>
-      <p type="listitem">blodproppsförebyggande medicin som innehåller acetylsalicylsyra (eventuellt i kombination med dipyridamol) eller klopidogrel. Vid blodproppar som beror på förmaksflimmer används i stället blodförtunnande som warfarin, dabigatran, apixaban, eller rivaroxaban. De minskar blodets levringsförmåga och minskar risken för blodproppar om man har förmaksflimmer.</p>
-      <p type="listitem">kolesterolsänkande medicin som innehåller simvastatin, pravastatin eller atorvastatin. Sänkta blodfetter kan minska risken för att bli sjuk igen efter en TIA eller stroke. Har man haft en stroke är risken större även för att man ska få en hjärtinfarkt, och då kan risken minska med hjälp av kolesterolsänkande medicin.</p>
-    </list>
-    <p type="title">Långsiktig uppföljning efter en stroke</p>
-    <p>Efter att man har haft en stroke går man på regelbundna återbesök hos en läkare, oftast på en vårdcentral. Samtidigt får man ofta rehabilitering hos en sjukgymnast, arbetsterapeut och ibland logoped.</p>
-    <p>Vid återbesöken hos läkaren kontrolleras bland annat om man har haft nya symtom eller har fått några komplikationer.</p>
-    <p>Annat som kontrolleras är till exempel</p>
-    <list>
-      <p type="listitem">blodtrycket</p>
-      <p type="listitem">hur medicinerna fungerar och om man har några biverkningar</p>
-      <p type="listitem">om några nya riskfaktorer har tillkommit, till exempel diabetes</p>
-      <p type="listitem">hur man klarar sina dagliga sysslor, som att äta, klä sig, tvätta sig och förflytta sig</p>
-      <p type="listitem">hur samverkan mellan vård och rehabilitering inom kommun och landsting fungerar.</p>
-    </list>
-    <p>Man brukar också prata om hur träningen går och hur det sociala livet fungerar. Läkaren vill också få en bild av hur vardagen fungerar praktiskt och att man får den information om sjukdomen man behöver.</p>
-    <p>Närstående har en viktig roll för den som har fått en stroke, och på läkarbesöken pratar man om hur relationen med närstående fungerar och hur de upplever situationen. Ofta följer närstående med vid läkarbesöken.</p>
-    <p type="title">Komplikationer</p>
-    <p type="title">Komplikationer man kan få efter en stroke</p>
-    <p>Förutom de direkta följderna av hjärnskadan, som förlamningar och talsvårigheter, kan man även få andra komplikationer efter en stroke på kortare eller längre sikt. Det kan till exempel vara</p>
-    <list>
-      <p type="listitem">hjärnödem, svullnad i och omkring hjärnskadan</p>
-      <p type="listitem">blodproppar i benen eller lungorna</p>
-      <p type="listitem">lunginflammation</p>
-      <p type="listitem">epileptiska anfall</p>
-      <p type="listitem">depression och svårigheter att kontrollera sina känslor</p>
-      <p type="listitem">skador som kan uppstå om man faller, till exempel frakturer</p>
-      <p type="listitem">besvär med urinvägarna</p>
-      <p type="listitem">trycksår</p>
-      <p type="listitem">förstoppning</p>
-      <p type="listitem">smärta från leder och andra kroppsdelar.</p>
-    </list>
-    <p>Om speciellt känsliga delar, eller stora delar, av hjärnan skadas kan stroke leda till att man får demens. Det gäller särskilt om man har haft stroke flera gånger.</p>
-    <p type="title">Hjärnödem</p>
-    <p>Hjärnödem innebär att vätska har samlats i hjärnan så att hjärnan sväller. Trycket kan då öka inne i skallen och blodcirkulationen till hjärnan kan minska. Hjärnödem är allvarligt och det finns ingen medicin som effektivt kan förhindra att man får hjärnödem vid stroke, men ibland kan man opereras. Störst risk för att få hjärnödem är två till fyra dagar efter en stroke.</p>
-    <p type="title">Blodpropp i benen</p>
-    <p>Stroke och andra sjukdomar hos äldre som leder till att man ligger stilla länge ökar risken för att man ska få blodproppar i benen. En propp i benet kan lossna och ge sig iväg till lungorna, vilket är livshotande. Risken kan minskas genom att man tidigt tränar på att gå och stå och undviker att ligga till sängs. Blodförtunnande medicin används främst om man har så allvarlig stroke att man inte kan gå eller stå på grund av förlamning i benet.</p>
-    <p type="title">Lunginflammation</p>
-    <p>Lunginflammation kan bero på att man har svalt fel och fått ner mat och dryck i luftrören, eller att man inte kan hosta som vanligt. Man får behandling med antibiotika och febernedsättande läkemedel, eftersom feber kan förvärra hjärnskadan man får vid en stroke. En sjukgymnast kan hjälpa till med andningsgymnastik.</p>
-    <p type="title">Epileptiska anfall</p>
-    <p>En del kan få epileptiska anfall i samband med en stroke, men risken för att man ska få bestående epilepsi är liten. Epileptiska anfall kan ibland komma lång tid efter att man har haft en stroke, ibland efter flera år.</p>
-    <p type="title">Depression</p>
-    <p>En del blir deprimerade under de första månaderna efter en stroke. Behandling med läkemedel och psykologiskt stöd från vårdpersonal och närstående kan då hjälpa.</p>
-    <p>Det är vanligt att man får en ökad psykisk känslighet efter en stroke. Man har då svårt att kontrollera sina känslor och gråter lätt, vilket många själva tycker är jobbigt. Läkemedel mot depression kan hjälpa.</p>
-    <p type="title">Andra besvär</p>
-    <p>Man kan få besvär från urinvägarna på grund av att hjärnan har svårare att kontrollera urinblåsan. Då kan man få få svårt att kissa och kan inte tömma urinblåsan helt. Eftersom man ligger still länge kan man få ont i leder och andra kroppsdelar. Man kan också få förstoppning på grund av att man rör sig för lite eller får i sig för lite vätska.</p>
-    <p>Eftersom man blir mindre rörlig, eller har sämre känsel, kan man lättare få trycksår.</p>
-    <p type="title">Rehabilitering</p>
-    <p type="title">Livet efter en stroke</p>
-    <p>Att få en stroke innebär i allmänhet en stor förändring i livet. Både den som blir sjuk och de närstående måste anpassa sig till den nya situationen. Ofta behöver man professionell hjälp för att kunna återskapa ett vardagsliv som man trivs med och som känns givande.</p>
-    <p>Efter en tids vård och rehabilitering på sjukhuset fortsätter rehabiliteringen ofta i hemmet. Yngre personer som arbetar kan behöva rehabilitering som inriktar sig på arbetet. Den sker ofta i anslutning till en rehabiliteringsklinik.</p>
-    <p type="title">Att komma hem igen</p>
-    <p>För många känns det skönt att komma hem igen efter sjukhusvistelsen. I hemmet är det lättare att styra över sin egen tillvaro och många uppskattar att kunna använda personliga saker och ha nära till vänner och grannar.</p>
-    <p>För en del kan hemmiljön begränsa möjligheten att leva ett aktivt liv, och man kan då få sin bostad anpassad. Det är vanligtvis en arbetsterapeut som hjälper till om man har behov av bostadsanpassning. Många behöver hjälp av närstående eller hemhjälp för att kunna klara av vardagen. Ofta tar det lång tid att anpassa sig till den nya situationen.</p>
-    <p type="title">Att lära känna det nya</p>
-    <p>Om man har haft en stroke upplever man ofta sig själv och sin omvärld på ett nytt sätt. Förmågan att röra sig och kommunicera kan ha påverkats och det kan till en början vara svårt att hantera förändringarna. Att lära känna sitt nya jag är ofta en förutsättning för att man ska kunna fungera bra i vardagen. Genom att våga prova olika aktiviteter kan man lära känna sina resurser och begränsningar. På så sätt kan man även träna upp sina tidigare förmågor på nytt eller hitta lösningar på problem som uppstår.</p>
-    <p type="title">Man bör vänta med att köra bil</p>
-    <p>Stroke kan påverka förmågan att köra bil. Innan man provar att köra bil ska man diskutera detta med sin läkare. Vanligtvis rekommenderar läkaren att man ska avvakta med att köra bil helt under de närmaste månaderna efter en stroke. Efter den perioden bedömer läkaren om det är lämpligt att köra bil. Ofta måste en specialundersökning hos ögonläkare göras för att se om man ser vissa delar av synfältet sämre.</p>
-    <p type="title">Närstående behöver hjälpa till lagom mycket</p>
-    <p>Det finns en risk att närstående eller hemhjälp hjälper till för mycket och på det sättet hindrar den som har haft en stroke att lära sig hantera det nya. En stimulerande och lagom stödjande miljö underlättar förbättringar. Att be den som har haft en stroke att beskriva hur man upplever situationen kan bidra till att närstående bättre förstår hur man kan ge lagom mycket assistans och uppmuntran. Särskilt svårt kan det vara om den som har haft en stroke har svårt att tala eller skriva och inte kan berätta hur han eller hon upplever sin situation. Ofta behövs det lugn och ro och gott om tid för att hitta ett nytt sätt att kommunicera med varandra.</p>
-    <p type="title">Rehabilitering i hemmet</p>
-    <p>Det blir allt vanligare att den mer långsiktiga rehabiliteringen sker i hemmet. Rehabiliteringspersonal, som arbetsterapeuter, sjukgymnaster och logopeder, gör täta hembesök i början och samarbetar i allmänhet med läkare, sjuksköterska, kurator och kanske en psykolog. Hembesöken glesas så småningom ut allteftersom man själv och närstående upplever att man kan hantera sin vardag på egen hand eller med hjälp av hemhjälp. Om det behövs kan man fortsätta att delta i rehabiliteringsaktiviteter utanför hemmet, som sjukgymnastik och arbetsterapi.</p>
-    <p>Hemmet är en bra miljö för rehabilitering eftersom träningen kan anpassas till de intressen och vanor man har på ett bättre sätt än i sjukhusmiljön. Närstående kan också ta en mer aktiv del i rehabiliteringen. Yngre personer kan efter en stroke få en personlig assistent för att klara sina vardagliga sysslor.</p>
-    <p>Målet med rehabiliteringen i hemmet är att den som har fått en stroke ska uppleva delaktighet och tillfredsställelse i sitt vardagsliv. Det kan bland annat uppnås genom att</p>
-    <list>
-      <p type="listitem">man tränar upp nedsatta funktioner</p>
-      <p type="listitem">man lär sig nya sätt att utföra olika aktiviteter på</p>
-      <p type="listitem">bostadsmiljön anpassas</p>
-      <p type="listitem">personlig assistans och stöd i vardagen anpassas efter de önskemål och behov man har.</p>
-    </list>
-    <p type="title">Att träna upp nedsatta funktioner</p>
-    <p>Under de första veckorna eller månaderna efter en stroke sker ofta en förbättring av de funktioner som har blivit nedsatta på grund av hjärnskadan. Träning och aktivitet kan bidra till förbättringen. Fortsatt förbättring kan sedan pågå under lång tid, flera år, efter att man fick en stroke.</p>
-    <p>Träningen är i början oftast inriktad på att förbättra kroppens olika funktioner, som till exempel språket, minnet, uppmärksamheten och rörelsefunktionen. Man får även insikt om de egna begränsningarna, och får träna förmågan att planera, organisera och genomföra olika aktiviteter.</p>
-    <p>På Tema hjälpmedel kan du läsa om hur det går till att få hjälpmedel, och söka fram vilka som finns att få där du bor.</p>
-    <p type="title">Träningen anpassas till förmågan</p>
-    <p>I hemmet sker träningen ofta genom vardagsaktiviteter som man själv upplever som meningsfulla. Har man svårt för att stå eller gå på grund av en förlamning i någon kroppshalva tränar man till exempel genom att stå vid diskbänken när man diskar eller gå till affären och handla mat. Det är ofta en sjukgymnast som ansvarar för den träning som går ut på att förbättra rörelseförmågan.</p>
-    <p>Träningen ska vara lagom utmanande. Det betyder att man varken ska välja för svåra eller för lätta aktiviteter. Tillsammans med arbetsterapeuten eller sjukgymnasten försöker man hitta lämpliga, lagom utmanande träningsaktiviteter och program som man kan utföra på egen hand. Man behöver även träna talet och språkförmågan och en logoped kan hjälpa till med bra övningar.</p>
-    <p type="title">Lära känna sina egna begränsningar</p>
-    <p>Ibland kan det ta längre tid att träna upp de nedsatta förmågor som inte syns utåt, som till exempel försämrat minne och försämrad uppmärksamhet eller insikt. Träningen inriktas då först på att man ska lära känna sina egna begränsningar, för att sedan kunna träna upp förmågan mer aktivt. Ett sätt att bli medveten om sina begränsningar är att konfronteras med dem i aktiviteter som man tidigare klarade av utan problem. Om man känner till sina begränsningar kan man också göra någonting åt dem.</p>
-    <p type="title">Att lära sig nya sätt att göra saker på</p>
-    <p>Hjärnan har en förmåga att i varierande grad återhämta sig efter en stroke och olika funktioner kan förbättras en lång tid efter insjuknandet.</p>
-    <p>Redan tidigt efter en stroke är det vanligt att man behöver lära sig att utföra vanliga dagliga aktiviteter på ett nytt sätt. Man kan behöva använda en hand när man äter eller använda rullstol i stället för att gå. Man kan också behöva lära sig kommunicera på ett nytt sätt. Ibland löser man det på egen hand, men man kan också få stöd och råd från arbetsterapeuten.</p>
-    <p type="title">Bostaden kan anpassas</p>
-    <p>Genom att anpassa bostaden på olika sätt kan man underlätta vardagslivet. Ibland räcker det med hjälpmedel som en duschpall eller ett stödhandtag och ibland behövs det mer omfattande förändringar som borttagning av trösklar och badkar. Det är i allmänhet arbetsterapeuten som ansvarar för bostadsanpassning och utprovning av hjälpmedel.</p>
-    <p type="title">Hjälp och stöd i vardagen</p>
-    <p>Det är vanligt att man behöver någon form av hjälp och stöd i vardagen efter en stroke. Närstående, hemhjälp eller personlig assistent behöver ofta handledning av rehabiliteringspersonal i hur de på bästa sätt kan hjälpa till i olika situationer. Det gäller att ge lagom mycket stöd eller hjälp till självhjälp. Ofta hjälper omgivningen till för mycket i sin iver att visa kärlek och omtanke, och det gäller att hitta en balans.</p>
-    <p type="title">Att bli nöjd med livet igen</p>
-    <p>Det kan vara jobbigt och ta lång tid att återerövra vardagslivet efter en stroke, både för en själv och för närstående. Ofta behöver de närstående avlastning och stöd av till exempel barn, vänner eller hemhjälp för att orka. Det finns en risk att både man själv och närstående isolerar sig. Det kan leda till att man helt enkelt blir mindre nöjd med livet.</p>
-    <p>Man behöver ofta få hjälp med att utveckla nya intressen utanför hemmet och att återuppta sina gamla roller, som till exempel rollen som pappa eller morfar. En del som har haft en stroke har lättare än andra att anpassa sig till det nya och kunna se livets möjligheter och rikedom. Andra behöver lite mer stöd och hjälp.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>5205</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Tema/Stroke/Att-fa-en-stroke/Stroke</origFileName><parallel_text xml:lang="eng" location="sammanfattning-stroke.html"/><parallel_text xml:lang="fin" location="stroke---slaganfall.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Stroke - slaganfall - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Stroke - slaganfall</p>
+<p type="title">Sammanfattning</p>
+<p type="title">Sammanfattning</p>
+<p type="title">Allmänt</p>
+<p>Om man får en stroke, ett slaganfall, innebär det att man har fått en blodpropp eller en blödning i hjärnan. Det leder till en syrebrist i hjärnan som skadar de funktioner som styrs från området där blodproppen eller blödningen sitter. Stroke är livshotande och man behöver omedelbart få vård.</p>
+<p>De flesta som får en stroke är över 65 år, men även yngre kan få det. Risken ökar om man till exempel röker, har högt blodtryck, höga blodfetter, diabetes eller har förmaksflimmer.</p>
+<p>Det är vanligt att man har kvar besvär efter en stroke, men det varierar från person till person. Med hjälp av vård och rehabilitering kan många bli bättre eller hitta nya sätt att göra saker på.</p>
+<p type="title">Symtom</p>
+<p>Om man får en stroke är det vanligt att man plötsligt får</p>
+<list><p type="listitem">domningar eller förlamning i ansikte, armar och ben, ofta i ena kroppshalvan</p>
+<p type="listitem">svårt att tala eller förstå vad andra säger</p>
+<p type="listitem">synstörningar på ena eller båda ögonen</p>
+<p type="listitem">svårt att gå</p>
+<p type="listitem">oförklarlig yrsel, ostadighet eller balansproblem.</p>
+</list><p>Man kan också plötsligt få kraftig huvudvärk som man inte känner igen.</p>
+<p type="title">Behandling</p>
+<p>Ju snabbare man får vård, desto större är möjligheten att besvären försvinner eller blir bättre.</p>
+<p>Om man har en blodpropp brukar man få medicin som förebygger nya blodproppar. Man kan också behöva få medicin som löser upp blodproppen, men bara om man kommer in till sjukhuset snabbt efter att symtomen började. Har man en blödning i hjärnan kan man behöva opereras.</p>
+<p>Man kan också behöva annan behandling, till exempel medicin som sänker blodtrycket.</p>
+<p>Man får ofta stanna en tid på sjukhuset för vård och rehabilitering.</p>
+<p type="title">När ska man söka vård?</p>
+<p>Om man själv eller någon i närheten har symtom som man misstänker beror på stroke ska man genast ringa 112.</p>
+<p>Man kan alltid ringa sjukvårdsrådgivningen för råd.</p>
+<p>Visa mer</p>
+<p type="title">Vad händer i kroppen?</p>
+<p type="title">Stroke är en allvarlig sjukdom</p>
+<p>Stroke är ett samlingsnamn för hjärnskador som orsakas av en blodpropp eller blödning i hjärnan. Skadorna visar sig som en plötslig förlust av olika funktioner som styrs från hjärnan, till exempel tal, rörelser, känsel och syn. Stroke kallades tidigare för slaganfall.</p>
+<p>Stroke är en allvarlig sjukdom som kan vara livshotande, framför allt om den beror på en blödning i hjärnan. Stroke är också en av de främsta orsakerna till långvariga funktionshinder hos vuxna. Om man får en stroke behöver man omedelbart få sjukhusvård.</p>
+<p type="title">Orsakas av en blödning eller blodpropp i hjärnan</p>
+<p>Blodcirkulationen har som uppgift att tillföra syre och näring till kroppens alla delar och frakta bort restprodukter. För att hjärnan ska kunna fungera som den ska behöver blodcirulationen till hjärnan vara bra.</p>
+<p>Om man får en stroke har det uppstått syrebrist i någon del av hjärnan, vilket leder till att hjärnceller i det området dör. De funktioner som styrs från den delen av hjärnan kan då inte fungera som de ska. Vilka funktioner det är beror på vilken del av hjärnan som är skadad.</p>
+<p>Stroke orsakas av att man till exempel har fått en</p>
+<list><p type="listitem">blodpropp som kommer från hjärtat eller halsens pulsådror</p>
+<p type="listitem">blodpropp som uppkommer vid förträngningar i hjärnans blodkärl</p>
+<p type="listitem">blödning inuti hjärnan</p>
+<p type="listitem">blödning mellan hjärnhinnorna, så kallad subaraknoidalblödning.</p>
+</list><p type="title">TIA – en varningssignal</p>
+<p>TIA, transitorisk ischemisk attack, är en störning i hjärnans blodcirkulation som går över. Det betyder att man får symtom som liknar dem man får vid stroke, men som försvinner helt inom ett dygn. Ofta varar symtomen vid TIA endast några minuter.</p>
+<p>TIA beror på att en liten blodpropp en kort stund täpper till blodcirkulationen i ett litet kärl i hjärnan. Blodcirkulationen brukar snart bli som den ska igen och därför hinner inte någon bestående skada uppstå. Men om man får en TIA finns det en risk för att man får en ny eller större blodpropp inom de närmsta dygnen, så därför behöver man söka vård direkt på en akutmottagning för att bli undersökt och få förebyggande medicin för att minska risken för en stroke.</p>
+<p type="title">Framför allt äldre som får stroke</p>
+<p>I Sverige får ungefär 30 000 personer en stroke varje år. Tre fjärdedelar av dem får en stroke för första gången.</p>
+<p>Medelåldern för att insjukna i stroke är 75 år och de allra flesta är över 65 år. Ungefär var femte person som får en stroke är yngre än så. Medelåldern bland kvinnor som får en stroke är något högre än bland män.</p>
+<p type="title">Följderna efter en stroke är olika</p>
+<p>Vilka besvär man får efter en stroke är olika från person till person, beroende på vilken del av hjärnan som har skadats och hur utbredd skadan är. Man kan till exempel vara förlamad eller ha nedsatt känsel i ena sidan av kroppen, få svårt att äta eller dricka, svårt att tala och att förstå vad andra säger. Man kan även bli nedstämd, få personlighetsförändringar och problem att minnas. Risken för att man ska få demens ökar också.</p>
+<p>De första månaderna efter en stroke sker ofta stora förbättringar. En del besvär kan bli mer eller mindre bestående, men förbättringar kan ske även flera år efter en stroke.</p>
+<p type="title">Vad beror stroke på?</p>
+<p type="title">En blodpropp täpper till blodcirkulationen</p>
+<p>Den allra vanligaste orsaken till stroke är att en blodpropp täpper till blodcirkulationen i ett område i hjärnan. Det kallas också för hjärninfarkt.</p>
+<p>En blodpropp kan bildas i ett trångt blodkärl i hjärnan och kallas då trombos. Ofta är det ett mindre blodkärl i hjärnan i de djupa delarna av hjärnan som har täppts till, så kallad småkärlssjukdom.</p>
+<p>En blodpropp kan också uppstå i en förträngning i en halspulsåder eller i hjärtat och följa med blodet till hjärnan. En sådan propp kallas emboli.</p>
+<p>En blodpropp från hjärtat beror oftast på en störning av hjärtrytmen, ett så kallat förmaksflimmer. Andra orsaker till att en blodpropp ger sig iväg från hjärtat kan vara till exempel en hjärtinfarkt eller en inopererad klaffprotes i hjärtat. Om man har fått en hjärtinfarkt ökar risken för att blodet levrar sig och proppar bildas i hjärtat som sedan ger siv iväg till hjärnan. Men det är inte samma propp som orsakade hjärtinfarkten.</p>
+<p type="title">En blödning i hjärnan</p>
+<p>Stroke kan bero på en blödning från ett blodkärl. Den kan uppstå inne i hjärnan eller på hjärnans yta mellan hjärnhinnorna.</p>
+<p>Hjärnblödningar inne i hjärnan orsakas ofta av högt blodtryck . Blödningar från blodkärl på hjärnans yta orsakas för det mesta av ett medfött pulsåderbråck.</p>
+<p type="title">Vad som kan öka risken för att få stroke</p>
+<p>Risken för att få en stroke ökar med åldern. Risken ökar också om man röker, dricker mycket alkohol under lång tid eller rör sig väldigt lite fysiskt. Man har även större risk om man har</p>
+<list><p type="listitem">högt blodtryck</p>
+<p type="listitem">diabetes</p>
+<p type="listitem">förmaksflimmer</p>
+<p type="listitem">en förträngning på halspulsådern</p>
+<p type="listitem">höga blodfetter</p>
+<p type="listitem">en ärftlighet för hjärt-kärlsjukdomar.</p>
+</list><p type="title">Ärftlighet</p>
+<p>Om man har stroke i släkten, hos föräldrar eller syskon, har man själv en ökad risk för att få en stroke. En del av riskökningen beror på att till exempel högt blodtryck och höga blodfetter kan vara ärftligt, medan en del förklaras av att man tar efter levnadsvanor som rökning och brist på motion från andra personer i familjen</p>
+<p type="title">Mer på 1177 Vårdguiden</p>
+<list><p type="listitem">Diabetes typ 2</p>
+<p type="listitem">Förmaksflimmer, attackvis</p>
+<p type="listitem">Förmaksflimmer, kroniskt</p>
+</list><p type="title">Hur kan man minska risken att få en stroke?</p>
+<p type="title">Man kan minska risken själv</p>
+<p>Man kan göra mycket själv för att minska risken för en stroke. Det är särskilt viktigt att tänka på om man har en ärftlighet.</p>
+<p>Om man röker minskar risken betydligt om man slutar. Är man över 50 år bör man kontrollera blodtrycket regelbundet, för att högt blodtryck ska kunna upptäckas och behandlas.</p>
+<p>Det är bra att röra på sig regelbundet, äta nyttigt och varierat och gå ner i vikt om man är överviktig. Det minskar även risken för andra hjärt-kärlsjukdomar och typ 2-diabetes. Man bör undvika att sitta still för mycket.</p>
+<p>Om man själv märker att man har oregelbunden hjärtrytm bör man söka läkare.</p>
+<p type="title">Råd om bra matvanor</p>
+<p>Vad man äter påverkar risken för att få en stroke. De allra flesta mår bra av att äta mat som innehåller mindre skadligt fett och mer frukt, grönsaker, fisk och mat som innehåller mycket fibrer. Här finns några råd:</p>
+<list><p type="listitem">Ät mycket frukt och grönt, gärna 500 gram om dagen. Det motsvarar till exempel tre frukter och två rejäla portioner grönsaker.</p>
+<p type="listitem">Välj gärna nyckelhålsmärkta livsmedel.</p>
+<p type="listitem">Ät fisk ofta, gärna tre gånger i veckan.</p>
+<p type="listitem">Använd gärna flytande margarin eller olja i matlagningen.</p>
+<p type="listitem">Välj i första hand fullkorn när du äter bröd, flingor, gryn, pasta och ris.</p>
+<p type="listitem">Använd mindre socker och salt.</p>
+<p type="listitem">Undvik stora mängder alkohol.</p>
+</list><p type="title">Mer på 1177 Vårdguiden</p>
+<list><p type="listitem">Hälsosamma matråd</p>
+<p type="listitem">Motion</p>
+</list><p type="title">Symtom</p>
+<p type="title">Symtomen kommer plötsligt</p>
+<p>Om man får en stroke eller TIA slutar plötsligt flera funktioner i kroppen att fungera som de ska. Vilka symtom man får beror på vilken del av hjärnan som är skadad, men det är vanligt att man plötsligt</p>
+<list><p type="listitem">får domningar eller förlamningar i ansikte, armar och ben, oftast i ena kroppshalvan</p>
+<p type="listitem">blir förvirrad eller får svårt att tala och förstå</p>
+<p type="listitem">får synstörningar på ena eller båda ögonen</p>
+<p type="listitem">får svårt att gå, blir yr, får svindel eller försämrad balans</p>
+<p type="listitem">får kraftig huvudvärk utan klar orsak.</p>
+</list><p type="title">AKUT-testet</p>
+<p>AKUT-testet är en enkel metod för att undersöka om en person har drabbats av stroke. Bokstäverna i ordet AKUT står för det här:</p>
+<list><p type="listitem">A - <em type="italic">Ansikte </em>- vilket syftar på att man ska be personen le och visa tänderna. Om mungipan hänger ska man ringa nödnumret 112. </p>
+<p type="listitem">K - <em type="italic">Kroppsdel </em>- som syftar på att man ska be personen lyfta armarna och hålla kvar i 10 sekunder. Om en arm faller ska man ringa 112. </p>
+<p type="listitem">U - <em type="italic">Uttal </em>- syftar på att man ska be personen säga en enkel mening. Om personen sluddrar eller inte hittar rätt ord ska man ringa 112. </p>
+<p type="listitem">T - <em type="italic">Tid </em>- anger att ju fortare personen får behandling desto mindre blir skadorna. </p>
+</list><p type="title">Skada i höger hjärnhalva</p>
+<p>Den högra hjärnhalvan kontrollerar rörelser i vänstra kroppshalvan. Det är också den högra hjärnhalvan som styr förmågan att analysera och att bedöma avstånd, storlek, hastighet eller position.</p>
+<p>En skada i höger hjärnhalva orsakar ofta en förlamning eller nedsättning av känseln i den vänstra kroppshalvan. Man kan också få problem med sinnesintrycken och att orientera sig i rummet. Det kan leda till att man till exempel får svårt att bedöma avstånd, plocka upp föremål, knäppa knappar eller knyta skorna. Det kan bli problem att kommunicera på grund av att man får svårt att tolka känslor och attityder i tonfall och mimik. Det är också vanligt med personlighetsförändringar.</p>
+<p type="title">Neglekt</p>
+<p>Om man får en stroke är det vanligt att man får något som kallas neglekt. Det innebär att man har svårt att uppfatta, eller ignorerar helt, saker som befinner sig vid ena sidan av kroppen. Man kan också ha svårt att uppfatta den egna kroppshalvan eller ena delen av synfältet. Ordet neglekt kommer från engelskans neglect, som betyder negligera, strunta i.</p>
+<p>Oftast är det information från vänster sida man inte uppfattar eftersom det är vanligast med neglekt vid skador i höger hjärnhalva. Neglekt kan till exempel göra att man bara äter maten på ena sidan av tallriken eller bara rakar halva ansiktet.</p>
+<p type="title">Skador i vänster hjärnhalva</p>
+<p>Hos de flesta som är högerhänta sitter de centra som styr språket i den vänstra hjärnhalvan. Skador i den vänstra hjärnhalvan kan därför göra att man till exempel får svårt att tala, förstå talat språk, läsa, skriva eller räkna. Liksom vid skada på den andra hjärnhalvan kan man bli förlamad och få försämrad känsel i den motsatta kroppshalvan.</p>
+<p type="title">Afasi – språksvårigheter</p>
+<p>Det är vanligt att man får svårt att tala och att själv uttrycka sig när man har fått en stroke. Det kallas afasi. Vilka språkliga svårigheter man får, och hur stora de är, beror på vilken del av hjärnan som är skadad.</p>
+<p>Ofta förbättras tal- och språksvårigheterna redan efter några dagar eller veckor efter en stroke, men det är vanligt att man har fortsatt problem med språket lång tid efter.</p>
+<p type="title">Skada i lillhjärnan</p>
+<p>Om man får en propp eller blödning i lillhjärnan är det vanligt att man får yrsel, svårigheter med att samordna rörelser, balansproblem och ibland ofrivilliga ögonrörelser.</p>
+<p type="title">Skada i hjärnstammen</p>
+<p>Skador i hjärnstammen kan påverka medvetandet. Man kan även bli förlamad i ena kroppshalvan, ansiktet eller få sämre känsel. Andra besvär kan vara att man får svårt att svälja på grund av förlamning i svalget eller svårt att prata på grund av förlamning i tungan.</p>
+<p type="title">Blödning i blodkärl på hjärnans yta</p>
+<p>Om man får svår och plötslig huvudvärk kan det bero på en blödning i blodkärl på hjärnans yta, så kallad subaraknoidalblödning. Ofta mår man också illa och kräks. Vid en stor blödning kan man förlora medvetandet.</p>
+<p>Blödningen beror oftast på att ett pulsåderbråck har brustit i hjärnan. Ett pulsåderbråck är en utvidgning på en pulsåder, som för det mesta beror på att blodkärlets vägg är försvagad.</p>
+<p type="title">Blödning inne i hjärnan</p>
+<p>Symtomen vid en blodpropp i hjärnan och en blödning inne i hjärnan är ofta likadana. Om man får en större blödning i hjärnan är det vanligare att man får huvudvärk, illamående, kräkningar och svårt att hålla sig vaken eller till och med förlorar medvetandet.</p>
+<p type="title">Söka vård</p>
+<p type="title">När ska man söka vård?</p>
+<p>Om man själv eller någon i närheten har symtom som man misstänker beror på stroke ska man genast ringa 112.</p>
+<p>Man ska alltid söka vård så fort som möjligt, även om symtomen har gått över.</p>
+<p>Det går alltid att ringa sjukvårdsrådgivningen på telefon 1177 för att få råd.</p>
+<p type="title">Ta inte bilen</p>
+<p>Om man har symtom som tyder på en stroke ska man aldrig själv köra bil till sjukhuset.</p>
+<p type="title">Undersökningar och utredningar</p>
+<p type="title">En noggrann utredning görs</p>
+<p>När man kommer in till sjukhuset undersöks</p>
+<list><p type="listitem">symtomen i detalj</p>
+<p type="listitem">exakt var skadan sitter</p>
+<p type="listitem">om man har fått en blodpropp eller en blödning</p>
+<p type="listitem">om det kan handla om en annan sjukdom som ger liknande symtom, till exempel epilepsi, hjärnhinneinflammation eller migrän</p>
+<p type="listitem">vilka funktioner som är påverkade</p>
+<p type="listitem">vilket behov av rehabilitering man har</p>
+<p type="listitem">om det är möjligt att påbörja en behandling med blodproppslösande medicin på en gång.</p>
+</list><p type="title">Man får genomgå olika undersökningar</p>
+<p>På sjukhuset görs en kartläggning av tidigare sjukdomar och man själv och ofta en närstående blir intervjuade om det som har hänt. En kroppsundersökning brukar göras, där särskilt hjärtat, blodtrycket och nervsystemet undersöks.</p>
+<p>Man brukar få lämna blodprov för att kontrollera blodvärdet, blodplättar, blodsocker och blodfetter.</p>
+<p type="title">Några andra vanliga undersökningar</p>
+<p>Andra vanliga undersökning man kan få genomgå är</p>
+<list><p type="listitem">EKG för att kontrollera om det kan vara en rubbning av hjärtrytmen, hjärtinfarkt eller någon blodsjukdom som kan ligga bakom.</p>
+<p type="listitem">Datortomografi av hjärnan för att se om orsaken är en blodpropp eller en blödning.</p>
+<p type="listitem">Ultraljudsundersökning av halskärlen för att upptäcka eventuella förträngningar.</p>
+</list><p>Ibland kan det behövas fler undersökningar, till exempel ultraljudsundersökning av hjärtat, kärlröntgen, ryggvätskeprov eller särskilda blodprover.</p>
+<p type="title">Undersökning vid misstänkt hjärnblödning</p>
+<p>Om läkaren misstänker att det finns en blödning på hjärnans yta behöver man så fort som möjligt genomgå en datortomografiundersökning. Då syns blödningen oftast, men inte alltid. Om det inte syns någon blödning, men läkaren ändå misstänker en hjärnblödning, undersöks ryggvätskan genom att man får lämna ett speciellt prov, ryggvätskeprov. Provet görs också genom en så kallad lumbalpunktion och innebär att läkaren sticker in en tunn nål mellan de nedersta ryggkotorna för att komma åt den vätska som omger ryggmärgen. Det är samma vätska som omger hjärnan, och den undersöks för att se om den innehåller blod.</p>
+<p>Om man har en hjärnblödning brukar man utredas vidare på en neurokirurgisk klinik.</p>
+<p type="title">Olika funktioner undersöks</p>
+<p>De första undersökningarna görs för att utreda orsaken till en stroke, för att kunna påbörja behandling. Därefter undersöks hur skadan påverkar olika kroppsliga funktioner. Då testas till exempel hur man förflyttar sig, balans, förmåga att svälja och tala. Den intellektuella förmågan testas ibland också.</p>
+<p>Undersökningarna görs av personal från stroketeamet, till exempel arbetsterapeut, sjuksköterska, sjukgymnast och logoped. Personalen testar vilka förmågor man har och vilka funktioner som har blivit skadade.</p>
+<p type="title">Behandling</p>
+<p type="title">Vård på särskild strokeenhet</p>
+<p>De allra flesta som får en stroke vårdas på en särskild strokeenhet på ett sjukhus, där akutvård och rehabilitering kombineras. På en strokeenhet arbetar vårdpersonal som är specialutbildade inom stroke och rehabilitering efter stroke. Det är bland annat läkare, sjuksköterskor, undersköterskor, sjukgymnaster, logopeder, arbetsterapeuter och kuratorer.</p>
+<p>Målet med behandlingen är att minska följderna av sjukdomen. Omvårdnad och rehabilitering är samma vid stroke orsakad av hjärnblödning och av blodpropp.</p>
+<p type="title">Om orsaken är en blodpropp</p>
+<p>Vilken behandling man får beror på vad som är orsaken till att man har fått en stroke. Om utredningen visar att orsaken är en blodpropp får man medicin som förebygger nya blodproppar .</p>
+<p>För att begränsa skadorna i hjärnan behöver närings- och syretillförseln vara så bra som möjligt. Därför kontrolleras blodtryck, hjärnfunktionerna, andning och eventuell diabetes noggrant och behandlas om det behövs.</p>
+<p>En del kan få blodproppslösande medicin direkt i blodet med ett dropp. Det är en behandling som man måste få inom 4, 5 timmar efter att de första symtomen började, så därför är det så viktigt att komma till sjukhus snabbt när man får symtom på en stroke. Behandlingen med propplösande medicin kan öka risken för hjärnblödning. Om man till exempel har haft en hjärnblödning tidigare, om man har mycket lindriga symtom eller om skadan är mycket svår brukar riskerna med behandlingen vara för stora.</p>
+<p>Ibland, vid allvarligare blodpropp, kan blodproppen avlägsnas med hjälp av en slang som förs in i pulsådern i ljumsken och når hjärnan. Den behandlingen måste ske inom de närmaste timmarna efter att man har blivit sjuk.</p>
+<p type="title">Behandling vid blödning i hjärnan</p>
+<p>En blödning mellan hjärnhinnorna beror ofta på ett litet pulsåderbråck på hjärnans yta. Läkaren kan då ofta genom en särskild metod få blodet att levra sig i pulsåderbråcket så att det hindrar en ny blödning. Metoden går ut på att läkaren för in metalltrådar som rullar ihop sig till ett nystan i pulsåderbråcket. Metalltrådarna förs in med hjälp av en kateter via pulsådern i ljumsken.</p>
+<p>Ibland, men det är ovanligt, kan man behöva opereras även om blödningen har skett inne i hjärnvävnaden. Men det brukar bara vara om man snabbt försämras och blödningen ligger ytligt.</p>
+<p type="title">Operation av förträngning på halspulsådern</p>
+<p>Om man har en kraftigare förträngning på halspulsådern brukar man opereras, för att ta bort förträngningen och därmed förhindra att det bildas nya blodproppar. En sådan operation görs oftast inom två veckor efter blodproppen.</p>
+<p>Operationen tar ungefär en halvtimme och man är antingen sövd eller får lokalbedövning. Genom huden på halsen öppnar kirurgen halspulsådern och rensar ut förträngningen från kärlet.</p>
+<p>Man brukar stanna på sjukhuset några dagar efter operationen.</p>
+<p type="title">Mediciner kan minska risken för stroke</p>
+<p>För att man inte ska få en ny stroke får man ofta behandling med läkemedel. Det är till exempel</p>
+<list><p type="listitem">blodtryckssänkande mediciner mot högt blodtryck. Även om man har normalt blodtryck verkar risken för en ny stroke minska om blodtrycket sänks ytterligare.</p>
+<p type="listitem">blodproppsförebyggande medicin som innehåller acetylsalicylsyra (eventuellt i kombination med dipyridamol) eller klopidogrel. Vid blodproppar som beror på förmaksflimmer används i stället blodförtunnande som warfarin, dabigatran, apixaban, eller rivaroxaban. De minskar blodets levringsförmåga och minskar risken för blodproppar om man har förmaksflimmer.</p>
+<p type="listitem">kolesterolsänkande medicin som innehåller simvastatin, pravastatin eller atorvastatin. Sänkta blodfetter kan minska risken för att bli sjuk igen efter en TIA eller stroke. Har man haft en stroke är risken större även för att man ska få en hjärtinfarkt, och då kan risken minska med hjälp av kolesterolsänkande medicin.</p>
+</list><p type="title">Långsiktig uppföljning efter en stroke</p>
+<p>Efter att man har haft en stroke går man på regelbundna återbesök hos en läkare, oftast på en vårdcentral. Samtidigt får man ofta rehabilitering hos en sjukgymnast, arbetsterapeut och ibland logoped.</p>
+<p>Vid återbesöken hos läkaren kontrolleras bland annat om man har haft nya symtom eller har fått några komplikationer.</p>
+<p>Annat som kontrolleras är till exempel</p>
+<list><p type="listitem">blodtrycket</p>
+<p type="listitem">hur medicinerna fungerar och om man har några biverkningar</p>
+<p type="listitem">om några nya riskfaktorer har tillkommit, till exempel diabetes</p>
+<p type="listitem">hur man klarar sina dagliga sysslor, som att äta, klä sig, tvätta sig och förflytta sig</p>
+<p type="listitem">hur samverkan mellan vård och rehabilitering inom kommun och landsting fungerar.</p>
+</list><p>Man brukar också prata om hur träningen går och hur det sociala livet fungerar. Läkaren vill också få en bild av hur vardagen fungerar praktiskt och att man får den information om sjukdomen man behöver.</p>
+<p>Närstående har en viktig roll för den som har fått en stroke, och på läkarbesöken pratar man om hur relationen med närstående fungerar och hur de upplever situationen. Ofta följer närstående med vid läkarbesöken.</p>
+<p type="title">Komplikationer</p>
+<p type="title">Komplikationer man kan få efter en stroke</p>
+<p>Förutom de direkta följderna av hjärnskadan, som förlamningar och talsvårigheter, kan man även få andra komplikationer efter en stroke på kortare eller längre sikt. Det kan till exempel vara</p>
+<list><p type="listitem">hjärnödem, svullnad i och omkring hjärnskadan</p>
+<p type="listitem">blodproppar i benen eller lungorna</p>
+<p type="listitem">lunginflammation</p>
+<p type="listitem">epileptiska anfall</p>
+<p type="listitem">depression och svårigheter att kontrollera sina känslor</p>
+<p type="listitem">skador som kan uppstå om man faller, till exempel frakturer</p>
+<p type="listitem">besvär med urinvägarna</p>
+<p type="listitem">trycksår</p>
+<p type="listitem">förstoppning</p>
+<p type="listitem">smärta från leder och andra kroppsdelar.</p>
+</list><p>Om speciellt känsliga delar, eller stora delar, av hjärnan skadas kan stroke leda till att man får demens. Det gäller särskilt om man har haft stroke flera gånger.</p>
+<p type="title">Hjärnödem</p>
+<p>Hjärnödem innebär att vätska har samlats i hjärnan så att hjärnan sväller. Trycket kan då öka inne i skallen och blodcirkulationen till hjärnan kan minska. Hjärnödem är allvarligt och det finns ingen medicin som effektivt kan förhindra att man får hjärnödem vid stroke, men ibland kan man opereras. Störst risk för att få hjärnödem är två till fyra dagar efter en stroke.</p>
+<p type="title">Blodpropp i benen</p>
+<p>Stroke och andra sjukdomar hos äldre som leder till att man ligger stilla länge ökar risken för att man ska få blodproppar i benen. En propp i benet kan lossna och ge sig iväg till lungorna, vilket är livshotande. Risken kan minskas genom att man tidigt tränar på att gå och stå och undviker att ligga till sängs. Blodförtunnande medicin används främst om man har så allvarlig stroke att man inte kan gå eller stå på grund av förlamning i benet.</p>
+<p type="title">Lunginflammation</p>
+<p>Lunginflammation kan bero på att man har svalt fel och fått ner mat och dryck i luftrören, eller att man inte kan hosta som vanligt. Man får behandling med antibiotika och febernedsättande läkemedel, eftersom feber kan förvärra hjärnskadan man får vid en stroke. En sjukgymnast kan hjälpa till med andningsgymnastik.</p>
+<p type="title">Epileptiska anfall</p>
+<p>En del kan få epileptiska anfall i samband med en stroke, men risken för att man ska få bestående epilepsi är liten. Epileptiska anfall kan ibland komma lång tid efter att man har haft en stroke, ibland efter flera år.</p>
+<p type="title">Depression</p>
+<p>En del blir deprimerade under de första månaderna efter en stroke. Behandling med läkemedel och psykologiskt stöd från vårdpersonal och närstående kan då hjälpa.</p>
+<p>Det är vanligt att man får en ökad psykisk känslighet efter en stroke. Man har då svårt att kontrollera sina känslor och gråter lätt, vilket många själva tycker är jobbigt. Läkemedel mot depression kan hjälpa.</p>
+<p type="title">Andra besvär</p>
+<p>Man kan få besvär från urinvägarna på grund av att hjärnan har svårare att kontrollera urinblåsan. Då kan man få få svårt att kissa och kan inte tömma urinblåsan helt. Eftersom man ligger still länge kan man få ont i leder och andra kroppsdelar. Man kan också få förstoppning på grund av att man rör sig för lite eller får i sig för lite vätska.</p>
+<p>Eftersom man blir mindre rörlig, eller har sämre känsel, kan man lättare få trycksår.</p>
+<p type="title">Rehabilitering</p>
+<p type="title">Livet efter en stroke</p>
+<p>Att få en stroke innebär i allmänhet en stor förändring i livet. Både den som blir sjuk och de närstående måste anpassa sig till den nya situationen. Ofta behöver man professionell hjälp för att kunna återskapa ett vardagsliv som man trivs med och som känns givande.</p>
+<p>Efter en tids vård och rehabilitering på sjukhuset fortsätter rehabiliteringen ofta i hemmet. Yngre personer som arbetar kan behöva rehabilitering som inriktar sig på arbetet. Den sker ofta i anslutning till en rehabiliteringsklinik.</p>
+<p type="title">Att komma hem igen</p>
+<p>För många känns det skönt att komma hem igen efter sjukhusvistelsen. I hemmet är det lättare att styra över sin egen tillvaro och många uppskattar att kunna använda personliga saker och ha nära till vänner och grannar.</p>
+<p>För en del kan hemmiljön begränsa möjligheten att leva ett aktivt liv, och man kan då få sin bostad anpassad. Det är vanligtvis en arbetsterapeut som hjälper till om man har behov av bostadsanpassning. Många behöver hjälp av närstående eller hemhjälp för att kunna klara av vardagen. Ofta tar det lång tid att anpassa sig till den nya situationen.</p>
+<p type="title">Att lära känna det nya</p>
+<p>Om man har haft en stroke upplever man ofta sig själv och sin omvärld på ett nytt sätt. Förmågan att röra sig och kommunicera kan ha påverkats och det kan till en början vara svårt att hantera förändringarna. Att lära känna sitt nya jag är ofta en förutsättning för att man ska kunna fungera bra i vardagen. Genom att våga prova olika aktiviteter kan man lära känna sina resurser och begränsningar. På så sätt kan man även träna upp sina tidigare förmågor på nytt eller hitta lösningar på problem som uppstår.</p>
+<p type="title">Man bör vänta med att köra bil</p>
+<p>Stroke kan påverka förmågan att köra bil. Innan man provar att köra bil ska man diskutera detta med sin läkare. Vanligtvis rekommenderar läkaren att man ska avvakta med att köra bil helt under de närmaste månaderna efter en stroke. Efter den perioden bedömer läkaren om det är lämpligt att köra bil. Ofta måste en specialundersökning hos ögonläkare göras för att se om man ser vissa delar av synfältet sämre.</p>
+<p type="title">Närstående behöver hjälpa till lagom mycket</p>
+<p>Det finns en risk att närstående eller hemhjälp hjälper till för mycket och på det sättet hindrar den som har haft en stroke att lära sig hantera det nya. En stimulerande och lagom stödjande miljö underlättar förbättringar. Att be den som har haft en stroke att beskriva hur man upplever situationen kan bidra till att närstående bättre förstår hur man kan ge lagom mycket assistans och uppmuntran. Särskilt svårt kan det vara om den som har haft en stroke har svårt att tala eller skriva och inte kan berätta hur han eller hon upplever sin situation. Ofta behövs det lugn och ro och gott om tid för att hitta ett nytt sätt att kommunicera med varandra.</p>
+<p type="title">Rehabilitering i hemmet</p>
+<p>Det blir allt vanligare att den mer långsiktiga rehabiliteringen sker i hemmet. Rehabiliteringspersonal, som arbetsterapeuter, sjukgymnaster och logopeder, gör täta hembesök i början och samarbetar i allmänhet med läkare, sjuksköterska, kurator och kanske en psykolog. Hembesöken glesas så småningom ut allteftersom man själv och närstående upplever att man kan hantera sin vardag på egen hand eller med hjälp av hemhjälp. Om det behövs kan man fortsätta att delta i rehabiliteringsaktiviteter utanför hemmet, som sjukgymnastik och arbetsterapi.</p>
+<p>Hemmet är en bra miljö för rehabilitering eftersom träningen kan anpassas till de intressen och vanor man har på ett bättre sätt än i sjukhusmiljön. Närstående kan också ta en mer aktiv del i rehabiliteringen. Yngre personer kan efter en stroke få en personlig assistent för att klara sina vardagliga sysslor.</p>
+<p>Målet med rehabiliteringen i hemmet är att den som har fått en stroke ska uppleva delaktighet och tillfredsställelse i sitt vardagsliv. Det kan bland annat uppnås genom att</p>
+<list><p type="listitem">man tränar upp nedsatta funktioner</p>
+<p type="listitem">man lär sig nya sätt att utföra olika aktiviteter på</p>
+<p type="listitem">bostadsmiljön anpassas</p>
+<p type="listitem">personlig assistans och stöd i vardagen anpassas efter de önskemål och behov man har.</p>
+</list><p type="title">Att träna upp nedsatta funktioner</p>
+<p>Under de första veckorna eller månaderna efter en stroke sker ofta en förbättring av de funktioner som har blivit nedsatta på grund av hjärnskadan. Träning och aktivitet kan bidra till förbättringen. Fortsatt förbättring kan sedan pågå under lång tid, flera år, efter att man fick en stroke.</p>
+<p>Träningen är i början oftast inriktad på att förbättra kroppens olika funktioner, som till exempel språket, minnet, uppmärksamheten och rörelsefunktionen. Man får även insikt om de egna begränsningarna, och får träna förmågan att planera, organisera och genomföra olika aktiviteter.</p>
+<p>På Tema hjälpmedel kan du läsa om hur det går till att få hjälpmedel, och söka fram vilka som finns att få där du bor.</p>
+<p type="title">Träningen anpassas till förmågan</p>
+<p>I hemmet sker träningen ofta genom vardagsaktiviteter som man själv upplever som meningsfulla. Har man svårt för att stå eller gå på grund av en förlamning i någon kroppshalva tränar man till exempel genom att stå vid diskbänken när man diskar eller gå till affären och handla mat. Det är ofta en sjukgymnast som ansvarar för den träning som går ut på att förbättra rörelseförmågan.</p>
+<p>Träningen ska vara lagom utmanande. Det betyder att man varken ska välja för svåra eller för lätta aktiviteter. Tillsammans med arbetsterapeuten eller sjukgymnasten försöker man hitta lämpliga, lagom utmanande träningsaktiviteter och program som man kan utföra på egen hand. Man behöver även träna talet och språkförmågan och en logoped kan hjälpa till med bra övningar.</p>
+<p type="title">Lära känna sina egna begränsningar</p>
+<p>Ibland kan det ta längre tid att träna upp de nedsatta förmågor som inte syns utåt, som till exempel försämrat minne och försämrad uppmärksamhet eller insikt. Träningen inriktas då först på att man ska lära känna sina egna begränsningar, för att sedan kunna träna upp förmågan mer aktivt. Ett sätt att bli medveten om sina begränsningar är att konfronteras med dem i aktiviteter som man tidigare klarade av utan problem. Om man känner till sina begränsningar kan man också göra någonting åt dem.</p>
+<p type="title">Att lära sig nya sätt att göra saker på</p>
+<p>Hjärnan har en förmåga att i varierande grad återhämta sig efter en stroke och olika funktioner kan förbättras en lång tid efter insjuknandet.</p>
+<p>Redan tidigt efter en stroke är det vanligt att man behöver lära sig att utföra vanliga dagliga aktiviteter på ett nytt sätt. Man kan behöva använda en hand när man äter eller använda rullstol i stället för att gå. Man kan också behöva lära sig kommunicera på ett nytt sätt. Ibland löser man det på egen hand, men man kan också få stöd och råd från arbetsterapeuten.</p>
+<p type="title">Bostaden kan anpassas</p>
+<p>Genom att anpassa bostaden på olika sätt kan man underlätta vardagslivet. Ibland räcker det med hjälpmedel som en duschpall eller ett stödhandtag och ibland behövs det mer omfattande förändringar som borttagning av trösklar och badkar. Det är i allmänhet arbetsterapeuten som ansvarar för bostadsanpassning och utprovning av hjälpmedel.</p>
+<p type="title">Hjälp och stöd i vardagen</p>
+<p>Det är vanligt att man behöver någon form av hjälp och stöd i vardagen efter en stroke. Närstående, hemhjälp eller personlig assistent behöver ofta handledning av rehabiliteringspersonal i hur de på bästa sätt kan hjälpa till i olika situationer. Det gäller att ge lagom mycket stöd eller hjälp till självhjälp. Ofta hjälper omgivningen till för mycket i sin iver att visa kärlek och omtanke, och det gäller att hitta en balans.</p>
+<p type="title">Att bli nöjd med livet igen</p>
+<p>Det kan vara jobbigt och ta lång tid att återerövra vardagslivet efter en stroke, både för en själv och för närstående. Ofta behöver de närstående avlastning och stöd av till exempel barn, vänner eller hemhjälp för att orka. Det finns en risk att både man själv och närstående isolerar sig. Det kan leda till att man helt enkelt blir mindre nöjd med livet.</p>
+<p>Man behöver ofta få hjälp med att utveckla nya intressen utanför hemmet och att återuppta sina gamla roller, som till exempel rollen som pappa eller morfar. En del som har haft en stroke har lättare än andra att anpassa sig till det nya och kunna se livets möjligheter och rikedom. Andra behöver lite mer stöd och hjälp.</p>
+</body></document>

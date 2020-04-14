@@ -1,54 +1,18 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>430</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/pantbanker/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar-pantbanker.html"/>
-    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-pantbanker.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Pantbanker - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Pantbanker</p>
-    <p>
-      <em type="italic">En pantbank är ett företag som lånar ut pengar till dig mot att du lämnar in något som pant. Det är Länsstyrelsen som lämnar tillstånd till pantbankerna och har tillsyn över dem. </em>
-    </p>
-    <p>Om du vill driva en pantbank behöver du tillstånd av Länsstyrelsen. En pantbank kan endast drivas av ett svenskt aktiebolag eller ett motsvarande utländskt företag inom EES-området. Vi beviljar ansökan om vi bedömer att företaget kommer att bedriva en sund pantbanksverksamhet och om företaget uppfyller kraven i pantbankslagen (SFS 1995:1000).</p>
-    <p>Länsstyrelsen lämnar tillstånd att driva pantbanksverksamhet och är också tillsynsmyndighet för pantbanker med huvudkontor i länet. Pantbanksverksamhet är näringsverksamhet med ändamål att lämna krediter åt konsumenter mot panträtt i lösöre.</p>
-    <p>För pantbanksverksamhet gäller pantbankslagen (1995:1000) och pantbanksförordningen (1995:1189).</p>
-    <p>
-      <em type="italic">Tillstånd och tillsyn </em>
-    </p>
-    <p>Pantbanksverksamhet får endast drivas efter tillstånd av länsstyrelsen i det län där verksamheten skall bedrivas. Tillstånd skall ges om företaget med hänsyn till organisation, ledning och ägare med bestämmande inflytande kan antas komma att bedriva en sund pantbanksverksamhet och i övrigt uppfylla kraven enligt bestämmelserna i pantbankslagen. Tillstånd kan ges till svenska aktiebolag och vissa företag inom Europeiska ekonomiska samarbetsområdet (EES). Verksamheten skall bedrivas så att allmänhetens förtroende för verksamheten upprätthålls och i övrigt så att verksamheten kan anses sund. En pantbank står under tillsyn av länsstyrelsen.</p>
-    <p>
-      <em type="italic">Ansökan </em>
-    </p>
-    <p>En ansökan om att driva pantbanksverksamhet skall innehålla en beskrivning av den verksamhet som skall bedrivas. För Länsstyrelsens prövning av ansökan tas en ansökningsavgift ut på 12.700 kr. Ansökningsavgiften skall betalas till Länsstyrelsens plusgirokonto 3 51 90-8 i samband med att ansökan om tillstånd att bedriva pantbanksverksamhet ges in till Länsstyrelsen.</p>
-    <p>
-      <em type="italic">Pantbanker i länet </em>
-    </p>
-    <p>Inom Dalarnas län finns för närvarande inte någon pantbank.</p>
-    <p>
-      <em type="italic">Pantsättning </em>
-    </p>
-    <p>Den som lånar pengar på en pantbank blir inte personligen ansvarig för lånet om det inte återbetalas. Den lämnade panten är nämligen enda säkerheten för lånet. Vilka varor som skall godtas som pant för lånet bestäms av pantbanken och denna bestämmer också vilken ränta och eventuella avgifter som skall gälla för lånet. De flesta pantbanker tillämpar en lånetid på fyra månader men tiden kan som längst uppgå till ett år. När lånetiden har gått ut skall lånet lösas men pantbankerna kan också medge att låntagaren gör en avbetalning av skulden och lämnar ett nytt lån mot samma säkerhet (kallas ofta omsättning).</p>
-    <p>Om lånet inte löses får pantbanken sälja panten på offentlig auktion för att täcka låntagarens skuld. Skulle det då bli ett överskott tillfaller detta låntagaren. Denne kan aldrig drabbas av ett eventuellt underskott.</p>
-    <p>
-      <em type="italic">Poliskontroll </em>
-    </p>
-    <p>Polismyndigheten har rätt att ta del av uppgifterna i pantboken och att undersöka pantlagret.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>430</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/pantbanker/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="naringsliv-och-foreningar-pantbanker.html"/><parallel_text xml:lang="sma" location="naringsliv-och-foreningar-pantbanker.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Pantbanker - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Pantbanker</p>
+<p><em type="italic">En pantbank är ett företag som lånar ut pengar till dig mot att du lämnar in något som pant. Det är Länsstyrelsen som lämnar tillstånd till pantbankerna och har tillsyn över dem. </em></p>
+<p>Om du vill driva en pantbank behöver du tillstånd av Länsstyrelsen. En pantbank kan endast drivas av ett svenskt aktiebolag eller ett motsvarande utländskt företag inom EES-området. Vi beviljar ansökan om vi bedömer att företaget kommer att bedriva en sund pantbanksverksamhet och om företaget uppfyller kraven i pantbankslagen (SFS 1995:1000).</p>
+<p>Länsstyrelsen lämnar tillstånd att driva pantbanksverksamhet och är också tillsynsmyndighet för pantbanker med huvudkontor i länet. Pantbanksverksamhet är näringsverksamhet med ändamål att lämna krediter åt konsumenter mot panträtt i lösöre.</p>
+<p>För pantbanksverksamhet gäller pantbankslagen (1995:1000) och pantbanksförordningen (1995:1189).</p>
+<p><em type="italic">Tillstånd och tillsyn </em></p>
+<p>Pantbanksverksamhet får endast drivas efter tillstånd av länsstyrelsen i det län där verksamheten skall bedrivas. Tillstånd skall ges om företaget med hänsyn till organisation, ledning och ägare med bestämmande inflytande kan antas komma att bedriva en sund pantbanksverksamhet och i övrigt uppfylla kraven enligt bestämmelserna i pantbankslagen. Tillstånd kan ges till svenska aktiebolag och vissa företag inom Europeiska ekonomiska samarbetsområdet (EES). Verksamheten skall bedrivas så att allmänhetens förtroende för verksamheten upprätthålls och i övrigt så att verksamheten kan anses sund. En pantbank står under tillsyn av länsstyrelsen.</p>
+<p><em type="italic">Ansökan </em></p>
+<p>En ansökan om att driva pantbanksverksamhet skall innehålla en beskrivning av den verksamhet som skall bedrivas. För Länsstyrelsens prövning av ansökan tas en ansökningsavgift ut på 12.700 kr. Ansökningsavgiften skall betalas till Länsstyrelsens plusgirokonto 3 51 90-8 i samband med att ansökan om tillstånd att bedriva pantbanksverksamhet ges in till Länsstyrelsen.</p>
+<p><em type="italic">Pantbanker i länet </em></p>
+<p>Inom Dalarnas län finns för närvarande inte någon pantbank.</p>
+<p><em type="italic">Pantsättning </em></p>
+<p>Den som lånar pengar på en pantbank blir inte personligen ansvarig för lånet om det inte återbetalas. Den lämnade panten är nämligen enda säkerheten för lånet. Vilka varor som skall godtas som pant för lånet bestäms av pantbanken och denna bestämmer också vilken ränta och eventuella avgifter som skall gälla för lånet. De flesta pantbanker tillämpar en lånetid på fyra månader men tiden kan som längst uppgå till ett år. När lånetiden har gått ut skall lånet lösas men pantbankerna kan också medge att låntagaren gör en avbetalning av skulden och lämnar ett nytt lån mot samma säkerhet (kallas ofta omsättning).</p>
+<p>Om lånet inte löses får pantbanken sälja panten på offentlig auktion för att täcka låntagarens skuld. Skulle det då bli ett överskott tillfaller detta låntagaren. Denne kan aldrig drabbas av ett eventuellt underskott.</p>
+<p><em type="italic">Poliskontroll </em></p>
+<p>Polismyndigheten har rätt att ta del av uppgifterna i pantboken och att undersöka pantlagret.</p>
+</body></document>

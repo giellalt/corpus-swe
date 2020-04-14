@@ -1,59 +1,36 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>397</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=209&amp;Itemid=10</origFileName>
-    <parallel_text xml:lang="fin" location="lars_anders_baerin_puhe_saamelaiskarajien_avajaisissa_29.3.2008.pdf"/>
-    <parallel_text xml:lang="sme" location="lars_anders_baer_sahka_samedikki_rahpamii_29.3.2008.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Presidenter</p>
-    <p>Sametingets ledamöter</p>
-    <p>Mina damer och herrar</p>
-    <p>Det är en stor ära för mig att på vägnar av Sametinget på svensk sida säga några ord med</p>
-    <p>anledning av öppnandet av Sametinget på finsk sida av Sápmi, här i Ochejohka.</p>
-    <p>Sametinget på finsk sida har på många sätt varit en föregångare som ett folkvalt samisk organ</p>
-    <p>sedan 1973 då Sameparlamentet etablerades och som sedermera blev Sametinget 1996.</p>
-    <p>Samerna på finsk sida är sedan 1996 erkända som ett folk i den finska grundlagen och att</p>
-    <p>samerna är garanterade kulturella autonomi. På svensk sida har vi inte kommit så lång. En</p>
-    <p>revision av den svenska på grundlagen pågår och från samisk sida hoppas den svenska</p>
-    <p>riksdagen följer den fiska riksdagens exempel och stadfäster samernas status som urfolk i</p>
-    <p>Sverige och man blir en del av det svenska folkstyret.</p>
-    <p>Samerna och de nordiska staterna står inför en stor utmaning nu när FN: s generalförsamling</p>
-    <p>antog urfolksdeklarationen den 13 september 2007.  Deklarationen är historisk milstolpe i</p>
-    <p>kampen för erkännandet av urfolkens mänskliga rättigheter och grundläggande friheter.</p>
-    <p>Händelserna i Tibet är en bekräftelse på att deklarationen har en relevans.</p>
-    <p>Utöver rätten självbestämmande i deklarationens är artiklar gällande urfolkens rätt att äga,</p>
-    <p>bruka och kontrollera land, territorier och naturresurser det mest centrala sett ur en samiska</p>
-    <p>synvinkel. . Deklarationen proklamerar att Finland, Norge, Ryssland och Sverige inte längre</p>
-    <p>kan betrakta landområden som samerna traditionellt brukat som statens eller någon tredje</p>
-    <p>parts egendom. Deklarationen förpliktigar staterna att erkänna att samerna är ägare av</p>
-    <p>traditionella landområden och naturresurser. Detta innebär exempelvis att samisk mark inte</p>
-    <p>längre kan användas för industriella eller andra ändamål utan att samerna i förväg</p>
-    <p>informerats och gett sitt oberoende samtycke, utan att de själva direkt har något att vinna på</p>
-    <p>sådant resursutnyttjande.  Här på finska sida har dessa frågeställningar haft stor aktualitet</p>
-    <p xml:lang="nno">på senare tid.</p>
-    <p>FN: s urfolksdeklaration går mycket längre än ILO-konvention 169 och den föreslagna</p>
-    <p>nordiska samekonventionen. Vi har från svensk sida noterat att den finska regeringen har</p>
-    <p>problem nordiska samekonventionen – vilket är oroande.</p>
-    <p>V från svensk sida gratulera får också gratulera att Sametinget på finsk sida snart får flytta in</p>
-    <p>en ny parlamentsbyggnad i Enare – på svensk sida är har vi inte hunnit så lång.</p>
-    <p>Avslutningsvis får vi önska både Sametinget på finsk sida och den finska regeringen och</p>
-    <p>riksdagen all lycka och mod med arbetet att främja det samiska folkets legitima intresse i</p>
-    <p>republiken Finland.</p>
-    <p>Tack</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>397</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index.php?option=com_docman&amp;task=doc_download&amp;gid=209&amp;Itemid=10</origFileName><parallel_text xml:lang="fin" location="lars_anders_baerin_puhe_saamelaiskarajien_avajaisissa_29.3.2008.pdf"/><parallel_text xml:lang="sme" location="lars_anders_baer_sahka_samedikki_rahpamii_29.3.2008.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 125457 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="deu">Presidenter</p>
+<p>Sametingets ledamöter</p>
+<p>Mina damer och herrar</p>
+<p>Det är en stor ära för mig att på vägnar av Sametinget på svensk sida säga några ord med</p>
+<p>anledning av öppnandet av Sametinget på finsk sida av Sápmi, här i Ochejohka.</p>
+<p>Sametinget på finsk sida har på många sätt varit en föregångare som ett folkvalt samisk organ</p>
+<p>sedan 1973 då Sameparlamentet etablerades och som sedermera blev Sametinget 1996.</p>
+<p>Samerna på finsk sida är sedan 1996 erkända som ett folk i den finska grundlagen och att</p>
+<p>samerna är garanterade kulturella autonomi. På svensk sida har vi inte kommit så lång. En</p>
+<p>revision av den svenska på grundlagen pågår och från samisk sida hoppas den svenska</p>
+<p>riksdagen följer den fiska riksdagens exempel och stadfäster samernas status som urfolk i</p>
+<p>Sverige och man blir en del av det svenska folkstyret.</p>
+<p>Samerna och de nordiska staterna står inför en stor utmaning nu när FN: s generalförsamling</p>
+<p>antog urfolksdeklarationen den 13 september 2007.  Deklarationen är historisk milstolpe i</p>
+<p>kampen för erkännandet av urfolkens mänskliga rättigheter och grundläggande friheter.</p>
+<p>Händelserna i Tibet är en bekräftelse på att deklarationen har en relevans.</p>
+<p>Utöver rätten självbestämmande i deklarationens är artiklar gällande urfolkens rätt att äga,</p>
+<p>bruka och kontrollera land, territorier och naturresurser det mest centrala sett ur en samiska</p>
+<p>synvinkel. . Deklarationen proklamerar att Finland, Norge, Ryssland och Sverige inte längre</p>
+<p>kan betrakta landområden som samerna traditionellt brukat som statens eller någon tredje</p>
+<p>parts egendom. Deklarationen förpliktigar staterna att erkänna att samerna är ägare av</p>
+<p>traditionella landområden och naturresurser. Detta innebär exempelvis att samisk mark inte</p>
+<p>längre kan användas för industriella eller andra ändamål utan att samerna i förväg</p>
+<p>informerats och gett sitt oberoende samtycke, utan att de själva direkt har något att vinna på</p>
+<p>sådant resursutnyttjande.  Här på finska sida har dessa frågeställningar haft stor aktualitet</p>
+<p xml:lang="nno">på senare tid.</p>
+<p>FN: s urfolksdeklaration går mycket längre än ILO-konvention 169 och den föreslagna</p>
+<p>nordiska samekonventionen. Vi har från svensk sida noterat att den finska regeringen har</p>
+<p>problem nordiska samekonventionen – vilket är oroande.</p>
+<p>V från svensk sida gratulera får också gratulera att Sametinget på finsk sida snart får flytta in</p>
+<p>en ny parlamentsbyggnad i Enare – på svensk sida är har vi inte hunnit så lång.</p>
+<p>Avslutningsvis får vi önska både Sametinget på finsk sida och den finska regeringen och</p>
+<p>riksdagen all lycka och mod med arbetet att främja det samiska folkets legitima intresse i</p>
+<p>republiken Finland.</p>
+<p xml:lang="rmu">Tack</p>
+</body></document>

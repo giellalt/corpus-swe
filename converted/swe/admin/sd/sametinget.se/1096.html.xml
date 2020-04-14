@@ -1,45 +1,23 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>226</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1096</origFileName>
-    <parallel_text xml:lang="sme" location="71259.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Folkrätt - Sametinget</p>
-    <p type="title">Vad är folkrätt?</p>
-    <p>Internationell rätt är ett område inom juridiken som behandlar förhållandet mellan stater. Internationell rätt delas i sin tur upp i folkrätt och internationell privaträtt.</p>
-    <p>Internationell rätt</p>
-    <p>Internationell rätt bygger på</p>
-    <p>sedvanerätt</p>
-    <p>och</p>
-    <p>traktatsbaserad rätt</p>
-    <p>. Sedvanerätt är oskrivna regler som är bindande för alla stater, därför&#13; att de anses vara både praktiska och moraliskt riktiga. Traktatsbaserad rätt bygger på skrivna avtal eller konventioner. Den så kallade&#13; Wienkonventionen från 1969 skapade ett system för hur sedvanerättens&#13; politiska avtal ska förvandlas till juridiska dokument, till exempel hur ingångna&#13; avtal ska hållas.</p>
-    <p>Internationell rätt delas upp i</p>
-    <p>folkrätt</p>
-    <p>och</p>
-    <p>internationell privaträtt</p>
-    <p>. Den senare reglerar individers tvister över nationsgränser.</p>
-    <p>Folkrättslig praxis</p>
-    <p>Folkrätten delas upp på begreppen</p>
-    <p>flyktingrätt, humanitär rätt</p>
-    <p>(krigets lagar), och</p>
-    <p>mänskliga rättigheter.</p>
-    <p>Folkrättslig praxis (internationell sedvänja) har utvecklats under mycket lång tid. Därtill kommer internationella avtal och beslut av internationella organisationer som till exempel FN. Stater, internationella organisationer, företag och enskilda individer berörs av folkrätten.</p>
-    <p>Primär folkrätt</p>
-    <p>Den primära folkrätten innehåller regler som är bindande även för de stater som inte ratificerat tillämpliga internationella avtal eller erkänner viss internationell sedvänja.&#13; &#13; En del menar att de mänskliga rättigheterna borde vara överordnade övriga delar av folkrätten. Andra stater skulle då vara skyldiga att ingripa när brott mot de mänskliga rättigheterna begås, även om det innebär att man bryter mot andra delar i folkrätten.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>226</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1096</origFileName><parallel_text xml:lang="sme" location="71259.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Folkrätt - Sametinget</p>
+<p type="title">Vad är folkrätt?</p>
+<p>Internationell rätt är ett område inom juridiken som behandlar förhållandet mellan stater. Internationell rätt delas i sin tur upp i folkrätt och internationell privaträtt.</p>
+<p>Internationell rätt</p>
+<p>Internationell rätt bygger på</p>
+<p>sedvanerätt</p>
+<p>och</p>
+<p>traktatsbaserad rätt</p>
+<p>. Sedvanerätt är oskrivna regler som är bindande för alla stater, därför&#13; att de anses vara både praktiska och moraliskt riktiga. Traktatsbaserad rätt bygger på skrivna avtal eller konventioner. Den så kallade&#13; Wienkonventionen från 1969 skapade ett system för hur sedvanerättens&#13; politiska avtal ska förvandlas till juridiska dokument, till exempel hur ingångna&#13; avtal ska hållas.</p>
+<p>Internationell rätt delas upp i</p>
+<p>folkrätt</p>
+<p>och</p>
+<p>internationell privaträtt</p>
+<p>. Den senare reglerar individers tvister över nationsgränser.</p>
+<p>Folkrättslig praxis</p>
+<p>Folkrätten delas upp på begreppen</p>
+<p>flyktingrätt, humanitär rätt</p>
+<p>(krigets lagar), och</p>
+<p>mänskliga rättigheter.</p>
+<p>Folkrättslig praxis (internationell sedvänja) har utvecklats under mycket lång tid. Därtill kommer internationella avtal och beslut av internationella organisationer som till exempel FN. Stater, internationella organisationer, företag och enskilda individer berörs av folkrätten.</p>
+<p>Primär folkrätt</p>
+<p>Den primära folkrätten innehåller regler som är bindande även för de stater som inte ratificerat tillämpliga internationella avtal eller erkänner viss internationell sedvänja.&#13; &#13; En del menar att de mänskliga rättigheterna borde vara överordnade övriga delar av folkrätten. Andra stater skulle då vara skyldiga att ingripa när brott mot de mänskliga rättigheterna begås, även om det innebär att man bryter mot andra delar i folkrätten.</p>
+</body></document>

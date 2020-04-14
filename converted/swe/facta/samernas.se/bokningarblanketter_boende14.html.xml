@@ -1,40 +1,10 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Boende |  Samernas Utbildningscentrum</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>157</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.samernas.se/bokningarblanketter/boende</origFileName>
-    <parallel_text xml:lang="sme" location="bokningarblanketter_orrun_lang_sm14.html"/>
-    <parallel_text xml:lang="smj" location="hatte_714-2_lang_ls14.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Bo på Samernas under din studietid</p>
-    <p>På Samernas utbildningscentrum erbjuder vi ett bra elevboende i en trivsam miljö till dem som studerar på orten. I det nya elevhemmet, som är fördelat på två våningar, är alla rum utrustade med egen dusch/wc, i vissa av rummen finns även trinettkök med en enklare köksutrustning. I övrigt finns det på varje våningsplan ett gemensamt kök och vardagsrum, tillgång till tvättstuga finns på området. Trådlöst nätverk ingår i hyran. I det gamla elevhemmet (inga bilder) erbjuder vi våra hyresgäster rum med dusch/wc i korridor.</p>
-    <p>Om du är intresserad av något av våra boendealternativ är du välkommen att höra av dig till oss via telefon eller E-post!</p>
-    <p>OBS! För icke-studerande gäller andra priser. De priserna hittar du här .</p>
-    <p>Boendetyp Elevpriser</p>
-    <p>Enkelrum med dusch/wc 1900kr/månad, 200kr/dygn, 750kr/vecka</p>
-    <p>Enkelrum med dusch/wc och trinett 2100kr/månad, 200kr/dygn, 750kr/vecka</p>
-    <p>Enkelrum gamla elevhemmet, dusch/wc i korridor 1600kr/månad, 180kr/dygn, 650kr/vecka</p>
-    <p>Motorvärmare 170kr/månad, 25kr/dygn</p>
-    <p type="title">Språkstudier</p>
-    <p type="title">Slöjdlinjen</p>
-    <p type="title">Rennäringslinje</p>
-    <p type="title">Samisk Mat</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Boende |  Samernas Utbildningscentrum</title><genre code="facta"/><author><unknown/></author><wordcount>152</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.samernas.se/bokningarblanketter/boende</origFileName><parallel_text xml:lang="sme" location="bokningarblanketter_orrun_lang_sm14.html"/><parallel_text xml:lang="smj" location="hatte_714-2_lang_ls14.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Bo på Samernas under din studietid</p>
+<p>På Samernas utbildningscentrum erbjuder vi ett bra elevboende i en trivsam miljö till dem som studerar på orten. I det nya elevhemmet, som är fördelat på två våningar, är alla rum utrustade med egen dusch/wc, i vissa av rummen finns även trinettkök med en enklare köksutrustning. I övrigt finns det på varje våningsplan ett gemensamt kök och vardagsrum, tillgång till tvättstuga finns på området. Trådlöst nätverk ingår i hyran. I det gamla elevhemmet (inga bilder) erbjuder vi våra hyresgäster rum med dusch/wc i korridor.</p>
+<p>Om du är intresserad av något av våra boendealternativ är du välkommen att höra av dig till oss via telefon eller E-post!</p>
+<p>OBS! För icke-studerande gäller andra priser. De priserna hittar du här .</p>
+<p>Boendetyp Elevpriser</p>
+<p>Enkelrum med dusch/wc 1900kr/månad, 200kr/dygn, 750kr/vecka</p>
+<p>Enkelrum med dusch/wc och trinett 2100kr/månad, 200kr/dygn, 750kr/vecka</p>
+<p>Enkelrum gamla elevhemmet, dusch/wc i korridor 1600kr/månad, 180kr/dygn, 650kr/vecka</p>
+<p>Motorvärmare 170kr/månad, 25kr/dygn</p>
+</body></document>

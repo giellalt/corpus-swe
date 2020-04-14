@@ -1,46 +1,17 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>303</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1133</origFileName>
-    <parallel_text xml:lang="sme" location="3238.html"/>
-    <parallel_text xml:lang="smj" location="4057.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Bakgrund - Sametinget</p>
-    <p type="title">Bakgrund</p>
-    <p>Programmet för för stöd och ersättningar till landsbygden kallas Landsbygdsprogrammet.</p>
-    <p>Medlemsländerna inom EU har antagit ett program för landsbygdsutveckling 2007-2013. Ministerrådet har europeiska strategiska riktlinjer för landsbygdsutveckling. Dessa kompletteras med nationella strategier för varje medlemsland. De nationella strategierna beskriver genomförande, finansiering och samverkan med sammanhållningspolitiken, dvs EU:s åtgärder och fonder för att uppnå målen med regionalpolitiken.</p>
-    <p>EU:strategi för den nya programperioden är:</p>
-    <list>
-      <p type="listitem">Hållbarhet</p>
-      <p type="listitem">Tillväxt och arbetstillfällen</p>
-      <p type="listitem">Långsiktiga investeringar i människor, know-how och kapital</p>
-    </list>
-    <p><em type="italic">Fyra prioriterade områden </em>Landsbygdsprogrammets övergripande mål är att främja en ekonomiskt, ekologiskt och socialt hållbar utveckling av landsbygden. Det nya landsbygdsprogrammet förväntas bidra till omstrukturering av jord- och skogsbruket inom EU och därmed ökad konkurrenskraft, till förbättring av miljön och livskvaliteten på landsbygden och till en diversifiering av ekonomin. Landsbygdsprogrammet är uppbyggt kring fyra prioriterade områden: </p>
-    <list>
-      <p type="listitem">Förbättrad konkurrenskraft inom jord- och skogsbruk</p>
-      <p type="listitem">Markanvändningsplanering</p>
-      <p type="listitem">Diversifierad ekonomi och god livskvalitet på landsbygden</p>
-      <p type="listitem">Leaderdimensionen</p>
-    </list>
-    <p><em type="italic">Hela Sverige utom storstäderna är landsbygd </em>Sverige är i jämförelse med andra europeiska länder mycket glest befolkat. Därför klassas hela Sveriges yta med undantag av storstadsregionerna som landsbygd. I norra Sverige finns stora områden med mycket gles permanent befolkning. Där används markerna bland annat till skogsbruk, renskötsel, friluftsliv och turism. En negativ befolkningsutveckling anses delvis vägas upp av ökat deltidsboende och en växande besöksnäring. <em type="italic">Olika sorters stöd </em>Stöd kan ges för utveckling av landsbygden, miljöförbättrande åtgärder samt ökad konkurrenskraft inom rennäring, jord- och skogsbruk, trädgård samt livsmedelsförädling. Lokalt engagemang i landsbygdens utveckling skall också uppmuntras. För att få en introduktion över olika stöd och ersättningsformer kan du ladda hem de dokument som översiktligt beskriver programmet. Statens Jordbruksverk är förvaltningsmyndighet för landsbygdsprogrammet. Länsstyrelserna och Sametinget är stödmyndigheter. <em type="italic">Ansökningar till Sametinget </em></p>
-    <list>
-      <p type="listitem">Ansökningar som gäller företagsstöd och projektstöd för samiska företag ska skickas till Sametinget.</p>
-      <p type="listitem">Ansökningar om bevarande av natur- och kulturmiljöer i renskötselområdet ska skickas till Sametinget.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>303</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1133</origFileName><parallel_text xml:lang="sme" location="3238.html"/><parallel_text xml:lang="smj" location="4057.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Bakgrund - Sametinget</p>
+<p type="title">Bakgrund</p>
+<p>Programmet för för stöd och ersättningar till landsbygden kallas Landsbygdsprogrammet.</p>
+<p>Medlemsländerna inom EU har antagit ett program för landsbygdsutveckling 2007-2013. Ministerrådet har europeiska strategiska riktlinjer för landsbygdsutveckling. Dessa kompletteras med nationella strategier för varje medlemsland. De nationella strategierna beskriver genomförande, finansiering och samverkan med sammanhållningspolitiken, dvs EU:s åtgärder och fonder för att uppnå målen med regionalpolitiken.</p>
+<p>EU:strategi för den nya programperioden är:</p>
+<list><p type="listitem">Hållbarhet</p>
+<p type="listitem">Tillväxt och arbetstillfällen</p>
+<p type="listitem">Långsiktiga investeringar i människor, know-how och kapital</p>
+</list><p><em type="italic">Fyra prioriterade områden </em>Landsbygdsprogrammets övergripande mål är att främja en ekonomiskt, ekologiskt och socialt hållbar utveckling av landsbygden. Det nya landsbygdsprogrammet förväntas bidra till omstrukturering av jord- och skogsbruket inom EU och därmed ökad konkurrenskraft, till förbättring av miljön och livskvaliteten på landsbygden och till en diversifiering av ekonomin. Landsbygdsprogrammet är uppbyggt kring fyra prioriterade områden: </p>
+<list><p type="listitem">Förbättrad konkurrenskraft inom jord- och skogsbruk</p>
+<p type="listitem">Markanvändningsplanering</p>
+<p type="listitem">Diversifierad ekonomi och god livskvalitet på landsbygden</p>
+<p type="listitem">Leaderdimensionen</p>
+</list><p><em type="italic">Hela Sverige utom storstäderna är landsbygd </em>Sverige är i jämförelse med andra europeiska länder mycket glest befolkat. Därför klassas hela Sveriges yta med undantag av storstadsregionerna som landsbygd. I norra Sverige finns stora områden med mycket gles permanent befolkning. Där används markerna bland annat till skogsbruk, renskötsel, friluftsliv och turism. En negativ befolkningsutveckling anses delvis vägas upp av ökat deltidsboende och en växande besöksnäring. <em type="italic">Olika sorters stöd </em>Stöd kan ges för utveckling av landsbygden, miljöförbättrande åtgärder samt ökad konkurrenskraft inom rennäring, jord- och skogsbruk, trädgård samt livsmedelsförädling. Lokalt engagemang i landsbygdens utveckling skall också uppmuntras. För att få en introduktion över olika stöd och ersättningsformer kan du ladda hem de dokument som översiktligt beskriver programmet. Statens Jordbruksverk är förvaltningsmyndighet för landsbygdsprogrammet. Länsstyrelserna och Sametinget är stödmyndigheter. <em type="italic">Ansökningar till Sametinget </em></p>
+<list><p type="listitem">Ansökningar som gäller företagsstöd och projektstöd för samiska företag ska skickas till Sametinget.</p>
+<p type="listitem">Ansökningar om bevarande av natur- och kulturmiljöer i renskötselområdet ska skickas till Sametinget.</p>
+</list></body></document>

@@ -1,79 +1,47 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Avgifter, äldre- och handikappomsorg - Krokoms kommun</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>316</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.krokom.se/omsorgochhjalp/aldre/avgifteraldreochhandikappomsorg.4180.html</origFileName>
-    <parallel_text xml:lang="sma" location="avgifteraldreochhandikappomsorg.4180.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="ron">Translate site</p>
-    <list>
-      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
-      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
-      <p type="listitem" xml:lang="eng">Press</p>
-      <p type="listitem" xml:lang="vep">A-Ö</p>
-      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
-      <p type="listitem" xml:lang="vep">Intranät</p>
-      <p type="listitem">Lyssna</p>
-      <p type="listitem" xml:lang="sms">Lättläst</p>
-      <p type="listitem" xml:lang="ron">Translate</p>
-    </list>
-    <p xml:lang="isl">Sök</p>
-    <list>
-      <p type="listitem">Kommun och politik</p>
-      <p type="listitem">Utbildning och barnomsorg</p>
-      <p type="listitem">Bygga, bo och miljö</p>
-      <p type="listitem">Omsorg och hjälp</p>
-      <p type="listitem">Näringsliv och arbete</p>
-      <p type="listitem">Kultur, fritid och turism</p>
-      <p type="listitem">Trafik och infrastruktur</p>
-    </list>
-    <p>Mina favoriter</p>
-    <p type="title">Avgifter, äldre- och handikappomsorg</p>
-    <p>Bestämmelserna om avgifter inom äldre- och handikappomsorgen finns i 8 kapitlet socialtjänstlagen. Den högsta avgift som kommunen totalt får ta ut för service, vård och omsorg är 2 044 kronor per månad under 2016.</p>
-    <p><em type="italic">Avgifter för service, vård och omsorg i ordinärt boende </em>Priset för servicetjänster är 200 kronor per timme. Priset för omvårdnad är 101 kronor per timme. </p>
-    <p>Hembesök av distriktssköterska, arbetsterapeut och sjukgymnast kostar 100 kronor per gång, men sammanlagt högst 500 kronor per månad.</p>
-    <p><em type="italic">Avgifter för särskilt boende </em>Priset för mat i särskilda boendeformer med helpension (alla måltider inkl kaffe) är för närvarande 3 100 kronor per månad. </p>
-    <p>Priset för omvårdnad i särskilt boende är 2 044 kronor per månad.</p>
-    <p>Avgiften är inkomstprövad och ditt avgiftsutrymme beräknas så här:</p>
-    <p><em type="italic">Inkomster </em>+ Pensioner + Inkomst av kapital och näringsinkomster + Bostadstillägg/bostadsbidrag + Övriga inkomster - Skatt </p>
-    <p><em type="italic">Förbehållsbelopp </em>- Hyra/boendekostnad - Minimibelopp* Avgiftsutrymme = inkomster - förbehållsbelopp. </p>
-    <p>*Minimibeloppet ska räcka till bland annat livsmedel, kläder, skor, telefon, TV-avgift, medicin och ska tillsammans med boendekostnaden bli ditt förbehållsbelopp.</p>
-    <p>Minimibeloppet för 2016 är för ensamstående 5001 kronor per månad och för makar och sambor 4225 kronor per månad.</p>
-    <p>Beslut om avgifter och förbehållsbelopp kan överklagas.</p>
-    <p>Har du frågor om avgifterna, se kontaktinformationen.</p>
-    <p xml:lang="nno">Uppdaterad 2017-02-24 av Åsa Sjödin</p>
-    <p xml:lang="sma">Åarjelsaemien gïele</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Facebook</p>
-      <p type="listitem" xml:lang="nno">Twitter</p>
-      <p type="listitem" xml:lang="eng">E-post</p>
-    </list>
-    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
-    <p xml:lang="eng">Kontaktinformation</p>
-    <list>
-      <p type="listitem" xml:lang="sma">Ann-Louise Mattsson Armgren</p>
-      <p type="listitem" xml:lang="deu">Assistent 0640 165 03</p>
-    </list>
-    <p>Läs mer</p>
-    <list>
-      <p type="listitem" xml:lang="smj">Socialtjänstlagen 8 kap</p>
-      <p type="listitem">Folder <span type="quote">"Avgifter för service, vård och omsorg"</span></p>
-      <p type="listitem" xml:lang="nob">Blanketter</p>
-    </list>
-    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Avgifter, äldre- och handikappomsorg - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>316</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/omsorgochhjalp/aldre/avgifteraldreochhandikappomsorg.4180.html</origFileName><parallel_text xml:lang="sma" location="avgifteraldreochhandikappomsorg.4180.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="ron">Translate site</p>
+<list><p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+<p type="listitem" xml:lang="nob">Om webbplatsen</p>
+<p type="listitem" xml:lang="eng">Press</p>
+<p type="listitem" xml:lang="est">A-Ö</p>
+<p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+<p type="listitem" xml:lang="vep">Intranät</p>
+<p type="listitem">Lyssna</p>
+<p type="listitem" xml:lang="sms">Lättläst</p>
+<p type="listitem" xml:lang="ron">Translate</p>
+</list><p xml:lang="isl">Sök</p>
+<list><p type="listitem">Kommun och politik</p>
+<p type="listitem">Utbildning och barnomsorg</p>
+<p type="listitem">Bygga, bo och miljö</p>
+<p type="listitem">Omsorg och hjälp</p>
+<p type="listitem">Näringsliv och arbete</p>
+<p type="listitem">Kultur, fritid och turism</p>
+<p type="listitem">Trafik och infrastruktur</p>
+</list><p>Mina favoriter</p>
+<p type="title">Avgifter, äldre- och handikappomsorg</p>
+<p>Bestämmelserna om avgifter inom äldre- och handikappomsorgen finns i 8 kapitlet socialtjänstlagen. Den högsta avgift som kommunen totalt får ta ut för service, vård och omsorg är 2 044 kronor per månad under 2016.</p>
+<p><em type="italic">Avgifter för service, vård och omsorg i ordinärt boende </em>Priset för servicetjänster är 200 kronor per timme. Priset för omvårdnad är 101 kronor per timme. </p>
+<p>Hembesök av distriktssköterska, arbetsterapeut och sjukgymnast kostar 100 kronor per gång, men sammanlagt högst 500 kronor per månad.</p>
+<p><em type="italic">Avgifter för särskilt boende </em>Priset för mat i särskilda boendeformer med helpension (alla måltider inkl kaffe) är för närvarande 3 100 kronor per månad. </p>
+<p>Priset för omvårdnad i särskilt boende är 2 044 kronor per månad.</p>
+<p>Avgiften är inkomstprövad och ditt avgiftsutrymme beräknas så här:</p>
+<p><em type="italic">Inkomster </em>+ Pensioner + Inkomst av kapital och näringsinkomster + Bostadstillägg/bostadsbidrag + Övriga inkomster - Skatt </p>
+<p><em type="italic">Förbehållsbelopp </em>- Hyra/boendekostnad - Minimibelopp* Avgiftsutrymme = inkomster - förbehållsbelopp. </p>
+<p>*Minimibeloppet ska räcka till bland annat livsmedel, kläder, skor, telefon, TV-avgift, medicin och ska tillsammans med boendekostnaden bli ditt förbehållsbelopp.</p>
+<p>Minimibeloppet för 2016 är för ensamstående 5001 kronor per månad och för makar och sambor 4225 kronor per månad.</p>
+<p>Beslut om avgifter och förbehållsbelopp kan överklagas.</p>
+<p>Har du frågor om avgifterna, se kontaktinformationen.</p>
+<p xml:lang="nno">Uppdaterad 2017-02-24 av Åsa Sjödin</p>
+<p xml:lang="sma">Åarjelsaemien gïele</p>
+<list><p type="listitem" xml:lang="nno">Facebook</p>
+<p type="listitem" xml:lang="nno">Twitter</p>
+<p type="listitem" xml:lang="eng">E-post</p>
+</list><p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+<p xml:lang="eng">Kontaktinformation</p>
+<list><p type="listitem" xml:lang="sma">Ann-Louise Mattsson Armgren</p>
+<p type="listitem" xml:lang="deu">Assistent 0640 165 03</p>
+</list><p>Läs mer</p>
+<list><p type="listitem" xml:lang="smj">Socialtjänstlagen 8 kap</p>
+<p type="listitem">Folder <span type="quote">"Avgifter för service, vård och omsorg"</span></p>
+<p type="listitem" xml:lang="nob">Blanketter</p>
+</list><p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+</body></document>

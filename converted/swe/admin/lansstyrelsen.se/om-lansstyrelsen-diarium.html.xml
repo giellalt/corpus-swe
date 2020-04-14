@@ -1,56 +1,26 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>340</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/diarium/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="om-lansstyrelsen-diarium.html"/>
-    <parallel_text xml:lang="sma" location="om-lansstyrelsen-diarium.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Diarium - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Diarium</p>
-    <p>
-      <em type="italic">I diariet registreras dagligen nya ärenden, handlingar i pågående ärenden samt när beslut fattas i ärendena. Uppgifterna i diariet är offentliga, vilket innebär att media och andra intresserade har tillgång till dem. </em>
-    </p>
-    <p>Via Länsstyrelsernas diarier får du tillgång till ärenden som är registrerade från och med den 8 juni 2011.</p>
-    <p>
-      <em type="italic">Mer information </em>
-    </p>
-    <p>Vill du veta mer om ett enskilt ärende, kontakta handläggaren. Vill du veta mer om registreringen i diariet eller önskar att ta del av allmänna handlingar: kontakta Diariet, telefon 010 225 00 00 eller via e-post till: dalarna@lansstyrelsen.se</p>
-    <p type="title">Söka i webbdiariet</p>
-    <p>
-      <em type="italic">Så här söker du i länsstyrelsernas webbdiarier: </em>
-    </p>
-    <p>Välj först vilket läns diarium du vill söka i. Du kan sedan välja att antingen söka på diarienummer eller på rubrik.</p>
-    <p><em type="italic">Söka på diarienummer </em>Våra diarienummer består vanligtvis av tre grupper av siffror till exempel 403-123456-2012. I fältet diarienummer skriver du bara in de två sista grupperna, det vill säga 123456-2012 i detta exempel. </p>
-    <p><em type="italic">Söka på rubrik </em>I fältet rubrik kan du till exempel söka på fastighetsbeteckning eller vad ärendet handlar om, som till exempel medborgarskap eller avfall. Du behöver bara fylla i ett fält för att söka. Har du diarienummer fyller du i det, annars fyller du i rubrik. </p>
-    <p>Observera att du inte ska fylla i fälten <span type="quote">"org enhet"</span> eller <span type="quote">"kommun"</span> om du fyller i fälten diarienummer eller rubrik. Kontrollera att det är rätt årtal i fältet för Ärendet Inkommet/Upprättat.</p>
-    <p>Om du vet ungefär när ärendet kom in kan du fylla i det för att få mindre antal träffar att söka bland när du söker på rubrik. När du fått fram ditt resultat kan du klicka på diarienumret så får du upp vilka handlingar vi har fått in i ärendet.</p>
-    <p>Om du inte hittar det ärende du söker kontakta oss gärna.</p>
-    <p type="title">Kontakta oss</p>
-    <p>Länsstyrelsen Dalarna</p>
-    <p>dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
-    <p>010 225 00 00</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>340</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/diarium/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="om-lansstyrelsen-diarium.html"/><parallel_text xml:lang="sma" location="om-lansstyrelsen-diarium.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Diarium - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Diarium</p>
+<p><em type="italic">I diariet registreras dagligen nya ärenden, handlingar i pågående ärenden samt när beslut fattas i ärendena. Uppgifterna i diariet är offentliga, vilket innebär att media och andra intresserade har tillgång till dem. </em></p>
+<p>Via Länsstyrelsernas diarier får du tillgång till ärenden som är registrerade från och med den 8 juni 2011.</p>
+<p><em type="italic">Mer information </em></p>
+<p>Vill du veta mer om ett enskilt ärende, kontakta handläggaren. Vill du veta mer om registreringen i diariet eller önskar att ta del av allmänna handlingar: kontakta Diariet, telefon 010 225 00 00 eller via e-post till: dalarna@lansstyrelsen.se</p>
+<p type="title">Söka i webbdiariet</p>
+<p><em type="italic">Så här söker du i länsstyrelsernas webbdiarier: </em></p>
+<p>Välj först vilket läns diarium du vill söka i. Du kan sedan välja att antingen söka på diarienummer eller på rubrik.</p>
+<p><em type="italic">Söka på diarienummer </em>Våra diarienummer består vanligtvis av tre grupper av siffror till exempel 403-123456-2012. I fältet diarienummer skriver du bara in de två sista grupperna, det vill säga 123456-2012 i detta exempel. </p>
+<p><em type="italic">Söka på rubrik </em>I fältet rubrik kan du till exempel söka på fastighetsbeteckning eller vad ärendet handlar om, som till exempel medborgarskap eller avfall. Du behöver bara fylla i ett fält för att söka. Har du diarienummer fyller du i det, annars fyller du i rubrik. </p>
+<p>Observera att du inte ska fylla i fälten <span type="quote">"org enhet"</span> eller <span type="quote">"kommun"</span> om du fyller i fälten diarienummer eller rubrik. Kontrollera att det är rätt årtal i fältet för Ärendet Inkommet/Upprättat.</p>
+<p>Om du vet ungefär när ärendet kom in kan du fylla i det för att få mindre antal träffar att söka bland när du söker på rubrik. När du fått fram ditt resultat kan du klicka på diarienumret så får du upp vilka handlingar vi har fått in i ärendet.</p>
+<p>Om du inte hittar det ärende du söker kontakta oss gärna.</p>
+<p type="title">Kontakta oss</p>
+<p>Länsstyrelsen Dalarna</p>
+<p>dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
+<p>010 225 00 00</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

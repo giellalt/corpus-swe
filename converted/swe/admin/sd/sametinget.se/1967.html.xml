@@ -1,35 +1,9 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>156</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1967</origFileName>
-    <parallel_text xml:lang="sme" location="3388.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samiskt kulturarv - Sametinget</p>
-    <p>Silver har av tradition haft stor betydelse i den samiska kulturen.  Foto: Marie Enoksson/Sametinget.</p>
-    <p type="title">Samiskt kulturarv</p>
-    <p>Med det samiska kulturarvet menas det samiska folkets kultur och historia i en geografisk kontext. Kulturarvet återspeglar en svunnen tid samtidigt som det är basen för ett tankesystem och dagens levande samiska kultur.</p>
-    <p>
-      <em type="bold">Traditionell kunskap </em>
-    </p>
-    <p>Definitionen på kulturarv inkluderar både det materiella och det immateriella kulturarvet. Det kan vara lämningar i naturen. Det kan vara berättarkonst, traditionell musik, traditionell kunskap, religiösa och filosofiska system, traditioner, idéer och värden.</p>
-    <p>
-      <em type="bold">Det förflutna en del av nuet </em>
-    </p>
-    <p>Det förflutna och förfäderna/-mödrarna är för samer liksom för andra urfolk en bas för den samtida kulturen och identiteten. Det är ett tankesystem som skiljer sig från det moderna västerländska tankesystemet. Nuet är ingen isolerad ö av tillfälligheter utan en länk i en lång, lång kedja. Allt hänger ihop. Förfäderna och det förflutna är en del av nuet och vårt liv idag.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>156</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1967</origFileName><parallel_text xml:lang="sme" location="3388.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samiskt kulturarv - Sametinget</p>
+<p>Silver har av tradition haft stor betydelse i den samiska kulturen.  Foto: Marie Enoksson/Sametinget.</p>
+<p type="title">Samiskt kulturarv</p>
+<p>Med det samiska kulturarvet menas det samiska folkets kultur och historia i en geografisk kontext. Kulturarvet återspeglar en svunnen tid samtidigt som det är basen för ett tankesystem och dagens levande samiska kultur.</p>
+<p><em type="bold">Traditionell kunskap </em></p>
+<p>Definitionen på kulturarv inkluderar både det materiella och det immateriella kulturarvet. Det kan vara lämningar i naturen. Det kan vara berättarkonst, traditionell musik, traditionell kunskap, religiösa och filosofiska system, traditioner, idéer och värden.</p>
+<p><em type="bold">Det förflutna en del av nuet </em></p>
+<p>Det förflutna och förfäderna/-mödrarna är för samer liksom för andra urfolk en bas för den samtida kulturen och identiteten. Det är ett tankesystem som skiljer sig från det moderna västerländska tankesystemet. Nuet är ingen isolerad ö av tillfälligheter utan en länk i en lång, lång kedja. Allt hänger ihop. Förfäderna och det förflutna är en del av nuet och vårt liv idag.</p>
+</body></document>

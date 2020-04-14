@@ -1,102 +1,57 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1300</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Sex/Skydd-mot-graviditet/P-piller</origFileName>
-    <parallel_text xml:lang="fin" location="ehkaisypilleri.html"/>
-    <parallel_text xml:lang="fit" location="p-pilleri.html"/>
-    <parallel_text xml:lang="sma" location="p-pillere.html"/>
-    <parallel_text xml:lang="sme" location="p-pillar.html"/>
-    <parallel_text xml:lang="smj" location="p-tablahtta.html"/>
-    <parallel_text location="p-tabus.html" xml:lang="rmu"/>
-    <parallel_text location="preventivno-drab.html" xml:lang="rmy-rka"/>
-    <parallel_text location="p-piller.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="p-piller.html" xml:lang="rmf"/>
-    <parallel_text location="kontraceptikane-hapija-hapija-bao-na-ahojbe-khamni.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>P-piller</p>
-    <p>Alla undrar!  Vad undrar du?</p>
-    <p type="title">P-piller</p>
-    <p>P-piller är ett preventivmedel i tablettform för tjejer. Med p-piller menas oftast det som egentligen heter kombinerade p-piller. De innehåller två olika hormoner, östrogen och gestagen (gulkroppshormon). De gör bland annat att man inte får någon ägglossning och därför inte heller kan bli gravid.</p>
-    <p>Det finns många olika sorters kombinerade p-piller, vissa innehåller mer östrogen, andra mer gestagen. Det gör att de påverkar kroppen på olika sätt. Därför kan man behöva pröva sig fram för att hitta den sort som passar en bäst.</p>
-    <p>Vilken sorts karta man har beror på vilket sorts p-piller man använder. Att ha en karta där det också finns tabletter utan hormoner, så kallade sockerpiller. Det kan vara bra om man tycker att det är svårt att komma ihåg när man ska börja på nästa karta.</p>
-    <p>När man äter hormonfria tabletter eller inte tar några tabletter alls får man en typ av mens. Den kallas ibland för p-piller-mens eller bortfallsblödning. Även om man inte äter några p-piller är man fortfarande skyddad mot graviditet under den här veckan.</p>
-    <p type="title">Hur använder man p-piller?</p>
-    <p>Om man använder p-piller har man en karta med 21 eller 28 tabletter. Man ska ta en tablett vid ungefär samma tid varje dag.</p>
-    <p>Har man en karta med <em type="italic">21 </em>tabletter så gör man ett uppehåll i en vecka efter att man ätit alla tabletterna på kartan. </p>
-    <p>Har man en karta med <em type="italic">28 </em>tabletter så äter man tabletter utan hormoner under de sista dagarna på kartan. </p>
-    <p>Hur många tabletter utan hormoner man har varierar beroende på vilka p-piller man tar.</p>
-    <p type="title">Att börja med p-piller</p>
-    <p>P-piller innehåller hormoner som påverkar kroppen och ofta behöver man lite tid att vänja sig.</p>
-    <p>I början kan p-pillren ge besvär som senare försvinner. Man kan till exempel få problem med bröstspänningar eller mellanblödningar. Oftast går detta över. Men om besvären inte har försvunnit efter två till tre månader kan man pröva någon annan sorts p-piller eller annan typ av skydd istället.</p>
-    <p type="title">Om man glömt eller kräkts upp p-piller</p>
-    <p>Det är viktigt att ta sin tablett vid ungefär samma tid varje dag. Om man missar med mer än 12 timmar, alltså att det går mer än 36 timmar mellan två tabletter, finns det risk att man inte längre är skyddad mot graviditet.</p>
-    <p>Hur lång tid det högst får gå mellan två tabletter varierar beroende på vilken sorts p-piller man använder och var på kartan man är. Vad som gäller för just de p-piller man tar kan man läsa i bipacksedeln. Bipacksedeln är den lapp som ligger i förpackningen när man köper sina p-piller.</p>
-    <p>Känner man sig osäker kan man också ta kontakt med den mottagningen där man fått sina p-piller utskrivna.</p>
-    <p>Om det finns risk att man inte längre är skyddad mot graviditet ska man göra så här:</p>
-    <list>
-      <p type="listitem">Ta det eller de p-piller man missat så snart man kan.</p>
-      <p type="listitem">Använda kondom om man har samlag under de kommande sju dagarna. När man ätit sina p-piller sju dagar i rad är man skyddad mot graviditet igen.</p>
-      <p type="listitem">Ta ett akut-p-piller om man haft samlag de senaste fem dygnen innan man missade att ta sin tablett eftersom spermierna kan överleva i livmodern och äggledarna i flera dagar.</p>
-    </list>
-    <p>Om man kräks inom fyra timmar efter att man tagit sitt p-piller eller om man har diarré är det inte säkert att man får någon effekt. Då ska man ta en ny tablett så är man fortfarande skyddad.</p>
-    <p>Den nya tabletten ska man ta från en annan karta så att det inte fattas på den man använder för tillfället. Den kartan kan man ha som reserv om man behöver ta ett extra någon mer gång.</p>
-    <p>Om man har varit magsjuk eller av någon annan anledning känner sig osäker på om man fått i sig tabletterna som man ska bör man skydda sig med kondom också under de kommande sju dagarna.</p>
-    <p>Man kan alltid fråga en barnmorska på till exempel en ungdomsmottagning eller barnmorskemottagning om man känner sig osäker.</p>
-    <p type="title">Att flytta mensen med p-piller</p>
-    <p>Ibland kan det vara praktiskt att skjuta fram mensen, till exempel om man ska resa bort. Det kan man göra med p-piller. Då börjar man på en ny karta direkt efter att den förra är slut. Om man äter sockerpiller hoppar man över dem och går direkt över till en ny karta. Det innebär att man inte gör något uppehåll med hormontabletterna förrän man vill ha mens, till exempel när man kommer hem från resan.</p>
-    <p>Det är inte farligt att flytta på mensen på det här sättet och man kan göra det under flera månader om man vill. Ju längre man försöker skjuta på mensen desto större risk är det att man får problem med små blödningar. Får man blödningar brukar det bästa vara att göra sitt uppehåll och därefter börja på en ny karta.</p>
-    <p type="title">Liten risk för blodpropp</p>
-    <p>P-piller innehåller östrogen och kan ge en ökad risk för blodpropp. Men den risken är väldigt liten. Till exempel är det större risk att man får en blodpropp när man är gravid än när man äter p-piller.</p>
-    <p>Risken för blodpropp ökar om man är kraftigt överviktig, har en förälder eller syskon som fått blodpropp före 50 års ålder eller om man själv haft blodpropp tidigare. Då brukar man rekommenderas att välja något östrogenfritt skydd mot graviditet, till exempel p-stav, hormonspiral eller minipiller.</p>
-    <p type="title">Var kan man få p-piller?</p>
-    <p>P-piller kan skrivas ut på recept av en barnmorska eller läkare på en ungdomsmottagning, barnmorskemottagning eller sex-och samlevnadsmottagning. Man kan även vända sig till en kvinnoklinik eller en vårdcentral. Själva tabletterna får man hämta ut på ett apotek.</p>
-    <p type="title">Vad kostar p-piller?</p>
-    <p>Hur mycket p-piller kostar kan skilja sig beroende på var i landet man bor, hur gammal man är och vilken sorts p-piller man har. Men i de flesta landsting och regioner är preventivmedel billigare när man är under 26 år.</p>
-    <p type="title">Hur säkert är p-piller?</p>
-    <p>Om man tar sina p-piller som man ska är risken att bli gravid mycket liten.</p>
-    <p type="title">Hur slutar man med p-piller?</p>
-    <p>Om man vill sluta med p-piller, så brukar det bästa vara att äta klart den p-pillerkarta som man håller på med och sen inte börja med någon ny.</p>
-    <p>Det är inte farligt att sluta med p-piller mitt i en karta, men risken finns att man då kan få lite oregelbundna blödningar. Om man inte vill bli gravid så är det viktigt att man direkt börjar använda något annat skydd mot graviditet.</p>
-    <p>Det är olika hur snabbt mensen kommer igång efter att man slutat med p-piller. En del får regelbunden mens direkt och för andra kan det ta flera månader. Det vanligaste är att mensen kommer tillbaka efter en till två månader efter att man slutat med sina p-piller.</p>
-    <p>Om man inte vill bli gravid är det viktigt att komma ihåg att skydda sig mot graviditet om man har slidsamlag även om mensen inte har kommit tillbaka. Ägglossningen sker ungefär 14 dagar innan mensen kommer och det är då risken är som störst att bli gravid.</p>
-    <p>Om man inte fått tillbaka sin mens sex månader efter att man slutat med p-piller så ska man kontakta en ungdomsmottagning, barnmorskemottagning, hud- och könsmottagning eller vårdcentral för att ta reda på vad det kan bero på.</p>
-    <p type="title">Fördelar</p>
-    <list>
-      <p type="listitem">Det är ett säkert skydd mot graviditet.</p>
-      <p type="listitem">Mensen minskar och blir mer regelbunden.</p>
-      <p type="listitem">Man får mindre menssmärtor.</p>
-      <p type="listitem">Risken att man får PMS minskar.</p>
-      <p type="listitem">Risken för inflammation i äggledarna, cancer i äggstockarna, livmodern och tjocktarmen minskar.</p>
-      <p type="listitem">Man kan flytta fram mensen om man till exempel ska resa bort.</p>
-    </list>
-    <p type="title">Nackdelar</p>
-    <list>
-      <p type="listitem">P-piller skyddar inte mot könssjukdomar.</p>
-      <p type="listitem">Hormonerna kan påverka en så att man exempel får ont i huvudet, får finnar eller känner sig nedstämd.</p>
-      <p type="listitem">Om man kräks, har diarré eller glömmer att ta en tablett kan man inte vara säker på att man inte blir gravid.</p>
-      <p type="listitem">Vissa kan uppleva att de får mindre sexlust av p-piller.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1295</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Sex/Skydd-mot-graviditet/P-piller</origFileName><parallel_text xml:lang="fin" location="ehkaisypilleri.html"/><parallel_text xml:lang="fit" location="p-pilleri.html"/><parallel_text xml:lang="sma" location="p-pillere.html"/><parallel_text xml:lang="sme" location="p-pillar.html"/><parallel_text xml:lang="smj" location="p-tablahtta.html"/><parallel_text location="p-tabus.html" xml:lang="rmu"/><parallel_text location="preventivno-drab.html" xml:lang="rmy-rka"/><parallel_text location="p-piller.html" xml:lang="rmy-rlo"/><parallel_text location="p-piller.html" xml:lang="rmf"/><parallel_text location="kontraceptikane-hapija-hapija-bao-na-ahojbe-khamni.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>P-piller</p>
+<p type="title">P-piller</p>
+<p>P-piller är ett preventivmedel i tablettform för tjejer. Med p-piller menas oftast det som egentligen heter kombinerade p-piller. De innehåller två olika hormoner, östrogen och gestagen (gulkroppshormon). De gör bland annat att man inte får någon ägglossning och därför inte heller kan bli gravid.</p>
+<p>Det finns många olika sorters kombinerade p-piller, vissa innehåller mer östrogen, andra mer gestagen. Det gör att de påverkar kroppen på olika sätt. Därför kan man behöva pröva sig fram för att hitta den sort som passar en bäst.</p>
+<p>Vilken sorts karta man har beror på vilket sorts p-piller man använder. Att ha en karta där det också finns tabletter utan hormoner, så kallade sockerpiller. Det kan vara bra om man tycker att det är svårt att komma ihåg när man ska börja på nästa karta.</p>
+<p>När man äter hormonfria tabletter eller inte tar några tabletter alls får man en typ av mens. Den kallas ibland för p-piller-mens eller bortfallsblödning. Även om man inte äter några p-piller är man fortfarande skyddad mot graviditet under den här veckan.</p>
+<p type="title">Hur använder man p-piller?</p>
+<p>Om man använder p-piller har man en karta med 21 eller 28 tabletter. Man ska ta en tablett vid ungefär samma tid varje dag.</p>
+<p>Har man en karta med <em type="italic">21 </em>tabletter så gör man ett uppehåll i en vecka efter att man ätit alla tabletterna på kartan. </p>
+<p>Har man en karta med <em type="italic">28 </em>tabletter så äter man tabletter utan hormoner under de sista dagarna på kartan. </p>
+<p>Hur många tabletter utan hormoner man har varierar beroende på vilka p-piller man tar.</p>
+<p type="title">Att börja med p-piller</p>
+<p>P-piller innehåller hormoner som påverkar kroppen och ofta behöver man lite tid att vänja sig.</p>
+<p>I början kan p-pillren ge besvär som senare försvinner. Man kan till exempel få problem med bröstspänningar eller mellanblödningar. Oftast går detta över. Men om besvären inte har försvunnit efter två till tre månader kan man pröva någon annan sorts p-piller eller annan typ av skydd istället.</p>
+<p type="title">Om man glömt eller kräkts upp p-piller</p>
+<p>Det är viktigt att ta sin tablett vid ungefär samma tid varje dag. Om man missar med mer än 12 timmar, alltså att det går mer än 36 timmar mellan två tabletter, finns det risk att man inte längre är skyddad mot graviditet.</p>
+<p>Hur lång tid det högst får gå mellan två tabletter varierar beroende på vilken sorts p-piller man använder och var på kartan man är. Vad som gäller för just de p-piller man tar kan man läsa i bipacksedeln. Bipacksedeln är den lapp som ligger i förpackningen när man köper sina p-piller.</p>
+<p>Känner man sig osäker kan man också ta kontakt med den mottagningen där man fått sina p-piller utskrivna.</p>
+<p>Om det finns risk att man inte längre är skyddad mot graviditet ska man göra så här:</p>
+<list><p type="listitem">Ta det eller de p-piller man missat så snart man kan.</p>
+<p type="listitem">Använda kondom om man har samlag under de kommande sju dagarna. När man ätit sina p-piller sju dagar i rad är man skyddad mot graviditet igen.</p>
+<p type="listitem">Ta ett akut-p-piller om man haft samlag de senaste fem dygnen innan man missade att ta sin tablett eftersom spermierna kan överleva i livmodern och äggledarna i flera dagar.</p>
+</list><p>Om man kräks inom fyra timmar efter att man tagit sitt p-piller eller om man har diarré är det inte säkert att man får någon effekt. Då ska man ta en ny tablett så är man fortfarande skyddad.</p>
+<p>Den nya tabletten ska man ta från en annan karta så att det inte fattas på den man använder för tillfället. Den kartan kan man ha som reserv om man behöver ta ett extra någon mer gång.</p>
+<p>Om man har varit magsjuk eller av någon annan anledning känner sig osäker på om man fått i sig tabletterna som man ska bör man skydda sig med kondom också under de kommande sju dagarna.</p>
+<p>Man kan alltid fråga en barnmorska på till exempel en ungdomsmottagning eller barnmorskemottagning om man känner sig osäker.</p>
+<p type="title">Att flytta mensen med p-piller</p>
+<p>Ibland kan det vara praktiskt att skjuta fram mensen, till exempel om man ska resa bort. Det kan man göra med p-piller. Då börjar man på en ny karta direkt efter att den förra är slut. Om man äter sockerpiller hoppar man över dem och går direkt över till en ny karta. Det innebär att man inte gör något uppehåll med hormontabletterna förrän man vill ha mens, till exempel när man kommer hem från resan.</p>
+<p>Det är inte farligt att flytta på mensen på det här sättet och man kan göra det under flera månader om man vill. Ju längre man försöker skjuta på mensen desto större risk är det att man får problem med små blödningar. Får man blödningar brukar det bästa vara att göra sitt uppehåll och därefter börja på en ny karta.</p>
+<p type="title">Liten risk för blodpropp</p>
+<p>P-piller innehåller östrogen och kan ge en ökad risk för blodpropp. Men den risken är väldigt liten. Till exempel är det större risk att man får en blodpropp när man är gravid än när man äter p-piller.</p>
+<p>Risken för blodpropp ökar om man är kraftigt överviktig, har en förälder eller syskon som fått blodpropp före 50 års ålder eller om man själv haft blodpropp tidigare. Då brukar man rekommenderas att välja något östrogenfritt skydd mot graviditet, till exempel p-stav, hormonspiral eller minipiller.</p>
+<p type="title">Var kan man få p-piller?</p>
+<p>P-piller kan skrivas ut på recept av en barnmorska eller läkare på en ungdomsmottagning, barnmorskemottagning eller sex-och samlevnadsmottagning. Man kan även vända sig till en kvinnoklinik eller en vårdcentral. Själva tabletterna får man hämta ut på ett apotek.</p>
+<p type="title">Vad kostar p-piller?</p>
+<p>Hur mycket p-piller kostar kan skilja sig beroende på var i landet man bor, hur gammal man är och vilken sorts p-piller man har. Men i de flesta landsting och regioner är preventivmedel billigare när man är under 26 år.</p>
+<p type="title">Hur säkert är p-piller?</p>
+<p>Om man tar sina p-piller som man ska är risken att bli gravid mycket liten.</p>
+<p type="title">Hur slutar man med p-piller?</p>
+<p>Om man vill sluta med p-piller, så brukar det bästa vara att äta klart den p-pillerkarta som man håller på med och sen inte börja med någon ny.</p>
+<p>Det är inte farligt att sluta med p-piller mitt i en karta, men risken finns att man då kan få lite oregelbundna blödningar. Om man inte vill bli gravid så är det viktigt att man direkt börjar använda något annat skydd mot graviditet.</p>
+<p>Det är olika hur snabbt mensen kommer igång efter att man slutat med p-piller. En del får regelbunden mens direkt och för andra kan det ta flera månader. Det vanligaste är att mensen kommer tillbaka efter en till två månader efter att man slutat med sina p-piller.</p>
+<p>Om man inte vill bli gravid är det viktigt att komma ihåg att skydda sig mot graviditet om man har slidsamlag även om mensen inte har kommit tillbaka. Ägglossningen sker ungefär 14 dagar innan mensen kommer och det är då risken är som störst att bli gravid.</p>
+<p>Om man inte fått tillbaka sin mens sex månader efter att man slutat med p-piller så ska man kontakta en ungdomsmottagning, barnmorskemottagning, hud- och könsmottagning eller vårdcentral för att ta reda på vad det kan bero på.</p>
+<p type="title">Fördelar</p>
+<list><p type="listitem">Det är ett säkert skydd mot graviditet.</p>
+<p type="listitem">Mensen minskar och blir mer regelbunden.</p>
+<p type="listitem">Man får mindre menssmärtor.</p>
+<p type="listitem">Risken att man får PMS minskar.</p>
+<p type="listitem">Risken för inflammation i äggledarna, cancer i äggstockarna, livmodern och tjocktarmen minskar.</p>
+<p type="listitem">Man kan flytta fram mensen om man till exempel ska resa bort.</p>
+</list><p type="title">Nackdelar</p>
+<list><p type="listitem">P-piller skyddar inte mot könssjukdomar.</p>
+<p type="listitem">Hormonerna kan påverka en så att man exempel får ont i huvudet, får finnar eller känner sig nedstämd.</p>
+<p type="listitem">Om man kräks, har diarré eller glömmer att ta en tablett kan man inte vara säker på att man inte blir gravid.</p>
+<p type="listitem">Vissa kan uppleva att de får mindre sexlust av p-piller.</p>
+</list></body></document>

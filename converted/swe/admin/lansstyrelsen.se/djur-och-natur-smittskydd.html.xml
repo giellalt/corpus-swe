@@ -1,58 +1,32 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>334</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/djur-och-natur/smittskydd/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="djur-och-natur-smittskydd.html"/>
-    <parallel_text xml:lang="sma" location="djur-och-natur-smittskydd.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Smittskydd - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Smittskydd</p>
-    <p>
-      <em type="italic">Länsstyrelsen har ansvar för det förebyggande smittskyddet av djur i länet. </em>
-    </p>
-    <p>Jordbruksverket har det övergripande ansvaret för djurhälsan och för att bekämpa smittsamma djursjukdomar.</p>
-    <p type="title">Länsstyrelsen förebygger och bekämpar</p>
-    <p>Länsstyrelsen sköter det förebyggande smittskyddet när det gäller djur i länet, och vi leder och samordnar bekämpningen av vissa allvarliga smittsamma sjukdomar. En del är väldigt smittsamma och får stora konsekvenser för djuren och djurhållningen, så kallade epizootier (till exempel blåtunga samt mul- och klövsjuka). Andra sjukdomar smittar mellan djur och människor och kan orsaka allvarliga sjukdomar på människor, så kallade zoonoser (till exempel salmonella, tuberkulos och rabies).</p>
-    <p>Beroende på vad det gäller kan Länsstyrelsen samarbeta med smittskyddsläkare, Folkhälsomyndigheten, Jordbruksverket, Livsmedelsverket, Statens veterinärmedicinska anstalt, fältverksamma veterinärer och länets kommuner.</p>
-    <p type="title">Länsveterinärens uppgifter</p>
-    <p>Länsveterinären ansvarar för beredskap och bekämpning av epizootier och andra smittsamma sjukdomar i länet. Att förebygga och bekämpa smittsamma sjukdomar är ett prioriterat område.</p>
-    <p>Nya sjukdomar som fotröta hos får och motståndskraftige bakterier hos sällskapsdjur har dykt upp i länet.</p>
-    <p>Länsveterinären svarar också för information till organisationer och veterinärer vid förekomst av kvarka och influensa hos häst.</p>
-    <p>Till de allmänfarliga sjukdomarna hör mul- och klövsjuka, svinpest, rabies med flera. Om de skulle uppträda i landet vill man snabbt och effektivt utrota sjukdomen då de medför stora ekonomiska förluster och ett stort lidande för djuren. För att ha beredskap mot dessa sjukdomar har Länsstyrelsen en beredskapsplan samt utrustat lokaler för bekämpningsändamål.</p>
-    <p>Länsstyrelsen ger råd och anvisningar till privatpersoner som skall resa utomlands med sina sällskapsdjur samt kan medge tillstånd för att inrätta en privat karantän i samråd med Statens veterinärmedicinska anstalt (SVA) och Statens Jordbruksverk.</p>
-    <p type="title">Kontakta oss</p>
-    <p>Olle Rydell</p>
-    <p>Veterinär</p>
-    <p>Djurskydd, veterinär</p>
-    <p>Olle punkt Rydell snabela lansstyrelsen punkt se¤Olle punkt Rydell snabela lansstyrelsen punkt se</p>
-    <p>010-2250411</p>
-    <p>Cecilia Fröberg</p>
-    <p>Veterinär</p>
-    <p>Djurskydd, veterinär</p>
-    <p>Cecilia punkt Froberg snabela lansstyrelsen punkt se¤Cecilia punkt Froberg snabela lansstyrelsen punkt se</p>
-    <p>010-2250398</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>334</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/djur-och-natur/smittskydd/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="djur-och-natur-smittskydd.html"/><parallel_text xml:lang="sma" location="djur-och-natur-smittskydd.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Smittskydd - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Smittskydd</p>
+<p><em type="italic">Länsstyrelsen har ansvar för det förebyggande smittskyddet av djur i länet. </em></p>
+<p>Jordbruksverket har det övergripande ansvaret för djurhälsan och för att bekämpa smittsamma djursjukdomar.</p>
+<p type="title">Länsstyrelsen förebygger och bekämpar</p>
+<p>Länsstyrelsen sköter det förebyggande smittskyddet när det gäller djur i länet, och vi leder och samordnar bekämpningen av vissa allvarliga smittsamma sjukdomar. En del är väldigt smittsamma och får stora konsekvenser för djuren och djurhållningen, så kallade epizootier (till exempel blåtunga samt mul- och klövsjuka). Andra sjukdomar smittar mellan djur och människor och kan orsaka allvarliga sjukdomar på människor, så kallade zoonoser (till exempel salmonella, tuberkulos och rabies).</p>
+<p>Beroende på vad det gäller kan Länsstyrelsen samarbeta med smittskyddsläkare, Folkhälsomyndigheten, Jordbruksverket, Livsmedelsverket, Statens veterinärmedicinska anstalt, fältverksamma veterinärer och länets kommuner.</p>
+<p type="title">Länsveterinärens uppgifter</p>
+<p>Länsveterinären ansvarar för beredskap och bekämpning av epizootier och andra smittsamma sjukdomar i länet. Att förebygga och bekämpa smittsamma sjukdomar är ett prioriterat område.</p>
+<p>Nya sjukdomar som fotröta hos får och motståndskraftige bakterier hos sällskapsdjur har dykt upp i länet.</p>
+<p>Länsveterinären svarar också för information till organisationer och veterinärer vid förekomst av kvarka och influensa hos häst.</p>
+<p>Till de allmänfarliga sjukdomarna hör mul- och klövsjuka, svinpest, rabies med flera. Om de skulle uppträda i landet vill man snabbt och effektivt utrota sjukdomen då de medför stora ekonomiska förluster och ett stort lidande för djuren. För att ha beredskap mot dessa sjukdomar har Länsstyrelsen en beredskapsplan samt utrustat lokaler för bekämpningsändamål.</p>
+<p>Länsstyrelsen ger råd och anvisningar till privatpersoner som skall resa utomlands med sina sällskapsdjur samt kan medge tillstånd för att inrätta en privat karantän i samråd med Statens veterinärmedicinska anstalt (SVA) och Statens Jordbruksverk.</p>
+<p type="title">Kontakta oss</p>
+<p>Olle Rydell</p>
+<p>Veterinär</p>
+<p>Djurskydd, veterinär</p>
+<p>Olle punkt Rydell snabela lansstyrelsen punkt se¤Olle punkt Rydell snabela lansstyrelsen punkt se</p>
+<p>010-2250411</p>
+<p>Cecilia Fröberg</p>
+<p>Veterinär</p>
+<p>Djurskydd, veterinär</p>
+<p>Cecilia punkt Froberg snabela lansstyrelsen punkt se¤Cecilia punkt Froberg snabela lansstyrelsen punkt se</p>
+<p>010-2250398</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

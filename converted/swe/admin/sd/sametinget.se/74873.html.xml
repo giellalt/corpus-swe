@@ -1,32 +1,10 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>315</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/74873</origFileName>
-    <parallel_text xml:lang="sme" location="75529.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Renskötande samer bevakar Almedalsveckan - Sametinget</p>
-    <p type="title">Renskötande samer bevakar Almedalsveckan</p>
-    <p>Representanter för några samebyar i norra Sverige, som står inför reella hot om gruvexploatering i känsliga renbetesområden, kommer att befinna sig på Almedalsveckan i Visby 29/6-5/7 2014.</p>
-    <p><em type="italic">Sveriges fjällområden </em>hotas av förödande miljöförstöring. Utländska gruvexploatörer genomför omfattande prospektering och provborrningar i jakt på järnmalm i området, trots att det ligger inom Kebnekaise – Sjaunja obrutna fjällområde som är skyddat av Miljöbalken. </p>
-    <p><em type="italic">I ett försök att synliggöra hoten </em>och öka förståelsen i andra delar av landet har Sirges, Girjas och Laevas samebyar beslutat sig för att delta under Almedalsveckan och ställa upp en lavvu mitt i Visby. Där kommer information om samer i allmänhet och renskötseln i synnerhet att delas ut. </p>
-    <p><em type="italic">Föreläsningar om renens förutsättningar </em>för överlevnad, samernas juridiska status i det svenska samhället och samernas rättsliga ställning från ett internationellt perspektiv kommer att hållas under veckans gång. Renskötarna kommer även att finnas ute i vimlet och aktivt delta i debatter. SveMin ordnar till exempel ett seminarium den 3 juli med temat "Kan gruvverksamhet samexistera med markägare och andra näringar, som rennäring och turism?" </p>
-    <p><em type="italic">Kulturella evenemang </em>med samiska artister samordnas med nätverket Ojnareskogen som vill förhindra nya kalkbrott i Ojnareskogen på Gotland. Ojnareskogen är Gotlands största vildmarksområde som innefattar sjön Bästeträsk, en viktig del i Gotlands dricksvattenförsörjning. Kampen för att bevara den säregna hällmarkstallskogen Ojnareskogen med våtmarker och skydda Bästeträsks dricksvatten har pågått sedan 2005. </p>
-    <p><em type="italic">Det finns en koppling </em>mellan kalkbrytning och brytning av järnmalm, förutom kampen att bevara natur och miljö. Kalk används som slaggbildare vid järn- och ståltillverkningen. Slaggen är nödvändig för att rena smältan från framförallt svavel och fosfor. Ju mer järnmalm som bryts, desto mer kalk behövs. </p>
-    <p><em type="italic">Kontakt: </em>Nila Inga, renskötare och ordförande i Laevas sameby, 070-546 91 19 Matti Berg, turistföretagare, sametingsledamot och ordförande i Girjas sameby, 070-663 31 28 Jakob Nygård, renskötare och ordförande i Sirges sameby, 070-398 65 89 </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>315</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/74873</origFileName><parallel_text xml:lang="sme" location="75529.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Renskötande samer bevakar Almedalsveckan - Sametinget</p>
+<p type="title">Renskötande samer bevakar Almedalsveckan</p>
+<p>Representanter för några samebyar i norra Sverige, som står inför reella hot om gruvexploatering i känsliga renbetesområden, kommer att befinna sig på Almedalsveckan i Visby 29/6-5/7 2014.</p>
+<p><em type="italic">Sveriges fjällområden </em>hotas av förödande miljöförstöring. Utländska gruvexploatörer genomför omfattande prospektering och provborrningar i jakt på järnmalm i området, trots att det ligger inom Kebnekaise – Sjaunja obrutna fjällområde som är skyddat av Miljöbalken. </p>
+<p><em type="italic">I ett försök att synliggöra hoten </em>och öka förståelsen i andra delar av landet har Sirges, Girjas och Laevas samebyar beslutat sig för att delta under Almedalsveckan och ställa upp en lavvu mitt i Visby. Där kommer information om samer i allmänhet och renskötseln i synnerhet att delas ut. </p>
+<p><em type="italic">Föreläsningar om renens förutsättningar </em>för överlevnad, samernas juridiska status i det svenska samhället och samernas rättsliga ställning från ett internationellt perspektiv kommer att hållas under veckans gång. Renskötarna kommer även att finnas ute i vimlet och aktivt delta i debatter. SveMin ordnar till exempel ett seminarium den 3 juli med temat "Kan gruvverksamhet samexistera med markägare och andra näringar, som rennäring och turism?" </p>
+<p><em type="italic">Kulturella evenemang </em>med samiska artister samordnas med nätverket Ojnareskogen som vill förhindra nya kalkbrott i Ojnareskogen på Gotland. Ojnareskogen är Gotlands största vildmarksområde som innefattar sjön Bästeträsk, en viktig del i Gotlands dricksvattenförsörjning. Kampen för att bevara den säregna hällmarkstallskogen Ojnareskogen med våtmarker och skydda Bästeträsks dricksvatten har pågått sedan 2005. </p>
+<p><em type="italic">Det finns en koppling </em>mellan kalkbrytning och brytning av järnmalm, förutom kampen att bevara natur och miljö. Kalk används som slaggbildare vid järn- och ståltillverkningen. Slaggen är nödvändig för att rena smältan från framförallt svavel och fosfor. Ju mer järnmalm som bryts, desto mer kalk behövs. </p>
+<p><em type="italic">Kontakt: </em>Nila Inga, renskötare och ordförande i Laevas sameby, 070-546 91 19 Matti Berg, turistföretagare, sametingsledamot och ordförande i Girjas sameby, 070-663 31 28 Jakob Nygård, renskötare och ordförande i Sirges sameby, 070-398 65 89 </p>
+</body></document>

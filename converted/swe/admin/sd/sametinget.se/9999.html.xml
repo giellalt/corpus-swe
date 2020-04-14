@@ -1,31 +1,9 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>85</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/9999</origFileName>
-    <parallel_text xml:lang="sme" location="10043.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Nytt presidium valt - Sametinget</p>
-    <p>Stefan Mikaelsson, Sametingets nya ordförande (talman).</p>
-    <p type="title">Ny ordförande vald</p>
-    <p>Sametinget beslutade enhälligt att välja Stefan Mikaelsson till ny ordförande (talman).</p>
-    <p><em type="italic">Val av presidium </em>Sametinget får en erfaren ordförande. Under förra mandatperioden höll Stefan Mikaelsson ofta i ordförandeklubban som Sametingets förste vice ordförande. </p>
-    <p>Övriga ledamöter i presidiet är Hannasofie Utsi (Min Geaidnu), som förste vice ordförande, och Tommi Dahlström (Jakt- och fiskesamerna) som andre vice ordförande.</p>
-    <p>Sametinget beslutade att valet av tredje vice ordförande lämnas vakant.</p>
-    <p>Sametingets nya presidium valdes enhälligt.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>85</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/9999</origFileName><parallel_text xml:lang="sme" location="10043.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Nytt presidium valt - Sametinget</p>
+<p>Stefan Mikaelsson, Sametingets nya ordförande (talman).</p>
+<p type="title">Ny ordförande vald</p>
+<p>Sametinget beslutade enhälligt att välja Stefan Mikaelsson till ny ordförande (talman).</p>
+<p><em type="italic">Val av presidium </em>Sametinget får en erfaren ordförande. Under förra mandatperioden höll Stefan Mikaelsson ofta i ordförandeklubban som Sametingets förste vice ordförande. </p>
+<p>Övriga ledamöter i presidiet är Hannasofie Utsi (Min Geaidnu), som förste vice ordförande, och Tommi Dahlström (Jakt- och fiskesamerna) som andre vice ordförande.</p>
+<p>Sametinget beslutade att valet av tredje vice ordförande lämnas vakant.</p>
+<p>Sametingets nya presidium valdes enhälligt.</p>
+</body></document>

@@ -1,37 +1,12 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>207</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/13333</origFileName>
-    <parallel_text xml:lang="sma" location="14185.html"/>
-    <parallel_text xml:lang="sme" location="13587.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samiskt språkcentrum - Sametinget</p>
-    <p>Språkcentrums medarbetare. Foto: Tommy Andersson.</p>
-    <p type="title">Samiskt språkcentrum</p>
-    <p>Samiskt språkcentrum är navet i arbetet med att göra samiskan tillgänglig för fler. Vi arbetar för revitalisering och för att stärka samiskans position i samhället.  Samiskt språkcentrum är en resurs för dig!</p>
-    <p>Samiskt språkcentrum är lokaliserat till Dearna/Tärnaby och Staare/Östersund. <em type="italic">Uppdrag </em>Samiskt språkcentrum ska tillgodose alla samers – både ungas och äldres – behov av att återta sitt eget språk. Med samiska avses samtliga varieteter av språket inom den svenska delen av Sápmi. Språkcentrum ska: </p>
-    <list>
-      <p type="listitem">Aktivt främja och stimulera ökad användning av samiska i samhället</p>
-      <p type="listitem">Bistå med sakkunskap</p>
-      <p type="listitem">Utveckla metoder för att stärka enskildas förutsättningar att bruka och återta de samiska språken</p>
-      <p type="listitem">Sprida kunskap om revitalisering</p>
-    </list>
-    <p>Insatser som riktar sig till barn och ungdomar ska prioriteras särskilt. <em type="italic">Samarbete </em>Språkcentrums arbete utgår från samers behov av revitaliseringsinsatser. Vi samarbetar med andra samiska institutioner och organisationer för att samordna, komplettera och effektivisera arbetet med att revitalisera de samiska språken. <em type="italic">Dokumentation </em>Vi ska dokumentera nya metoder och sprida kunskap om språklig revitalisering. I mån av tid erbjuder vi föreläsningar om till exempel språkspärr, språkbad, mentorskap med mera. Vi kan också ge råd via telefon. </p>
-    <p><em type="italic">Kontakt </em>Ta gärna kontakt med oss om du undrar över något. E-post till språkcentrum: gielejarnge@sametinget.se </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>207</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/13333</origFileName><parallel_text xml:lang="sma" location="14185.html"/><parallel_text xml:lang="sme" location="13587.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samiskt språkcentrum - Sametinget</p>
+<p>Språkcentrums medarbetare. Foto: Tommy Andersson.</p>
+<p type="title">Samiskt språkcentrum</p>
+<p>Samiskt språkcentrum är navet i arbetet med att göra samiskan tillgänglig för fler. Vi arbetar för revitalisering och för att stärka samiskans position i samhället.  Samiskt språkcentrum är en resurs för dig!</p>
+<p>Samiskt språkcentrum är lokaliserat till Dearna/Tärnaby och Staare/Östersund. <em type="italic">Uppdrag </em>Samiskt språkcentrum ska tillgodose alla samers – både ungas och äldres – behov av att återta sitt eget språk. Med samiska avses samtliga varieteter av språket inom den svenska delen av Sápmi. Språkcentrum ska: </p>
+<list><p type="listitem">Aktivt främja och stimulera ökad användning av samiska i samhället</p>
+<p type="listitem">Bistå med sakkunskap</p>
+<p type="listitem">Utveckla metoder för att stärka enskildas förutsättningar att bruka och återta de samiska språken</p>
+<p type="listitem">Sprida kunskap om revitalisering</p>
+</list><p>Insatser som riktar sig till barn och ungdomar ska prioriteras särskilt. <em type="italic">Samarbete </em>Språkcentrums arbete utgår från samers behov av revitaliseringsinsatser. Vi samarbetar med andra samiska institutioner och organisationer för att samordna, komplettera och effektivisera arbetet med att revitalisera de samiska språken. <em type="italic">Dokumentation </em>Vi ska dokumentera nya metoder och sprida kunskap om språklig revitalisering. I mån av tid erbjuder vi föreläsningar om till exempel språkspärr, språkbad, mentorskap med mera. Vi kan också ge råd via telefon. </p>
+<p><em type="italic">Kontakt </em>Ta gärna kontakt med oss om du undrar över något. E-post till språkcentrum: gielejarnge@sametinget.se </p>
+</body></document>

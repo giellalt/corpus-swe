@@ -1,42 +1,13 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Infobox om Samernas |  Samernas Utbildningscentrum</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>247</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.samernas.se/infobox-om-samernas</origFileName>
-    <parallel_text xml:lang="smj" location="infobox.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>
-      <em type="italic">Nytt skolmaterial ska öka kunskapen om samer </em>
-    </p>
-    <p>Bures betyder Hej på samiska. I kortet Vill du lära dig samiska?, kan eleverna lära sig enkla ord och fraser på samiska.</p>
-    <p>Med hjälp av 40 arbetskort i färgstark och spännande utformning lockas skolelever in i den samiska världen för att lära sig mer om samisk historia, religion, samhällkunskap, språk och kultur.</p>
-    <p>Korten riktar sig till elever i årskurs 6-9 och är ett sätt att få eleverna mer kunniga om samerna.</p>
-    <p>Det är Sámij åhpadusguovdásj (Samernas utbildningscentrum) i Jåhkåmåhkke (Jokkmokk) som står bakom projektet som är finansierat av Jordbruksdepartementets informationssatsning och EU:s Mål 1 medel.</p>
-    <p>Projektledare Per Stefan Labba är mycket nöjd med det första skolmaterialet om samer som samer själv har skapat. Det är ett material man blir glad av, vill känna på och blir nyfiken på. Per Stefan hoppas nu att så många lärare som möjligt börjar använda materialet i sin undervisning.</p>
-    <p>Lådan Om samer har visats upp på lärarmässan Skolforum i Stockholm. Per Stefan berättar att många har visat intresse för lådan och är glada att det finns ett skolmaterial om samer som de nu kan använda.</p>
-    <p xml:lang="nob">Författare till materialet är Monika Blind Tuoremaa, illustrationer och grafisk design har Ulrika Tapio Blind gjort.</p>
-    <p xml:lang="smj">Projektägare Sámij åhpadusguovdásj, Jåhkåmåhkke</p>
-    <p>Mer information om arbetsmaterialet, kontakta gärna Per Stefan Labba</p>
-    <p>Materialet kostar 400 kronor + frakt och ev omkostnader och kan beställas från Samernas utbildningscentrum i Jokkmokk.</p>
-    <p>För att beställa, kontakta oss på 0971-44008 eller info(a)samernas.se</p>
-    <p type="title" xml:lang="deu">Språkstudier</p>
-    <p type="title" xml:lang="fin">Slöjdlinjen</p>
-    <p type="title">Rennäringslinje</p>
-    <p type="title" xml:lang="nno">Samisk Mat</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Infobox om Samernas |  Samernas Utbildningscentrum</title><genre code="facta"/><author><unknown/></author><wordcount>242</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.samernas.se/infobox-om-samernas</origFileName><parallel_text xml:lang="smj" location="infobox.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="italic">Nytt skolmaterial ska öka kunskapen om samer </em></p>
+<p>Bures betyder Hej på samiska. I kortet Vill du lära dig samiska?, kan eleverna lära sig enkla ord och fraser på samiska.</p>
+<p>Med hjälp av 40 arbetskort i färgstark och spännande utformning lockas skolelever in i den samiska världen för att lära sig mer om samisk historia, religion, samhällkunskap, språk och kultur.</p>
+<p>Korten riktar sig till elever i årskurs 6-9 och är ett sätt att få eleverna mer kunniga om samerna.</p>
+<p>Det är Sámij åhpadusguovdásj (Samernas utbildningscentrum) i Jåhkåmåhkke (Jokkmokk) som står bakom projektet som är finansierat av Jordbruksdepartementets informationssatsning och EU:s Mål 1 medel.</p>
+<p>Projektledare Per Stefan Labba är mycket nöjd med det första skolmaterialet om samer som samer själv har skapat. Det är ett material man blir glad av, vill känna på och blir nyfiken på. Per Stefan hoppas nu att så många lärare som möjligt börjar använda materialet i sin undervisning.</p>
+<p>Lådan Om samer har visats upp på lärarmässan Skolforum i Stockholm. Per Stefan berättar att många har visat intresse för lådan och är glada att det finns ett skolmaterial om samer som de nu kan använda.</p>
+<p xml:lang="nob">Författare till materialet är Monika Blind Tuoremaa, illustrationer och grafisk design har Ulrika Tapio Blind gjort.</p>
+<p xml:lang="smj">Projektägare Sámij åhpadusguovdásj, Jåhkåmåhkke</p>
+<p>Mer information om arbetsmaterialet, kontakta gärna Per Stefan Labba</p>
+<p>Materialet kostar 400 kronor + frakt och ev omkostnader och kan beställas från Samernas utbildningscentrum i Jokkmokk.</p>
+<p>För att beställa, kontakta oss på 0971-44008 eller info(a)samernas.se</p>
+</body></document>

@@ -1,65 +1,35 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>334</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/stiftelser/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar-stiftelser.html"/>
-    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-stiftelser.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Stiftelser - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Stiftelser</p>
-    <p>
-      <em type="italic">Länsstyrelsen är tillsynsmyndighet för de stiftelser som finns i länet och vi ansvarar för att registrera dem. </em>
-    </p>
-    <p type="title">Vad är en stiftelse?</p>
-    <p>En stiftelse är en självständig förmögenhet som förvaltas för ett bestämt ändamål, och den bildas genom att pengarna avsätts i ett gåvobrev, ett testamente, ett styrelseprotokoll eller liknande. En styrelse eller en förvaltare har ansvaret för att förvalta pengarna.</p>
-    <p>Lagen reglerar fyra olika stiftelseformer:</p>
-    <list>
-      <p type="listitem">vanliga stiftelser</p>
-      <p type="listitem">insamlingsstiftelser</p>
-      <p type="listitem">kollektivavtalsstiftelser</p>
-      <p type="listitem">pensions- och personalstiftelser.</p>
-    </list>
-    <p>Enligt kapitel 10 i stiftelselagen (SFS 1994:1220) ska alla stiftelser vara registrerade, förutom stiftelser som bara får användas till förmån för bestämda individer. Pensions- och personalstiftelser ska enligt tryggandelagen (SFS 1967:531) alltid anmälas för tillsyn till Länsstyrelsen som för ett register över dessa stiftelser.</p>
-    <p type="title">E-tjänster för registrerade stiftelser</p>
-    <p>För att underlätta för både stiftelser och handläggare har länsstyrelserna utvecklat gemensamma e-tjänster där alla registrerade stiftelser kan</p>
-    <list>
-      <p type="listitem">lämna årsredovisningar och revisionsberättelser</p>
-      <p type="listitem">ändra registrerade uppgifter för stiftelsen</p>
-      <p type="listitem">anmäla en avgående respektive ny registertecknare för stiftelsen</p>
-      <p type="listitem">komplettera ärenden</p>
-      <p type="listitem">avregistrera en stiftelse.</p>
-    </list>
-    <p type="title">Beställa registreringsbevis för stiftelse</p>
-    <p>Genom e-tjänsten kan du beställa ett registreringsbevis för en stiftelse. Tjänsten förutsätter att du kan skriva under med en e-legitimation och att du kan betala direkt online med kort. Du måste också veta i vilket län stiftelsen är registrerad. Varje registreringsbevis kostar 180 kronor från 1 april 2011.</p>
-    <p type="title">Söka bidrag ur stiftelse</p>
-    <p>Om du vill söka bidrag eller stipendier ur en stiftelse skickar du ansökan direkt till den aktuella stiftelsen.</p>
-    <p>Länsstyrelsen har en databas där du kan se vilka stiftelser som finns i Sverige, deras ändamål, kontaktpersoner med mera . Du kan också ta kontakt med den kommun eller församling där du bor och fråga om de har några stiftelser som kan ge bidrag eller stipendier för ditt behov.</p>
-    <p type="title">Kontakta oss</p>
-    <p>Stiftelser</p>
-    <p>Stiftelser punkt dalarna snabela lansstyrelsen punkt se¤Stiftelser punkt dalarna snabela lansstyrelsen punkt se</p>
-    <p>010 225 00 00</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>334</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/stiftelser/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="naringsliv-och-foreningar-stiftelser.html"/><parallel_text xml:lang="sma" location="naringsliv-och-foreningar-stiftelser.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Stiftelser - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Stiftelser</p>
+<p><em type="italic">Länsstyrelsen är tillsynsmyndighet för de stiftelser som finns i länet och vi ansvarar för att registrera dem. </em></p>
+<p type="title">Vad är en stiftelse?</p>
+<p>En stiftelse är en självständig förmögenhet som förvaltas för ett bestämt ändamål, och den bildas genom att pengarna avsätts i ett gåvobrev, ett testamente, ett styrelseprotokoll eller liknande. En styrelse eller en förvaltare har ansvaret för att förvalta pengarna.</p>
+<p>Lagen reglerar fyra olika stiftelseformer:</p>
+<list><p type="listitem">vanliga stiftelser</p>
+<p type="listitem">insamlingsstiftelser</p>
+<p type="listitem">kollektivavtalsstiftelser</p>
+<p type="listitem">pensions- och personalstiftelser.</p>
+</list><p>Enligt kapitel 10 i stiftelselagen (SFS 1994:1220) ska alla stiftelser vara registrerade, förutom stiftelser som bara får användas till förmån för bestämda individer. Pensions- och personalstiftelser ska enligt tryggandelagen (SFS 1967:531) alltid anmälas för tillsyn till Länsstyrelsen som för ett register över dessa stiftelser.</p>
+<p type="title">E-tjänster för registrerade stiftelser</p>
+<p>För att underlätta för både stiftelser och handläggare har länsstyrelserna utvecklat gemensamma e-tjänster där alla registrerade stiftelser kan</p>
+<list><p type="listitem">lämna årsredovisningar och revisionsberättelser</p>
+<p type="listitem">ändra registrerade uppgifter för stiftelsen</p>
+<p type="listitem">anmäla en avgående respektive ny registertecknare för stiftelsen</p>
+<p type="listitem">komplettera ärenden</p>
+<p type="listitem">avregistrera en stiftelse.</p>
+</list><p type="title">Beställa registreringsbevis för stiftelse</p>
+<p>Genom e-tjänsten kan du beställa ett registreringsbevis för en stiftelse. Tjänsten förutsätter att du kan skriva under med en e-legitimation och att du kan betala direkt online med kort. Du måste också veta i vilket län stiftelsen är registrerad. Varje registreringsbevis kostar 180 kronor från 1 april 2011.</p>
+<p type="title">Söka bidrag ur stiftelse</p>
+<p>Om du vill söka bidrag eller stipendier ur en stiftelse skickar du ansökan direkt till den aktuella stiftelsen.</p>
+<p>Länsstyrelsen har en databas där du kan se vilka stiftelser som finns i Sverige, deras ändamål, kontaktpersoner med mera . Du kan också ta kontakt med den kommun eller församling där du bor och fråga om de har några stiftelser som kan ge bidrag eller stipendier för ditt behov.</p>
+<p type="title">Kontakta oss</p>
+<p>Stiftelser</p>
+<p>Stiftelser punkt dalarna snabela lansstyrelsen punkt se¤Stiftelser punkt dalarna snabela lansstyrelsen punkt se</p>
+<p>010 225 00 00</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

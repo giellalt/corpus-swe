@@ -1,71 +1,39 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>513</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Regler-och-rattigheter/Sarskilt-tandvardsbidrag</origFileName>
-    <parallel_text xml:lang="eng" location="sarskilt-tandvardsbidrag.html"/>
-    <parallel_text xml:lang="fin" location="sarskilt-tandvardsbidrag.html"/>
-    <parallel_text xml:lang="fit" location="sarskilt-tandvardsbidrag.html"/>
-    <parallel_text xml:lang="sme" location="sarskilt-tandvardsbidrag.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Särskilt tandvårdsbidrag - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Särskilt tandvårdsbidrag</p>
-    <p type="title">Bidrag till förebyggande tandvård</p>
-    <p type="title">Guide om hur du kan få särskilt tandvårdsbidrag</p>
-    <p type="title">Gör så här</p>
-    <p type="title">Steg 1</p>
-    <p>Ta kontakt med din tandläkare, tandhygienist eller läkare för att få reda på om du har rätt till särskilt tandvårdsbidrag, STB.</p>
-    <p>Bidraget är på 600 kronor per halvår – och gäller endast förebyggande tandvård.</p>
-    <p type="title">Steg 2</p>
-    <p>Tandläkaren eller tandhygienisten avgör om du har rätt till särskilt tandvårdsbidrag.</p>
-    <p>Men för det mesta krävs ett läkarintyg för att styrka din sjukdom.</p>
-    <p type="title">Steg 3</p>
-    <p>Kom ihåg att boka ditt första förebyggande tandvårdsbesök inom tre månader från det du fick ditt läkarintyg.</p>
-    <p>Det särskilda tandvårdsbidraget måste användas senast den 30 juni och 31 december varje år.</p>
-    <p>Om man har en sjukdom eller funktionsnedsättning som påverkar tänderna kan man behöva förebyggande tandvård. Då kan man ha rätt till särskilt tandvårdsbidrag, STB. Det kan man få om man till exempel har en sjukdom som ger frätskador på tänderna. För att tandläkaren eller tandhygienisten ska veta att man har rätt till särskilt tandvårdsbidrag ska man visa ett läkarintyg på den sjukdom man har.</p>
-    <p>Det särskilda tandvårdsbidraget är ett komplement till det allmänna tandvårdsbidraget inom tandvården. Om man får särskilt tandvårdsbidrag har man också rätt till allmänt tandvårdsbidrag.</p>
-    <p>Det särskilda tandvårdsbidraget är 600 kronor per halvår och pengarna dras av på summan när man ska betala för sitt tandvårdsbesök. Senast 30 juni respektive 31 december varje år måste det särskilda tandvårdsbidraget användas.</p>
-    <p type="title">Vad kan man få bidrag för?</p>
-    <p>Särskilt tandvårdsbidrag kan man bara få för förebyggande tandvård. Dit räknas en del behandlingar som syftar till att förebygga tandsjukdomar och besvär, till exempel rengöring, fluorbehandling och information om munhygien och kost.</p>
-    <p>För andra behandlingar hos tandvården betalar man som vanligt.</p>
-    <p type="title">Vem har rätt till särskilt tandvårdsbidrag?</p>
-    <p>Särskilt tandvårdsbidrag kan man få om man har</p>
-    <list>
-      <p type="listitem">cystisk fibros</p>
-      <p type="listitem">svår kroniskt obstruktiv lungsjukdom, KOL</p>
-      <p type="listitem">tarmsjukdomarna ulcerös kolit , Crohns sjukdom och tarmsvikt</p>
-      <p type="listitem">frätskador på tänderna och har anorexi , bulimi eller gastroesofageal refluxsjukdom</p>
-      <p type="listitem">diabetes som är svår att ställa in</p>
-      <p type="listitem">dialysbehandling</p>
-      <p type="listitem">nedsatt immunförsvar efter en organtransplantation eller läkemedelsbehandling</p>
-      <p type="listitem">Sjögrens syndrom .</p>
-    </list>
-    <p>Särskilt tandvårdsbidrag kan man också få på grund av muntorrhet som orsakas av</p>
-    <list>
-      <p type="listitem">långvarig behandling med läkemedel</p>
-      <p type="listitem">strålbehandling mot huvudet eller halsen.</p>
-    </list>
-    <p type="title">Hur gör man för att få särskilt tandvårdsbidrag?</p>
-    <p>Information om det särskilda tandvårdsbidraget och om man har rätt till det kan man få hos sin läkare, tandläkare eller tandhygienist.</p>
-    <p>Oftast krävs ett läkarintyg som styrker den sjukdom eller de besvär man har. Ibland behövs inte läkarintyg om det finns dokumenterat i tandvårdsjournalen vilken sjukdom man har. Det är tandläkaren eller tandhygienisten som bestämmer om de har tillräckligt med information för att avgöra om en person har rätt till särskilt tandvårdsbidrag. Läkarintyget får oftast inte vara äldre än tre månader vid första besöket hos tandläkare eller tandhygienist. Ibland måste man förnya sitt läkarintyg beroende på vilken sjukdom man har.</p>
-    <p>Särskilt tandvårdsbidrag gäller hos alla vårdgivare som är anslutna till Försäkringskassan. Om man byter tandläkare eller tandhygienist har man även i fortsättningen rätt till det särskilda tandvårdsbidraget.</p>
-    <p>Mer information finns på Försäkringskassans webbsida .</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>513</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Regler-och-rattigheter/Sarskilt-tandvardsbidrag</origFileName><parallel_text xml:lang="eng" location="sarskilt-tandvardsbidrag.html"/><parallel_text xml:lang="fin" location="sarskilt-tandvardsbidrag.html"/><parallel_text xml:lang="fit" location="sarskilt-tandvardsbidrag.html"/><parallel_text xml:lang="sme" location="sarskilt-tandvardsbidrag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Särskilt tandvårdsbidrag - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Särskilt tandvårdsbidrag</p>
+<p type="title">Bidrag till förebyggande tandvård</p>
+<p type="title">Guide om hur du kan få särskilt tandvårdsbidrag</p>
+<p type="title">Gör så här</p>
+<p type="title">Steg 1</p>
+<p>Ta kontakt med din tandläkare, tandhygienist eller läkare för att få reda på om du har rätt till särskilt tandvårdsbidrag, STB.</p>
+<p>Bidraget är på 600 kronor per halvår – och gäller endast förebyggande tandvård.</p>
+<p type="title">Steg 2</p>
+<p>Tandläkaren eller tandhygienisten avgör om du har rätt till särskilt tandvårdsbidrag.</p>
+<p>Men för det mesta krävs ett läkarintyg för att styrka din sjukdom.</p>
+<p type="title">Steg 3</p>
+<p>Kom ihåg att boka ditt första förebyggande tandvårdsbesök inom tre månader från det du fick ditt läkarintyg.</p>
+<p>Det särskilda tandvårdsbidraget måste användas senast den 30 juni och 31 december varje år.</p>
+<p>Om man har en sjukdom eller funktionsnedsättning som påverkar tänderna kan man behöva förebyggande tandvård. Då kan man ha rätt till särskilt tandvårdsbidrag, STB. Det kan man få om man till exempel har en sjukdom som ger frätskador på tänderna. För att tandläkaren eller tandhygienisten ska veta att man har rätt till särskilt tandvårdsbidrag ska man visa ett läkarintyg på den sjukdom man har.</p>
+<p>Det särskilda tandvårdsbidraget är ett komplement till det allmänna tandvårdsbidraget inom tandvården. Om man får särskilt tandvårdsbidrag har man också rätt till allmänt tandvårdsbidrag.</p>
+<p>Det särskilda tandvårdsbidraget är 600 kronor per halvår och pengarna dras av på summan när man ska betala för sitt tandvårdsbesök. Senast 30 juni respektive 31 december varje år måste det särskilda tandvårdsbidraget användas.</p>
+<p type="title">Vad kan man få bidrag för?</p>
+<p>Särskilt tandvårdsbidrag kan man bara få för förebyggande tandvård. Dit räknas en del behandlingar som syftar till att förebygga tandsjukdomar och besvär, till exempel rengöring, fluorbehandling och information om munhygien och kost.</p>
+<p>För andra behandlingar hos tandvården betalar man som vanligt.</p>
+<p type="title">Vem har rätt till särskilt tandvårdsbidrag?</p>
+<p>Särskilt tandvårdsbidrag kan man få om man har</p>
+<list><p type="listitem">cystisk fibros</p>
+<p type="listitem">svår kroniskt obstruktiv lungsjukdom, KOL</p>
+<p type="listitem">tarmsjukdomarna ulcerös kolit , Crohns sjukdom och tarmsvikt</p>
+<p type="listitem">frätskador på tänderna och har anorexi , bulimi eller gastroesofageal refluxsjukdom</p>
+<p type="listitem">diabetes som är svår att ställa in</p>
+<p type="listitem">dialysbehandling</p>
+<p type="listitem">nedsatt immunförsvar efter en organtransplantation eller läkemedelsbehandling</p>
+<p type="listitem">Sjögrens syndrom .</p>
+</list><p>Särskilt tandvårdsbidrag kan man också få på grund av muntorrhet som orsakas av</p>
+<list><p type="listitem">långvarig behandling med läkemedel</p>
+<p type="listitem">strålbehandling mot huvudet eller halsen.</p>
+</list><p type="title">Hur gör man för att få särskilt tandvårdsbidrag?</p>
+<p>Information om det särskilda tandvårdsbidraget och om man har rätt till det kan man få hos sin läkare, tandläkare eller tandhygienist.</p>
+<p>Oftast krävs ett läkarintyg som styrker den sjukdom eller de besvär man har. Ibland behövs inte läkarintyg om det finns dokumenterat i tandvårdsjournalen vilken sjukdom man har. Det är tandläkaren eller tandhygienisten som bestämmer om de har tillräckligt med information för att avgöra om en person har rätt till särskilt tandvårdsbidrag. Läkarintyget får oftast inte vara äldre än tre månader vid första besöket hos tandläkare eller tandhygienist. Ibland måste man förnya sitt läkarintyg beroende på vilken sjukdom man har.</p>
+<p>Särskilt tandvårdsbidrag gäller hos alla vårdgivare som är anslutna till Försäkringskassan. Om man byter tandläkare eller tandhygienist har man även i fortsättningen rätt till det särskilda tandvårdsbidraget.</p>
+<p>Mer information finns på Försäkringskassans webbsida .</p>
+</body></document>

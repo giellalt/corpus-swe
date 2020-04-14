@@ -1,74 +1,33 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>904</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Tobak-alkohol-droger/Alkohol</origFileName>
-    <parallel_text xml:lang="fin" location="alkoholi.html"/>
-    <parallel_text xml:lang="fit" location="alkkuhooli.html"/>
-    <parallel_text xml:lang="sma" location="alkohole.html"/>
-    <parallel_text xml:lang="sme" location="alkohola.html"/>
-    <parallel_text xml:lang="smj" location="alkohola.html"/>
-    <parallel_text location="alkohol.html" xml:lang="rmu"/>
-    <parallel_text location="alkoholo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="alkoholo.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="alkoholi.html" xml:lang="rmf"/>
-    <parallel_text location="alkoholi.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Alkohol</p>
-    <p>Alla undrar!  Vad undrar du?</p>
-    <p type="title">Alkohol</p>
-    <p>Många dricker alkohol för att det är gott, för att slappna av eller för att bli fulla. Men alkohol kan också göra att man gör saker man ångrar, hamnar i obehagliga situationer eller mår dåligt på olika sätt.</p>
-    <p>» Texten finns på de nationella minoritetsspråken</p>
-    <p>Alkohol finns i drycker som öl, vin och sprit. Många dricker det för att de tycker att det är gott och trevligt. Vid vissa tillfällen är det som att alkohol hör till. Den som säger nej kan få frågor om varför, men det får sällan den som väljer att dricka. Det kan kännas som att man inte får välja själv. En del alkohol dricker för att de känner sig osäkra eller för att minska jobbiga känslor.</p>
-    <p>Många kan dricka alkohol då och då utan att det leder till några problem. Men man kan också bli beroende av alkohol eller dricka på ett sätt som leder till problem, så kallat missbruk.</p>
-    <p type="title">Bra att vänta</p>
-    <p>Om man prövar alkohol när man är ung kan det vara för att det känns spännande, häftigt eller vuxet. Det är vanligt att man egentligen inte vet om man vill dricka första gången, utan gör det för att andra dricker eller för att man tror att många andra gör det.</p>
-    <p>Ungefär hälften av alla som går i nian har aldrig prövat alkohol. Många väljer att aldrig dricka. Och det är bra att vänta. Ju äldre man är när man dricker första gången, desto mindre är risken för att det leder till problem. Och det är förstås bättre att dricka lite än att dricka sig full.</p>
-    <p type="title">Åldersgränser</p>
-    <p>För att skydda den som är ung finns det åldersgränser för när man får köpa alkohol: 18 år för att handla på krogen och 20 år för att handla på systembolag. Även om man själv får köpa alkohol är det förbjudet att handla till någon som inte får det.</p>
-    <p type="title">Vad händer när man dricker?</p>
-    <p>Alkohol påverkar hjärnan på olika sätt. Ofta förstärks de känslor man hade innan. Man kan känna sig avslappnad, glad, social och modig. Samtidigt blir korttidsminnet, balansen och omdömet sämre.</p>
-    <p>Att omdömet blir sämre betyder till exempel att man inte förstår saker som händer på samma sätt som när man är nykter. Man kanske gör sånt som man inte skulle göra annars: pratar mer och med fler personer, dansar, flirtar eller raggar, och testar nya saker. Det blir också svårare att förstå om något är riskabelt eller farligt.</p>
-    <p>Om man fortsätter att dricka blir man trött och kan börja må illa eller bli medvetslös. Dagen efter kan man få så kallade minnesluckor och ångest.</p>
-    <p>Några saker som kan hända när man har druckit:</p>
-    <list>
-      <p type="listitem">Att man blir av med saker eller att de förstörs, eftersom man får sämre koll.</p>
-      <p type="listitem">Att man hamnar i bråk eller börjar slåss. Det är vanligt att bråk på fyllan börjar med tjafs om sånt man inte skulle bråka om nykter.</p>
-      <p type="listitem">Att man har sex fast man inte vill. Om man är full kan det vara svårt att förstå sina egna känslor och veta om man vill säga ja eller nej. Man får också svårare att förstå vad andra vill. Det kan leda till missförstånd och att man själv, den eller de man har sex med eller andra mår dåligt efteråt, eller till sexuella övergrepp.</p>
-      <p type="listitem">Att man har sex utan att skydda sig. Då riskerar man att få könssjukdomar, eller att bli eller göra någon gravid.</p>
-      <p type="listitem">Att man prövar andra droger. Kanske för att man inte tror att det är så farligt när man är full. De flesta har druckit alkohol när de använder narkotika första gången.</p>
-      <p type="listitem">Att man råkar ut för en olycka. Det kan till exempel vara med moppe eller bil, att man ramlar och slår sig eller ramlar i vattnet.</p>
-      <p type="listitem">Att man mår dåligt och får ångest, när man dricker eller efteråt. Det kan komma som en reaktion i kroppen eller bero på att man har gjort saker man ångrar eller skäms för.</p>
-      <p type="listitem">Att man får svårt att sköta skolan eller jobbet. Alkoholen stannar kvar i kroppen efter att man har varit full, och det kan ta mer än en dag innan hjärnan funkar helt bra för att till exempel minnas och lära sig saker.</p>
-    </list>
-    <p>En del tror att det är mindre farligt att dricka om man till exempel bara gör det på helger. Men det stämmer inte.</p>
-    <p type="title">Dagen efter</p>
-    <p>Man kan fortfarande vara påverkad dagen efter man har druckit, det brukar kallas att man är bakfull. Då kan man ha ont i huvudet, må illa, vara trött, känna sig nedstämd eller lättirriterad eller få ångest. Omdömet är fortfarande sämre än vanligt, och det kan till exempel vara farligt och olagligt att köra moppe eller bil.</p>
-    <p>Bakfylla beror på att alkohol finns kvar i kroppen och att mycket energi går åt till att förbränna den. Det finns inte något sätt att göra att alkoholen förbränns snabbare.</p>
-    <p type="title">Alkoholförgiftning</p>
-    <p>Alla reagerar olika på alkohol och tål olika mycket, men det finns alltid en gräns där kroppen säger ifrån. Det brukar vara att man somnar eller kräks.</p>
-    <p>Om man blir medvetslös kan det vara riktigt farligt, och man måste till sjukhus.</p>
-    <p>Om du är orolig för någon som har druckit, kontakta en vuxen, sjukvårdsrådgivningen på telefon 1177, polisen eller åk till ett sjukhus. Om någon blivit medvetslös, ring 112. Försök inte få personen att kräkas och häll inte vatten på hen, eftersom det finns risk för skador.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>899</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Tobak-alkohol-droger/Alkohol</origFileName><parallel_text xml:lang="fin" location="alkoholi.html"/><parallel_text xml:lang="fit" location="alkkuhooli.html"/><parallel_text xml:lang="sma" location="alkohole.html"/><parallel_text xml:lang="sme" location="alkohola.html"/><parallel_text xml:lang="smj" location="alkohola.html"/><parallel_text location="alkohol.html" xml:lang="rmu"/><parallel_text location="alkoholo.html" xml:lang="rmy-rka"/><parallel_text location="alkoholo.html" xml:lang="rmy-rlo"/><parallel_text location="alkoholi.html" xml:lang="rmf"/><parallel_text location="alkoholi.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Alkohol</p>
+<p type="title">Alkohol</p>
+<p>Många dricker alkohol för att det är gott, för att slappna av eller för att bli fulla. Men alkohol kan också göra att man gör saker man ångrar, hamnar i obehagliga situationer eller mår dåligt på olika sätt.</p>
+<p>» Texten finns på de nationella minoritetsspråken</p>
+<p>Alkohol finns i drycker som öl, vin och sprit. Många dricker det för att de tycker att det är gott och trevligt. Vid vissa tillfällen är det som att alkohol hör till. Den som säger nej kan få frågor om varför, men det får sällan den som väljer att dricka. Det kan kännas som att man inte får välja själv. En del alkohol dricker för att de känner sig osäkra eller för att minska jobbiga känslor.</p>
+<p>Många kan dricka alkohol då och då utan att det leder till några problem. Men man kan också bli beroende av alkohol eller dricka på ett sätt som leder till problem, så kallat missbruk.</p>
+<p type="title">Bra att vänta</p>
+<p>Om man prövar alkohol när man är ung kan det vara för att det känns spännande, häftigt eller vuxet. Det är vanligt att man egentligen inte vet om man vill dricka första gången, utan gör det för att andra dricker eller för att man tror att många andra gör det.</p>
+<p>Ungefär hälften av alla som går i nian har aldrig prövat alkohol. Många väljer att aldrig dricka. Och det är bra att vänta. Ju äldre man är när man dricker första gången, desto mindre är risken för att det leder till problem. Och det är förstås bättre att dricka lite än att dricka sig full.</p>
+<p type="title">Åldersgränser</p>
+<p>För att skydda den som är ung finns det åldersgränser för när man får köpa alkohol: 18 år för att handla på krogen och 20 år för att handla på systembolag. Även om man själv får köpa alkohol är det förbjudet att handla till någon som inte får det.</p>
+<p type="title">Vad händer när man dricker?</p>
+<p>Alkohol påverkar hjärnan på olika sätt. Ofta förstärks de känslor man hade innan. Man kan känna sig avslappnad, glad, social och modig. Samtidigt blir korttidsminnet, balansen och omdömet sämre.</p>
+<p>Att omdömet blir sämre betyder till exempel att man inte förstår saker som händer på samma sätt som när man är nykter. Man kanske gör sånt som man inte skulle göra annars: pratar mer och med fler personer, dansar, flirtar eller raggar, och testar nya saker. Det blir också svårare att förstå om något är riskabelt eller farligt.</p>
+<p>Om man fortsätter att dricka blir man trött och kan börja må illa eller bli medvetslös. Dagen efter kan man få så kallade minnesluckor och ångest.</p>
+<p>Några saker som kan hända när man har druckit:</p>
+<list><p type="listitem">Att man blir av med saker eller att de förstörs, eftersom man får sämre koll.</p>
+<p type="listitem">Att man hamnar i bråk eller börjar slåss. Det är vanligt att bråk på fyllan börjar med tjafs om sånt man inte skulle bråka om nykter.</p>
+<p type="listitem">Att man har sex fast man inte vill. Om man är full kan det vara svårt att förstå sina egna känslor och veta om man vill säga ja eller nej. Man får också svårare att förstå vad andra vill. Det kan leda till missförstånd och att man själv, den eller de man har sex med eller andra mår dåligt efteråt, eller till sexuella övergrepp.</p>
+<p type="listitem">Att man har sex utan att skydda sig. Då riskerar man att få könssjukdomar, eller att bli eller göra någon gravid.</p>
+<p type="listitem">Att man prövar andra droger. Kanske för att man inte tror att det är så farligt när man är full. De flesta har druckit alkohol när de använder narkotika första gången.</p>
+<p type="listitem">Att man råkar ut för en olycka. Det kan till exempel vara med moppe eller bil, att man ramlar och slår sig eller ramlar i vattnet.</p>
+<p type="listitem">Att man mår dåligt och får ångest, när man dricker eller efteråt. Det kan komma som en reaktion i kroppen eller bero på att man har gjort saker man ångrar eller skäms för.</p>
+<p type="listitem">Att man får svårt att sköta skolan eller jobbet. Alkoholen stannar kvar i kroppen efter att man har varit full, och det kan ta mer än en dag innan hjärnan funkar helt bra för att till exempel minnas och lära sig saker.</p>
+</list><p>En del tror att det är mindre farligt att dricka om man till exempel bara gör det på helger. Men det stämmer inte.</p>
+<p type="title">Dagen efter</p>
+<p>Man kan fortfarande vara påverkad dagen efter man har druckit, det brukar kallas att man är bakfull. Då kan man ha ont i huvudet, må illa, vara trött, känna sig nedstämd eller lättirriterad eller få ångest. Omdömet är fortfarande sämre än vanligt, och det kan till exempel vara farligt och olagligt att köra moppe eller bil.</p>
+<p>Bakfylla beror på att alkohol finns kvar i kroppen och att mycket energi går åt till att förbränna den. Det finns inte något sätt att göra att alkoholen förbränns snabbare.</p>
+<p type="title">Alkoholförgiftning</p>
+<p>Alla reagerar olika på alkohol och tål olika mycket, men det finns alltid en gräns där kroppen säger ifrån. Det brukar vara att man somnar eller kräks.</p>
+<p>Om man blir medvetslös kan det vara riktigt farligt, och man måste till sjukhus.</p>
+<p>Om du är orolig för någon som har druckit, kontakta en vuxen, sjukvårdsrådgivningen på telefon 1177, polisen eller åk till ett sjukhus. Om någon blivit medvetslös, ring 112. Försök inte få personen att kräkas och häll inte vatten på hen, eftersom det finns risk för skador.</p>
+</body></document>

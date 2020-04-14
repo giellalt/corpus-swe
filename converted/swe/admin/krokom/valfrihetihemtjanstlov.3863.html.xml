@@ -1,88 +1,52 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Valfrihet i hemtjänst - LOV - Krokoms kommun</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>481</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.krokom.se/omsorgochhjalp/aldre/valfrihetihemtjanstlov.3863.html</origFileName>
-    <parallel_text xml:lang="sma" location="valfrihetihemtjanstlov.3863.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="ron">Translate site</p>
-    <list>
-      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
-      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
-      <p type="listitem" xml:lang="eng">Press</p>
-      <p type="listitem" xml:lang="vep">A-Ö</p>
-      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
-      <p type="listitem" xml:lang="vep">Intranät</p>
-      <p type="listitem">Lyssna</p>
-      <p type="listitem" xml:lang="sms">Lättläst</p>
-      <p type="listitem" xml:lang="ron">Translate</p>
-    </list>
-    <p xml:lang="isl">Sök</p>
-    <list>
-      <p type="listitem">Kommun och politik</p>
-      <p type="listitem">Utbildning och barnomsorg</p>
-      <p type="listitem">Bygga, bo och miljö</p>
-      <p type="listitem">Omsorg och hjälp</p>
-      <p type="listitem">Näringsliv och arbete</p>
-      <p type="listitem">Kultur, fritid och turism</p>
-      <p type="listitem">Trafik och infrastruktur</p>
-    </list>
-    <p>Mina favoriter</p>
-    <p type="title">Valfrihet i hemtjänst – LOV</p>
-    <p><em type="italic">Krokoms kommun har beslutat att tillämpa eget val i hemtjänsten enligt Lag om valfrihetssystem (LOV) från och med den 1 oktober 2010. </em><em type="italic">Vad är LOV? </em>LOV innebär att du som har fått hemtjänst beviljad av kommunen kan välja vilken leverantör som ska utföra jobbet. Du väljer bland utförare som kommunen har godkänt. Den kommunala hemtjänsten kvarstår med samma villkor som de privata leverantörerna. </p>
-    <p>Du kan välja bland utförare i takt med att företag ansöker och blir godkända av kommunen om att få leverera hemtjänst. Utföraren får en fast ersättning per beviljad timme från kommunen. <em type="italic">Hur påverkas avgiften? </em>Avgiften beräknas och debiteras av Krokoms kommun oavsett vem som är utförare. Vill du ha tjänster som inte ingår i biståndsbeslutet (Sol kap.4 §1) dvs tilläggstjänster, betalar du för dessa direkt till utföraren. <em type="italic">Vad krävs av utföraren? </em>Ett viktigt krav är att utföraren har kompetent personal som genomgått utbildning för arbetsuppgifterna eller på annat sätt, som kommunen godkänner, tillägnat sig relevant kompetens för förekommande arbetsuppgifter. <em type="italic">Vad händer med kommunens hemtjänst? </em>Den kommunala hemtjänsten finns kvar, med samma villkor som de privata utförarna. <em type="italic">Hur väljer jag utförare? </em>Kommunen tillhandahåller neutral och saklig information om alla utförare, såväl privata som kommunala. Kommunen får inte rekommendera någon utförare. Om du inte vill välja utförare tilldelas du den utförare som vid tillfället utgör det sk ickevalsalternativet. <span type="quote">"Ickevalsalternativet"</span> kommer att växla mellan alla utförare halvårsvis. </p>
-    <p><em type="italic">Vilka är utförare i dag? </em>Leverantörerna är godkända för service- och/eller omvårdnadstjänster och verkar inom olika geografiska områden. Här följer en förteckning över godkända leverantörer: </p>
-    <list>
-      <p type="listitem"><em type="italic">Kommunens hemtjänst </em>leverererar både service och omvårdnad över hela kommunen. </p>
-      <p type="listitem"><em type="italic">Dalco Hygien AB </em>levererar servicetjänster över hela kommunen. </p>
-      <p type="listitem"><em type="italic">Storåbrännas Bykooperativ </em>levererar både service och omvårdnad på Storågården. </p>
-      <p type="listitem"><em type="italic">Elinas Allservice </em>levererar service i Krokom och Nälden. </p>
-      <p type="listitem"><em type="italic">Nattens Änglar </em>levererar servicetjänster i Krokom. </p>
-      <p type="listitem"><em type="italic">Kooperativet Hotagsfjärden </em>levererar service och omvårdnad i Rötviken samt till byarna i detta närområde. </p>
-      <p type="listitem"><em type="italic">Forsåsens Allservice </em>levererar servicetjänster inom Krokom, Offerdal och Nälden. </p>
-      <p type="listitem"><em type="italic">Jämtpuls AB </em>levererar service och omvårdnad inom hemtjänstområdena Krokom och Nälden </p>
-    </list>
-    <p>För de norra delarna av kommunen finns två utförare; Hotagsfjärdens kooperativ som utför hemtjänst i Hotagenområdet och Storågårdens kooperativ som utför hemtjänst på Storågården.</p>
-    <p><em type="italic">Vill du veta mer, har du frågor? </em>Se kontaktinformationen till höger. </p>
-    <p xml:lang="nno">Uppdaterad 2015-02-04 av Karin Engström</p>
-    <p xml:lang="sma">Åarjelsaemien gïele</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Facebook</p>
-      <p type="listitem" xml:lang="nno">Twitter</p>
-      <p type="listitem" xml:lang="eng">E-post</p>
-    </list>
-    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
-    <p xml:lang="eng">Kontaktinformation</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Marie Hermansson</p>
-      <p type="listitem" xml:lang="deu">Verksamhetschef bistånd</p>
-      <p type="listitem" xml:lang="koi">0640 165 07</p>
-      <p type="listitem">
-        <em type="italic">Biståndshandläggare </em>
-      </p>
-      <p type="listitem">Här når du våra biståndshandläggare</p>
-    </list>
-    <p>Läs mer</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Blanketter</p>
-      <p type="listitem">Riktlinjer för mat i äldreomsorgen</p>
-      <p type="listitem" xml:lang="nob">Äldreomsorgsplan</p>
-      <p type="listitem" xml:lang="eng">Måltidspolicy</p>
-    </list>
-    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Valfrihet i hemtjänst - LOV - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>481</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/omsorgochhjalp/aldre/valfrihetihemtjanstlov.3863.html</origFileName><parallel_text xml:lang="sma" location="valfrihetihemtjanstlov.3863.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="ron">Translate site</p>
+<list><p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+<p type="listitem" xml:lang="nob">Om webbplatsen</p>
+<p type="listitem" xml:lang="eng">Press</p>
+<p type="listitem" xml:lang="est">A-Ö</p>
+<p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+<p type="listitem" xml:lang="vep">Intranät</p>
+<p type="listitem">Lyssna</p>
+<p type="listitem" xml:lang="sms">Lättläst</p>
+<p type="listitem" xml:lang="ron">Translate</p>
+</list><p xml:lang="isl">Sök</p>
+<list><p type="listitem">Kommun och politik</p>
+<p type="listitem">Utbildning och barnomsorg</p>
+<p type="listitem">Bygga, bo och miljö</p>
+<p type="listitem">Omsorg och hjälp</p>
+<p type="listitem">Näringsliv och arbete</p>
+<p type="listitem">Kultur, fritid och turism</p>
+<p type="listitem">Trafik och infrastruktur</p>
+</list><p>Mina favoriter</p>
+<p type="title">Valfrihet i hemtjänst – LOV</p>
+<p><em type="italic">Krokoms kommun har beslutat att tillämpa eget val i hemtjänsten enligt Lag om valfrihetssystem (LOV) från och med den 1 oktober 2010. </em><em type="italic">Vad är LOV? </em>LOV innebär att du som har fått hemtjänst beviljad av kommunen kan välja vilken leverantör som ska utföra jobbet. Du väljer bland utförare som kommunen har godkänt. Den kommunala hemtjänsten kvarstår med samma villkor som de privata leverantörerna. </p>
+<p>Du kan välja bland utförare i takt med att företag ansöker och blir godkända av kommunen om att få leverera hemtjänst. Utföraren får en fast ersättning per beviljad timme från kommunen. <em type="italic">Hur påverkas avgiften? </em>Avgiften beräknas och debiteras av Krokoms kommun oavsett vem som är utförare. Vill du ha tjänster som inte ingår i biståndsbeslutet (Sol kap.4 §1) dvs tilläggstjänster, betalar du för dessa direkt till utföraren. <em type="italic">Vad krävs av utföraren? </em>Ett viktigt krav är att utföraren har kompetent personal som genomgått utbildning för arbetsuppgifterna eller på annat sätt, som kommunen godkänner, tillägnat sig relevant kompetens för förekommande arbetsuppgifter. <em type="italic">Vad händer med kommunens hemtjänst? </em>Den kommunala hemtjänsten finns kvar, med samma villkor som de privata utförarna. <em type="italic">Hur väljer jag utförare? </em>Kommunen tillhandahåller neutral och saklig information om alla utförare, såväl privata som kommunala. Kommunen får inte rekommendera någon utförare. Om du inte vill välja utförare tilldelas du den utförare som vid tillfället utgör det sk ickevalsalternativet. <span type="quote">"Ickevalsalternativet"</span> kommer att växla mellan alla utförare halvårsvis. </p>
+<p><em type="italic">Vilka är utförare i dag? </em>Leverantörerna är godkända för service- och/eller omvårdnadstjänster och verkar inom olika geografiska områden. Här följer en förteckning över godkända leverantörer: </p>
+<list><p type="listitem"><em type="italic">Kommunens hemtjänst </em>leverererar både service och omvårdnad över hela kommunen. </p>
+<p type="listitem"><em type="italic">Dalco Hygien AB </em>levererar servicetjänster över hela kommunen. </p>
+<p type="listitem"><em type="italic">Storåbrännas Bykooperativ </em>levererar både service och omvårdnad på Storågården. </p>
+<p type="listitem"><em type="italic">Elinas Allservice </em>levererar service i Krokom och Nälden. </p>
+<p type="listitem"><em type="italic">Nattens Änglar </em>levererar servicetjänster i Krokom. </p>
+<p type="listitem"><em type="italic">Kooperativet Hotagsfjärden </em>levererar service och omvårdnad i Rötviken samt till byarna i detta närområde. </p>
+<p type="listitem"><em type="italic">Forsåsens Allservice </em>levererar servicetjänster inom Krokom, Offerdal och Nälden. </p>
+<p type="listitem"><em type="italic">Jämtpuls AB </em>levererar service och omvårdnad inom hemtjänstområdena Krokom och Nälden </p>
+</list><p>För de norra delarna av kommunen finns två utförare; Hotagsfjärdens kooperativ som utför hemtjänst i Hotagenområdet och Storågårdens kooperativ som utför hemtjänst på Storågården.</p>
+<p><em type="italic">Vill du veta mer, har du frågor? </em>Se kontaktinformationen till höger. </p>
+<p xml:lang="nno">Uppdaterad 2015-02-04 av Karin Engström</p>
+<p xml:lang="sma">Åarjelsaemien gïele</p>
+<list><p type="listitem" xml:lang="nno">Facebook</p>
+<p type="listitem" xml:lang="nno">Twitter</p>
+<p type="listitem" xml:lang="eng">E-post</p>
+</list><p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+<p xml:lang="eng">Kontaktinformation</p>
+<list><p type="listitem" xml:lang="nob">Marie Hermansson</p>
+<p type="listitem">Verksamhetschef bistånd</p>
+<p type="listitem" xml:lang="vep">0640 165 07</p>
+<p type="listitem"><em type="italic">Biståndshandläggare </em></p>
+<p type="listitem">Här når du våra biståndshandläggare</p>
+</list><p>Läs mer</p>
+<list><p type="listitem" xml:lang="nob">Blanketter</p>
+<p type="listitem">Riktlinjer för mat i äldreomsorgen</p>
+<p type="listitem" xml:lang="nob">Äldreomsorgsplan</p>
+<p type="listitem" xml:lang="eng">Måltidspolicy</p>
+</list><p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+</body></document>

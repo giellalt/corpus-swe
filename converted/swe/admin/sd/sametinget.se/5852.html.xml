@@ -1,41 +1,15 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>538</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/5852</origFileName>
-    <parallel_text xml:lang="sme" location="14211.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Om Gollegiella - Sametinget</p>
-    <p>2010 fick Máret Sara och Lajla Mattsson Magga priset. Foto: Peter Engström/ Sametinget.</p>
-    <p type="title">Om Gollegiella</p>
-    <p>De samiska språken i Norge, Sverige, Finland och Ryssland är små och hotade språk. Endast 20 000 - 30 000 personer pratar samiska idag. Språkpriset Gollegiella har instiftats för att motivera till utveckling och revitalisering av de samiska språken. Det delas ut vartannat år.</p>
-    <p><em type="italic">Syftet med priset </em>Gollegiella – Nordiskt samiskt språkpris - instiftades av ministrarna för samefrågor samt sametingspresidenterna i Norge, Sverige och Finland. Priset delas ut vartannat år sedan 2004. Syftet med språkpriset är att främja, utveckla och bevara de samiska språken i Norge, Sverige, Finland och Ryssland. En bedömningskommitté med samiska ledamöter utser vinnarna. </p>
-    <p>
-      <span type="quote">Gollegiella - Guldspråket</span>
-    </p>
-    <p><em type="italic">Vem kan få priset? </em>Språkpriset delas ut till enskilda personer grupper, organisationer, föreningar och/eller institutioner i Norge, Sverige, Finland och Ryssland som har gjort en betydelsefull insats för att främja det samiska språket skrftligt, muntligt eller i annan form. Initiativ av många slag för att främja det samiska språket beaktas. Priset kan delas. </p>
-    <p><em type="italic">De samiska språken </em>Det beräknas att 20 000 - 30 000 personer talar något av de samiska språken (varieteterna). Det största samiska språket är nordsamiska, som talas i Norge, Sverige och Finland. I Sverige och Norge talas även sydsamiska, umesamiska och lulesamiska. I Finland talas även enaresamiska och skoltsamiska. I Ryssland talar de flesta samerna kildinsamiska, och väldigt få talar de övriga samiska språken. </p>
-    <p>
-      <em type="italic">Tidigare vinnare: </em>
-    </p>
-    <p><em type="italic">2012 </em>Språkpriset för 2012 delades mellan Divvun och Giellatekno vid Universitetet i Tromsø för arbetet med att skapa teknologiska verktyg för samiska språk, och Aleksandra Andrejevna Antonova och Nina Jeliseevna Afanasjeva för sina insatser för det kildinsamiska språket. </p>
-    <p><em type="italic">2010 </em>Två kvinnor hedrades med språkpriset Gollegiella 2010, Máret Sárá och Lajla Mattsson Magga. De har var för sig gjort stora insatser för att främja och bevara det samiska språket. Máret Sárá har under hela sitt liv varit drivande både yrkesmässigt som pedagog, journalist och författare men även språkpolitiskt. Lajla Mattson Magga har visat ett livslångt gediget engagemang för det sydsamiska språkarbetet, bland annat som lärare och författare, vilket gör henne till en viktig språkinspiratör. </p>
-    <p><em type="italic">2008 </em>2008 års vinnare var organisationen Sami Siida i Utsjoki, Finland och språkarbetaren Henrik Barruk, Storuman, Sverige. Kati Eriksen tog emot priset på Sami Siidas vägnar. Sami Siida har sedan 70-talet idogt arbetat med att stärka samiskans ställning i Utsjoki kommun. Henrik Barruk har under många år arbetat med att dokumentera och revitalisera umesamiskan. Umesamiska talades i gränsområdet mellan sydsamiska och nordsamiska och har drag av båda språken. De första skrifter som trycktes på samiska på 1600-talet var skrivna på umesamiska, bland annat en ABC-bok. </p>
-    <p><em type="italic">2006 </em>Harald Gaski och Jouni Moshnikoff fick språkpriset 2006. Jouni Moshnikoff uppmärksammades för sitt stora engagemang för att främja sitt modersmål, östsamiska. Harald Gaski har bedrivit ett omfattande språkutvecklingsarbete och har genom sin forskning bidragit till att höja statusen på samiskspråkig litteratur. </p>
-    <p><em type="italic">2004 </em>Ella Holm Bull och Anarâkielâ servi (Föreningen för enaresamiska) fick det nyinrättade nordiska samiska språkpriset Gollegiella år 2004. Ella Holm Bull (1929-2006) arbetade hela sitt liv med att främja användningen av sydsamiska som ett muntligt och skriftligt språk. Anarâkielâ servi har sedan det grundades i Enare i Finland 1986 bedrivit ett framgångsrikt revitaliseringsarbete för att främja det enaresamiska språket. </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>538</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/5852</origFileName><parallel_text xml:lang="sme" location="14211.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Om Gollegiella - Sametinget</p>
+<p>2010 fick Máret Sara och Lajla Mattsson Magga priset. Foto: Peter Engström/ Sametinget.</p>
+<p type="title">Om Gollegiella</p>
+<p>De samiska språken i Norge, Sverige, Finland och Ryssland är små och hotade språk. Endast 20 000 - 30 000 personer pratar samiska idag. Språkpriset Gollegiella har instiftats för att motivera till utveckling och revitalisering av de samiska språken. Det delas ut vartannat år.</p>
+<p><em type="italic">Syftet med priset </em>Gollegiella – Nordiskt samiskt språkpris - instiftades av ministrarna för samefrågor samt sametingspresidenterna i Norge, Sverige och Finland. Priset delas ut vartannat år sedan 2004. Syftet med språkpriset är att främja, utveckla och bevara de samiska språken i Norge, Sverige, Finland och Ryssland. En bedömningskommitté med samiska ledamöter utser vinnarna. </p>
+<p><span type="quote">Gollegiella - Guldspråket</span></p>
+<p><em type="italic">Vem kan få priset? </em>Språkpriset delas ut till enskilda personer grupper, organisationer, föreningar och/eller institutioner i Norge, Sverige, Finland och Ryssland som har gjort en betydelsefull insats för att främja det samiska språket skrftligt, muntligt eller i annan form. Initiativ av många slag för att främja det samiska språket beaktas. Priset kan delas. </p>
+<p><em type="italic">De samiska språken </em>Det beräknas att 20 000 - 30 000 personer talar något av de samiska språken (varieteterna). Det största samiska språket är nordsamiska, som talas i Norge, Sverige och Finland. I Sverige och Norge talas även sydsamiska, umesamiska och lulesamiska. I Finland talas även enaresamiska och skoltsamiska. I Ryssland talar de flesta samerna kildinsamiska, och väldigt få talar de övriga samiska språken. </p>
+<p><em type="italic">Tidigare vinnare: </em></p>
+<p><em type="italic">2012 </em>Språkpriset för 2012 delades mellan Divvun och Giellatekno vid Universitetet i Tromsø för arbetet med att skapa teknologiska verktyg för samiska språk, och Aleksandra Andrejevna Antonova och Nina Jeliseevna Afanasjeva för sina insatser för det kildinsamiska språket. </p>
+<p><em type="italic">2010 </em>Två kvinnor hedrades med språkpriset Gollegiella 2010, Máret Sárá och Lajla Mattsson Magga. De har var för sig gjort stora insatser för att främja och bevara det samiska språket. Máret Sárá har under hela sitt liv varit drivande både yrkesmässigt som pedagog, journalist och författare men även språkpolitiskt. Lajla Mattson Magga har visat ett livslångt gediget engagemang för det sydsamiska språkarbetet, bland annat som lärare och författare, vilket gör henne till en viktig språkinspiratör. </p>
+<p><em type="italic">2008 </em>2008 års vinnare var organisationen Sami Siida i Utsjoki, Finland och språkarbetaren Henrik Barruk, Storuman, Sverige. Kati Eriksen tog emot priset på Sami Siidas vägnar. Sami Siida har sedan 70-talet idogt arbetat med att stärka samiskans ställning i Utsjoki kommun. Henrik Barruk har under många år arbetat med att dokumentera och revitalisera umesamiskan. Umesamiska talades i gränsområdet mellan sydsamiska och nordsamiska och har drag av båda språken. De första skrifter som trycktes på samiska på 1600-talet var skrivna på umesamiska, bland annat en ABC-bok. </p>
+<p><em type="italic">2006 </em>Harald Gaski och Jouni Moshnikoff fick språkpriset 2006. Jouni Moshnikoff uppmärksammades för sitt stora engagemang för att främja sitt modersmål, östsamiska. Harald Gaski har bedrivit ett omfattande språkutvecklingsarbete och har genom sin forskning bidragit till att höja statusen på samiskspråkig litteratur. </p>
+<p><em type="italic">2004 </em>Ella Holm Bull och Anarâkielâ servi (Föreningen för enaresamiska) fick det nyinrättade nordiska samiska språkpriset Gollegiella år 2004. Ella Holm Bull (1929-2006) arbetade hela sitt liv med att främja användningen av sydsamiska som ett muntligt och skriftligt språk. Anarâkielâ servi har sedan det grundades i Enare i Finland 1986 bedrivit ett framgångsrikt revitaliseringsarbete för att främja det enaresamiska språket. </p>
+</body></document>

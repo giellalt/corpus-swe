@@ -1,114 +1,78 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1089</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Tema/Patientlagen/Valja-vard/Valja-vardmottagning</origFileName>
-    <parallel_text xml:lang="eng" location="vardvalhalsoval.html"/>
-    <parallel_text xml:lang="fin" location="vardval.html"/>
-    <parallel_text xml:lang="fit" location="vardval.html"/>
-    <parallel_text xml:lang="sme" location="vardval.html"/>
-    <parallel_text location="valja-vardmottagning.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="valja-vardmottagning.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Välja vårdmottagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Patientlagen</p>
-    <list>
-      <p type="listitem">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title">Välja vårdmottagning</p>
-    <p>Filmen handlar om vilka möjligheter du har att söka vård i hela Sverige.</p>
-    <p>Du kan själv välja vilken vårdcentral eller vårdmottagning du vill gå till när du behöver öppen vård. Du kan välja att söka öppen vård var som helst i hela Sverige.</p>
-    <p>Det kan finnas olika skäl till att välja en viss vårdcentral eller läkarmottagning. Du kan till exempel vilja gå till en som ligger nära hemmet eller jobbet eller har personal som talar eller har information på ett språk som du förstår.</p>
-    <p type="title">Vad kan jag välja?</p>
-    <p>Du kan själv välja</p>
-    <list>
-      <p type="listitem">vårdcentral</p>
-      <p type="listitem">barnavårdscentral</p>
-      <p type="listitem">barnmorskemottagning</p>
-      <p type="listitem">ungdomsmottagning</p>
-      <p type="listitem">mottagning för öppen specialiserad vård, till exempel en hudmottagning.</p>
-    </list>
-    <p>När du behöver öppen specialiserad vård kan du ibland behöva remiss. Det avgörs av remissreglerna i landstinget eller regionen där du är folkbokförd och där du vill söka vård. Läs mer om hur det fungerar i olika landsting och regioner här.</p>
-    <p type="title">Välja vårdcentral</p>
-    <p>När du är sjuk eller har något besvär kan du alltid söka vård på en vårdcentral. Där kan du få behandling direkt och om du behöver specialiserad vård ska du bli hänvisad till rätt typ av mottagning. Du kan välja vilken vårdcentral du vill, oavsett om den ligger i landstinget eller regionen där du är folkbokförd eller någon annanstans. Det gäller alla vårdcentraler som drivs av ett landsting eller en region och privata vårdcentraler som har avtal med landstinget eller regionen.</p>
-    <p>Du kan också välja en särskild vårdcentral, det kallas ibland för att lista sig på en vårdcentral. I vissa landsting väljs automatiskt din närmaste vårdcentral om du inte aktivt väljer något annat. Om du inte är nöjd med den vårdcentral du valt eller vill byta av något annat skäl kan du göra det. Du kan välja att lista dig på en vårdcentral var som helst i Sverige. Även om du är listad på en vårdcentral har du möjlighet att söka vård på en annan.</p>
-    <p type="title">Fast läkarkontakt</p>
-    <p>Du har möjlighet att få en fast läkarkontakt på vårdcentralen. En fast läkarkontakt på en vårdcentral innebär att du får träffa samma läkare vid varje besök på vårdcentralen, i den mån det är möjligt.</p>
-    <p type="title">Välja öppen specialistvård</p>
-    <p>Öppen specialistvård är vård som du kan få utan att behöva bli inlagd på sjukhus. Det kan till exempel vara en hudmottagning eller en ögonmottagning. Om du har någon särskild sjukdom kan du också vända dig direkt till en mottagning som är specialiserad på din sjukdom, till exempel en njurmottagning.</p>
-    <p>Du kan välja att söka vård på en öppen specialistvårdsmottagning var du vill i Sverige. Ibland behövs remiss, det beror på om landstinget eller regionen där du är folkbokförd ställer krav på remiss för att komma till den öppna specialiserade vården samt om det mottagande landstinget eller regionen har sådana remisskrav.</p>
-    <p type="title">Vad händer med min journal?</p>
-    <p>Om du väljer en ny vårdcentral eller specialistvårdsmottagning kan personalen där inte automatiskt se dina journaler från tidigare vårdgivare. Om du vill att din nya mottagning ska kunna ta del av dina gamla journaler måste du godkänna det. Prata med personalen om hur det går till.</p>
-    <p type="title">Behöver jag ha remiss?</p>
-    <p>En remiss är ett meddelande med information om att du som patient behöver en särskild bedömning, undersökning eller behandling. Remissen innehåller dessutom medicinsk information om till exempel vad man har för symtom, hur man mår och tidigare sjukdomar och skador.</p>
-    <p>För att få en remiss måste du först söka vård på en vårdcentral. Om du behöver få öppen specialistvård skickar läkaren på vårdcentralen en remiss till den mottagning du vill komma till. En del landsting och regioner kräver alltid remiss för att du ska få söka öppen specialiserad vård medan andra landsting och regioner inte har sådana krav. Om du har en remiss kan det ibland gå fortare att få vård på en specialistvårdsmottagning. Hur fort du får vård beror på ditt medicinska behov.</p>
-    <p>Om du vill söka vård på en specialistvårdsmottagning i något annat landsting eller region än där du är folkbokförd måste du först ta reda på om ditt hemlandsting kräver att du har remiss. Det kan också vara så att landstinget där du vill söka vård kräver remiss. I sådana fall måste du ha det. Här kan du läsa mer om hur det fungerar i olika landsting och regioner.</p>
-    <p type="title">Gäller vårdgarantin?</p>
-    <p>Vårdgaranti innebär bland annat att du ska erbjudas vård inom en bestämd tid och att du ska få hjälp med att åka någon annanstans om hemlandstinget inte kan erbjuda dig vård inom den tiden. Den gäller bara när du söker vård i landstinget eller regionen där du är folkbokförd, eller på en mottagning som ditt landsting har avtal med.</p>
-    <p>När du söker vård i ett annat landsting eller region är det dina medicinska behov som avgör hur fort du får vård. Det är läkaren som gör den bedömningen.</p>
-    <p type="title">Patientavgifter och sjukresor</p>
-    <p>Patientavgiften kan skilja mellan olika landsting och regioner och mellan olika typer av vård. Om du söker vård i något annat landsting måste du betala den patientavgift som gäller i landstinget där mottagningen ligger.</p>
-    <p>Om du väljer att söka vård utanför ditt eget landsting har du inte rätt att få ersättning för resan till och från mottagningen, den så kallade sjukresan.</p>
-    <p type="title">Information från landstingen</p>
-    <p>Om du väljer att titta på information från ett annat landsting eller region ändras din regionalisering. För att ändra tillbaka klickar du på knappen uppe i vänstra hörnet (se bilden).</p>
-    <p>Välja vårdcentral i Blekinge</p>
-    <p>Välja specialistvårdsmottagning i Blekinge</p>
-    <p>Välja vårdcentral i Dalarna</p>
-    <p>Välja specialistvårdsmottagning i Dalarna</p>
-    <p>Välja vårdcentral på Gotland</p>
-    <p>Välja specialistvårdsmottagning på Gotland</p>
-    <p>Välja hälsocentral i Gävleborg</p>
-    <p>Välja specialistvårdsmottagning i Gävleborg</p>
-    <p>Välja vårdcentral i Halland</p>
-    <p>Välja specialistvårdsmottagning i Halland</p>
-    <p>Välja hälsocentral i Jämtland Härjedalen</p>
-    <p>Välja specialistvårdsmottagning i Jämtland Härjedalen</p>
-    <p>Välja vårdcentral i Jönköpings län</p>
-    <p>Välja specialistvårdsmottagning i Jönköpings län</p>
-    <p>Välja hälsocentral i Kalmar län</p>
-    <p>Välja specialistvårdsmottagning i Kalmar län</p>
-    <p>Välja vårdcentral i Kronoberg</p>
-    <p>Välja specialistvårdsmottagning i Kronoberg</p>
-    <p>Välja hälsocentral i Norrbotten</p>
-    <p>Välja specialistvårdsmottagning i Norrbotten</p>
-    <p>Välja vårdcentral i Skåne</p>
-    <p>Välja specialistvårdsmottagning i Skåne</p>
-    <p>Välja vårdcentral i Stockholms län</p>
-    <p>Välja specialistvårdsmottagning i Stockholms län</p>
-    <p>Välja vårdcentral i Sörmland</p>
-    <p>Välja specialistvårdsmottagning i Sörmland</p>
-    <p>Välja vårdcentral i Uppsala län</p>
-    <p>Välja specialistvårdsmottagning i Uppsala län</p>
-    <p>Välja vårdcentral i Värmland</p>
-    <p>Välja specialistvårdsmottagning i Värmland</p>
-    <p>Välja hälsocentral i Västerbotten</p>
-    <p>Välja specialistvårdsmottagning i Västerbotten</p>
-    <p>Välja vårdcentral i Västernorrland</p>
-    <p>Välja specialistvårdsmottagning i Västernorrland</p>
-    <p>Välja vårdcentral i Västmanland</p>
-    <p>Välja specialistvårdsmottagning i Västmanland</p>
-    <p>Välja vårdcentral i Västra Götaland</p>
-    <p>Välja specialistvårdsmottagning i Västra Götaland</p>
-    <p>Välja vårdcentral i Region Örebro län</p>
-    <p>Välja specialistvårdsmottagning i Örebro län</p>
-    <p>Välja vårdcentral i Östergötland</p>
-    <p>Välja specialistvårdsmottagning i Östergötland</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1083</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Tema/Patientlagen/Valja-vard/Valja-vardmottagning</origFileName><parallel_text xml:lang="eng" location="vardvalhalsoval.html"/><parallel_text xml:lang="fin" location="vardval.html"/><parallel_text xml:lang="fit" location="vardval.html"/><parallel_text xml:lang="sme" location="vardval.html"/><parallel_text location="valja-vardmottagning.html" xml:lang="rmy-rlo"/><parallel_text location="valja-vardmottagning.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Välja vårdmottagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Välja vårdmottagning</p>
+<p>Filmen handlar om vilka möjligheter du har att söka vård i hela Sverige.</p>
+<p>Du kan själv välja vilken vårdcentral eller vårdmottagning du vill gå till när du behöver öppen vård. Du kan välja att söka öppen vård var som helst i hela Sverige.</p>
+<p>Det kan finnas olika skäl till att välja en viss vårdcentral eller läkarmottagning. Du kan till exempel vilja gå till en som ligger nära hemmet eller jobbet eller har personal som talar eller har information på ett språk som du förstår.</p>
+<p type="title">Vad kan jag välja?</p>
+<p>Du kan själv välja</p>
+<list><p type="listitem">vårdcentral</p>
+<p type="listitem">barnavårdscentral</p>
+<p type="listitem">barnmorskemottagning</p>
+<p type="listitem">ungdomsmottagning</p>
+<p type="listitem">mottagning för öppen specialiserad vård, till exempel en hudmottagning.</p>
+</list><p>När du behöver öppen specialiserad vård kan du ibland behöva remiss. Det avgörs av remissreglerna i landstinget eller regionen där du är folkbokförd och där du vill söka vård. Läs mer om hur det fungerar i olika landsting och regioner här.</p>
+<p type="title">Välja vårdcentral</p>
+<p>När du är sjuk eller har något besvär kan du alltid söka vård på en vårdcentral. Där kan du få behandling direkt och om du behöver specialiserad vård ska du bli hänvisad till rätt typ av mottagning. Du kan välja vilken vårdcentral du vill, oavsett om den ligger i landstinget eller regionen där du är folkbokförd eller någon annanstans. Det gäller alla vårdcentraler som drivs av ett landsting eller en region och privata vårdcentraler som har avtal med landstinget eller regionen.</p>
+<p>Du kan också välja en särskild vårdcentral, det kallas ibland för att lista sig på en vårdcentral. I vissa landsting väljs automatiskt din närmaste vårdcentral om du inte aktivt väljer något annat. Om du inte är nöjd med den vårdcentral du valt eller vill byta av något annat skäl kan du göra det. Du kan välja att lista dig på en vårdcentral var som helst i Sverige. Även om du är listad på en vårdcentral har du möjlighet att söka vård på en annan.</p>
+<p type="title">Fast läkarkontakt</p>
+<p>Du har möjlighet att få en fast läkarkontakt på vårdcentralen. En fast läkarkontakt på en vårdcentral innebär att du får träffa samma läkare vid varje besök på vårdcentralen, i den mån det är möjligt.</p>
+<p type="title">Välja öppen specialistvård</p>
+<p>Öppen specialistvård är vård som du kan få utan att behöva bli inlagd på sjukhus. Det kan till exempel vara en hudmottagning eller en ögonmottagning. Om du har någon särskild sjukdom kan du också vända dig direkt till en mottagning som är specialiserad på din sjukdom, till exempel en njurmottagning.</p>
+<p>Du kan välja att söka vård på en öppen specialistvårdsmottagning var du vill i Sverige. Ibland behövs remiss, det beror på om landstinget eller regionen där du är folkbokförd ställer krav på remiss för att komma till den öppna specialiserade vården samt om det mottagande landstinget eller regionen har sådana remisskrav.</p>
+<p type="title">Vad händer med min journal?</p>
+<p>Om du väljer en ny vårdcentral eller specialistvårdsmottagning kan personalen där inte automatiskt se dina journaler från tidigare vårdgivare. Om du vill att din nya mottagning ska kunna ta del av dina gamla journaler måste du godkänna det. Prata med personalen om hur det går till.</p>
+<p type="title">Behöver jag ha remiss?</p>
+<p>En remiss är ett meddelande med information om att du som patient behöver en särskild bedömning, undersökning eller behandling. Remissen innehåller dessutom medicinsk information om till exempel vad man har för symtom, hur man mår och tidigare sjukdomar och skador.</p>
+<p>För att få en remiss måste du först söka vård på en vårdcentral. Om du behöver få öppen specialistvård skickar läkaren på vårdcentralen en remiss till den mottagning du vill komma till. En del landsting och regioner kräver alltid remiss för att du ska få söka öppen specialiserad vård medan andra landsting och regioner inte har sådana krav. Om du har en remiss kan det ibland gå fortare att få vård på en specialistvårdsmottagning. Hur fort du får vård beror på ditt medicinska behov.</p>
+<p>Om du vill söka vård på en specialistvårdsmottagning i något annat landsting eller region än där du är folkbokförd måste du först ta reda på om ditt hemlandsting kräver att du har remiss. Det kan också vara så att landstinget där du vill söka vård kräver remiss. I sådana fall måste du ha det. Här kan du läsa mer om hur det fungerar i olika landsting och regioner.</p>
+<p type="title">Gäller vårdgarantin?</p>
+<p>Vårdgaranti innebär bland annat att du ska erbjudas vård inom en bestämd tid och att du ska få hjälp med att åka någon annanstans om hemlandstinget inte kan erbjuda dig vård inom den tiden. Den gäller bara när du söker vård i landstinget eller regionen där du är folkbokförd, eller på en mottagning som ditt landsting har avtal med.</p>
+<p>När du söker vård i ett annat landsting eller region är det dina medicinska behov som avgör hur fort du får vård. Det är läkaren som gör den bedömningen.</p>
+<p type="title">Patientavgifter och sjukresor</p>
+<p>Patientavgiften kan skilja mellan olika landsting och regioner och mellan olika typer av vård. Om du söker vård i något annat landsting måste du betala den patientavgift som gäller i landstinget där mottagningen ligger.</p>
+<p>Om du väljer att söka vård utanför ditt eget landsting har du inte rätt att få ersättning för resan till och från mottagningen, den så kallade sjukresan.</p>
+<p type="title">Information från landstingen</p>
+<p>Om du väljer att titta på information från ett annat landsting eller region ändras din regionalisering. För att ändra tillbaka klickar du på knappen uppe i vänstra hörnet (se bilden).</p>
+<p>Välja vårdcentral i Blekinge</p>
+<p>Välja specialistvårdsmottagning i Blekinge</p>
+<p>Välja vårdcentral i Dalarna</p>
+<p>Välja specialistvårdsmottagning i Dalarna</p>
+<p>Välja vårdcentral på Gotland</p>
+<p>Välja specialistvårdsmottagning på Gotland</p>
+<p>Välja hälsocentral i Gävleborg</p>
+<p>Välja specialistvårdsmottagning i Gävleborg</p>
+<p>Välja vårdcentral i Halland</p>
+<p>Välja specialistvårdsmottagning i Halland</p>
+<p>Välja hälsocentral i Jämtland Härjedalen</p>
+<p>Välja specialistvårdsmottagning i Jämtland Härjedalen</p>
+<p>Välja vårdcentral i Jönköpings län</p>
+<p>Välja specialistvårdsmottagning i Jönköpings län</p>
+<p>Välja hälsocentral i Kalmar län</p>
+<p>Välja specialistvårdsmottagning i Kalmar län</p>
+<p>Välja vårdcentral i Kronoberg</p>
+<p>Välja specialistvårdsmottagning i Kronoberg</p>
+<p>Välja hälsocentral i Norrbotten</p>
+<p>Välja specialistvårdsmottagning i Norrbotten</p>
+<p>Välja vårdcentral i Skåne</p>
+<p>Välja specialistvårdsmottagning i Skåne</p>
+<p>Välja vårdcentral i Stockholms län</p>
+<p>Välja specialistvårdsmottagning i Stockholms län</p>
+<p>Välja vårdcentral i Sörmland</p>
+<p>Välja specialistvårdsmottagning i Sörmland</p>
+<p>Välja vårdcentral i Uppsala län</p>
+<p>Välja specialistvårdsmottagning i Uppsala län</p>
+<p>Välja vårdcentral i Värmland</p>
+<p>Välja specialistvårdsmottagning i Värmland</p>
+<p>Välja hälsocentral i Västerbotten</p>
+<p>Välja specialistvårdsmottagning i Västerbotten</p>
+<p>Välja vårdcentral i Västernorrland</p>
+<p>Välja specialistvårdsmottagning i Västernorrland</p>
+<p>Välja vårdcentral i Västmanland</p>
+<p>Välja specialistvårdsmottagning i Västmanland</p>
+<p>Välja vårdcentral i Västra Götaland</p>
+<p>Välja specialistvårdsmottagning i Västra Götaland</p>
+<p>Välja vårdcentral i Region Örebro län</p>
+<p>Välja specialistvårdsmottagning i Örebro län</p>
+<p>Välja vårdcentral i Östergötland</p>
+<p>Välja specialistvårdsmottagning i Östergötland</p>
+</body></document>

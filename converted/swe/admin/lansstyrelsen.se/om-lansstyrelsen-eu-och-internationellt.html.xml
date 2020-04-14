@@ -1,31 +1,5 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>90</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/eu-och-internationellt/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="om-lansstyrelsen-eu-och-internationellt.html"/>
-    <parallel_text xml:lang="sma" location="om-lansstyrelsen-eu-och-internationellt.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>EU och internationellt - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">EU och internationellt</p>
-    <p>
-      <em type="italic">Medlemskapet i Europeiska Unionen (EU) påverkar oss som medborgare på flera olika sätt, både i stort och i smått. För Länsstyrelsen innebär det möjlighet att utnyttja gemensamma resurser, men också att ta hänsyn till gemensamma regler. </em>
-    </p>
-    <p>Arbetet med strukturfonderna är förmodligen det mest uppmärksammade. Det mest omfattande är vårt arbete med olika stöd till länets jordbruksföretag, men vi lägger också mycket tid på det långsiktiga miljövårdsarbetet och den fortlöpande miljöövervakningen. Samarbete i olika former sker också med länder utanför EU.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>90</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/eu-och-internationellt/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="om-lansstyrelsen-eu-och-internationellt.html"/><parallel_text xml:lang="sma" location="om-lansstyrelsen-eu-och-internationellt.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>EU och internationellt - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">EU och internationellt</p>
+<p><em type="italic">Medlemskapet i Europeiska Unionen (EU) påverkar oss som medborgare på flera olika sätt, både i stort och i smått. För Länsstyrelsen innebär det möjlighet att utnyttja gemensamma resurser, men också att ta hänsyn till gemensamma regler. </em></p>
+<p>Arbetet med strukturfonderna är förmodligen det mest uppmärksammade. Det mest omfattande är vårt arbete med olika stöd till länets jordbruksföretag, men vi lägger också mycket tid på det långsiktiga miljövårdsarbetet och den fortlöpande miljöövervakningen. Samarbete i olika former sker också med länder utanför EU.</p>
+</body></document>
