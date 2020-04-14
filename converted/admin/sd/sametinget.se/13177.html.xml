@@ -1,33 +1,11 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>320</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/13177</origFileName>
-    <parallel_text xml:lang="sme" location="13183.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Möte på jordbruksdepartementet - Sametinget</p>
-    <p>Delar av Sametingets styrelse tillsammans med Helena Ewenfält från Jordbruksdepartementet.</p>
-    <p type="title">Styrelsen diskuterade framtidsfrågor och budgetbehov med departementet</p>
-    <p>Sametingets styrelse har träffat Jordbruksdepartementet för att &#13; diskutera framtidsfrågor och behov av förstärkt budget för att stärka Sametingets politiska verksamhet.</p>
-    <p><em type="italic">Former för dialog </em>Stabschef Magnus Kindbom ville diskutera formerna för en fortsatt dialog mellan regeringen och Sametinget och framhöll regeringens ambition att stärka dialogen med Sametinget. Styrelsen hade även möten med flera av de tjänstemän på andra departement som arbetar med samefrågor i Regeringskansliet. </p>
-    <p><em type="italic">Utvecklingsbehov </em>Den viktigaste frågan för styrelsen var budgetäskandet för åren 2011-2013. Utifrån Sametingets budgetunderlag för de kommande tre åren diskuterade man utvecklingsbehoven. För att stärka den politiska delen är förhoppningen att kunna tillsätta två politiska sekreterare. - Det är inte rimligt att bara ha en heltidsarvoderad politiker med tanke på hur Sametingets ansvarsområden vuxit under de senaste åren, förklarar styrelseordförande Sara Larsson. Sametingets politiska roll behöver stärkas i det dagliga arbetet. </p>
-    <p><em type="italic">Översyn av den politiska verksamheten </em>- Vi vill göra en översyn av den politiska verksamheten, fortsätter Sara Larsson. Utredningen ska sedan vara ett underlag så att vi kan förstärka den politiska verksamheten. Andra önskemål i budgetäskandet är att inrätta ett fjärde plenum, skapa en utskottsorganisation i Sametinget och säkra anslagen för egna politiska utredningar. </p>
-    <p><em type="italic">Förslag till ny samepolitik </em>Sara Larsson informerade om att Sametingets plenum nyligen utsett en kommitté med åtta ledamöter som ska gå igenom tidigare förslag och utredningar och presentera ett förslag till en ny svensk samepolitik. Som bekant drog regeringen tillbaka en planerad proposition om samepolitiken efter massiv kritik från det samiska samhället. Magnus Kindbom poängterade att regeringskansliet vill få in konkreta synpunkter på de förslag som hittills har presenteras. </p>
-    <p><em type="italic">Bra möte </em>- Det var ett bra möte och det kändes positivt att på det här sättet få förankra våra framtidsplaner. Särskilt viktigt är det att träffa företrädare för olika departement, konstaterar Sara Larsson. </p>
-    <p><em type="italic">Kontakt </em>Sara Larsson, 070-378 88 24 </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>320</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/13177</origFileName><parallel_text xml:lang="sme" location="13183.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Möte på jordbruksdepartementet - Sametinget</p>
+<p>Delar av Sametingets styrelse tillsammans med Helena Ewenfält från Jordbruksdepartementet.</p>
+<p type="title">Styrelsen diskuterade framtidsfrågor och budgetbehov med departementet</p>
+<p>Sametingets styrelse har träffat Jordbruksdepartementet för att &#13; diskutera framtidsfrågor och behov av förstärkt budget för att stärka Sametingets politiska verksamhet.</p>
+<p><em type="italic">Former för dialog </em>Stabschef Magnus Kindbom ville diskutera formerna för en fortsatt dialog mellan regeringen och Sametinget och framhöll regeringens ambition att stärka dialogen med Sametinget. Styrelsen hade även möten med flera av de tjänstemän på andra departement som arbetar med samefrågor i Regeringskansliet. </p>
+<p><em type="italic">Utvecklingsbehov </em>Den viktigaste frågan för styrelsen var budgetäskandet för åren 2011-2013. Utifrån Sametingets budgetunderlag för de kommande tre åren diskuterade man utvecklingsbehoven. För att stärka den politiska delen är förhoppningen att kunna tillsätta två politiska sekreterare. - Det är inte rimligt att bara ha en heltidsarvoderad politiker med tanke på hur Sametingets ansvarsområden vuxit under de senaste åren, förklarar styrelseordförande Sara Larsson. Sametingets politiska roll behöver stärkas i det dagliga arbetet. </p>
+<p><em type="italic">Översyn av den politiska verksamheten </em>- Vi vill göra en översyn av den politiska verksamheten, fortsätter Sara Larsson. Utredningen ska sedan vara ett underlag så att vi kan förstärka den politiska verksamheten. Andra önskemål i budgetäskandet är att inrätta ett fjärde plenum, skapa en utskottsorganisation i Sametinget och säkra anslagen för egna politiska utredningar. </p>
+<p><em type="italic">Förslag till ny samepolitik </em>Sara Larsson informerade om att Sametingets plenum nyligen utsett en kommitté med åtta ledamöter som ska gå igenom tidigare förslag och utredningar och presentera ett förslag till en ny svensk samepolitik. Som bekant drog regeringen tillbaka en planerad proposition om samepolitiken efter massiv kritik från det samiska samhället. Magnus Kindbom poängterade att regeringskansliet vill få in konkreta synpunkter på de förslag som hittills har presenteras. </p>
+<p><em type="italic">Bra möte </em>- Det var ett bra möte och det kändes positivt att på det här sättet få förankra våra framtidsplaner. Särskilt viktigt är det att träffa företrädare för olika departement, konstaterar Sara Larsson. </p>
+<p><em type="italic">Kontakt </em>Sara Larsson, 070-378 88 24 </p>
+</body></document>

@@ -1,28 +1,6 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>18</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1510</origFileName>
-    <parallel_text xml:lang="sme" location="5812.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Nya böcker - Sametinget</p>
-    <p type="title">Nya böcker</p>
-    <p>Lista över nyregistrerade böcker (senaste 90 dagarna) hittar du &gt;&gt;&gt;</p>
-    <p>HÄR</p>
-    <p>&lt;&lt;&lt;</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>18</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1510</origFileName><parallel_text xml:lang="sme" location="5812.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Nya böcker - Sametinget</p>
+<p type="title">Nya böcker</p>
+<p>Lista över nyregistrerade böcker (senaste 90 dagarna) hittar du &gt;&gt;&gt;</p>
+<p>HÄR</p>
+<p>&lt;&lt;&lt;</p>
+</body></document>

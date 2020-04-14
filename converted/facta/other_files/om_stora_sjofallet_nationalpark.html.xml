@@ -1,50 +1,21 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Om Stora Sjöfallet/Stuor Muorkke nationalpark</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>381</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>https://www.sverigesnationalparker.se/park/stora-sjofallets--stuor-muorkke-nationalpark/nationalparksfakta/</origFileName>
-    <parallel_text xml:lang="eng" location="about_stuor_muorkke_national_park.html"/>
-    <parallel_text xml:lang="smj" location="stuor_muorkke_suoddjimparka_birra.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Nationalparksfakta - Stora Sjöfallets / Stuor Muorkke nationalpark | Stora Sjöfallets / Stuor Muorkke nationalpark - Sveriges nationalparker | Välj nationalpark | Sveriges nationalparker</p>
-    <p>Webbplatsen använder kakor (cookies) för att fungera på ett bra sätt. Här kan du läsa mer om hur vi använder kakor! Jag accepterar Läs mer</p>
-    <p>Meny</p>
-    <p>Sök</p>
-    <p>Sök</p>
-    <list>
-      <p type="listitem">Till startsidan</p>
-      <p type="listitem">Välj nationalpark</p>
-    </list>
-    <p>Stora Sjöfallets / Stuor Muorkke nationalpark</p>
-    <p type="title">Om Stora Sjöfallet/Stuor Muorkke nationalpark</p>
-    <p>Fem mäktiga vattenfall kastade sig över mårkan och dånade ner i sjön Láŋas/Langas. Därav namnet Stora Sjöfallet som nationalparken fick då den bildades 1909.</p>
-    <list>
-      <p type="listitem">Lyssna på en kort beskrivning om Stora Sjöfallets / Stuor Muorkke nationalpark (mp3 118 kB)</p>
-    </list>
-    <p>Det samiska namnet för området är Stuor Muorkke och det betyder ett land mellan två sjöar. Nationalparken bildades för att skydda fallet och dess källsjöar. Kort efter bildandet ritade man om kartan över parken för att kunna utvinna vattenkraft. Vattenfallet Stuormuorkkegårttje finns kvar, men det är inte lika mäktigt som det var en gång i tiden. Det berättas att dånet av fallet hördes cirka en mil.</p>
-    <p type="title">Glaciärer och vackra dalgångar</p>
-    <p>Nationalparken ligger på varsin sida om regleringsmagasinet Áhkkájávrre. Det är en varierad nationalpark med högfjäll, glaciärer, fjällhedar, fjällbjörksluttningar och gammelskogar med tallar. Gränsen i norr är den djupa Dievssávágge, känd som Sveriges vackraste dalgång. I söder tronar Áhkká och hennes glaciärer. Hon syns nästan var än i nationalparken du befinner dig.</p>
-    <p type="title">Betesland</p>
-    <p>Markerna är betesland för samebyarna Sirges och Unna tjerusj som har sina boplatser runt om i området. Sommartid betar hjordarna i fjälldalarna ända bort till den norska gränsen. Bilvägen in gör Stora Sjöfallet/Stuor Muorkke lättillgängligt för besökare.</p>
-    <p>
-      <em type="italic">”Det var sjön som var vägen förut, det var kommunikationsleden. Norra sidan var ganska glest bebyggd, den var blåsig, inte så attraktiv. Det var sydsidan som var Stuor Muorkkes hjärta, det var där man kom med båtarna. När vägen kom flyttade folket till vägsidan. Vi var flexibla och vi flyttade efter fisket.” </em>
-    </p>
-    <p>Martin Suorra, berättar om platsen Stuor Muorkke där han är uppvuxen.</p>
-    <p type="title">Ingår i världsarvet Laponia</p>
-    <p>1996 utsågs världsarvet Laponia, där Stora Sjöfallet/Stuor Muorkke ingår tillsammans med nationalparkerna Sarek, Padjelanta/Badjelánnda och Muddus/Muttos. Till Laponia hör också naturreservaten Sjávnja/Sjaunja och Stubbá/Stubba samt områdena Sulidälbmá, Tjuoldavuobme och Ráhpaäno suorgudahka (Lájtávrredeltat).</p>
-    <p>För att ge tillbaka det ursprungliga samiska namnet på området heter nu nationalparken Stora Sjöfallet /Stuor Muorkke.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Om Stora Sjöfallet/Stuor Muorkke nationalpark</title><genre code="facta"/><author><unknown/></author><wordcount>381</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.sverigesnationalparker.se/park/stora-sjofallets--stuor-muorkke-nationalpark/nationalparksfakta/</origFileName><parallel_text xml:lang="eng" location="about_stuor_muorkke_national_park.html"/><parallel_text xml:lang="smj" location="stuor_muorkke_suoddjimparka_birra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Nationalparksfakta - Stora Sjöfallets / Stuor Muorkke nationalpark | Stora Sjöfallets / Stuor Muorkke nationalpark - Sveriges nationalparker | Välj nationalpark | Sveriges nationalparker</p>
+<p>Webbplatsen använder kakor (cookies) för att fungera på ett bra sätt. Här kan du läsa mer om hur vi använder kakor! Jag accepterar Läs mer</p>
+<p>Meny Sök</p>
+<p>Sök</p>
+<list><p type="listitem">Till startsidan</p>
+<p type="listitem">Välj nationalpark</p>
+</list><p>Stora Sjöfallets / Stuor Muorkke nationalpark</p>
+<p type="title">Om Stora Sjöfallet/Stuor Muorkke nationalpark</p>
+<p>Fem mäktiga vattenfall kastade sig över mårkan och dånade ner i sjön Láŋas/Langas. Därav namnet Stora Sjöfallet som nationalparken fick då den bildades 1909.</p>
+<list><p type="listitem">Lyssna på en kort beskrivning om Stora Sjöfallets / Stuor Muorkke nationalpark (mp3 118 kB)</p>
+</list><p>Det samiska namnet för området är Stuor Muorkke och det betyder ett land mellan två sjöar. Nationalparken bildades för att skydda fallet och dess källsjöar. Kort efter bildandet ritade man om kartan över parken för att kunna utvinna vattenkraft. Vattenfallet Stuormuorkkegårttje finns kvar, men det är inte lika mäktigt som det var en gång i tiden. Det berättas att dånet av fallet hördes cirka en mil.</p>
+<p type="title">Glaciärer och vackra dalgångar</p>
+<p>Nationalparken ligger på varsin sida om regleringsmagasinet Áhkkájávrre. Det är en varierad nationalpark med högfjäll, glaciärer, fjällhedar, fjällbjörksluttningar och gammelskogar med tallar. Gränsen i norr är den djupa Dievssávágge, känd som Sveriges vackraste dalgång. I söder tronar Áhkká och hennes glaciärer. Hon syns nästan var än i nationalparken du befinner dig.</p>
+<p type="title">Betesland</p>
+<p>Markerna är betesland för samebyarna Sirges och Unna tjerusj som har sina boplatser runt om i området. Sommartid betar hjordarna i fjälldalarna ända bort till den norska gränsen. Bilvägen in gör Stora Sjöfallet/Stuor Muorkke lättillgängligt för besökare.</p>
+<p><em type="italic">”Det var sjön som var vägen förut, det var kommunikationsleden. Norra sidan var ganska glest bebyggd, den var blåsig, inte så attraktiv. Det var sydsidan som var Stuor Muorkkes hjärta, det var där man kom med båtarna. När vägen kom flyttade folket till vägsidan. Vi var flexibla och vi flyttade efter fisket.” </em></p>
+<p>Martin Suorra, berättar om platsen Stuor Muorkke där han är uppvuxen.</p>
+<p type="title">Ingår i världsarvet Laponia</p>
+<p>1996 utsågs världsarvet Laponia, där Stora Sjöfallet/Stuor Muorkke ingår tillsammans med nationalparkerna Sarek, Padjelanta/Badjelánnda och Muddus/Muttos. Till Laponia hör också naturreservaten Sjávnja/Sjaunja och Stubbá/Stubba samt områdena Sulidälbmá, Tjuoldavuobme och Ráhpaäno suorgudahka (Lájtávrredeltat).</p>
+<p>För att ge tillbaka det ursprungliga samiska namnet på området heter nu nationalparken Stora Sjöfallet /Stuor Muorkke.</p>
+</body></document>

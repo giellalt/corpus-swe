@@ -1,97 +1,48 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1245</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/Vavnadsprov-av-prostata--prostatabiopsi</origFileName>
-    <parallel_text xml:lang="eng" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
-    <parallel_text xml:lang="fin" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
-    <parallel_text xml:lang="fit" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="rus" location="vavnadsprov_av_prostata_prostatabiopsi.html"/>
-    <parallel_text xml:lang="sma" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="sme" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text xml:lang="smj" location="vavnadsprov-av-prostata---prostatabiopsi.html"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmf"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmu"/>
-    <parallel_text location="vavnadsprov-av-prostata--prostatabiopsi.html" xml:lang="rmy-rka"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmn"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="yid"/>
-    <parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmy-rlo"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Vävnadsprov av prostata – prostatabiopsi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Cancer</p>
-    <list>
-      <p type="listitem">Cancerformer och fakta</p>
-      <p type="listitem">Första tiden efter beskedet</p>
-      <p type="listitem">Behandling vid cancer</p>
-      <p type="listitem">Att vara den som står bredvid</p>
-      <p type="listitem">Hjälp och stöd</p>
-      <p type="listitem">Barncancer</p>
-      <p type="listitem">Kris och sorg</p>
-      <p type="listitem">Andra språk/Translations</p>
-    </list>
-    <p type="title">Vävnadsprov av prostata – prostatabiopsi</p>
-    <p type="title">Sammanfattning</p>
-    <p type="title">Sammanfattning</p>
-    <p type="title">Allmänt</p>
-    <p>Ett vävnadsprov av prostata, eller prostatabiopsi, innebär att läkaren tar mycket små bitar av vävnaden från prostatan för att kunna undersöka dem. Man kan få göra provet därför att läkaren vill undersöka om det finns cancerceller i prostatakörteln. Provet skickas till ett laboratorium där det analyseras. Läkaren meddelar sedan resultatet av provet.</p>
-    <p type="title">Förberedelser</p>
-    <p>I samband med vävnadsprovet får man vanligen en antibiotikatablett. Ibland får man även med sig en antibiotikatablett hem för att ta några timmar efter undersökningen. Det är mycket viktigt att ta tabletterna för att undvika infektion. Är man allergisk mot någon sorts antibiotika, är det viktigt att berätta det innan undersökningen. Om man har diabetes, medfött hjärtfel eller någon typ av besvär med hjärtklaffarna är det viktigt att man meddelar mottagningen det i god tid innan undersökningen. Det gäller också om man behandlas med blodförtunnande medicin eller kortisontabletter. Precis före undersökningen går man på toaletten och tömmer tarmen och blåsan.</p>
-    <p type="title">Hur går undersökningen till?</p>
-    <p>När man undersöks ligger man på vänster sida på en brits. Läkaren börjar med att känna på prostatan med ett finger i ändtarmen. Sedan förs en ultraljudsstav försiktigt in några centimeter i ändtarmen. Det gör inte ont men kan kännas lite obehagligt.</p>
-    <p>Genom en kanal i ultraljudsstaven för läkaren in en nål som används för att ta prov från prostatan. De flesta upplever bara en obetydlig smärta eller ingen smärta alls. Men om man tycker att det gör ont går det att få lokalbedövning.</p>
-    <p>Undersökningen tar ungefär en kvart.</p>
-    <p type="title">Hur mår man efteråt?</p>
-    <p>Det är vanligt att man får blod i sädesvätskan, urinen eller avföringen efteråt. Det är inte tecken på att något är fel. Man kan även ha lite ont och känna sig kissnödig direkt efteråt.</p>
-    <p>Visa mer</p>
-    <p type="title">Varför behövs undersökningen?</p>
-    <list/>
-    <p type="title">Prov tas från prostatakörteln</p>
-    <p>Prostatan är en körtel som ligger runt om urinrörets övre del direkt under urinblåsan. Prostatakörtelns funktion är att bilda transportvätska för spermierna. Man kan få lämna vävnadsprov från prostatan för att undersöka om det finns cancerceller i den. Ett vävnadsprov är mycket små bitar av vävnad som tas ut och undersöks. Vävnadsprov kallas också biopsi.</p>
-    <p type="title">Först görs andra undersökningar</p>
-    <p>Det är framförallt vid två tillfällen som vävnadsprov brukar tas. Det ena är om det så kallade PSA-värdet är förhöjt. PSA är ett ämne som produceras i prostatan och utsöndras i blodbanan. Med ett vanligt blodprov kan PSA-värdet kontrolleras. PSA-värdet kan vara förhöjt om man har en prostataförstoring. Andra orsaker till ett förhöjt PSA-värde kan vara om man har en infektion eller inflammation i prostatan, men också om man har prostatacancer. Ett förhöjt PSA beror därför inte säkert på prostatacancer. Det andra tillfället är om det finns en förhårdnad i prostatan, vilket kan vara tecken på prostatacancer . Det hårdare området har läkaren upptäckt genom att känna på prostatakörteln med ett finger via ändtarmen. Prostatan ligger några centimeter upp från ändtarmsöppningen och tätt intill tarmens framvägg. Vanligen känns prostatakörteln alldeles slät.</p>
-    <p type="title">Vävnadsbitarna undersöks i mikroskop</p>
-    <p>De vävnadsbitar som tas ut från prostatakörteln sänds för mikroskopisk undersökning som ger svar på om det finns cancer i prostatan eller inte. Cancervävnaden bedöms sedan enligt en skala som kallas Gleason.</p>
-    <p type="title">Så går det till</p>
-    <p type="title">Antibiotika viktig förberedelse</p>
-    <p>I samband med vävnadsprovet får man vanligen en antibiotikatablett . Ibland får man även med sig en antibiotikatablett hem för att ta några timmar efter undersökningen. Det är mycket viktigt att ta tabletterna för att undvika infektion. Är man allergisk mot någon sorts antibiotika, till exempel penicillin, är det viktigt att ta kontakt med den klinik eller mottagning där undersökningen kommer att göras.</p>
-    <p type="title">Medicinering kan behöva ändras</p>
-    <p>Om man tar blodförtunnande medicin av typen Waran ska man meddela mottagningen detta minst en vecka före undersökningen. PK-värdet i blodet måste hinna korrigeras, det vill säga att blodet ska kunna levra sig som vanligt. Det är läkaren som ordinerat Waran som ska se till att man minskar dosen innan undersökningen.</p>
-    <p>Mottagningen måste också få veta i god tid om man har fel på hjärtklaffarna, medfött hjärtfel eller klaffprotes. Samma sak gäller om man har haft bakterieinfektion i hjärtklaffarna. Om man har diabetes eller behandlas med kortisontabletter är det också viktigt att meddela mottagningen. Antibiotikabehandlingen måste anpassas till varje persons särskilda besvär.</p>
-    <p type="title">Undersökningen går snabbt</p>
-    <p>Själva undersökningen tar ungefär en kvart och kan ofta göras utan bedövning. Det är en relativt enkel och snabb undersökning som nästan alla kan genomgå.</p>
-    <p>Precis före undersökningen går man på toaletten och tömmer tarmen och blåsan. På vissa sjukhus kan man före undersökningen ha fått ett så kallat mikrolavemang som man ska ha tagit hemma.</p>
-    <p>När man undersöks ligger man på vänster sida på en brits. Underkroppen är bar och en handduk täcker underlivet. Läkaren börjar med att känna på prostatan med ett finger i ändtarmen. Prostatan är oftast jämn, fast och något elastisk. Känns prostatan hårdare och knöligare än vanligt kan det vara tecken på cancer.</p>
-    <p type="title">Ultraljud ger en bild av prostatan</p>
-    <p>Sedan undersöks prostatan med hjälp av ultraljud . En så kallad ultraljudsstav förs försiktigt upp en kort bit i ändtarmen, och läkaren ägnar några minuter åt att undersöka prostatan.</p>
-    <p>Ultraljudsstaven är ungefär 20 centimeter lång, men det är endast den yttersta delen som förs in några centimeter. Diametern på staven är ungefär 2,5 centimeter.</p>
-    <p>Staven innehåller en ultraljudssändare. Den sänder ut ljudvågor som sedan reflekteras av organen inne i kroppen. Ultraljudsvågorna överförs till en dator som omvandlar dem till en bild som läkaren i sin tur kan se på en bildskärm. Bilden är svartvit och återger prostatan i genomskärning.</p>
-    <p type="title">Vävnad tas ut med en biopsinål</p>
-    <p>Därefter tas vävnadsproverna från körteln. I ultraljudsstaven finns en kanal i vilken en biopsinål förs in. Nålen är några millimeter i diameter. Den sticks genom tarmslemhinnan in i prostatan. Med hjälp av ultraljudsbilden på bildskärmen kan läkaren sikta in nålen så den kommer helt rätt.</p>
-    <p>I nålen finns en behållare som snabbt sticks in i prostatan och fylls med prostatavävnad. Oftast sticker läkaren flera gånger för att ta prov från olika ställen i prostatan. Det är vanligt med mellan åtta och tolv prov.</p>
-    <p type="title">Kan kännas lite obehagligt</p>
-    <p>Själva ultraljudsstaven ger ingen smärta men kan kännas lite obehaglig. När den trycks mot prostatan kan man känna sig kissnödig. Det är därför bra att ha tömt blåsan före undersökningen. När vävnadsbitarna tas ut med biopsinålen kan det kännas obehagligt och ibland smärtsamt. Nästan alla som genomgått provtagningen upplever att de bara känt obetydlig smärta eller ingen smärta alls. Det finns möjlighet att få lokalbedövning om smärtan blir för stark.</p>
-    <p type="title">Att tänka på efter undersökningen</p>
-    <p>För att undvika en urinvägsinfektion är det bra att dricka rikligt så att blåsan sköljs ren.</p>
-    <p type="title">Komplikationer och risker</p>
-    <p>Blod i sädesvätskan, urinen och avföringen är vanligt efter en sådan här undersökning och är inte tecken på att något är fel. Man kan även ha lite ont och känna sig kissnödig direkt efteråt.</p>
-    <p>Blod i sädesvätskan kan förekomma under lång tid, ibland flera veckor. Blod i urinen och avföringen brukar gå över på några dagar.</p>
-    <p>Trots att man fått antibiotika i förebyggande syfte kan man ibland få en infektion orsakad av bakterier. Risken är störst veckan efter undersökningen. Om man får hög feber och känner sig sjuk ska man direkt kontakta läkare eller söka sig till en akutmottagning.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1219</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/Vavnadsprov-av-prostata--prostatabiopsi</origFileName><parallel_text xml:lang="eng" location="vavnadsprov_av_prostata_prostatabiopsi.html"/><parallel_text xml:lang="fin" location="vavnadsprov_av_prostata_prostatabiopsi.html"/><parallel_text xml:lang="fit" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="rus" location="vavnadsprov_av_prostata_prostatabiopsi.html"/><parallel_text xml:lang="sma" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="sme" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text xml:lang="smj" location="vavnadsprov-av-prostata---prostatabiopsi.html"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmf"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmu"/><parallel_text location="vavnadsprov-av-prostata--prostatabiopsi.html" xml:lang="rmy-rka"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmn"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="yid"/><parallel_text location="vavnadsprov-av-prostata---prostatabiopsi.html" xml:lang="rmy-rlo"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Vävnadsprov av prostata – prostatabiopsi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Vävnadsprov av prostata – prostatabiopsi</p>
+<p type="title">Sammanfattning</p>
+<p type="title">Sammanfattning</p>
+<p type="title">Allmänt</p>
+<p>Ett vävnadsprov av prostata, eller prostatabiopsi, innebär att läkaren tar mycket små bitar av vävnaden från prostatan för att kunna undersöka dem. Man kan få göra provet därför att läkaren vill undersöka om det finns cancerceller i prostatakörteln. Provet skickas till ett laboratorium där det analyseras. Läkaren meddelar sedan resultatet av provet.</p>
+<p type="title">Förberedelser</p>
+<p>I samband med vävnadsprovet får man vanligen en antibiotikatablett. Ibland får man även med sig en antibiotikatablett hem för att ta några timmar efter undersökningen. Det är mycket viktigt att ta tabletterna för att undvika infektion. Är man allergisk mot någon sorts antibiotika, är det viktigt att berätta det innan undersökningen. Om man har diabetes, medfött hjärtfel eller någon typ av besvär med hjärtklaffarna är det viktigt att man meddelar mottagningen det i god tid innan undersökningen. Det gäller också om man behandlas med blodförtunnande medicin eller kortisontabletter. Precis före undersökningen går man på toaletten och tömmer tarmen och blåsan.</p>
+<p type="title">Hur går undersökningen till?</p>
+<p>När man undersöks ligger man på vänster sida på en brits. Läkaren börjar med att känna på prostatan med ett finger i ändtarmen. Sedan förs en ultraljudsstav försiktigt in några centimeter i ändtarmen. Det gör inte ont men kan kännas lite obehagligt.</p>
+<p>Genom en kanal i ultraljudsstaven för läkaren in en nål som används för att ta prov från prostatan. De flesta upplever bara en obetydlig smärta eller ingen smärta alls. Men om man tycker att det gör ont går det att få lokalbedövning.</p>
+<p>Undersökningen tar ungefär en kvart.</p>
+<p type="title">Hur mår man efteråt?</p>
+<p>Det är vanligt att man får blod i sädesvätskan, urinen eller avföringen efteråt. Det är inte tecken på att något är fel. Man kan även ha lite ont och känna sig kissnödig direkt efteråt.</p>
+<p>Visa mer</p>
+<p type="title">Varför behövs undersökningen?</p>
+<list/><p type="title">Prov tas från prostatakörteln</p>
+<p>Prostatan är en körtel som ligger runt om urinrörets övre del direkt under urinblåsan. Prostatakörtelns funktion är att bilda transportvätska för spermierna. Man kan få lämna vävnadsprov från prostatan för att undersöka om det finns cancerceller i den. Ett vävnadsprov är mycket små bitar av vävnad som tas ut och undersöks. Vävnadsprov kallas också biopsi.</p>
+<p type="title">Först görs andra undersökningar</p>
+<p>Det är framförallt vid två tillfällen som vävnadsprov brukar tas. Det ena är om det så kallade PSA-värdet är förhöjt. PSA är ett ämne som produceras i prostatan och utsöndras i blodbanan. Med ett vanligt blodprov kan PSA-värdet kontrolleras. PSA-värdet kan vara förhöjt om man har en prostataförstoring. Andra orsaker till ett förhöjt PSA-värde kan vara om man har en infektion eller inflammation i prostatan, men också om man har prostatacancer. Ett förhöjt PSA beror därför inte säkert på prostatacancer. Det andra tillfället är om det finns en förhårdnad i prostatan, vilket kan vara tecken på prostatacancer . Det hårdare området har läkaren upptäckt genom att känna på prostatakörteln med ett finger via ändtarmen. Prostatan ligger några centimeter upp från ändtarmsöppningen och tätt intill tarmens framvägg. Vanligen känns prostatakörteln alldeles slät.</p>
+<p type="title">Vävnadsbitarna undersöks i mikroskop</p>
+<p>De vävnadsbitar som tas ut från prostatakörteln sänds för mikroskopisk undersökning som ger svar på om det finns cancer i prostatan eller inte. Cancervävnaden bedöms sedan enligt en skala som kallas Gleason.</p>
+<p type="title">Så går det till</p>
+<p type="title">Antibiotika viktig förberedelse</p>
+<p>I samband med vävnadsprovet får man vanligen en antibiotikatablett . Ibland får man även med sig en antibiotikatablett hem för att ta några timmar efter undersökningen. Det är mycket viktigt att ta tabletterna för att undvika infektion. Är man allergisk mot någon sorts antibiotika, till exempel penicillin, är det viktigt att ta kontakt med den klinik eller mottagning där undersökningen kommer att göras.</p>
+<p type="title">Medicinering kan behöva ändras</p>
+<p>Om man tar blodförtunnande medicin av typen Waran ska man meddela mottagningen detta minst en vecka före undersökningen. PK-värdet i blodet måste hinna korrigeras, det vill säga att blodet ska kunna levra sig som vanligt. Det är läkaren som ordinerat Waran som ska se till att man minskar dosen innan undersökningen.</p>
+<p>Mottagningen måste också få veta i god tid om man har fel på hjärtklaffarna, medfött hjärtfel eller klaffprotes. Samma sak gäller om man har haft bakterieinfektion i hjärtklaffarna. Om man har diabetes eller behandlas med kortisontabletter är det också viktigt att meddela mottagningen. Antibiotikabehandlingen måste anpassas till varje persons särskilda besvär.</p>
+<p type="title">Undersökningen går snabbt</p>
+<p>Själva undersökningen tar ungefär en kvart och kan ofta göras utan bedövning. Det är en relativt enkel och snabb undersökning som nästan alla kan genomgå.</p>
+<p>Precis före undersökningen går man på toaletten och tömmer tarmen och blåsan. På vissa sjukhus kan man före undersökningen ha fått ett så kallat mikrolavemang som man ska ha tagit hemma.</p>
+<p>När man undersöks ligger man på vänster sida på en brits. Underkroppen är bar och en handduk täcker underlivet. Läkaren börjar med att känna på prostatan med ett finger i ändtarmen. Prostatan är oftast jämn, fast och något elastisk. Känns prostatan hårdare och knöligare än vanligt kan det vara tecken på cancer.</p>
+<p type="title">Ultraljud ger en bild av prostatan</p>
+<p>Sedan undersöks prostatan med hjälp av ultraljud . En så kallad ultraljudsstav förs försiktigt upp en kort bit i ändtarmen, och läkaren ägnar några minuter åt att undersöka prostatan.</p>
+<p>Ultraljudsstaven är ungefär 20 centimeter lång, men det är endast den yttersta delen som förs in några centimeter. Diametern på staven är ungefär 2,5 centimeter.</p>
+<p>Staven innehåller en ultraljudssändare. Den sänder ut ljudvågor som sedan reflekteras av organen inne i kroppen. Ultraljudsvågorna överförs till en dator som omvandlar dem till en bild som läkaren i sin tur kan se på en bildskärm. Bilden är svartvit och återger prostatan i genomskärning.</p>
+<p type="title">Vävnad tas ut med en biopsinål</p>
+<p>Därefter tas vävnadsproverna från körteln. I ultraljudsstaven finns en kanal i vilken en biopsinål förs in. Nålen är några millimeter i diameter. Den sticks genom tarmslemhinnan in i prostatan. Med hjälp av ultraljudsbilden på bildskärmen kan läkaren sikta in nålen så den kommer helt rätt.</p>
+<p>I nålen finns en behållare som snabbt sticks in i prostatan och fylls med prostatavävnad. Oftast sticker läkaren flera gånger för att ta prov från olika ställen i prostatan. Det är vanligt med mellan åtta och tolv prov.</p>
+<p type="title">Kan kännas lite obehagligt</p>
+<p>Själva ultraljudsstaven ger ingen smärta men kan kännas lite obehaglig. När den trycks mot prostatan kan man känna sig kissnödig. Det är därför bra att ha tömt blåsan före undersökningen. När vävnadsbitarna tas ut med biopsinålen kan det kännas obehagligt och ibland smärtsamt. Nästan alla som genomgått provtagningen upplever att de bara känt obetydlig smärta eller ingen smärta alls. Det finns möjlighet att få lokalbedövning om smärtan blir för stark.</p>
+<p type="title">Att tänka på efter undersökningen</p>
+<p>För att undvika en urinvägsinfektion är det bra att dricka rikligt så att blåsan sköljs ren.</p>
+<p type="title">Komplikationer och risker</p>
+<p>Blod i sädesvätskan, urinen och avföringen är vanligt efter en sådan här undersökning och är inte tecken på att något är fel. Man kan även ha lite ont och känna sig kissnödig direkt efteråt.</p>
+<p>Blod i sädesvätskan kan förekomma under lång tid, ibland flera veckor. Blod i urinen och avföringen brukar gå över på några dagar.</p>
+<p>Trots att man fått antibiotika i förebyggande syfte kan man ibland få en infektion orsakad av bakterier. Risken är störst veckan efter undersökningen. Om man får hög feber och känner sig sjuk ska man direkt kontakta läkare eller söka sig till en akutmottagning.</p>
+</body></document>

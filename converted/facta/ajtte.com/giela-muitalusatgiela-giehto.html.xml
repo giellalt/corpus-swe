@@ -1,41 +1,30 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>86</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="sme"/>
-      <language xml:lang="swe"/>
-      <language xml:lang="smj"/>
-    </multilingual>
-    <origFileName>http://www.ajtte.com/projekt/giela-muitalusatgiela-giehto</origFileName>
-    <parallel_text xml:lang="sme" location="giela-muitalusatgiela-giehto.html"/>
-    <parallel_text xml:lang="smj" location="giela-muitalusatgiela-giehto.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="smj">Ájtte – Svenskt Fjäll- och Samemuseum » Giela muitalusat/Giela giehto</p>
-    <p xml:lang="sme">|</p>
-    <p xml:lang="sme">|</p>
-    <list>
-      <p type="listitem">Hem</p>
-      <p type="listitem">Besöka <list><p type="listitem">Öppettider och priser</p><p type="listitem">Hitta hit</p><p type="listitem">Butik och webbshop</p><p type="listitem">Jokkmokks marknad</p><p type="listitem">För barn och skolgrupper</p><p type="listitem">Konferens</p><p type="listitem" xml:lang="smj">Restaurang Ájtte</p><p type="listitem">Program</p></list></p>
-      <p type="listitem">Utforska <list><p type="listitem">ÁJA – Arkiv &amp; Bibliotek</p><p type="listitem">Jokkmokks Fjällträdgård</p><p type="listitem">Samlingar</p><p type="listitem">Uppdrag och tjänster</p><p type="listitem" xml:lang="smj">Ájtte Musei Vänner</p><p type="listitem">Projekt</p><p type="listitem">Publikationer <list><p type="listitem">Rapporter, mm</p><p type="listitem">Skriftserier</p></list></p></list></p>
-      <p type="listitem">Utställningar</p>
-      <p type="listitem">Om Ájtte <list><p type="listitem">Kontakt</p><p type="listitem">Pressinformation</p></list></p>
-    </list>
-    <p xml:lang="sme"/>
-    <p type="title" xml:lang="smj">Giela muitalusat/Giela giehto</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>86</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="sme"/><language xml:lang="swe"/><language xml:lang="smj"/></multilingual><origFileName>http://www.ajtte.com/projekt/giela-muitalusatgiela-giehto</origFileName><parallel_text xml:lang="sme" location="giela-muitalusatgiela-giehto.html"/><parallel_text xml:lang="smj" location="giela-muitalusatgiela-giehto.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="smj">Ájtte – Svenskt Fjäll- och Samemuseum » Giela muitalusat/Giela giehto</p>
+<p xml:lang="sme">|</p>
+<p xml:lang="sme">|</p>
+<list><p type="listitem">Hem</p>
+<p type="listitem">Besöka <list><p type="listitem">Öppettider och priser</p>
+<p type="listitem">Hitta hit</p>
+<p type="listitem">Butik och webbshop</p>
+<p type="listitem">Jokkmokks marknad</p>
+<p type="listitem">För barn och skolgrupper</p>
+<p type="listitem">Konferens</p>
+<p type="listitem" xml:lang="smj">Restaurang Ájtte</p>
+<p type="listitem">Program</p>
+</list></p>
+<p type="listitem">Utforska <list><p type="listitem">ÁJA – Arkiv &amp; Bibliotek</p>
+<p type="listitem">Jokkmokks Fjällträdgård</p>
+<p type="listitem">Samlingar</p>
+<p type="listitem">Uppdrag och tjänster</p>
+<p type="listitem" xml:lang="smj">Ájtte Musei Vänner</p>
+<p type="listitem">Projekt</p>
+<p type="listitem">Publikationer <list><p type="listitem">Rapporter, mm</p>
+<p type="listitem">Skriftserier</p>
+</list></p>
+</list></p>
+<p type="listitem">Utställningar</p>
+<p type="listitem">Om Ájtte <list><p type="listitem">Kontakt</p>
+<p type="listitem">Pressinformation</p>
+</list></p>
+</list><p/>
+<p type="title" xml:lang="smj">Giela muitalusat/Giela giehto</p>
+</body></document>

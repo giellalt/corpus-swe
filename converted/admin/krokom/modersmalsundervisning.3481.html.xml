@@ -1,79 +1,47 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Modersmålsundervisning - Krokoms kommun</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>414</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.krokom.se/utbildningochbarnomsorg/modersmalsundervisning.3481.html</origFileName>
-    <parallel_text xml:lang="sma" location="modersmalsundervisning.3481.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="ron">Translate site</p>
-    <list>
-      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
-      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
-      <p type="listitem" xml:lang="eng">Press</p>
-      <p type="listitem" xml:lang="vep">A-Ö</p>
-      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
-      <p type="listitem" xml:lang="vep">Intranät</p>
-      <p type="listitem">Lyssna</p>
-      <p type="listitem" xml:lang="sms">Lättläst</p>
-      <p type="listitem" xml:lang="ron">Translate</p>
-    </list>
-    <p xml:lang="isl">Sök</p>
-    <list>
-      <p type="listitem">Kommun och politik</p>
-      <p type="listitem">Utbildning och barnomsorg</p>
-      <p type="listitem">Bygga, bo och miljö</p>
-      <p type="listitem">Omsorg och hjälp</p>
-      <p type="listitem">Näringsliv och arbete</p>
-      <p type="listitem">Kultur, fritid och turism</p>
-      <p type="listitem">Trafik och infrastruktur</p>
-    </list>
-    <p>Mina favoriter</p>
-    <p type="title" xml:lang="dan">Modersmålsundervisning</p>
-    <p>Om ditt barn har ett annat modersmål än svenska finns möjligheten att få modersmålsundervisning i grundskolan och språkstöd i förskolan.</p>
-    <p>Undervisningen syftar till att eleven/barnet ska utveckla kunskaper i och om sitt modersmål och kunna uttrycka sig i olika sammanhang. Samtidigt ska eleven/barnet utveckla sin tvåspråkiga identitet och kompetens och tillgodogöra sig arbetet i skolan.</p>
-    <p type="title" xml:lang="nob">Eleven/barnet kan få modersmålsundervisning om:</p>
-    <list>
-      <p type="listitem">en eller båda av elevens/barnets vårdnadshavare har ett annat språk än svenska som modersmål.</p>
-      <p type="listitem">språket utgör dagligt umgängesspråk för eleven/barnet.</p>
-      <p type="listitem">eleven/barnet har grundläggande kunskaper i språket.</p>
-      <p type="listitem">eleven/barnet/målsmannen önskar få undervisning.</p>
-    </list>
-    <p>Elever/Barn tillhörande de nationella minoritetsspråken finska, tornedalsfinska (meänkieli), samiska, romani och jiddisch, samt adoptivbarn, har rätt till modersmålsundervisning även om språket inte är dagligt umgängesspråk i hemmet.</p>
-    <p>En kommun är skyldig att ordna undervisning i ett språk om minst fem elever väljer språket. Skyldigheten gäller då det finns lämplig lärare att tillgå (enl. grundskoleförordningen). För barn i förskolan bör kommunen erbjuda språkstöd. (enligt LpFö 98/rev. 10)</p>
-    <p>När det gäller modersmålsundervisning i minoritetsspråk är en kommun skyldig att ordna undervisning även om färre än fem elever väljer språket, om det finns lämplig lärare att tillgå (enligt Språklagen 2009). Endast ett språk kan läsas som modersmål. För barn i förskolan ska kommunen erbjuda språkstöd i minoritetsspråk (enligt LpFö 98/rev. 10).</p>
-    <p type="title">Ansökan om modersmålsundervisning</p>
-    <p>För att läsa modersmål vid höstterminens start påföljande läsår, måste ansökningsblanketten ha inkommit till barn- och utbildningsförvaltningen senast den <em type="italic">1 april. </em>För att påbörja modersmålsundervisning under vårterminen, ska ansökan ha inkommit senast <em type="italic">1 november. </em>Om ansökan inkommer senare än dessa datum startar eleven undervisning kommande termin. </p>
-    <p>Elev och vårdnadshavare ska ansöka om modersmålsundervisning och det är viktigt att vårdnadshavare (båda om det finns två) skriver under ansökan.</p>
-    <p>Vid frågor kontakta samordnaren för modersmål vid Barn- och Utbildningsförvaltningen.</p>
-    <p>Tillsammans med Sameskolstyrelsen ordnar vi integrerad samisk undervisning vid skolor inom Änge och Föllinge rektorsområden.</p>
-    <p>Länk till ansökan om modersmålsundervisning (även på samiska och arabiska)</p>
-    <p xml:lang="nob">Uppdaterad 2016-10-21 av Thory Andersson</p>
-    <p xml:lang="sma">Åarjelsaemien gïele</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Facebook</p>
-      <p type="listitem" xml:lang="nno">Twitter</p>
-      <p type="listitem" xml:lang="eng">E-post</p>
-    </list>
-    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
-    <p xml:lang="eng">Kontaktinformation</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Annika Berkö</p>
-      <p type="listitem">Enhetschef Språk och integration 0640 161 71</p>
-    </list>
-    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Modersmålsundervisning - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>414</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/utbildningochbarnomsorg/modersmalsundervisning.3481.html</origFileName><parallel_text xml:lang="sma" location="modersmalsundervisning.3481.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="ron">Translate site</p>
+<list><p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+<p type="listitem" xml:lang="nob">Om webbplatsen</p>
+<p type="listitem" xml:lang="eng">Press</p>
+<p type="listitem" xml:lang="est">A-Ö</p>
+<p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+<p type="listitem" xml:lang="vep">Intranät</p>
+<p type="listitem">Lyssna</p>
+<p type="listitem" xml:lang="sms">Lättläst</p>
+<p type="listitem" xml:lang="ron">Translate</p>
+</list><p xml:lang="isl">Sök</p>
+<list><p type="listitem">Kommun och politik</p>
+<p type="listitem">Utbildning och barnomsorg</p>
+<p type="listitem">Bygga, bo och miljö</p>
+<p type="listitem">Omsorg och hjälp</p>
+<p type="listitem">Näringsliv och arbete</p>
+<p type="listitem">Kultur, fritid och turism</p>
+<p type="listitem">Trafik och infrastruktur</p>
+</list><p>Mina favoriter</p>
+<p type="title" xml:lang="dan">Modersmålsundervisning</p>
+<p>Om ditt barn har ett annat modersmål än svenska finns möjligheten att få modersmålsundervisning i grundskolan och språkstöd i förskolan.</p>
+<p>Undervisningen syftar till att eleven/barnet ska utveckla kunskaper i och om sitt modersmål och kunna uttrycka sig i olika sammanhang. Samtidigt ska eleven/barnet utveckla sin tvåspråkiga identitet och kompetens och tillgodogöra sig arbetet i skolan.</p>
+<p type="title" xml:lang="nob">Eleven/barnet kan få modersmålsundervisning om:</p>
+<list><p type="listitem">en eller båda av elevens/barnets vårdnadshavare har ett annat språk än svenska som modersmål.</p>
+<p type="listitem">språket utgör dagligt umgängesspråk för eleven/barnet.</p>
+<p type="listitem">eleven/barnet har grundläggande kunskaper i språket.</p>
+<p type="listitem">eleven/barnet/målsmannen önskar få undervisning.</p>
+</list><p>Elever/Barn tillhörande de nationella minoritetsspråken finska, tornedalsfinska (meänkieli), samiska, romani och jiddisch, samt adoptivbarn, har rätt till modersmålsundervisning även om språket inte är dagligt umgängesspråk i hemmet.</p>
+<p>En kommun är skyldig att ordna undervisning i ett språk om minst fem elever väljer språket. Skyldigheten gäller då det finns lämplig lärare att tillgå (enl. grundskoleförordningen). För barn i förskolan bör kommunen erbjuda språkstöd. (enligt LpFö 98/rev. 10)</p>
+<p>När det gäller modersmålsundervisning i minoritetsspråk är en kommun skyldig att ordna undervisning även om färre än fem elever väljer språket, om det finns lämplig lärare att tillgå (enligt Språklagen 2009). Endast ett språk kan läsas som modersmål. För barn i förskolan ska kommunen erbjuda språkstöd i minoritetsspråk (enligt LpFö 98/rev. 10).</p>
+<p type="title">Ansökan om modersmålsundervisning</p>
+<p>För att läsa modersmål vid höstterminens start påföljande läsår, måste ansökningsblanketten ha inkommit till barn- och utbildningsförvaltningen senast den <em type="italic">1 april. </em>För att påbörja modersmålsundervisning under vårterminen, ska ansökan ha inkommit senast <em type="italic">1 november. </em>Om ansökan inkommer senare än dessa datum startar eleven undervisning kommande termin. </p>
+<p>Elev och vårdnadshavare ska ansöka om modersmålsundervisning och det är viktigt att vårdnadshavare (båda om det finns två) skriver under ansökan.</p>
+<p>Vid frågor kontakta samordnaren för modersmål vid Barn- och Utbildningsförvaltningen.</p>
+<p>Tillsammans med Sameskolstyrelsen ordnar vi integrerad samisk undervisning vid skolor inom Änge och Föllinge rektorsområden.</p>
+<p>Länk till ansökan om modersmålsundervisning (även på samiska och arabiska)</p>
+<p xml:lang="nob">Uppdaterad 2016-10-21 av Thory Andersson</p>
+<p xml:lang="sma">Åarjelsaemien gïele</p>
+<list><p type="listitem" xml:lang="nno">Facebook</p>
+<p type="listitem" xml:lang="nno">Twitter</p>
+<p type="listitem" xml:lang="eng">E-post</p>
+</list><p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+<p xml:lang="eng">Kontaktinformation</p>
+<list><p type="listitem" xml:lang="nno">Annika Berkö</p>
+<p type="listitem">Enhetschef Språk och integration 0640 161 71</p>
+</list><p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+</body></document>

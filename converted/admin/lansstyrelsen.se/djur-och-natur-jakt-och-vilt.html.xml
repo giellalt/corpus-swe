@@ -1,38 +1,12 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>170</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/djur-och-natur/jakt-och-vilt/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="djur-och-natur-jakt-och-vilt.html"/>
-    <parallel_text xml:lang="sma" location="djur-och-natur-jakt-och-vilt.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Jakt och vilt - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Jakt och vilt</p>
-    <p>
-      <em type="italic">Vi informerar jägare och markägare, registrerar jaktområden, tilldelar licenser samt samlar in och sammanställer avskjutningsstatistik. </em>
-    </p>
-    <p type="title">Allt vilt är fredat</p>
-    <p>I jaktlagen (SFS 1987:259) anges att allt vilt är fredat. För fredat vilt gäller fredningen även deras ägg och bon. Det innebär att vilt endast får jagas – det vill säga fångas eller dödas – om det tillåts enligt jaktlagstiftningen.</p>
-    <p type="title">Viltskador</p>
-    <p>Vi har hand om ärenden som handlar om skyddsjakt för att motverka viltskador. I vissa ärenden kan vi ge bidrag till skadeförebyggande åtgärder och i vissa fall ersättning för skador som redan har skett.</p>
-    <p type="title">Viltförvaltning</p>
-    <p>Vi inventerar och förvaltar även rovdjursstammen i länet och utser jakttillsynsmän. Det finns en särskild viltförvaltningsdelegation i varje län som fattar övergripande beslut om viltförvaltningen i länet.</p>
-    <p type="title">Statens vilt får inte jagas</p>
-    <p>I Sverige har fastighetsägare normalt rätt att jaga på den mark som hör till fastigheten. Vissa utrotningshotade, sällsynta eller särskilt värdefulla djurarter är dock undantagna från denna princip. De brukar kallas statens vilt.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>170</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/djur-och-natur/jakt-och-vilt/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="djur-och-natur-jakt-och-vilt.html"/><parallel_text xml:lang="sma" location="djur-och-natur-jakt-och-vilt.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Jakt och vilt - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Jakt och vilt</p>
+<p><em type="italic">Vi informerar jägare och markägare, registrerar jaktområden, tilldelar licenser samt samlar in och sammanställer avskjutningsstatistik. </em></p>
+<p type="title">Allt vilt är fredat</p>
+<p>I jaktlagen (SFS 1987:259) anges att allt vilt är fredat. För fredat vilt gäller fredningen även deras ägg och bon. Det innebär att vilt endast får jagas – det vill säga fångas eller dödas – om det tillåts enligt jaktlagstiftningen.</p>
+<p type="title">Viltskador</p>
+<p>Vi har hand om ärenden som handlar om skyddsjakt för att motverka viltskador. I vissa ärenden kan vi ge bidrag till skadeförebyggande åtgärder och i vissa fall ersättning för skador som redan har skett.</p>
+<p type="title">Viltförvaltning</p>
+<p>Vi inventerar och förvaltar även rovdjursstammen i länet och utser jakttillsynsmän. Det finns en särskild viltförvaltningsdelegation i varje län som fattar övergripande beslut om viltförvaltningen i länet.</p>
+<p type="title">Statens vilt får inte jagas</p>
+<p>I Sverige har fastighetsägare normalt rätt att jaga på den mark som hör till fastigheten. Vissa utrotningshotade, sällsynta eller särskilt värdefulla djurarter är dock undantagna från denna princip. De brukar kallas statens vilt.</p>
+</body></document>

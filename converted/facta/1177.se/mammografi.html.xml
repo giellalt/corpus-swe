@@ -1,126 +1,77 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1758</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/Mammografi</origFileName>
-    <parallel_text xml:lang="eng" location="mammografi.html"/>
-    <parallel_text xml:lang="fin" location="mammografi.html"/>
-    <parallel_text xml:lang="fit" location="mammografi.html"/>
-    <parallel_text xml:lang="sma" location="mammografi.html"/>
-    <parallel_text xml:lang="sme" location="mammografi.html"/>
-    <parallel_text xml:lang="smj" location="mammografi.html"/>
-    <parallel_text location="mammografi.html" xml:lang="rmy-rka"/>
-    <parallel_text location="mammografi.html" xml:lang="rmn"/>
-    <parallel_text location="mammografi.html" xml:lang="rmu"/>
-    <parallel_text location="mammografi.html" xml:lang="yid"/>
-    <parallel_text location="mammografi.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="mammografi.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mammografi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Cancer</p>
-    <list>
-      <p type="listitem">Cancerformer och fakta</p>
-      <p type="listitem">Första tiden efter beskedet</p>
-      <p type="listitem">Behandling vid cancer</p>
-      <p type="listitem">Att vara den som står bredvid</p>
-      <p type="listitem">Hjälp och stöd</p>
-      <p type="listitem">Barncancer</p>
-      <p type="listitem">Kris och sorg</p>
-      <p type="listitem">Andra språk/Translations</p>
-    </list>
-    <p type="title">Mammografi</p>
-    <p>Mammografi är en röntgenundersökning av brösten med en speciell teknik som ger detaljrika bilder. Det är en av flera undersökningar som en läkare kan göra för att ta reda på vad som är orsaken om du har besvär från brösten.</p>
-    <p>Mammografi är också den metod som används i de allmänna bröstkontroller som alla kvinnor från 40 till och med 74 års ålder regelbundet erbjuds att göra. En sådan massundersökning kallas screening.</p>
-    <p>Syftet med mammografiscreeningen är att hitta de kvinnor som har bröstcancer innan sjukdomen hunnit ge några symtom.</p>
-    <p>Bröstcancer är den vanligaste cancerformen bland kvinnor. Risken för bröstcancer ökar med åldern. Men får man diagnos tidigt finns en bra chans att bli frisk.</p>
-    <p>Mammografi är en av de vanligaste röntgenundersökningarna i Sverige. Varje år genomgår 1 miljon personer undersökning med mammografi.</p>
-    <p type="title">Så går mammografiscreeningen till</p>
-    <list>
-      <p type="listitem">Du får lägga ett bröst i taget mot en skiva. Skivan omvandlar röntgenstrålen till en bild. Sjuksköterskan pressar ditt bröst så mycket det går mot skivan, för att bilderna ska bli så tydliga som möjligt.</p>
-    </list>
-    <p>Du behöver inte förbereda dig på något särskilt sätt.</p>
-    <p type="title">Sjuksköterskan tittar och frågar</p>
-    <p>En röntgensjuksköterska genomför undersökningen. Sjuksköterskan frågar först om du har haft några besvär från brösten eller om du tar läkemedel som innehåller hormoner.</p>
-    <p>Sedan klär du av dig på överkroppen. Sjuksköterskan tittar på brösten för att se om du har några synliga förändringar, som till exempel större födelsemärken eller ärr efter tidigare operationer. Sådana förändringar kan synas på röntgenbilderna och felaktigt tolkas som en cancertumör.</p>
-    <p type="title">Två eller tre bilder på varje bröst</p>
-    <p>Därefter får du stå eller sitta tätt intill röntgenapparaten. Sjuksköterskan hjälper dig att lägga ena bröstet på en skiva. En annan skiva pressar sedan ned bröstet och håller fast det några sekunder.</p>
-    <p>Armen håller du upp och vilar mot apparaten medan röntgensjuksköterskan tar två till tre bilder. Sedan får du göra om alltihop med det andra bröstet.</p>
-    <p>Hela undersökningen tar 15-30 minuter, själva bildtagningen fem till tio minuter.</p>
-    <p type="title">Hur känns mammografi?</p>
-    <p>Det kan kännas obehagligt och göra ont en kort stund. Men sjuksköterskan pressar ihop ditt bröst för att bilden ska bli tydligare och stråldosen lägre. Efter undersökningen mår du oftast som vanligt. Ibland kan du känna en viss ömhet, som ganska snabbt går över.</p>
-    <p type="title">Svar på mammografiscreeningen</p>
-    <p>Oftast är det två röntgenläkare som oberoende av varandra granskar bilderna från mammografiscreeningen. På det viset blir bedömningen säkrare.</p>
-    <p>Svaret från mammografiscreeningen får du hemskickat inom två veckor.</p>
-    <p type="title">Om du ska på återbesök</p>
-    <p>När du har genomgått en screening kan det hända att du får komma tillbaka för en kompletterande undersökning. Orsaken kan vara att bilderna trots allt inte blev tillräckligt tydliga. Då kan det räcka med att du får ta ytterligare några mammografibilder.</p>
-    <p>Men återbesöket kan också bero på att bilderna som togs vid screeningen visar att det finns en förändring i bröstet som behöver utredas mer.</p>
-    <p type="title">Mammografi är en del av utredningen</p>
-    <p>Vid en screening mammograferas alla kvinnor på samma sätt. Om bilderna från screeningen visar att du har en förändring, får du istället göra de undersökningar som är nödvändiga för att reda på vad som orsakat förändringen hos just dig. Då kan du få genomgå en mer individuellt anpassad mammografiundersökning. Det innebär att röntgensjuksköterskan tar fler bilder och ur olika vinklar. En röntgenläkare granskar bilderna direkt.</p>
-    <p>Ibland behöver läkaren också undersöka dig med ultraljud . Läkaren kan också behöva ta ett cell- eller vävnadsprov från ditt bröst med en nål.</p>
-    <p>Alla undersökningar som du behöver göra sker vid samma tillfälle.</p>
-    <p type="title">Muntligt svar så snart som möjligt</p>
-    <p>Svaret på vad undersökningarna visar ska du få i ett personligt möte med en läkare, så att du har möjlighet att få mer information och ställa frågor . Det ska ske så snart som möjligt men vad det innebär varierar beroende på var du bor. Det kan ta några dagar eller längre tid.</p>
-    <p type="title">Gravida och ammande</p>
-    <p>Är du gravid eller ammar kan du genomgå mammografiscreening. Visserligen kan det vara svårare att hitta eller utesluta cancer genom att granska mammografibilder av dina bröst eftersom de just nu är förändrade. Å andra sidan är det lätt hänt att det går lång tid mellan undersökningarna om du inte vill screenas därför att du är gravid eller ammar.</p>
-    <p>Stråldosen från mammografin anses inte utgöra någon fara för fostret och anses inte heller påverka mjölken. Därför kan du genomgå screening om du har fått en kallelse.</p>
-    <p>Du som ammar får gärna försöka mjölka ur brösten först.</p>
-    <p>Gravida och ammande kan också, liksom alla andra som kallas, välja att boka ny tid för screening.</p>
-    <p>Däremot ska du genast kontakta vården om du själv märker en förändring i bröstet medan du är gravid eller ammar. Då kan du först få röntga brösten, därefter genomgå en ultraljudsundersökning.</p>
-    <p type="title">För- och nackdelar med mammografiscreening</p>
-    <p>Bilderna från mammografiscreeningen kan avslöja bröstcancer innan du har fått några symtom. Då är risken liten att sjukdomen ska sprida sig och bli dödlig, och du kan få behandling som inte behöver vara så omfattande.</p>
-    <p>Men mammografiscreeningen är inte alltid en helt pålitlig metod. Ibland syns inte bröstcancern på bilderna. Det finns också cancer som växer så långsamt att den aldrig kommer att ge några besvär. Det är svårt att i förväg veta vilka långsamt växande tumörer som inte kommer att orsaka problem. Därför händer det att kvinnor får diagnos och behandlas fast de inte hade behövt det.</p>
-    <p>Det är ovanligt att mammografiscreening inte hittar eller utesluter dödlig bröstcancer, men det händer. Det finns alltså både för- och nackdelar med mammografiscreening .</p>
-    <p>Socialstyrelsen rekommenderar mammografiscreening för kvinnor i åldrarna 40 till och med 74 år. Alla landsting och regioner följer den rekommendationen.</p>
-    <p type="title">Mer om mammografiscreening</p>
-    <p type="title">Du får en kallelse hem</p>
-    <p>Från det år du fyller 40 till och med det år du fyller 74 år får du en kallelse hem med 1,5 till 2 års mellanrum. Variationen beror på var du bor eller hur gammal du är.</p>
-    <p>I kallelsen står var undersökningen ska ske, när du ska komma och hur du gör om du har frågor eller vill boka om tiden.</p>
-    <p>Screeningen är frivillig.</p>
-    <p>Du kan göra screeningen i ett annat landsting, om du vill det. Då gäller samma villkor för dig som för alla andra som bor i det landstinget.</p>
-    <p type="title">Har du inte fått någon kallelse?</p>
-    <p>Är du 40-74 år men inte får någon kallelse till mammografiscreening kan du kontakta en mammografimottagning eller vårdcentral och säga till.</p>
-    <p type="title">Har du skyddad identitet ?</p>
-    <p>Om du lever med skyddad identitet får du ingen kallelse till mammografiscreening. Kontakta då en mammografimottagning så får du en tid för undersökning. Efter undersökningen ringer du mottagningen för att få veta vad bilderna visade.</p>
-    <p type="title">Vill du inte bli kallad?</p>
-    <p>Kontakta mammografimottagningen om du har fått en kallelse men inte vill delta i screeningen och inte vill ha fler kallelser. Ofta ber då personalen att du också skriver ett brev där du bekräftar att du inte vill bli kallad.</p>
-    <p>Om du skulle ändra dig någon gång i framtiden, är det bara att säga till igen, så blir du kallad till mammografiscreening så länge du är 40-74 år.</p>
-    <p type="title">Mammografi för att utreda symtom</p>
-    <p>Om du själv upptäcker en förändring i dina bröst, kanske du blir orolig. Oftast är det en godartad förändring. Det kan till exempel vara en vävnadsknuta eller en vätskefylld blåsa, så kallad cysta.</p>
-    <p>Men förändringen kan även vara orsakad av bröstcancer. Därför ska du ta en förändring i brösten på allvar, oavsett hur gammal du är. Vänta inte, utan se till att du blir undersökt. Vänd dig till vårdcentralen, till kvinnohälsovården eller till den speciella bröstmottagning som finns på en del större sjukhus.</p>
-    <p>Du kan söka vård på vilken vårdcentral eller öppen specialistmottagning du vill i hela landet. Du har också möjlighet att få fast läkarkontakt på vårdcentralen.</p>
-    <p>En läkare känner noga igenom dina bröst och avgör om du bör göra en mammografiundersökning. I så fall får du en remiss.</p>
-    <p>Du får genomgå en mammografiundersökning som anpassas efter vad just du behöver. Röntgenläkaren kan också behöva undersöka dig med ultraljud. Kanske behöver läkaren också ta ett cell- eller vävnadsprov.</p>
-    <p>Resultatet av undersökningarna skickas till läkaren som remitterade dig. Den läkaren ska kontakta dig för ett möte där du får svar på om du har bröstcancer eller om besvären beror på något annat.</p>
-    <p>För att du ska kunna vara aktiv i din vård och ta beslut är det viktigt att du förstår informationen du får. Vårdpersonalen är skyldig att se till så att du gör det. Ställ frågor. Du kan också be att få informationen nedskriven så att du kan läsa den i lugn och ro. Om du inte talar svenska har du rätt att få information på ditt eget språk till exempel med hjälp av en språktolk. Du har även rätt att få tolkhjälp om du har en hörsel- eller synnedsättning .</p>
-    <p type="title">Kan jag undersökas med mammografi om jag...</p>
-    <p type="title">...har mens?</p>
-    <p>Du kan undersökas med mammografi även om du har mens just då.</p>
-    <p type="title">...har täta bröst?</p>
-    <p>Du kan ha mycket bröstkörtelvävnad oavsett ålder. Det kallas täta bröst och syns först vid en mammografiundersökning. Om du har täta bröst kan läkaren behöva komplettera mammografin med fler bilder.</p>
-    <p type="title">...får behandling med hormoner?</p>
-    <p>En del kvinnor får hormonbehandling under och efter klimakteriet eller använder p-piller . Sådan behandling påverkar bröstvävnaden så att den blir tätare. Det gör mammografibilderna svårare att bedöma. Det är därför viktigt att tala om ifall du tar läkemedel som innehåller hormoner.</p>
-    <p type="title">...har bröstimplantat?</p>
-    <p>Du kan genomgå mammografi även om du har bröstimplantat. Det är ingen risk att implantaten går sönder, men det går inte att klämma ihop brösten lika mycket som på kvinnor utan implantat. Det kan också vara svårare att granska bilderna. Det beror på vad det är för material i implantaten.</p>
-    <p type="title">...har en inflammation i bröstet?</p>
-    <p>Om du har en inflammation i bröstet kan det bli alltför smärtsamt att pressa ihop bröstet på det sätt som krävs vid mammografi. I stället kan en ultraljudsundersökning svara på om det finns var som behöver tömmas ut. När inflammationen gått över bör du däremot genomgå mammografi. Det är särskilt viktigt om du är äldre.</p>
-    <p type="title">Vem blir inte remitterad till mammografi?</p>
-    <p>Bröstcancer är ovanligt under 30 års ålder. Är du mycket ung och behöver undersökas kan ultraljud ge ett säkrare svar. Det beror på att bröstens körtelvävnad är så tät hos unga kvinnor att mammografibilder blir svåra att tolka. Mammografi är helt enkelt inte en bra metod när du är ung.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1732</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/Mammografi</origFileName><parallel_text xml:lang="eng" location="mammografi.html"/><parallel_text xml:lang="fin" location="mammografi.html"/><parallel_text xml:lang="fit" location="mammografi.html"/><parallel_text xml:lang="sma" location="mammografi.html"/><parallel_text xml:lang="sme" location="mammografi.html"/><parallel_text xml:lang="smj" location="mammografi.html"/><parallel_text location="mammografi.html" xml:lang="rmy-rka"/><parallel_text location="mammografi.html" xml:lang="rmn"/><parallel_text location="mammografi.html" xml:lang="rmu"/><parallel_text location="mammografi.html" xml:lang="yid"/><parallel_text location="mammografi.html" xml:lang="rmy-rlo"/><parallel_text location="mammografi.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mammografi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Mammografi</p>
+<p>Mammografi är en röntgenundersökning av brösten med en speciell teknik som ger detaljrika bilder. Det är en av flera undersökningar som en läkare kan göra för att ta reda på vad som är orsaken om du har besvär från brösten.</p>
+<p>Mammografi är också den metod som används i de allmänna bröstkontroller som alla kvinnor från 40 till och med 74 års ålder regelbundet erbjuds att göra. En sådan massundersökning kallas screening.</p>
+<p>Syftet med mammografiscreeningen är att hitta de kvinnor som har bröstcancer innan sjukdomen hunnit ge några symtom.</p>
+<p>Bröstcancer är den vanligaste cancerformen bland kvinnor. Risken för bröstcancer ökar med åldern. Men får man diagnos tidigt finns en bra chans att bli frisk.</p>
+<p>Mammografi är en av de vanligaste röntgenundersökningarna i Sverige. Varje år genomgår 1 miljon personer undersökning med mammografi.</p>
+<p type="title">Så går mammografiscreeningen till</p>
+<list><p type="listitem">Du får lägga ett bröst i taget mot en skiva. Skivan omvandlar röntgenstrålen till en bild. Sjuksköterskan pressar ditt bröst så mycket det går mot skivan, för att bilderna ska bli så tydliga som möjligt.</p>
+</list><p>Du behöver inte förbereda dig på något särskilt sätt.</p>
+<p type="title">Sjuksköterskan tittar och frågar</p>
+<p>En röntgensjuksköterska genomför undersökningen. Sjuksköterskan frågar först om du har haft några besvär från brösten eller om du tar läkemedel som innehåller hormoner.</p>
+<p>Sedan klär du av dig på överkroppen. Sjuksköterskan tittar på brösten för att se om du har några synliga förändringar, som till exempel större födelsemärken eller ärr efter tidigare operationer. Sådana förändringar kan synas på röntgenbilderna och felaktigt tolkas som en cancertumör.</p>
+<p type="title">Två eller tre bilder på varje bröst</p>
+<p>Därefter får du stå eller sitta tätt intill röntgenapparaten. Sjuksköterskan hjälper dig att lägga ena bröstet på en skiva. En annan skiva pressar sedan ned bröstet och håller fast det några sekunder.</p>
+<p>Armen håller du upp och vilar mot apparaten medan röntgensjuksköterskan tar två till tre bilder. Sedan får du göra om alltihop med det andra bröstet.</p>
+<p>Hela undersökningen tar 15-30 minuter, själva bildtagningen fem till tio minuter.</p>
+<p type="title">Hur känns mammografi?</p>
+<p>Det kan kännas obehagligt och göra ont en kort stund. Men sjuksköterskan pressar ihop ditt bröst för att bilden ska bli tydligare och stråldosen lägre. Efter undersökningen mår du oftast som vanligt. Ibland kan du känna en viss ömhet, som ganska snabbt går över.</p>
+<p type="title">Svar på mammografiscreeningen</p>
+<p>Oftast är det två röntgenläkare som oberoende av varandra granskar bilderna från mammografiscreeningen. På det viset blir bedömningen säkrare.</p>
+<p>Svaret från mammografiscreeningen får du hemskickat inom två veckor.</p>
+<p type="title">Om du ska på återbesök</p>
+<p>När du har genomgått en screening kan det hända att du får komma tillbaka för en kompletterande undersökning. Orsaken kan vara att bilderna trots allt inte blev tillräckligt tydliga. Då kan det räcka med att du får ta ytterligare några mammografibilder.</p>
+<p>Men återbesöket kan också bero på att bilderna som togs vid screeningen visar att det finns en förändring i bröstet som behöver utredas mer.</p>
+<p type="title">Mammografi är en del av utredningen</p>
+<p>Vid en screening mammograferas alla kvinnor på samma sätt. Om bilderna från screeningen visar att du har en förändring, får du istället göra de undersökningar som är nödvändiga för att reda på vad som orsakat förändringen hos just dig. Då kan du få genomgå en mer individuellt anpassad mammografiundersökning. Det innebär att röntgensjuksköterskan tar fler bilder och ur olika vinklar. En röntgenläkare granskar bilderna direkt.</p>
+<p>Ibland behöver läkaren också undersöka dig med ultraljud . Läkaren kan också behöva ta ett cell- eller vävnadsprov från ditt bröst med en nål.</p>
+<p>Alla undersökningar som du behöver göra sker vid samma tillfälle.</p>
+<p type="title">Muntligt svar så snart som möjligt</p>
+<p>Svaret på vad undersökningarna visar ska du få i ett personligt möte med en läkare, så att du har möjlighet att få mer information och ställa frågor . Det ska ske så snart som möjligt men vad det innebär varierar beroende på var du bor. Det kan ta några dagar eller längre tid.</p>
+<p type="title">Gravida och ammande</p>
+<p>Är du gravid eller ammar kan du genomgå mammografiscreening. Visserligen kan det vara svårare att hitta eller utesluta cancer genom att granska mammografibilder av dina bröst eftersom de just nu är förändrade. Å andra sidan är det lätt hänt att det går lång tid mellan undersökningarna om du inte vill screenas därför att du är gravid eller ammar.</p>
+<p>Stråldosen från mammografin anses inte utgöra någon fara för fostret och anses inte heller påverka mjölken. Därför kan du genomgå screening om du har fått en kallelse.</p>
+<p>Du som ammar får gärna försöka mjölka ur brösten först.</p>
+<p>Gravida och ammande kan också, liksom alla andra som kallas, välja att boka ny tid för screening.</p>
+<p>Däremot ska du genast kontakta vården om du själv märker en förändring i bröstet medan du är gravid eller ammar. Då kan du först få röntga brösten, därefter genomgå en ultraljudsundersökning.</p>
+<p type="title">För- och nackdelar med mammografiscreening</p>
+<p>Bilderna från mammografiscreeningen kan avslöja bröstcancer innan du har fått några symtom. Då är risken liten att sjukdomen ska sprida sig och bli dödlig, och du kan få behandling som inte behöver vara så omfattande.</p>
+<p>Men mammografiscreeningen är inte alltid en helt pålitlig metod. Ibland syns inte bröstcancern på bilderna. Det finns också cancer som växer så långsamt att den aldrig kommer att ge några besvär. Det är svårt att i förväg veta vilka långsamt växande tumörer som inte kommer att orsaka problem. Därför händer det att kvinnor får diagnos och behandlas fast de inte hade behövt det.</p>
+<p>Det är ovanligt att mammografiscreening inte hittar eller utesluter dödlig bröstcancer, men det händer. Det finns alltså både för- och nackdelar med mammografiscreening .</p>
+<p>Socialstyrelsen rekommenderar mammografiscreening för kvinnor i åldrarna 40 till och med 74 år. Alla landsting och regioner följer den rekommendationen.</p>
+<p type="title">Mer om mammografiscreening</p>
+<p type="title">Du får en kallelse hem</p>
+<p>Från det år du fyller 40 till och med det år du fyller 74 år får du en kallelse hem med 1,5 till 2 års mellanrum. Variationen beror på var du bor eller hur gammal du är.</p>
+<p>I kallelsen står var undersökningen ska ske, när du ska komma och hur du gör om du har frågor eller vill boka om tiden.</p>
+<p>Screeningen är frivillig.</p>
+<p>Du kan göra screeningen i ett annat landsting, om du vill det. Då gäller samma villkor för dig som för alla andra som bor i det landstinget.</p>
+<p type="title">Har du inte fått någon kallelse?</p>
+<p>Är du 40-74 år men inte får någon kallelse till mammografiscreening kan du kontakta en mammografimottagning eller vårdcentral och säga till.</p>
+<p type="title">Har du skyddad identitet ?</p>
+<p>Om du lever med skyddad identitet får du ingen kallelse till mammografiscreening. Kontakta då en mammografimottagning så får du en tid för undersökning. Efter undersökningen ringer du mottagningen för att få veta vad bilderna visade.</p>
+<p type="title">Vill du inte bli kallad?</p>
+<p>Kontakta mammografimottagningen om du har fått en kallelse men inte vill delta i screeningen och inte vill ha fler kallelser. Ofta ber då personalen att du också skriver ett brev där du bekräftar att du inte vill bli kallad.</p>
+<p>Om du skulle ändra dig någon gång i framtiden, är det bara att säga till igen, så blir du kallad till mammografiscreening så länge du är 40-74 år.</p>
+<p type="title">Mammografi för att utreda symtom</p>
+<p>Om du själv upptäcker en förändring i dina bröst, kanske du blir orolig. Oftast är det en godartad förändring. Det kan till exempel vara en vävnadsknuta eller en vätskefylld blåsa, så kallad cysta.</p>
+<p>Men förändringen kan även vara orsakad av bröstcancer. Därför ska du ta en förändring i brösten på allvar, oavsett hur gammal du är. Vänta inte, utan se till att du blir undersökt. Vänd dig till vårdcentralen, till kvinnohälsovården eller till den speciella bröstmottagning som finns på en del större sjukhus.</p>
+<p>Du kan söka vård på vilken vårdcentral eller öppen specialistmottagning du vill i hela landet. Du har också möjlighet att få fast läkarkontakt på vårdcentralen.</p>
+<p>En läkare känner noga igenom dina bröst och avgör om du bör göra en mammografiundersökning. I så fall får du en remiss.</p>
+<p>Du får genomgå en mammografiundersökning som anpassas efter vad just du behöver. Röntgenläkaren kan också behöva undersöka dig med ultraljud. Kanske behöver läkaren också ta ett cell- eller vävnadsprov.</p>
+<p>Resultatet av undersökningarna skickas till läkaren som remitterade dig. Den läkaren ska kontakta dig för ett möte där du får svar på om du har bröstcancer eller om besvären beror på något annat.</p>
+<p>För att du ska kunna vara aktiv i din vård och ta beslut är det viktigt att du förstår informationen du får. Vårdpersonalen är skyldig att se till så att du gör det. Ställ frågor. Du kan också be att få informationen nedskriven så att du kan läsa den i lugn och ro. Om du inte talar svenska har du rätt att få information på ditt eget språk till exempel med hjälp av en språktolk. Du har även rätt att få tolkhjälp om du har en hörsel- eller synnedsättning .</p>
+<p type="title">Kan jag undersökas med mammografi om jag...</p>
+<p type="title">...har mens?</p>
+<p>Du kan undersökas med mammografi även om du har mens just då.</p>
+<p type="title">...har täta bröst?</p>
+<p>Du kan ha mycket bröstkörtelvävnad oavsett ålder. Det kallas täta bröst och syns först vid en mammografiundersökning. Om du har täta bröst kan läkaren behöva komplettera mammografin med fler bilder.</p>
+<p type="title">...får behandling med hormoner?</p>
+<p>En del kvinnor får hormonbehandling under och efter klimakteriet eller använder p-piller . Sådan behandling påverkar bröstvävnaden så att den blir tätare. Det gör mammografibilderna svårare att bedöma. Det är därför viktigt att tala om ifall du tar läkemedel som innehåller hormoner.</p>
+<p type="title">...har bröstimplantat?</p>
+<p>Du kan genomgå mammografi även om du har bröstimplantat. Det är ingen risk att implantaten går sönder, men det går inte att klämma ihop brösten lika mycket som på kvinnor utan implantat. Det kan också vara svårare att granska bilderna. Det beror på vad det är för material i implantaten.</p>
+<p type="title">...har en inflammation i bröstet?</p>
+<p>Om du har en inflammation i bröstet kan det bli alltför smärtsamt att pressa ihop bröstet på det sätt som krävs vid mammografi. I stället kan en ultraljudsundersökning svara på om det finns var som behöver tömmas ut. När inflammationen gått över bör du däremot genomgå mammografi. Det är särskilt viktigt om du är äldre.</p>
+<p type="title">Vem blir inte remitterad till mammografi?</p>
+<p>Bröstcancer är ovanligt under 30 års ålder. Är du mycket ung och behöver undersökas kan ultraljud ge ett säkrare svar. Det beror på att bröstens körtelvävnad är så tät hos unga kvinnor att mammografibilder blir svåra att tolka. Mammografi är helt enkelt inte en bra metod när du är ung.</p>
+</body></document>

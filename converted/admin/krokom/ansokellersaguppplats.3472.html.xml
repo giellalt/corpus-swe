@@ -1,86 +1,54 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Ansök eller säg upp plats - Krokoms kommun</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>597</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.krokom.se/utbildningochbarnomsorg/forskolaochbarnomsorg/ansokellersaguppplats.3472.html</origFileName>
-    <parallel_text xml:lang="sma" location="ansokellersaguppplats.3472.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="ron">Translate site</p>
-    <list>
-      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
-      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
-      <p type="listitem" xml:lang="eng">Press</p>
-      <p type="listitem" xml:lang="vep">A-Ö</p>
-      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
-      <p type="listitem" xml:lang="vep">Intranät</p>
-      <p type="listitem">Lyssna</p>
-      <p type="listitem" xml:lang="sms">Lättläst</p>
-      <p type="listitem" xml:lang="ron">Translate</p>
-    </list>
-    <p xml:lang="isl">Sök</p>
-    <list>
-      <p type="listitem">Kommun och politik</p>
-      <p type="listitem">Utbildning och barnomsorg</p>
-      <p type="listitem">Bygga, bo och miljö</p>
-      <p type="listitem">Omsorg och hjälp</p>
-      <p type="listitem">Näringsliv och arbete</p>
-      <p type="listitem">Kultur, fritid och turism</p>
-      <p type="listitem">Trafik och infrastruktur</p>
-    </list>
-    <p>Mina favoriter</p>
-    <p type="title">Ansök eller säg upp plats</p>
-    <p type="title">Ansökan och placering</p>
-    <p>Barn i åldern 1-12 år med behov av tillsyn ska <em type="italic">inom tre månader </em>efter att ansökan kommit in erbjudas plats vid någon av kommunens förskolor/fritidshem eller inom pedagogisk omsorg (dagbarnvårdare). Ansökan kan tidigast lämnas in 6 månader före önskat placeringsdatum. </p>
-    <p>Du kan söka plats via vår e-tjänst . Du som inte har möjlighet att använda e-tjänsten kan fylla i blanketten Ansökan om plats i förskola, fritidshem och pedagogisk omsorg och skicka den till områdesexpeditionen. Det är barnets vårdnadshavare som ansöker om plats och blir platsinnehavare. Om ni är två vårdnadshavare ska båda underteckna ansökan. Båda vårdnadshavarna är ansvariga för barnomsorgsavgiften.</p>
-    <p>När du har accepterat placeringen godkänner du samtidigt kommunens barnomsorgsregler samt att personuppgifterna hanteras i enlighet med Datalagen och Personuppgiftslagen.</p>
-    <p type="title">Anmälan om delad plats</p>
-    <p>Om ni som är barnets vårdnadshavare inte har ett gemensamt hushåll, men gemensam vårdnad, kan ni båda vara platsinnehavare om båda nyttjar barnomsorgen. Ni får varsin räkning som baseras på respektive hushålls avgiftsgrundande inkomst. Ni anmäler delad barnomsorgsplats på blanketten Anmälan delad barnomsorgsplats . Blanketten undertecknas av er båda och skickas till Barn- och utbildningsavdelningen.</p>
-    <p type="title" xml:lang="nno">Val av förskola/fritidshem samt köregler</p>
-    <p>I din ansökan kan du ange upp till tre alternativ för önskad förskola/fritidshem. Inom tre månader från det att din ansökan kommit in kommer du att erbjudas plats. Vi strävar efter att tillgodose ditt förstahandsval, i mån av plats. Om du blir erbjuden en plats som inte stämmer överens med ditt förstahandsval på ansökan kan du, oavsett om du accepterar erbjudandet eller inte, välja att stå kvar i kön. Du köar då fortfarande till förstahandsvalet med bibehållet ansökningsdatum.</p>
-    <p>Om du blir erbjuden ditt förstahandsval, men tackar nej, tas du bort ur kön. Önskar du ny plats ska du lämna in ny ansökan. Om du önskar omplacering inom kommunen ska du skicka in en ny ansökan till områdesexpeditionen.</p>
-    <p type="title" xml:lang="isl">Förtur</p>
-    <p>I dag finns inget system för förtur inom barnomsorgen i Krokoms kommun.</p>
-    <p type="title">Uppsägning av barnomsorgsplats</p>
-    <p>Om du inte längre är i behov av barnomsorg ska du lämna in en skriftlig uppsägning. Det kan du göra antingen via e-tjänsten eller på blanketten Uppsägning barnomsorg .</p>
-    <p>Uppsägningen lämnas till förskolan/fritidshemmet eller till områdesexpeditionen. Uppsägningstiden är två månader och räknas från den dag uppsägningshandlingen kommit in. Under uppsägningstiden gäller betalningsskyldighet.</p>
-    <p>Om du har sagt upp platsen kan du söka ny plats först efter det att uppsägningstiden gått ut.</p>
-    <p>När ett barn byter plats från förskola till fritidshem sker överflyttningen automatiskt, om så önskas.</p>
-    <p type="title">E-barnomsorg</p>
-    <p>Du kan <em type="italic">söka </em>och <em type="italic">säga upp </em>barnomsorgsplats, samt <em type="italic">lämna inkomstuppgift och schema </em>via vår e-tjänst. Allt som krävs är en e-legitimation som finns att ladda hem från bland annat bankerna. </p>
-    <p>Med e-legitimationen kan du logga in dig på <em type="italic">Mina sidor </em>och signera de uppgifter du vill skicka till kommunen. Läs mer om hur du laddar ner och använder e-legitimation på sidan om e-legitimation . </p>
-    <p>Till e-tjänsten och Mina sidor</p>
-    <p>Har du inte möjlighet att använda vår e-tjänst hittar du länk till blanketter här till höger.</p>
-    <p xml:lang="nno">Uppdaterad 2015-05-25 av Birgitta Sjöström</p>
-    <p xml:lang="sma">Åarjelsaemien gïele</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Facebook</p>
-      <p type="listitem" xml:lang="nno">Twitter</p>
-      <p type="listitem" xml:lang="eng">E-post</p>
-    </list>
-    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
-    <p xml:lang="eng">Kontaktinformation</p>
-    <list>
-      <p type="listitem" xml:lang="eng">Elisabeth Englund</p>
-      <p type="listitem">Verksamhetschef barnomsorg 0640 161 66</p>
-    </list>
-    <p>Läs mer</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Blanketter</p>
-    </list>
-    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Ansök eller säg upp plats - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>597</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/utbildningochbarnomsorg/forskolaochbarnomsorg/ansokellersaguppplats.3472.html</origFileName><parallel_text xml:lang="sma" location="ansokellersaguppplats.3472.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="ron">Translate site</p>
+<list><p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+<p type="listitem" xml:lang="nob">Om webbplatsen</p>
+<p type="listitem" xml:lang="eng">Press</p>
+<p type="listitem" xml:lang="est">A-Ö</p>
+<p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+<p type="listitem" xml:lang="vep">Intranät</p>
+<p type="listitem">Lyssna</p>
+<p type="listitem" xml:lang="sms">Lättläst</p>
+<p type="listitem" xml:lang="ron">Translate</p>
+</list><p xml:lang="isl">Sök</p>
+<list><p type="listitem">Kommun och politik</p>
+<p type="listitem">Utbildning och barnomsorg</p>
+<p type="listitem">Bygga, bo och miljö</p>
+<p type="listitem">Omsorg och hjälp</p>
+<p type="listitem">Näringsliv och arbete</p>
+<p type="listitem">Kultur, fritid och turism</p>
+<p type="listitem">Trafik och infrastruktur</p>
+</list><p>Mina favoriter</p>
+<p type="title">Ansök eller säg upp plats</p>
+<p type="title">Ansökan och placering</p>
+<p>Barn i åldern 1-12 år med behov av tillsyn ska <em type="italic">inom tre månader </em>efter att ansökan kommit in erbjudas plats vid någon av kommunens förskolor/fritidshem eller inom pedagogisk omsorg (dagbarnvårdare). Ansökan kan tidigast lämnas in 6 månader före önskat placeringsdatum. </p>
+<p>Du kan söka plats via vår e-tjänst . Du som inte har möjlighet att använda e-tjänsten kan fylla i blanketten Ansökan om plats i förskola, fritidshem och pedagogisk omsorg och skicka den till områdesexpeditionen. Det är barnets vårdnadshavare som ansöker om plats och blir platsinnehavare. Om ni är två vårdnadshavare ska båda underteckna ansökan. Båda vårdnadshavarna är ansvariga för barnomsorgsavgiften.</p>
+<p>När du har accepterat placeringen godkänner du samtidigt kommunens barnomsorgsregler samt att personuppgifterna hanteras i enlighet med Datalagen och Personuppgiftslagen.</p>
+<p type="title">Anmälan om delad plats</p>
+<p>Om ni som är barnets vårdnadshavare inte har ett gemensamt hushåll, men gemensam vårdnad, kan ni båda vara platsinnehavare om båda nyttjar barnomsorgen. Ni får varsin räkning som baseras på respektive hushålls avgiftsgrundande inkomst. Ni anmäler delad barnomsorgsplats på blanketten Anmälan delad barnomsorgsplats . Blanketten undertecknas av er båda och skickas till Barn- och utbildningsavdelningen.</p>
+<p type="title" xml:lang="nno">Val av förskola/fritidshem samt köregler</p>
+<p>I din ansökan kan du ange upp till tre alternativ för önskad förskola/fritidshem. Inom tre månader från det att din ansökan kommit in kommer du att erbjudas plats. Vi strävar efter att tillgodose ditt förstahandsval, i mån av plats. Om du blir erbjuden en plats som inte stämmer överens med ditt förstahandsval på ansökan kan du, oavsett om du accepterar erbjudandet eller inte, välja att stå kvar i kön. Du köar då fortfarande till förstahandsvalet med bibehållet ansökningsdatum.</p>
+<p>Om du blir erbjuden ditt förstahandsval, men tackar nej, tas du bort ur kön. Önskar du ny plats ska du lämna in ny ansökan. Om du önskar omplacering inom kommunen ska du skicka in en ny ansökan till områdesexpeditionen.</p>
+<p type="title" xml:lang="isl">Förtur</p>
+<p>I dag finns inget system för förtur inom barnomsorgen i Krokoms kommun.</p>
+<p type="title">Uppsägning av barnomsorgsplats</p>
+<p>Om du inte längre är i behov av barnomsorg ska du lämna in en skriftlig uppsägning. Det kan du göra antingen via e-tjänsten eller på blanketten Uppsägning barnomsorg .</p>
+<p>Uppsägningen lämnas till förskolan/fritidshemmet eller till områdesexpeditionen. Uppsägningstiden är två månader och räknas från den dag uppsägningshandlingen kommit in. Under uppsägningstiden gäller betalningsskyldighet.</p>
+<p>Om du har sagt upp platsen kan du söka ny plats först efter det att uppsägningstiden gått ut.</p>
+<p>När ett barn byter plats från förskola till fritidshem sker överflyttningen automatiskt, om så önskas.</p>
+<p type="title">E-barnomsorg</p>
+<p>Du kan <em type="italic">söka </em>och <em type="italic">säga upp </em>barnomsorgsplats, samt <em type="italic">lämna inkomstuppgift och schema </em>via vår e-tjänst. Allt som krävs är en e-legitimation som finns att ladda hem från bland annat bankerna. </p>
+<p>Med e-legitimationen kan du logga in dig på <em type="italic">Mina sidor </em>och signera de uppgifter du vill skicka till kommunen. Läs mer om hur du laddar ner och använder e-legitimation på sidan om e-legitimation . </p>
+<p>Till e-tjänsten och Mina sidor</p>
+<p>Har du inte möjlighet att använda vår e-tjänst hittar du länk till blanketter här till höger.</p>
+<p xml:lang="nno">Uppdaterad 2015-05-25 av Birgitta Sjöström</p>
+<p xml:lang="sma">Åarjelsaemien gïele</p>
+<list><p type="listitem" xml:lang="nno">Facebook</p>
+<p type="listitem" xml:lang="nno">Twitter</p>
+<p type="listitem" xml:lang="eng">E-post</p>
+</list><p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+<p xml:lang="eng">Kontaktinformation</p>
+<list><p type="listitem" xml:lang="eng">Elisabeth Englund</p>
+<p type="listitem">Verksamhetschef barnomsorg 0640 161 66</p>
+</list><p>Läs mer</p>
+<list><p type="listitem" xml:lang="nob">Blanketter</p>
+</list><p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+</body></document>

@@ -1,134 +1,92 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>2233</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/Cellforandringa</origFileName>
-    <parallel_text xml:lang="eng" location="cellforandringar-i-livmoderhalsen.html"/>
-    <parallel_text xml:lang="fin" location="cellforandringar-i-livmoderhalsen.html"/>
-    <parallel_text xml:lang="rus" location="cellforandringar-i-livmoderhalsen.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Cellförändringar i livmoderhalsen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Cancer</p>
-    <list>
-      <p type="listitem">Cancerformer och fakta</p>
-      <p type="listitem">Första tiden efter beskedet</p>
-      <p type="listitem">Behandling vid cancer</p>
-      <p type="listitem">Att vara den som står bredvid</p>
-      <p type="listitem">Hjälp och stöd</p>
-      <p type="listitem">Barncancer</p>
-      <p type="listitem">Kris och sorg</p>
-      <p type="listitem">Andra språk/Translations</p>
-    </list>
-    <p type="title">Cellförändringar i livmoderhalsen</p>
-    <p type="title">Sammanfattning</p>
-    <p type="title">Sammanfattning</p>
-    <p type="title">Allmänt</p>
-    <p>Livmoderhalsen är den nedre delen av livmodern. Den allra nedersta delen kallas livmodertappen, och där kan det uppstå cellförändringar. Det betyder oftast inte att man är sjuk, men sällsynta gånger kan cellförändringarna utvecklas till cancer, något som oftast tar flera år. Om man går på regelbundna cellprovskontroller kan sådana förändringar upptäckas och man kan få behandling i god tid.</p>
-    <p>De cellförändringar som kan leda till cancer beror oftast på att man blivit smittad av virus när man haft sex. Delvis kan man skydda sig genom att använda kondom. Man kan också vaccinera sig mot ett par av de vanligaste virussorterna som kan orsaka cancer. För att skyddet ska bli så bra som möjligt bör man få vaccinet innan man börjat ha sex.</p>
-    <p>Det finns en viss ärftlig risk för cellförändringar i livmoderhalsen. Rökning ökar också risken.</p>
-    <p type="title">Symtom</p>
-    <p>Cellförändringar ger inga symtom eller besvär. De kan bara upptäckas genom att man lämnar ett cellprov.</p>
-    <p type="title">Behandling</p>
-    <p>De flesta cellförändringar går över av sig själv. Om de behöver behandlas tas de bort genom en liten operation. Man får lokalbedövning eller sövs under behandlingen, som görs på sjukhus eller en gynekologmottagning. Man brukar kunna gå hem samma dag.</p>
-    <p>Efteråt mår man som vanligt, men man ska undvika samlag i tre till fyra veckor.</p>
-    <p type="title">När ska man söka vård?</p>
-    <p>Eftersom cellförändringar inte ger några besvär, är det viktigt att delta i de cellprovskontroller som landstingen erbjuder.</p>
-    <p>Man kan alltid ringa sjukvårdsrådgivningen för råd om vart man ska vända sig för att få göra en cellprovskontroll.</p>
-    <p>Visa mer</p>
-    <p type="title">Vad händer i kroppen?</p>
-    <p type="title">Ett litet område där cellförändringar kan uppstå</p>
-    <p>Livmoderhalsen är den nedre delen av livmodern. Den yttersta delen av livmoderhalsen som mynnar ut i slidan kallas livmodertappen. Livmodertappens in- och utsida är täckt med olika slags celler. På en liten del av livmodertappen möts de två typerna, och där kan det uppstå cellförändringar.</p>
-    <p>Livmoderappens in- och utsida är täckt med olika slags celler. Där cellerna möts, på ett frimärksstort område, kan det uppstå cellförändringar.</p>
-    <p type="title">Cellförändringar är mycket sällan cancer</p>
-    <p>Cellförändringar är inte en sjukdom i sig men kan vara ett förstadium till livmoderhalscancer. Cellförändringar kan bero på en irritation i slemhinnan orsakad av bakterier eller en tillfällig virusinfektion. Detta är den vanligaste typen av cellförändringar som kan läka av sig själv. Andra cellförändringar som visar sig vara förstadium till cancer, kan tas bort med ett mindre ingrepp så att de inte utvecklas till cancer. Det tar lång tid innan cellförändringar utvecklas till livmoderhalscancer, vanligen tio till femton år.</p>
-    <p>Varje år får knappt 450 svenska kvinnor livmoderhalscancer medan betydligt fler, ungefär 30 000 kvinnor, får besked om att de har cellförändringar. Att cellförändringar upptäcks och behandlas är viktigt för att man ska undvika att utveckla livmoderhalscancer. Risken att få livmoderhalscancer har minskat kraftigt under de senaste 40 åren tack vare en tidig upptäckt och behandling av cellförändringar.</p>
-    <p type="title">Gynekologisk cellprovskontroll ger bra skydd</p>
-    <p>Alla kvinnor mellan 23 och 50 år bjuds in vart tredje år till en gynekologisk cellprovskontroll där cellförändringar kan upptäckas. Sedan glesas kontrollerna ut till vart femte år, och upphör när man fyllt 60. Tiden mellan kontrollerna kan variera lite beroende på var man bor i landet. Genom att förändringarna kan upptäckas och behandlas får man ett bra skydd mot livmoderhalscancer.</p>
-    <p type="title">Även yngre kan få livmoderhalscancer</p>
-    <p>Livmoderhalscancer är, till skillnad från andra gynekologiska cancerformer, en sjukdom som framför allt ganska unga kvinnor kan få. Sjukdomen är mycket ovanlig före 25 års ålder men ökar sedan. Bland kvinnor som inte genomgått cellprovskontroller är cancerformen vanligast i 40–50-årsåldern.</p>
-    <p type="title">Få undersökta behöver behandlas</p>
-    <p>Ungefär fem av hundra kvinnor som undersöks vid en gynekologisk cellprovskontroll har någon form av cellförändringar. Ungefär en fjärdedel av de kvinnor som har cellförändringar behandlas, vilket motsvarar ungefär en procent av de som lämnar prov.</p>
-    <p type="title">Ett virus påverkar risken</p>
-    <p>Nästan alla cellförändringar som riskerar att utvecklas till cancer beror på att man någon gång genom sex har smittats av vissa typer av HPV, humant papillomvirus. Det finns mer än hundra olika typer av detta virus som uppträder på olika ställen i kroppen. Vissa typer orsakar vårtor på händer och fötter och andra ger vårtor i underlivet, så kallade kondylom. Ingen av dessa virustyper orsakar cancer.</p>
-    <p>De typer som kan orsaka cancer ger för det mesta inga synliga förändringar i kroppen, och man vet alltså sällan om att man blivit smittad. HPV-infektioner i underlivet är mycket vanliga. Oftast bekämpas viruset av immunförsvaret men en del kvinnor kan få en bestående infektion som på sikt kan leda till cellförändringar och även till cancer.</p>
-    <p type="title">Ett visst ärftligt samband</p>
-    <p>Cellförändringar är inte ärftliga i sig, men det kan finnas en viss ökad risk att utveckla cellförändringar om ens mamma eller syster också har haft cellförändringar.</p>
-    <p>Det finns forskning som talar för att rökare har en ökad risk för cellförändringar.</p>
-    <p type="title">Vaccin ger bra skydd</p>
-    <p>Det finns vaccin som ger bra skydd mot infektioner och cellförändringar som orsakas av HPV 16 och 18, de viktigaste virustyper som kan leda till att cancer utvecklas i livmoderhalsen. För att ha bäst nytta av vaccinet ska man inte vara smittad med HPV-virus, och därför är det säkrast att bli vaccinerad innan man har börjat ha sex. Vaccination mot HPV ingår i det allmänna vaccinationsprogrammet för barn</p>
-    <p>Även om man blir vaccinerad är det viktigt att fortsätta delta i gynekologiska cellprovskontroller eftersom vaccinets skydd mot cancer inte är fullständigt.</p>
-    <p>Eftersom HPV i underlivet överförs sexuellt kan man i viss utsträckning, men inte helt, skydda sig genom att använda kondom.</p>
-    <p type="title">Mer på 1177 Vårdguiden</p>
-    <list>
-      <p type="listitem">Gynekologisk cellprovtagning</p>
-    </list>
-    <p type="title">Symtom och diagnos</p>
-    <p type="title">Man märker inga symtom</p>
-    <p>Cellförändringar ger inga symtom eller besvär. De kan inte heller upptäckas vid en vanlig gynekologisk undersökning utan bara genom ett cellprov.</p>
-    <p>Kvinnor mellan 23 och 60 år får hem erbjudande om att lämna sådana cellprov genom de hälsokontroller, så kallad screening, som kvinnor i Sverige inbjuds till regelbundet.</p>
-    <p>Ett gynekologiskt cellprov kan också tas om man är hos barnmorska eller gynekolog och gör en gynekologisk undersökning av andra skäl.</p>
-    <p type="title">De flesta provsvar visar inga förändringar</p>
-    <p>Inom sex veckor efter att man har lämnat cellprov bör man få ett brev med provsvaret, men ibland kan det ta längre tid. Ungefär 95 av 100 prov är utan cellförändringar och bedöms som normala. Svaret får man då direkt hemskickat från laboratoriet.</p>
-    <p>I ovanliga fall har provet inte kunnat analyseras, till exempel om det fanns mycket mensblod i det. Då blir man kallad till en ny cellprovtagning.</p>
-    <p type="title">Om provet innehåller cellförändringar</p>
-    <p>Om provsvaret visar att man har cellförändringar, brukar dessa indelas i tre grupper: lätta, medelsvåra eller svåra.</p>
-    <p type="title">Lätta cellförändringar och man är över 30 eller 35 år</p>
-    <p>Om man har lätta cellförändringar och har fyllt 30 eller 35 år undersöks vanligtvis provet direkt med ett virustest. Åldersgränsen är beroende av var man bor i landet.</p>
-    <p>Testet kontrollerar om man har vissa typer av HPV, humant papillomvirus. Endast de som har lätta cellförändringar, och där provet innehöll HPV, behöver bli undersökta av gynekolog. Då skickas uppgifterna till en gynekologmottagning i närheten av där man bor, och man blir vanligtvis kallad till en undersökning. Om man har lätta cellförändringar som inte innehåller sådant virus behöver man bara ta ett nytt cellprov ett år senare.</p>
-    <p type="title">Lätta cellförändringar och man är yngre</p>
-    <p>Om man har lätta cellförändringar och är under 30 eller 35 år rekommenderas numera att man blir undersökt av en gynekolog, men det förekommer också att man på en del orter i landet i stället blir kallad till en ny cellprovtagning hos barnmorska.</p>
-    <p>Lätta cellförändringar har goda möjligheter att läka av sig själva. De kan ibland bara vara tecken på en irritation i slemhinnan. Därför väntar läkaren ibland med den gynekologiska utredningen. För att tillfälliga irritationer och virusinfektioner ska ha en möjlighet att läka utan behandling är det vanligt att man får vänta fyra till sex månader innan den gynekologiska undersökningen görs. Man behöver inte vara orolig för denna väntetid.</p>
-    <p type="title">Medelsvåra eller svåra cellförändringar</p>
-    <p>Om man har medelsvåra eller svåra cellförändringar blir man alltid kallad till en utredning hos gynekolog</p>
-    <p type="title">Undersökningen på gynekologmottagningen</p>
-    <p>Hos gynekologen får man ta av sig på underkroppen och lägga sig i en gynekologstol. Läkaren särar försiktigt på slidväggarna med vanliga gynekologiska instrument. Ofta tas ett cellprov först. Läkaren stryker då med en spatel i trä eller plast mot livmodertappen och tar även prov från livmoderhalskanalens nedre del med en mjuk, tunn borste.</p>
-    <p type="title">Livmodertappen undersöks med specialmikroskop</p>
-    <p>Med hjälp av ett specialmikroskop, ett så kallat kolposkop, kan läkaren oftast se cellförändringarna på livmodertappen. En utspädd ättikslösning, som baddas på livmodertappen, används som ett slags kontrastmedel. Läkaren kan då bland annat se hur stort det förändrade området är.</p>
-    <p>Ofta tas också ett vävnadsprov. Med ett speciellt instrument avlägsnas en liten bit vävnad från livmodertappen. Vävnadsprovet skickas sedan till ett laboratorium för att analyseras.</p>
-    <p>Undersökningen med specialmikroskopet är inte smärtsam. Ättikslösningen som baddas på livmodertappen kan ibland svida lite en kort stund. Vävnadsprovet som tas brukar inte göra ont, men ibland kan man känna en dov smärta en kort stund. En del kan känna obehag men det går snabbt över.</p>
-    <p type="title">Man behöver inte alltid behandling</p>
-    <p>Läkaren gör en sammanlagd bedömning av cellprovet, kolposkopiundersökningen och eventuellt ett vävnadsprov. Det brukar ta några veckor tills provsvaren har kommit och bedömningen kan göras.</p>
-    <p>Om undersökningen visar att det finns en risk för att cellförändringen ska utvecklas till cancer så kommer läkaren att föreslå att livmodertappen behandlas och cellförändringarna tas bort. Ibland har en lätt cellförändring läkt och är borta, i andra fall kan det räcka med några extra kontroller för att se vad som händer med förändringen.</p>
-    <p type="title">Ålder och svårighetsgrad påverkar beslut om behandling</p>
-    <p>Ålder och svårighetsgrad påverkar beslut om behandling Det finns flera faktorer som påverkar om man bör behandlas eller inte.</p>
-    <list>
-      <p type="listitem">Om cellprovet har visat medelsvåra eller svåra cellförändringar, och om kolposkopiundersökningen visat samma sak, brukar läkaren rekommendera att man behandlas.</p>
-      <p type="listitem">Om man har haft cellförändringar tidigare i livet eller har upprepade lättare förändringar kan det också vara ett skäl att behandlas.</p>
-      <p type="listitem">Om man är ung kan läkaren ibland föreslå att man tills vidare ska avstå från behandling och istället göra uppföljande kontroller.</p>
-    </list>
-    <p>Eftersom det är man själv som i slutändan får ta ställning till läkarens förslag är det viktigt att man får en noggrann och fullständig information.</p>
-    <p type="title">Vad händer om cellförändringarna inte behandlas?</p>
-    <p>Många cellförändringar läker ut av sig själva eller finns kvar utan att utvecklas till cancer. Men om man har obehandlade cellförändringar under en längre tid, som man inte vet om eller bryr sig om att kontrollera, är risken stor att livmoderhalscancer utvecklas.</p>
-    <p type="title">Vård och behandling</p>
-    <p type="title">En bit av livmodertappen tas bort</p>
-    <p>Cellförändringar utvecklas i ett litet område i livmoderhalsens yttre del. Området brukar inte vara större än ett frimärke. När cellförändringar behandlas tar man bort området med en operation.</p>
-    <p>Ingreppet är litet och går fort att göra på ett sjukhus eller på vissa gynekologmottagningar. Vanligast är att man får lokalbedövning men man kan också bli kortvarigt sövd. Man brukar inte behöva bli sjukskriven och kan gå hem samma dag. Efter ingreppet ska man avstå från samlag i tre till fyra veckor.</p>
-    <p type="title">Olika operationsmetoder</p>
-    <p>Den bit av livmodertappen som ska tas bort kan skäras bort med glödtråd, så kallad slyngdiatermi, eller laser. Ett sådant ingrepp kallas ofta konisering eller konisation. Andra sätt är att behandla livmodertappen med värme, nedfrysning, så kallad kryo, eller bränning med laser. Fördelen med att vävnadsbiten skärs bort är att den sedan kan skickas för undersökning i ett laboratorium. Det kan ge mer kunskap om cellförändringarna, om hur allvarliga de är, och om hela det förändrade området verkligen togs bort.</p>
-    <p>Stark värme, nedkylning eller bränning med laser förstör vävnaden istället för att skära bort den. Då finns det inget kvar av området att undersöka i ett laboratorium, och därför används dessa operationstekniker alltmer sällan och oftast då i kombination med konisering.</p>
-    <p type="title">Man kan få en mindre blödning efteråt</p>
-    <p>Riskerna med behandlingen är mycket små. Den vanligaste komplikationen om vävnad har skurits bort är en mindre blödning. Några få kvinnor som behandlas behöver söka gynekolog för blödningar efter behandlingen, och blödningen brukar då vara lätt att stoppa.</p>
-    <p type="title">Behandlingar och graviditet</p>
-    <p>Behandlingar av cellförändringar gör det inte svårare att bli gravid. Det medför vanligen inte några problem om man senare blir gravid. Men om en större del av livmoderhalsen har behandlats ökar risken att man i framtiden kan föda tidigare än man annars skulle ha gjort.</p>
-    <p>För att minska den risken kan läkare ofta föreslå att man avstår från behandling av lättare och till och med medelsvåra cellförändringarom, om det finns goda möjligheter att cellförändringarna ska försvinna av sig själva. Man får då gå på kontroller för att cellförändringarna noga ska kunna följas upp. Detta är avvägningar som man behöver diskutera igenom tillsammans med läkaren innan man bestämmer sig.</p>
-    <p type="title">Alla undersöks igen</p>
-    <p>Om man har behandlats för cellförändringar erbjuds man särskilda kontroller, eftersom det kan finnas cellförändringar kvar som behöver behandlas senare. Om man en gång har haft medelsvåra eller svåra cellförändringar som har bekräftats med vävnadsprov har man även i framtiden en något ökad risk att utveckla nya cellförändringar och till och med cancer. Man bör därför fortsätta med cellprovtagning högre upp i åren än andra kvinnor. Ofta följder man då ett särskilt program för en sådan långtidsuppföljning.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>2207</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Tema/Cancer/Oversattningar--Translations/Svenska/Cellforandringa</origFileName><parallel_text xml:lang="eng" location="cellforandringar-i-livmoderhalsen.html"/><parallel_text xml:lang="fin" location="cellforandringar-i-livmoderhalsen.html"/><parallel_text xml:lang="rus" location="cellforandringar-i-livmoderhalsen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Cellförändringar i livmoderhalsen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Cellförändringar i livmoderhalsen</p>
+<p type="title">Sammanfattning</p>
+<p type="title">Sammanfattning</p>
+<p type="title">Allmänt</p>
+<p>Livmoderhalsen är den nedre delen av livmodern. Den allra nedersta delen kallas livmodertappen, och där kan det uppstå cellförändringar. Det betyder oftast inte att man är sjuk, men sällsynta gånger kan cellförändringarna utvecklas till cancer, något som oftast tar flera år. Om man går på regelbundna cellprovskontroller kan sådana förändringar upptäckas och man kan få behandling i god tid.</p>
+<p>De cellförändringar som kan leda till cancer beror oftast på att man blivit smittad av virus när man haft sex. Delvis kan man skydda sig genom att använda kondom. Man kan också vaccinera sig mot ett par av de vanligaste virussorterna som kan orsaka cancer. För att skyddet ska bli så bra som möjligt bör man få vaccinet innan man börjat ha sex.</p>
+<p>Det finns en viss ärftlig risk för cellförändringar i livmoderhalsen. Rökning ökar också risken.</p>
+<p type="title">Symtom</p>
+<p>Cellförändringar ger inga symtom eller besvär. De kan bara upptäckas genom att man lämnar ett cellprov.</p>
+<p type="title">Behandling</p>
+<p>De flesta cellförändringar går över av sig själv. Om de behöver behandlas tas de bort genom en liten operation. Man får lokalbedövning eller sövs under behandlingen, som görs på sjukhus eller en gynekologmottagning. Man brukar kunna gå hem samma dag.</p>
+<p>Efteråt mår man som vanligt, men man ska undvika samlag i tre till fyra veckor.</p>
+<p type="title">När ska man söka vård?</p>
+<p>Eftersom cellförändringar inte ger några besvär, är det viktigt att delta i de cellprovskontroller som landstingen erbjuder.</p>
+<p>Man kan alltid ringa sjukvårdsrådgivningen för råd om vart man ska vända sig för att få göra en cellprovskontroll.</p>
+<p>Visa mer</p>
+<p type="title">Vad händer i kroppen?</p>
+<p type="title">Ett litet område där cellförändringar kan uppstå</p>
+<p>Livmoderhalsen är den nedre delen av livmodern. Den yttersta delen av livmoderhalsen som mynnar ut i slidan kallas livmodertappen. Livmodertappens in- och utsida är täckt med olika slags celler. På en liten del av livmodertappen möts de två typerna, och där kan det uppstå cellförändringar.</p>
+<p>Livmoderappens in- och utsida är täckt med olika slags celler. Där cellerna möts, på ett frimärksstort område, kan det uppstå cellförändringar.</p>
+<p type="title">Cellförändringar är mycket sällan cancer</p>
+<p>Cellförändringar är inte en sjukdom i sig men kan vara ett förstadium till livmoderhalscancer. Cellförändringar kan bero på en irritation i slemhinnan orsakad av bakterier eller en tillfällig virusinfektion. Detta är den vanligaste typen av cellförändringar som kan läka av sig själv. Andra cellförändringar som visar sig vara förstadium till cancer, kan tas bort med ett mindre ingrepp så att de inte utvecklas till cancer. Det tar lång tid innan cellförändringar utvecklas till livmoderhalscancer, vanligen tio till femton år.</p>
+<p>Varje år får knappt 450 svenska kvinnor livmoderhalscancer medan betydligt fler, ungefär 30 000 kvinnor, får besked om att de har cellförändringar. Att cellförändringar upptäcks och behandlas är viktigt för att man ska undvika att utveckla livmoderhalscancer. Risken att få livmoderhalscancer har minskat kraftigt under de senaste 40 åren tack vare en tidig upptäckt och behandling av cellförändringar.</p>
+<p type="title">Gynekologisk cellprovskontroll ger bra skydd</p>
+<p>Alla kvinnor mellan 23 och 50 år bjuds in vart tredje år till en gynekologisk cellprovskontroll där cellförändringar kan upptäckas. Sedan glesas kontrollerna ut till vart femte år, och upphör när man fyllt 60. Tiden mellan kontrollerna kan variera lite beroende på var man bor i landet. Genom att förändringarna kan upptäckas och behandlas får man ett bra skydd mot livmoderhalscancer.</p>
+<p type="title">Även yngre kan få livmoderhalscancer</p>
+<p>Livmoderhalscancer är, till skillnad från andra gynekologiska cancerformer, en sjukdom som framför allt ganska unga kvinnor kan få. Sjukdomen är mycket ovanlig före 25 års ålder men ökar sedan. Bland kvinnor som inte genomgått cellprovskontroller är cancerformen vanligast i 40–50-årsåldern.</p>
+<p type="title">Få undersökta behöver behandlas</p>
+<p>Ungefär fem av hundra kvinnor som undersöks vid en gynekologisk cellprovskontroll har någon form av cellförändringar. Ungefär en fjärdedel av de kvinnor som har cellförändringar behandlas, vilket motsvarar ungefär en procent av de som lämnar prov.</p>
+<p type="title">Ett virus påverkar risken</p>
+<p>Nästan alla cellförändringar som riskerar att utvecklas till cancer beror på att man någon gång genom sex har smittats av vissa typer av HPV, humant papillomvirus. Det finns mer än hundra olika typer av detta virus som uppträder på olika ställen i kroppen. Vissa typer orsakar vårtor på händer och fötter och andra ger vårtor i underlivet, så kallade kondylom. Ingen av dessa virustyper orsakar cancer.</p>
+<p>De typer som kan orsaka cancer ger för det mesta inga synliga förändringar i kroppen, och man vet alltså sällan om att man blivit smittad. HPV-infektioner i underlivet är mycket vanliga. Oftast bekämpas viruset av immunförsvaret men en del kvinnor kan få en bestående infektion som på sikt kan leda till cellförändringar och även till cancer.</p>
+<p type="title">Ett visst ärftligt samband</p>
+<p>Cellförändringar är inte ärftliga i sig, men det kan finnas en viss ökad risk att utveckla cellförändringar om ens mamma eller syster också har haft cellförändringar.</p>
+<p>Det finns forskning som talar för att rökare har en ökad risk för cellförändringar.</p>
+<p type="title">Vaccin ger bra skydd</p>
+<p>Det finns vaccin som ger bra skydd mot infektioner och cellförändringar som orsakas av HPV 16 och 18, de viktigaste virustyper som kan leda till att cancer utvecklas i livmoderhalsen. För att ha bäst nytta av vaccinet ska man inte vara smittad med HPV-virus, och därför är det säkrast att bli vaccinerad innan man har börjat ha sex. Vaccination mot HPV ingår i det allmänna vaccinationsprogrammet för barn</p>
+<p>Även om man blir vaccinerad är det viktigt att fortsätta delta i gynekologiska cellprovskontroller eftersom vaccinets skydd mot cancer inte är fullständigt.</p>
+<p>Eftersom HPV i underlivet överförs sexuellt kan man i viss utsträckning, men inte helt, skydda sig genom att använda kondom.</p>
+<p type="title">Mer på 1177 Vårdguiden</p>
+<list><p type="listitem">Gynekologisk cellprovtagning</p>
+</list><p type="title">Symtom och diagnos</p>
+<p type="title">Man märker inga symtom</p>
+<p>Cellförändringar ger inga symtom eller besvär. De kan inte heller upptäckas vid en vanlig gynekologisk undersökning utan bara genom ett cellprov.</p>
+<p>Kvinnor mellan 23 och 60 år får hem erbjudande om att lämna sådana cellprov genom de hälsokontroller, så kallad screening, som kvinnor i Sverige inbjuds till regelbundet.</p>
+<p>Ett gynekologiskt cellprov kan också tas om man är hos barnmorska eller gynekolog och gör en gynekologisk undersökning av andra skäl.</p>
+<p type="title">De flesta provsvar visar inga förändringar</p>
+<p>Inom sex veckor efter att man har lämnat cellprov bör man få ett brev med provsvaret, men ibland kan det ta längre tid. Ungefär 95 av 100 prov är utan cellförändringar och bedöms som normala. Svaret får man då direkt hemskickat från laboratoriet.</p>
+<p>I ovanliga fall har provet inte kunnat analyseras, till exempel om det fanns mycket mensblod i det. Då blir man kallad till en ny cellprovtagning.</p>
+<p type="title">Om provet innehåller cellförändringar</p>
+<p>Om provsvaret visar att man har cellförändringar, brukar dessa indelas i tre grupper: lätta, medelsvåra eller svåra.</p>
+<p type="title">Lätta cellförändringar och man är över 30 eller 35 år</p>
+<p>Om man har lätta cellförändringar och har fyllt 30 eller 35 år undersöks vanligtvis provet direkt med ett virustest. Åldersgränsen är beroende av var man bor i landet.</p>
+<p>Testet kontrollerar om man har vissa typer av HPV, humant papillomvirus. Endast de som har lätta cellförändringar, och där provet innehöll HPV, behöver bli undersökta av gynekolog. Då skickas uppgifterna till en gynekologmottagning i närheten av där man bor, och man blir vanligtvis kallad till en undersökning. Om man har lätta cellförändringar som inte innehåller sådant virus behöver man bara ta ett nytt cellprov ett år senare.</p>
+<p type="title">Lätta cellförändringar och man är yngre</p>
+<p>Om man har lätta cellförändringar och är under 30 eller 35 år rekommenderas numera att man blir undersökt av en gynekolog, men det förekommer också att man på en del orter i landet i stället blir kallad till en ny cellprovtagning hos barnmorska.</p>
+<p>Lätta cellförändringar har goda möjligheter att läka av sig själva. De kan ibland bara vara tecken på en irritation i slemhinnan. Därför väntar läkaren ibland med den gynekologiska utredningen. För att tillfälliga irritationer och virusinfektioner ska ha en möjlighet att läka utan behandling är det vanligt att man får vänta fyra till sex månader innan den gynekologiska undersökningen görs. Man behöver inte vara orolig för denna väntetid.</p>
+<p type="title">Medelsvåra eller svåra cellförändringar</p>
+<p>Om man har medelsvåra eller svåra cellförändringar blir man alltid kallad till en utredning hos gynekolog</p>
+<p type="title">Undersökningen på gynekologmottagningen</p>
+<p>Hos gynekologen får man ta av sig på underkroppen och lägga sig i en gynekologstol. Läkaren särar försiktigt på slidväggarna med vanliga gynekologiska instrument. Ofta tas ett cellprov först. Läkaren stryker då med en spatel i trä eller plast mot livmodertappen och tar även prov från livmoderhalskanalens nedre del med en mjuk, tunn borste.</p>
+<p type="title">Livmodertappen undersöks med specialmikroskop</p>
+<p>Med hjälp av ett specialmikroskop, ett så kallat kolposkop, kan läkaren oftast se cellförändringarna på livmodertappen. En utspädd ättikslösning, som baddas på livmodertappen, används som ett slags kontrastmedel. Läkaren kan då bland annat se hur stort det förändrade området är.</p>
+<p>Ofta tas också ett vävnadsprov. Med ett speciellt instrument avlägsnas en liten bit vävnad från livmodertappen. Vävnadsprovet skickas sedan till ett laboratorium för att analyseras.</p>
+<p>Undersökningen med specialmikroskopet är inte smärtsam. Ättikslösningen som baddas på livmodertappen kan ibland svida lite en kort stund. Vävnadsprovet som tas brukar inte göra ont, men ibland kan man känna en dov smärta en kort stund. En del kan känna obehag men det går snabbt över.</p>
+<p type="title">Man behöver inte alltid behandling</p>
+<p>Läkaren gör en sammanlagd bedömning av cellprovet, kolposkopiundersökningen och eventuellt ett vävnadsprov. Det brukar ta några veckor tills provsvaren har kommit och bedömningen kan göras.</p>
+<p>Om undersökningen visar att det finns en risk för att cellförändringen ska utvecklas till cancer så kommer läkaren att föreslå att livmodertappen behandlas och cellförändringarna tas bort. Ibland har en lätt cellförändring läkt och är borta, i andra fall kan det räcka med några extra kontroller för att se vad som händer med förändringen.</p>
+<p type="title">Ålder och svårighetsgrad påverkar beslut om behandling</p>
+<p>Ålder och svårighetsgrad påverkar beslut om behandling Det finns flera faktorer som påverkar om man bör behandlas eller inte.</p>
+<list><p type="listitem">Om cellprovet har visat medelsvåra eller svåra cellförändringar, och om kolposkopiundersökningen visat samma sak, brukar läkaren rekommendera att man behandlas.</p>
+<p type="listitem">Om man har haft cellförändringar tidigare i livet eller har upprepade lättare förändringar kan det också vara ett skäl att behandlas.</p>
+<p type="listitem">Om man är ung kan läkaren ibland föreslå att man tills vidare ska avstå från behandling och istället göra uppföljande kontroller.</p>
+</list><p>Eftersom det är man själv som i slutändan får ta ställning till läkarens förslag är det viktigt att man får en noggrann och fullständig information.</p>
+<p type="title">Vad händer om cellförändringarna inte behandlas?</p>
+<p>Många cellförändringar läker ut av sig själva eller finns kvar utan att utvecklas till cancer. Men om man har obehandlade cellförändringar under en längre tid, som man inte vet om eller bryr sig om att kontrollera, är risken stor att livmoderhalscancer utvecklas.</p>
+<p type="title">Vård och behandling</p>
+<p type="title">En bit av livmodertappen tas bort</p>
+<p>Cellförändringar utvecklas i ett litet område i livmoderhalsens yttre del. Området brukar inte vara större än ett frimärke. När cellförändringar behandlas tar man bort området med en operation.</p>
+<p>Ingreppet är litet och går fort att göra på ett sjukhus eller på vissa gynekologmottagningar. Vanligast är att man får lokalbedövning men man kan också bli kortvarigt sövd. Man brukar inte behöva bli sjukskriven och kan gå hem samma dag. Efter ingreppet ska man avstå från samlag i tre till fyra veckor.</p>
+<p type="title">Olika operationsmetoder</p>
+<p>Den bit av livmodertappen som ska tas bort kan skäras bort med glödtråd, så kallad slyngdiatermi, eller laser. Ett sådant ingrepp kallas ofta konisering eller konisation. Andra sätt är att behandla livmodertappen med värme, nedfrysning, så kallad kryo, eller bränning med laser. Fördelen med att vävnadsbiten skärs bort är att den sedan kan skickas för undersökning i ett laboratorium. Det kan ge mer kunskap om cellförändringarna, om hur allvarliga de är, och om hela det förändrade området verkligen togs bort.</p>
+<p>Stark värme, nedkylning eller bränning med laser förstör vävnaden istället för att skära bort den. Då finns det inget kvar av området att undersöka i ett laboratorium, och därför används dessa operationstekniker alltmer sällan och oftast då i kombination med konisering.</p>
+<p type="title">Man kan få en mindre blödning efteråt</p>
+<p>Riskerna med behandlingen är mycket små. Den vanligaste komplikationen om vävnad har skurits bort är en mindre blödning. Några få kvinnor som behandlas behöver söka gynekolog för blödningar efter behandlingen, och blödningen brukar då vara lätt att stoppa.</p>
+<p type="title">Behandlingar och graviditet</p>
+<p>Behandlingar av cellförändringar gör det inte svårare att bli gravid. Det medför vanligen inte några problem om man senare blir gravid. Men om en större del av livmoderhalsen har behandlats ökar risken att man i framtiden kan föda tidigare än man annars skulle ha gjort.</p>
+<p>För att minska den risken kan läkare ofta föreslå att man avstår från behandling av lättare och till och med medelsvåra cellförändringarom, om det finns goda möjligheter att cellförändringarna ska försvinna av sig själva. Man får då gå på kontroller för att cellförändringarna noga ska kunna följas upp. Detta är avvägningar som man behöver diskutera igenom tillsammans med läkaren innan man bestämmer sig.</p>
+<p type="title">Alla undersöks igen</p>
+<p>Om man har behandlats för cellförändringar erbjuds man särskilda kontroller, eftersom det kan finnas cellförändringar kvar som behöver behandlas senare. Om man en gång har haft medelsvåra eller svåra cellförändringar som har bekräftats med vävnadsprov har man även i framtiden en något ökad risk att utveckla nya cellförändringar och till och med cancer. Man bör därför fortsätta med cellprovtagning högre upp i åren än andra kvinnor. Ofta följder man då ett särskilt program för en sådan långtidsuppföljning.</p>
+</body></document>

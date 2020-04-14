@@ -1,45 +1,15 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>466</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/74641</origFileName>
-    <parallel_text xml:lang="sme" location="74783.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Riksdagsseminarium om samiska språket - Sametinget</p>
-    <p type="title">Riksdagsseminarium om samiska språket</p>
-    <p>Sametinget håller den 18/6 ett lösningsorienterat seminarium riktat till samtliga riksdagsledamöter, särskilt till de utbildnings- och minoritetspolitiskt ansvariga. Först och främst hålls seminariet för att förbättra kunskaperna, förståelsen och attityderna om samernas språksituation och behov hos riksdagsledamöterna. På seminariet presenterar Samiskt språkcentrum utmaningar och framgångar utifrån samisk språkrevitalisering. Särskilt fokus läggs på skolans och förskolans situation och potential.</p>
-    <p><em type="italic">- </em>Vi vill visa på möjligheter och hoppas på en givande diskussion om samiskans framtid i skolan, säger Josefina Lundgren Skerk, ordförande i Sametingets språknämnd. Här finns en god möjlighet att visa politisk handlingskraft, fortsätter Josefina Lundgren Skerk. </p>
-    <p>Idag har Sametinget tillräckligt med erfarenheter för att konstatera att samisk undervisning knappast prioriteras inom de flesta kommuner, och inte heller av riksdag/regering. Det är tydligt att Skollagen inte ger de förutsättningar som krävs för att intentionen med minoritetsreformen ska bli verklighet. Möjligheterna för samiska barns språkrevitalisering genom förskola och skola måste säkerställas. Det måste till en förståelse från majoritetssamhället.</p>
-    <p>- De samiska barnen får helt enkelt inte den utbildning de har rätt till i förskolan och skolan, säger Ingegerd Vannar, arbetsledare på Samiskt språkcentrum.</p>
-    <p>Enligt Unescos bedömningar är alla samiska språk hotade och situationen på vissa håll i Sápmi är särskilt allvarlig. I Unescos rapport från 2003 <span type="quote">“Language Vitality and Endangerment”</span> text som sammanfattningsvis talar om hur mänskligheten för varje förlorat språk går miste om svar på grundläggande framtida frågor. Sametinget skulle önska att Unescos tankar och synsätt inspirerar myndigheter att känna större engagemang och större ansvar för de samiska språkens revitalisering i Sverige.</p>
-    <p>Medverkar på seminariet gör förutom Sametingets språknämnds ordförande Josefina Lundgren Skerk och Samiskt språkcentrum även språkvetaren David Kroik och föräldern Doris Rensberg.</p>
-    <p>
-      <em type="italic">För mer information: </em>
-    </p>
-    <p>Ingegerd Vannar, Arbetsledare Samiskt Språkcentrum, 070 – 298 16 61, ingegerd.vannar@sametinget.se</p>
-    <p>Josefina Lundgren Skerk, Ordförande Sametingets språknämnd, 070 – 582 21 21, josefina.skerk@gmail.com</p>
-    <p>
-      <em type="italic">Bakgrund </em>
-    </p>
-    <p>
-      <em type="italic">I december 1999 beslutade riksdagen att Sverige skulle ansluta sig till Europarådets ramkonvention om skydd för nationella minoriteter och den europeiska stadgan om landsdels- eller minoritetsspråk. I och med Sveriges ratificering av Europarådets minoritetskonvention åtog Sverige sig ansvar för samiska med alla varieteter som ett av Sveriges fem nationella minoritetsspråk. Rätten till samiska finns nu fastslagen i Lag 2009:724 om nationella minoriteter och minoritetsspråk och Språklag 2009:600. Införandet av den nationella minoritetspolitiken har medfört att det samiska språkets rättsliga status har förstärkts. Samiskan är ett av de officiella språken inom Europeiska unionen. </em>
-    </p>
-    <p>
-      <em type="italic">Samerna är i svensk lag erkända som såväl urfolk och nationell minoritet. Sverige har genom medlemskap i Förenta Nationerna, FN, förbundit sig att följa en rad av internationella åtaganden genom FNs konventioner. En av de ratificierade konventionerna är FNs konvention om barnets rättigheter, vars artikel 30 betonar att barn som tillhör minoriteter eller ursprungsfolk har rätt till sitt språk, sin kultur och sin religion. </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>466</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/74641</origFileName><parallel_text xml:lang="sme" location="74783.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Riksdagsseminarium om samiska språket - Sametinget</p>
+<p type="title">Riksdagsseminarium om samiska språket</p>
+<p>Sametinget håller den 18/6 ett lösningsorienterat seminarium riktat till samtliga riksdagsledamöter, särskilt till de utbildnings- och minoritetspolitiskt ansvariga. Först och främst hålls seminariet för att förbättra kunskaperna, förståelsen och attityderna om samernas språksituation och behov hos riksdagsledamöterna. På seminariet presenterar Samiskt språkcentrum utmaningar och framgångar utifrån samisk språkrevitalisering. Särskilt fokus läggs på skolans och förskolans situation och potential.</p>
+<p><em type="italic">- </em>Vi vill visa på möjligheter och hoppas på en givande diskussion om samiskans framtid i skolan, säger Josefina Lundgren Skerk, ordförande i Sametingets språknämnd. Här finns en god möjlighet att visa politisk handlingskraft, fortsätter Josefina Lundgren Skerk. </p>
+<p>Idag har Sametinget tillräckligt med erfarenheter för att konstatera att samisk undervisning knappast prioriteras inom de flesta kommuner, och inte heller av riksdag/regering. Det är tydligt att Skollagen inte ger de förutsättningar som krävs för att intentionen med minoritetsreformen ska bli verklighet. Möjligheterna för samiska barns språkrevitalisering genom förskola och skola måste säkerställas. Det måste till en förståelse från majoritetssamhället.</p>
+<p>- De samiska barnen får helt enkelt inte den utbildning de har rätt till i förskolan och skolan, säger Ingegerd Vannar, arbetsledare på Samiskt språkcentrum.</p>
+<p>Enligt Unescos bedömningar är alla samiska språk hotade och situationen på vissa håll i Sápmi är särskilt allvarlig. I Unescos rapport från 2003 <span type="quote">“Language Vitality and Endangerment”</span> text som sammanfattningsvis talar om hur mänskligheten för varje förlorat språk går miste om svar på grundläggande framtida frågor. Sametinget skulle önska att Unescos tankar och synsätt inspirerar myndigheter att känna större engagemang och större ansvar för de samiska språkens revitalisering i Sverige.</p>
+<p>Medverkar på seminariet gör förutom Sametingets språknämnds ordförande Josefina Lundgren Skerk och Samiskt språkcentrum även språkvetaren David Kroik och föräldern Doris Rensberg.</p>
+<p><em type="italic">För mer information: </em></p>
+<p>Ingegerd Vannar, Arbetsledare Samiskt Språkcentrum, 070 – 298 16 61, ingegerd.vannar@sametinget.se</p>
+<p>Josefina Lundgren Skerk, Ordförande Sametingets språknämnd, 070 – 582 21 21, josefina.skerk@gmail.com</p>
+<p><em type="italic">Bakgrund </em></p>
+<p><em type="italic">I december 1999 beslutade riksdagen att Sverige skulle ansluta sig till Europarådets ramkonvention om skydd för nationella minoriteter och den europeiska stadgan om landsdels- eller minoritetsspråk. I och med Sveriges ratificering av Europarådets minoritetskonvention åtog Sverige sig ansvar för samiska med alla varieteter som ett av Sveriges fem nationella minoritetsspråk. Rätten till samiska finns nu fastslagen i Lag 2009:724 om nationella minoriteter och minoritetsspråk och Språklag 2009:600. Införandet av den nationella minoritetspolitiken har medfört att det samiska språkets rättsliga status har förstärkts. Samiskan är ett av de officiella språken inom Europeiska unionen. </em></p>
+<p><em type="italic">Samerna är i svensk lag erkända som såväl urfolk och nationell minoritet. Sverige har genom medlemskap i Förenta Nationerna, FN, förbundit sig att följa en rad av internationella åtaganden genom FNs konventioner. En av de ratificierade konventionerna är FNs konvention om barnets rättigheter, vars artikel 30 betonar att barn som tillhör minoriteter eller ursprungsfolk har rätt till sitt språk, sin kultur och sin religion. </em></p>
+</body></document>

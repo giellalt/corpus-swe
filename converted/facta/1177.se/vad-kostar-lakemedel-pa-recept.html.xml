@@ -1,120 +1,71 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1766</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName>
-    <parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="fin" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text xml:lang="smj" location="vad-kostar-lakemedel-pa-recept.html"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rka"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmu"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Vad kostar läkemedel på recept?</p>
-    <p type="title">Vad gäller?</p>
-    <p type="title">Skydd mot höga kostnader</p>
-    <p>Staten subventionerar, det vill säga ger ekonomiskt stöd, när man behöver läkemedel och en del andra varor man kan behöva om man har vissa sjukdomar. De flesta läkemedel som skrivs ut på recept är subventionerade. Subventionen beskrivs i Lagen om läkemedelsförmåner. Det skydd mot höga kostnader som lagen ger kallas i dagligt tal för högkostnadsskyddet.</p>
-    <p>Enligt lagen gäller att:</p>
-    <list>
-      <p type="listitem">man får rabatt enligt en så kallad högkostnadstrappa för de flesta läkemedel, p-piller och stomiartiklar</p>
-      <p type="listitem">man betalar inget alls för förbrukningsartiklar som behövs för att tillföra kroppen läkemedel och för att själv kontrollera sin medicinering, till exempel stickor för blodsockermätning</p>
-      <p type="listitem">man får ett särskilt skydd mot höga kostnader för vissa livsmedel till barn under 16 år.</p>
-    </list>
-    <p type="title">Pris och subvention</p>
-    <p>Tandvårds- och Läkemedelsförmånsverket, TLV , är den myndighet som beslutar om pris och subvention. När TLV ska fatta beslut om subvention tittar de på om läkemedlet ger en nytta som motsvarar kostnaden att subventionera det. Nyttan kan till exempel vara bättre hälsa och ökad livslängd. TLV bedömer också om användning av läkemedlet kan minska samhällets kostnader, till exempel för operationer, sjukskrivningar eller äldreomsorg.</p>
-    <p>Läkemedelsföretagen kan själva välja att sälja ett läkemedel utanför högkostnadsskyddet. Då är prissättningen fri, det vill säga läkemedelsföretagen bestämmer själva priset. För läkemedel som inte ingår i högkostnadsskyddet får man själv betala hela kostnaden.</p>
-    <p>En del läkemedel kan ha en begränsad subvention. Det innebär att läkemedlet är subventionerat bara för en viss patientgrupp eller för att behandla en viss sjukdom.</p>
-    <p>TLV och FASS har webbplatser där man kan se om ett läkemedel är subventionerat eller inte.</p>
-    <p type="title">Billigaste utbytbara alternativ</p>
-    <p>Ibland finns flera likvärdiga alternativ till ett läkemedel. De kallas generiska läkemedel. De innehåller lika mycket av samma verksamma ämne eller ämnen och har likvärdig effekt. Men de kan se olika ut och innehålla olika tillsatser, till exempel färgämnen. De kan komma från olika läkemedelsföretag och ha olika pris. Likvärdiga läkemedel kan bytas ut mot varandra på apoteken. Det är Läkemedelsverket som bestämmer vilka läkemedel som får bytas ut mot ett annat.</p>
-    <p>Om ett läkemedel är utbytbart måste apoteken erbjuda det likvärdiga läkemedel som har lägst pris, oavsett vad läkaren har skrivit på receptet. Det är bara det alternativ med lägst pris som är helt subventionerat. Man kan välja att köpa det läkemedel som står på receptet, men om det är dyrare måste man betala mellanskillnaden själv, den ingår inte i högkostnadsskyddet. Om man inte vill ha det alternativ som apoteket erbjuder och inte heller det som står på receptet kan man välja ett annat generiskt alternativ. Men då får man betala hela kostnaden själv. Det är alltså bara det som står på receptet och det billigaste utbytbara läkemedlet som omfattas av subventionen.</p>
-    <p>Det kan finnas särskilda skäl till att läkemedel inte ska bytas ut, till exempel att man är allergisk mot något färgämne eller att man har svårt att öppna en viss förpackning. Då kan den som skriver ut receptet markera på receptet att läkemedlet inte får bytas ut och man slipper betala den extra kostnaden förutsett att läkemedlet ingår i högkostnadsskyddet.</p>
-    <p type="title">Periodens vara</p>
-    <p>TLV beslutar vilka priser som ska gälla efter att läkemedelsföretagen ansökt om en prisändring. Priset på ett läkemedel kan, efter en ansökan, ändras varje månad.</p>
-    <p>När det gäller generiska läkemedel kallas det alternativ som får lägst pris för periodens vara. TLV informerar apoteken om vilket alternativ som är periodens vara och som de ska byta till. TLV beslutar också om två reservalternativ att byta till om periodens vara tar slut. Det kan alltså variera från månad till månad vilket alternativ som apoteken erbjuder.</p>
-    <p>Avsikten med periodens vara är att de skattemedel som är avsatta för subvention av läkemedel ska räcka till så mycket och så många som möjligt.</p>
-    <p>Periodens vara är densamma på alla apotek. Men ibland kan det hända att ett apotek har köpt in mer av periodens vara än vad de sålt under en månad. Apoteket får då sälja den även under följande månad. Det innebär att man kan bli erbjuden förra månadens vara på ett apotek och innevarande månads vara på ett annat. Dessa två varor kan ha olika pris.</p>
-    <p type="title">Högkostnadsskyddet</p>
-    <p type="title">Man betalar högst 2 200 kronor per år</p>
-    <p>Högkostnadsskyddet innebär att man betalar högst 2 200 kronor under en period på ett år räknat från det första köpet. Detta år kallas en högkostnadsperiod.</p>
-    <p>Högkostnadsskyddet gäller för läkemedel som man får på recept och som TLV har bestämt ska vara subventionerade. Det gäller även för förbrukningsartiklar som man får på ett så kallat hjälpmedelskort.</p>
-    <p>När det gäller de flesta läkemedel betalar man en så kallad egenavgift varje gång man hämtar ut på recept tills man kommit upp till 2 200 kronor. Detsamma gäller förbrukningsartiklar som behövs vid stomi.</p>
-    <p>För en del läkemedel betalar man ingen egenavgift. Om man har insulinbehandlad diabetes betalar man ingenting för insulinet. Om man har en sjukdom som lyder under smittskyddslagen betalar landstinget hela kostnaden för läkemedel som minskar smittsamheten, till exempel virushämmande mediciner mot hiv.</p>
-    <p>Vissa landsting betalar hela eller en del av egenavgiften för vissa läkemedel och vissa patientgrupper, till exempel p-piller till unga kvinnor.</p>
-    <p>Man betalar inget för förbrukningsartiklar som behövs för att tillföra kroppen läkemedel och för att själv kontrollera sin medicinering. Exempel på sådana förbrukningsartiklar är sprutor och stickor för blodsockermätning.</p>
-    <p type="title">Egenavgift enligt högkostnadstrappan</p>
-    <p>När man påbörjar en högkostnadsperiod på ett år betalar man hela kostnaden för läkemedel och stomiartiklar själv tills man sammanlagt har betalat 1 100 kronor. Sedan minskar egenavgiften stegvis enligt den så kallade högkostnadstrappan. Vid varje nytt inköp startar man från den kostnad man hade uppnått vid förra köpet och klättrar vidare uppåt i trappan.</p>
-    <p>Sammanlagd läkemedelskostnad</p>
-    <p>Man betalar</p>
-    <p>som mest</p>
-    <p>5400</p>
-    <p>2200</p>
-    <p>3900</p>
-    <p>90% rabatt</p>
-    <p>2050</p>
-    <p>2100</p>
-    <p>75% rabatt</p>
-    <p>1600</p>
-    <p>1100</p>
-    <p>50% rabatt</p>
-    <p>1100</p>
-    <p>0 % rabatt</p>
-    <p>
-      <em type="italic">Man betalar fullt pris för sina läkemedel upp till 1 100 kronor. </em>
-      <em type="italic">Därefter träder rabattsystemet in: </em>
-    </p>
-    <list>
-      <p type="listitem">
-        <em type="italic">Mellan 1 101 kronor och 2 100 kronor betalar man 50 procent av läkemedelskostnaden. </em>
-      </p>
-      <p type="listitem">
-        <em type="italic">Mellan 2 101 kronor och 3 900 kronor betalar man 25 procent av läkemedelskostnaden. </em>
-      </p>
-      <p type="listitem">
-        <em type="italic">Mellan 3 901 kronor och 5 400 kronor betalar man 10 procent av läkemedelskostnaden. </em>
-      </p>
-    </list>
-    <p>När man har betalat 2 200 kronor behöver man inte betala mer under resten av högkostnadsperioden. En förutsättning för att detta ska gälla är att de läkemedel man hämtar ut ingår i högkostnadsskyddet. När högkostnadsperioden tar slut börjar man om med en ny period vid nästa inköp, oavsett var man befinner sig i högkostnadstrappan.</p>
-    <p type="title">Särskilda livsmedel till barn</p>
-    <p>Även livsmedel till barn som är under 16 år och har vissa sjukdomar, till exempel glutenintolerans, är subventionerade. Livsmedlen skrivs ut på en så kallad livsmedelsanvisning och man får hämta ut för högst 90 dagar åt gången. Man betalar en egenavgift på 120 kronor varje gång, men denna avgift räknas inte med i högkostnadsskyddet.</p>
-    <p type="title">Hur mycket får man köpa åt gången?</p>
-    <p>Man kan inte köpa hur mycket som helst inom högkostnadsskyddet. Den mängd man får köpa ska vara avsedd att räcka i upp till 90 dagar, det vill säga ungefär tre månader. Preventivmedel, till exempel p-piller och p-sprutor, är undantagna från denna tremånadersregel.</p>
-    <p>Om man får hämta ut på receptet flera gånger kan ett nytt uttag göras först när det gått två tredjedelar av den tid som medicinen beräknas räcka sedan förra uttaget. Till exempel om man har hämtat ut läkemedel för tre månaders förbrukning måste det alltså ha gått två månader innan man får ta ut på receptet igen.</p>
-    <p>Man kan få köpa ut en större mängd än ett uttag på en gång, men då måste man betala fullt pris för den mängd som överstiger tre månaders förbrukning. Om läkaren har skrivit på receptet att det måste gå en viss tid mellan uttagen kan man inte ta ut oftare än läkaren angett.</p>
-    <p>Om man har särskilda skäl, till exempel om man ska vara utomlands en längre tid, kan man hämta ut läkemedel inom högkostnadsskyddet för längre tid än tre månader. Men då måste man kunna bevisa det, till exempel med resehandlingar.</p>
-    <p type="title">När gäller högkostnadsskyddet?</p>
-    <p>För att högkostnadsskyddet ska gälla måste den som skriver ut medicinen ha sin arbetsplats angiven i form av en läsbar streckkod på receptet. Om receptet gäller ett läkemedel med begränsad subvention måste förskrivaren också markera på receptet att högkostnadsskyddet ska gälla.</p>
-    <p>Högkostnadsskyddet gäller för den som är bosatt eller anställd i Sverige eller den som har ett europeiskt sjukförsäkringskort från ett annat EES-land eller Schweiz. Det europeiska sjukförsäkringskortet ska visas upp både vid läkarbesöket och på apoteket. Sverige har även avtal med vissa länder utanför Europa; Algeriet, Australien och delstaten Quebec i Kanada, vilket innebär att läkemedelsförmånen gäller för medborgare från dessa länder om de får behov av läkemedel när de befinner sig i Sverige.</p>
-    <p>Alla barn under 18 år i samma hushåll, det vill säga som är skrivna på samma bostadsadress, har ett gemensamt högkostnadsskydd. Det innebär att alla barnens egenavgifter räknas ihop. Det innebär att biologiska syskon som är skrivna på olika adresser har varsitt högkostnadsskydd.</p>
-    <p type="title">Högkostnadsdatabasen</p>
-    <p>Man behöver inte själv hålla reda på hur mycket man har handlat för. I den så kallade högkostnadsdatabasen, som hanteras av eHälsomyndigheten , registreras alla inköp inom högkostnadsskyddet. Systemet håller reda på hur mycket man betalat i egenavgift och räknar ut hur mycket rabatt det blir enligt högkostnadstrappan varje gång man handlar. Alla apotek är anslutna till samma databas så det spelar det ingen roll på vilket apotek man handlar.</p>
-    <p>Det är frivilligt att ansluta sig till högkostnadsdatabasen. Det som registreras i databasen är namn, personnummer, inköpsdatum, på vilket apotek man hämtat ut receptet, hur mycket man betalat, det belopp man har uppnått i högkostnadsskyddet och startdatum för högkostnadsperioden. Informationen som registreras används bara för att man ska få rätt rabatt. Inga uppgifter om vilka läkemedel man fått eller vilken läkare som skrivit ut recept registreras.</p>
-    <p>Man kan när som helst begära ett utdrag ur högkostnadsdatabasen över vilka uppgifter som finns om en själv och om de barn som man är vårdnadshavare för. Det gör man genom att fylla i och skicka in en blankett till eHälsomyndigheten. Blankett för begäran om registerutdrag ur högkostnadsdatabasen</p>
-    <p type="title">Välja att vara utanför</p>
-    <p>Man kan välja att inte vara ansluten till högkostnadsdatabasen. Då får man ett kvitto som kallas högkostnadsbevis på apoteket när man köper läkemedel inom högkostnadsskyddet. På högkostnadsbeviset står vilken sammanlagd egenavgift man har betalat. Det är viktigt att spara det senaste högkostnadsbeviset och att visa upp det tillsammans med receptet när man ska köpa läkemedel. Apoteket behöver veta på vilken nivå i högkostnadstrappan man befinner sig på för att man ska få rätt rabatt.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1766</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName><parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="fin" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text xml:lang="smj" location="vad-kostar-lakemedel-pa-recept.html"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rka"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmn"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmu"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rlo"/><parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Vad kostar läkemedel på recept?</p>
+<p type="title">Vad gäller?</p>
+<p type="title">Skydd mot höga kostnader</p>
+<p>Staten subventionerar, det vill säga ger ekonomiskt stöd, när man behöver läkemedel och en del andra varor man kan behöva om man har vissa sjukdomar. De flesta läkemedel som skrivs ut på recept är subventionerade. Subventionen beskrivs i Lagen om läkemedelsförmåner. Det skydd mot höga kostnader som lagen ger kallas i dagligt tal för högkostnadsskyddet.</p>
+<p>Enligt lagen gäller att:</p>
+<list><p type="listitem">man får rabatt enligt en så kallad högkostnadstrappa för de flesta läkemedel, p-piller och stomiartiklar</p>
+<p type="listitem">man betalar inget alls för förbrukningsartiklar som behövs för att tillföra kroppen läkemedel och för att själv kontrollera sin medicinering, till exempel stickor för blodsockermätning</p>
+<p type="listitem">man får ett särskilt skydd mot höga kostnader för vissa livsmedel till barn under 16 år.</p>
+</list><p type="title">Pris och subvention</p>
+<p>Tandvårds- och Läkemedelsförmånsverket, TLV , är den myndighet som beslutar om pris och subvention. När TLV ska fatta beslut om subvention tittar de på om läkemedlet ger en nytta som motsvarar kostnaden att subventionera det. Nyttan kan till exempel vara bättre hälsa och ökad livslängd. TLV bedömer också om användning av läkemedlet kan minska samhällets kostnader, till exempel för operationer, sjukskrivningar eller äldreomsorg.</p>
+<p>Läkemedelsföretagen kan själva välja att sälja ett läkemedel utanför högkostnadsskyddet. Då är prissättningen fri, det vill säga läkemedelsföretagen bestämmer själva priset. För läkemedel som inte ingår i högkostnadsskyddet får man själv betala hela kostnaden.</p>
+<p>En del läkemedel kan ha en begränsad subvention. Det innebär att läkemedlet är subventionerat bara för en viss patientgrupp eller för att behandla en viss sjukdom.</p>
+<p>TLV och FASS har webbplatser där man kan se om ett läkemedel är subventionerat eller inte.</p>
+<p type="title">Billigaste utbytbara alternativ</p>
+<p>Ibland finns flera likvärdiga alternativ till ett läkemedel. De kallas generiska läkemedel. De innehåller lika mycket av samma verksamma ämne eller ämnen och har likvärdig effekt. Men de kan se olika ut och innehålla olika tillsatser, till exempel färgämnen. De kan komma från olika läkemedelsföretag och ha olika pris. Likvärdiga läkemedel kan bytas ut mot varandra på apoteken. Det är Läkemedelsverket som bestämmer vilka läkemedel som får bytas ut mot ett annat.</p>
+<p>Om ett läkemedel är utbytbart måste apoteken erbjuda det likvärdiga läkemedel som har lägst pris, oavsett vad läkaren har skrivit på receptet. Det är bara det alternativ med lägst pris som är helt subventionerat. Man kan välja att köpa det läkemedel som står på receptet, men om det är dyrare måste man betala mellanskillnaden själv, den ingår inte i högkostnadsskyddet. Om man inte vill ha det alternativ som apoteket erbjuder och inte heller det som står på receptet kan man välja ett annat generiskt alternativ. Men då får man betala hela kostnaden själv. Det är alltså bara det som står på receptet och det billigaste utbytbara läkemedlet som omfattas av subventionen.</p>
+<p>Det kan finnas särskilda skäl till att läkemedel inte ska bytas ut, till exempel att man är allergisk mot något färgämne eller att man har svårt att öppna en viss förpackning. Då kan den som skriver ut receptet markera på receptet att läkemedlet inte får bytas ut och man slipper betala den extra kostnaden förutsett att läkemedlet ingår i högkostnadsskyddet.</p>
+<p type="title">Periodens vara</p>
+<p>TLV beslutar vilka priser som ska gälla efter att läkemedelsföretagen ansökt om en prisändring. Priset på ett läkemedel kan, efter en ansökan, ändras varje månad.</p>
+<p>När det gäller generiska läkemedel kallas det alternativ som får lägst pris för periodens vara. TLV informerar apoteken om vilket alternativ som är periodens vara och som de ska byta till. TLV beslutar också om två reservalternativ att byta till om periodens vara tar slut. Det kan alltså variera från månad till månad vilket alternativ som apoteken erbjuder.</p>
+<p>Avsikten med periodens vara är att de skattemedel som är avsatta för subvention av läkemedel ska räcka till så mycket och så många som möjligt.</p>
+<p>Periodens vara är densamma på alla apotek. Men ibland kan det hända att ett apotek har köpt in mer av periodens vara än vad de sålt under en månad. Apoteket får då sälja den även under följande månad. Det innebär att man kan bli erbjuden förra månadens vara på ett apotek och innevarande månads vara på ett annat. Dessa två varor kan ha olika pris.</p>
+<p type="title">Högkostnadsskyddet</p>
+<p type="title">Man betalar högst 2 200 kronor per år</p>
+<p>Högkostnadsskyddet innebär att man betalar högst 2 200 kronor under en period på ett år räknat från det första köpet. Detta år kallas en högkostnadsperiod.</p>
+<p>Högkostnadsskyddet gäller för läkemedel som man får på recept och som TLV har bestämt ska vara subventionerade. Det gäller även för förbrukningsartiklar som man får på ett så kallat hjälpmedelskort.</p>
+<p>När det gäller de flesta läkemedel betalar man en så kallad egenavgift varje gång man hämtar ut på recept tills man kommit upp till 2 200 kronor. Detsamma gäller förbrukningsartiklar som behövs vid stomi.</p>
+<p>För en del läkemedel betalar man ingen egenavgift. Om man har insulinbehandlad diabetes betalar man ingenting för insulinet. Om man har en sjukdom som lyder under smittskyddslagen betalar landstinget hela kostnaden för läkemedel som minskar smittsamheten, till exempel virushämmande mediciner mot hiv.</p>
+<p>Vissa landsting betalar hela eller en del av egenavgiften för vissa läkemedel och vissa patientgrupper, till exempel p-piller till unga kvinnor.</p>
+<p>Man betalar inget för förbrukningsartiklar som behövs för att tillföra kroppen läkemedel och för att själv kontrollera sin medicinering. Exempel på sådana förbrukningsartiklar är sprutor och stickor för blodsockermätning.</p>
+<p type="title">Egenavgift enligt högkostnadstrappan</p>
+<p>När man påbörjar en högkostnadsperiod på ett år betalar man hela kostnaden för läkemedel och stomiartiklar själv tills man sammanlagt har betalat 1 100 kronor. Sedan minskar egenavgiften stegvis enligt den så kallade högkostnadstrappan. Vid varje nytt inköp startar man från den kostnad man hade uppnått vid förra köpet och klättrar vidare uppåt i trappan.</p>
+<p>Sammanlagd läkemedelskostnad</p>
+<p>Man betalar</p>
+<p>som mest</p>
+<p>5400</p>
+<p>2200</p>
+<p>3900</p>
+<p>90% rabatt</p>
+<p>2050</p>
+<p>2100</p>
+<p>75% rabatt</p>
+<p>1600</p>
+<p>1100</p>
+<p>50% rabatt</p>
+<p>1100</p>
+<p>0 % rabatt</p>
+<p><em type="italic">Man betalar fullt pris för sina läkemedel upp till 1 100 kronor. </em><em type="italic">Därefter träder rabattsystemet in: </em></p>
+<list><p type="listitem"><em type="italic">Mellan 1 101 kronor och 2 100 kronor betalar man 50 procent av läkemedelskostnaden. </em></p>
+<p type="listitem"><em type="italic">Mellan 2 101 kronor och 3 900 kronor betalar man 25 procent av läkemedelskostnaden. </em></p>
+<p type="listitem"><em type="italic">Mellan 3 901 kronor och 5 400 kronor betalar man 10 procent av läkemedelskostnaden. </em></p>
+</list><p>När man har betalat 2 200 kronor behöver man inte betala mer under resten av högkostnadsperioden. En förutsättning för att detta ska gälla är att de läkemedel man hämtar ut ingår i högkostnadsskyddet. När högkostnadsperioden tar slut börjar man om med en ny period vid nästa inköp, oavsett var man befinner sig i högkostnadstrappan.</p>
+<p type="title">Särskilda livsmedel till barn</p>
+<p>Även livsmedel till barn som är under 16 år och har vissa sjukdomar, till exempel glutenintolerans, är subventionerade. Livsmedlen skrivs ut på en så kallad livsmedelsanvisning och man får hämta ut för högst 90 dagar åt gången. Man betalar en egenavgift på 120 kronor varje gång, men denna avgift räknas inte med i högkostnadsskyddet.</p>
+<p type="title">Hur mycket får man köpa åt gången?</p>
+<p>Man kan inte köpa hur mycket som helst inom högkostnadsskyddet. Den mängd man får köpa ska vara avsedd att räcka i upp till 90 dagar, det vill säga ungefär tre månader. Preventivmedel, till exempel p-piller och p-sprutor, är undantagna från denna tremånadersregel.</p>
+<p>Om man får hämta ut på receptet flera gånger kan ett nytt uttag göras först när det gått två tredjedelar av den tid som medicinen beräknas räcka sedan förra uttaget. Till exempel om man har hämtat ut läkemedel för tre månaders förbrukning måste det alltså ha gått två månader innan man får ta ut på receptet igen.</p>
+<p>Man kan få köpa ut en större mängd än ett uttag på en gång, men då måste man betala fullt pris för den mängd som överstiger tre månaders förbrukning. Om läkaren har skrivit på receptet att det måste gå en viss tid mellan uttagen kan man inte ta ut oftare än läkaren angett.</p>
+<p>Om man har särskilda skäl, till exempel om man ska vara utomlands en längre tid, kan man hämta ut läkemedel inom högkostnadsskyddet för längre tid än tre månader. Men då måste man kunna bevisa det, till exempel med resehandlingar.</p>
+<p type="title">När gäller högkostnadsskyddet?</p>
+<p>För att högkostnadsskyddet ska gälla måste den som skriver ut medicinen ha sin arbetsplats angiven i form av en läsbar streckkod på receptet. Om receptet gäller ett läkemedel med begränsad subvention måste förskrivaren också markera på receptet att högkostnadsskyddet ska gälla.</p>
+<p>Högkostnadsskyddet gäller för den som är bosatt eller anställd i Sverige eller den som har ett europeiskt sjukförsäkringskort från ett annat EES-land eller Schweiz. Det europeiska sjukförsäkringskortet ska visas upp både vid läkarbesöket och på apoteket. Sverige har även avtal med vissa länder utanför Europa; Algeriet, Australien och delstaten Quebec i Kanada, vilket innebär att läkemedelsförmånen gäller för medborgare från dessa länder om de får behov av läkemedel när de befinner sig i Sverige.</p>
+<p>Alla barn under 18 år i samma hushåll, det vill säga som är skrivna på samma bostadsadress, har ett gemensamt högkostnadsskydd. Det innebär att alla barnens egenavgifter räknas ihop. Det innebär att biologiska syskon som är skrivna på olika adresser har varsitt högkostnadsskydd.</p>
+<p type="title">Högkostnadsdatabasen</p>
+<p>Man behöver inte själv hålla reda på hur mycket man har handlat för. I den så kallade högkostnadsdatabasen, som hanteras av eHälsomyndigheten , registreras alla inköp inom högkostnadsskyddet. Systemet håller reda på hur mycket man betalat i egenavgift och räknar ut hur mycket rabatt det blir enligt högkostnadstrappan varje gång man handlar. Alla apotek är anslutna till samma databas så det spelar det ingen roll på vilket apotek man handlar.</p>
+<p>Det är frivilligt att ansluta sig till högkostnadsdatabasen. Det som registreras i databasen är namn, personnummer, inköpsdatum, på vilket apotek man hämtat ut receptet, hur mycket man betalat, det belopp man har uppnått i högkostnadsskyddet och startdatum för högkostnadsperioden. Informationen som registreras används bara för att man ska få rätt rabatt. Inga uppgifter om vilka läkemedel man fått eller vilken läkare som skrivit ut recept registreras.</p>
+<p>Man kan när som helst begära ett utdrag ur högkostnadsdatabasen över vilka uppgifter som finns om en själv och om de barn som man är vårdnadshavare för. Det gör man genom att fylla i och skicka in en blankett till eHälsomyndigheten. Blankett för begäran om registerutdrag ur högkostnadsdatabasen</p>
+<p type="title">Välja att vara utanför</p>
+<p>Man kan välja att inte vara ansluten till högkostnadsdatabasen. Då får man ett kvitto som kallas högkostnadsbevis på apoteket när man köper läkemedel inom högkostnadsskyddet. På högkostnadsbeviset står vilken sammanlagd egenavgift man har betalat. Det är viktigt att spara det senaste högkostnadsbeviset och att visa upp det tillsammans med receptet när man ska köpa läkemedel. Apoteket behöver veta på vilken nivå i högkostnadstrappan man befinner sig på för att man ska få rätt rabatt.</p>
+</body></document>

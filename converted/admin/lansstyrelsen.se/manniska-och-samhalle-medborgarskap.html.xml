@@ -1,62 +1,28 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>276</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/medborgarskap/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle-medborgarskap.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-medborgarskap.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Medborgarskap - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Medborgarskap</p>
-    <p>
-      <em type="italic">Länsstyrelsen tar emot anmälan om svenskt medborgarskap från dig som är medborgare i Danmark, Finland, Norge eller Island. Om du är medborgare i ett annat land ska du vända dig till Migrationsverket. </em>
-    </p>
-    <p type="title">Anmälan om svenskt medborgarskap</p>
-    <p>När anmälan görs till oss ska de uppräknade villkoren nedan vara uppfyllda.</p>
-    <p type="title">Vuxna</p>
-    <p>Vuxna personer kan få svenskt medborgarskap om de</p>
-    <list>
-      <p type="listitem">har fått sitt danska, finländska, norska eller isländska medborgarskap på något annat sätt än genom ansökan</p>
-      <p type="listitem">har fyllt 18 år</p>
-      <p type="listitem">har bott i Sverige de senaste fem åren</p>
-      <p type="listitem">inte har dömts till fängelse eller någon annan frihetsberövande påföljd under de senaste fem åren.</p>
-    </list>
-    <p type="title">Ungdomar 18–20 år</p>
-    <p>Ungdomar kan få svenskt medborgarskap om de</p>
-    <list>
-      <p type="listitem">har fyllt 18 år men inte 20 år</p>
-      <p type="listitem">utan avbrott har bott i Sverige sedan de fyllde 13 år</p>
-    </list>
-    <p type="title">Barn</p>
-    <p>Vårdnadshavaren kan göra en anmälan om svenskt medborgarskap för barn som</p>
-    <list>
-      <p type="listitem">har bott i Sverige de senaste fem åren</p>
-      <p type="listitem">inte har fyllt 18 år</p>
-      <p type="listitem">samtycker till att bli svenska om de har fyllt 12 år och har ett utländskt medborgarskap</p>
-    </list>
-    <p>Om barnets vårdnadshavare anmäler att de vill ha svenskt medborgarskap medföljer deras ogifta barn under 18 år automatiskt. Barnen kan även omfattas om anmälan bara gäller ena vårdnadshavaren, förutsatt att han eller hon</p>
-    <list>
-      <p type="listitem">har ensam vårdnad om barnet eller</p>
-      <p type="listitem">har gemensam vårdnad och den andra vårdnadshavaren redan är svensk medborgare.</p>
-    </list>
-    <p type="title">Återgå till svenskt medborgarskap</p>
-    <p>Om du av någon anledning förlorat ditt medborgarskap kan du i vissa fall återfå det genom anmälan till Länsstyrelsen.</p>
-    <p type="title">Dubbelt medborgarskap</p>
-    <p>Finska och isländska medborgare behåller sina finska respektive isländska medborgarskap när de blir svenska medborgare. Observera att detta inte gäller medborgare i några andra länder.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>276</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/medborgarskap/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle-medborgarskap.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle-medborgarskap.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Medborgarskap - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Medborgarskap</p>
+<p><em type="italic">Länsstyrelsen tar emot anmälan om svenskt medborgarskap från dig som är medborgare i Danmark, Finland, Norge eller Island. Om du är medborgare i ett annat land ska du vända dig till Migrationsverket. </em></p>
+<p type="title">Anmälan om svenskt medborgarskap</p>
+<p>När anmälan görs till oss ska de uppräknade villkoren nedan vara uppfyllda.</p>
+<p type="title">Vuxna</p>
+<p>Vuxna personer kan få svenskt medborgarskap om de</p>
+<list><p type="listitem">har fått sitt danska, finländska, norska eller isländska medborgarskap på något annat sätt än genom ansökan</p>
+<p type="listitem">har fyllt 18 år</p>
+<p type="listitem">har bott i Sverige de senaste fem åren</p>
+<p type="listitem">inte har dömts till fängelse eller någon annan frihetsberövande påföljd under de senaste fem åren.</p>
+</list><p type="title">Ungdomar 18–20 år</p>
+<p>Ungdomar kan få svenskt medborgarskap om de</p>
+<list><p type="listitem">har fyllt 18 år men inte 20 år</p>
+<p type="listitem">utan avbrott har bott i Sverige sedan de fyllde 13 år</p>
+</list><p type="title">Barn</p>
+<p>Vårdnadshavaren kan göra en anmälan om svenskt medborgarskap för barn som</p>
+<list><p type="listitem">har bott i Sverige de senaste fem åren</p>
+<p type="listitem">inte har fyllt 18 år</p>
+<p type="listitem">samtycker till att bli svenska om de har fyllt 12 år och har ett utländskt medborgarskap</p>
+</list><p>Om barnets vårdnadshavare anmäler att de vill ha svenskt medborgarskap medföljer deras ogifta barn under 18 år automatiskt. Barnen kan även omfattas om anmälan bara gäller ena vårdnadshavaren, förutsatt att han eller hon</p>
+<list><p type="listitem">har ensam vårdnad om barnet eller</p>
+<p type="listitem">har gemensam vårdnad och den andra vårdnadshavaren redan är svensk medborgare.</p>
+</list><p type="title">Återgå till svenskt medborgarskap</p>
+<p>Om du av någon anledning förlorat ditt medborgarskap kan du i vissa fall återfå det genom anmälan till Länsstyrelsen.</p>
+<p type="title">Dubbelt medborgarskap</p>
+<p>Finska och isländska medborgare behåller sina finska respektive isländska medborgarskap när de blir svenska medborgare. Observera att detta inte gäller medborgare i några andra länder.</p>
+</body></document>

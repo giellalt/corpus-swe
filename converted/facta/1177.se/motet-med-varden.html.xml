@@ -1,95 +1,60 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1445</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Regler-och-rattigheter/Motet-med-varden</origFileName>
-    <parallel_text xml:lang="eng" location="forbered-ditt-lakarbesok--tio-tips-.html"/>
-    <parallel_text xml:lang="fin" location="forbered-ditt-lakarbesok--tio-tips-.html"/>
-    <parallel_text xml:lang="sme" location="forbered-ditt-lakarbesok--tio-tips-.html"/>
-    <parallel_text location="forbered-ditt-lakarbesok--tio-tips.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="forbered-ditt-lakarbesok--tio-tips-.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Förbered ditt läkarbesök - tio tips - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Förbered ditt läkarbesök - tio tips</p>
-    <p>Genom att förbereda dig kan du vara delaktig i din vård och tillsammans med vårdpersonalen formar ni den vård som passar dig bäst. Grunden till en trygg och säker vård är en väl fungerande dialog mellan dig och vårdpersonalen.</p>
-    <p type="title">1. Välj vilken vårdmottagning du ska gå till</p>
-    <p>När du ska söka vård kan du själv välja vilken vårdmottagning du ska gå till. Du kan välja vårdmottagning i hela landet, oavsett var du är folkbokförd.</p>
-    <p>Du kan välja vårdgivare både inom primärvården, till exempel vårdcentral, och inom öppen specialiserad vård, till exempel en barnmottagning. Till den specialiserade vården kan du behöva en remiss .</p>
-    <p>Om du väljer en ny vårdcentral eller specialistmottagning kan personalen där inte se dina journaler som du har hos tidigare vårdgivare. Om du vill att din nya vårdgivare ska kunna se dem måste du godkänna det. Prata med din nya vårdgivare om hur det går till.</p>
-    <p>Vårdgarantin anger hur länge du som längst ska behöva vänta för att få kontakt med vården. Om du väljer vård i ett annat landsting gäller inte vårdgarantin.</p>
-    <p type="title">2. Se till att du förstår</p>
-    <p>När du är hos läkaren är det viktigt att du förstår vad som sägs och vad det innebär. Vårdpersonalen ska se till att du förstår informationen, till exempel hur läkemedel ska tas. Det viktigaste kan du be att få nedskrivet. Du kan också be om att få ett nytt möte med vårdpersonalen för att få svar på dina frågor.</p>
-    <p>All information ska vara anpassad efter dig. Har du svårt att förstå eller tala svenska kan du be att få hjälp av en tolk . Det gäller även om du har hörselnedsättning, synnedsättning eller dövblindhet och behöver tolk . Tala om att du behöver tolk när du kontaktar en mottagning inför ett besök.</p>
-    <p>Barn har också rätt att vara delaktiga i den vård de får. Det finns ingen given åldersgräns för när ett barn får vara med och bestämma i en vårdsituation, utan det avgörs utifrån barnets mognad och vårdsituation.</p>
-    <p>Om du inte kan ta del av informationen, till exempel på grund av demens, ska vårdpersonalen i stället lämna den till en närstående.</p>
-    <p type="title">3. Berätta själv och ställ frågor</p>
-    <p>Inför ett besök är det bra ifall du förbereder dig och tänker igenom vad du vill berätta och få svar på. Berätta för läkaren vilka förväntningar du har på besöket och om det är något särskilt du oroar dig över. Skriv gärna ner dina frågor så är det lättare att komma ihåg dem. Du kan också be någon annan skriva ner dem. Här är några förslag på vad du kan skriva ner i förväg:</p>
-    <list>
-      <p type="listitem">Vilka besvär du har.</p>
-      <p type="listitem">När besvären började och vad som gör att de känns mer eller mindre.</p>
-      <p type="listitem">En lista på de läkemedel du använder, inklusive receptfria läkemedel och naturläkemedel.</p>
-      <p type="listitem">Om du har eller har haft allvarliga sjukdomar.</p>
-    </list>
-    <p>Ett annat bra sätt att komma ihåg är att föra dagbok över dina besvär. Du kan till exempel skriva i vilka situationer du får besvären, hur de känns och var det gör ont.</p>
-    <p type="title">4. Du ska vara delaktig i din vård</p>
-    <p>Du har rätt att tycka till om din vård och vara med och bestämma där det går . Men för att kunna vara delaktig ska du få individuellt anpassad information om:</p>
-    <list>
-      <p type="listitem">Ditt hälsotillstånd.</p>
-      <p type="listitem">Vilka metoder för undersökning, vård och behandling som finns.</p>
-      <p type="listitem">Vilka risker och biverkningar som finns med undersökningarna och behandlingarna.</p>
-      <p type="listitem">När du kan förvänta dig att få vård.</p>
-      <p type="listitem">Hur den förväntade vården eller behandlingen ser ut.</p>
-      <p type="listitem">Eftervård, det vill säga vilken vård och omsorg du behöver efteråt.</p>
-      <p type="listitem">Vad du kan göra för att förebygga att bli sjuk eller att skada dig.</p>
-      <p type="listitem">Har du en funktionsnedsättning ska du få information om vilka hjälpmedel som finns.</p>
-    </list>
-    <p type="title">5. Inför undersökningar och behandlingar</p>
-    <p>När du har fått en diagnos finns det oftast rutiner för undersökningar och behandlingar. Ibland finns det olika undersöknings- och behandlingsalternativ att välja mellan. Då har du rätt att få information om dessa, samt att välja hur du ska undersökas eller behandlas.</p>
-    <p>Du väljer själv om du ska tacka ja eller nej till att bli undersökt eller behandlad.</p>
-    <p>Som patient kan du inte tvinga vårdpersonal att utföra sådant som går emot vetenskap och beprövad erfarenhet. Vårdpersonal är inte heller skyldig att medverka till behandlingar med alternativmedicin.</p>
-    <p type="title">6. Du kan säga nej</p>
-    <p>I stort sett har du full rätt att säga nej till den vård du blir erbjuden. Undantag finns när det gäller psykiatrisk tvångsvård och vissa så kallade allmänfarliga smittsamma sjukdomar, till exempel HIV , som regleras i smittskyddslagen .</p>
-    <p>Närstående har ingen rätt att bestämma något om den vård du ska få. Om du själv inte kan uttrycka vad du vill, kan vårdpersonalen fråga någon av dina anhöriga, om de vet hur du vill ha det.</p>
-    <p type="title">7. Du bestämmer om dina närstående ska få veta</p>
-    <p>Ibland kan det vara bra att ha en närstående med vid besöket. Hen kan hjälpa till att minnas vad som sagts och vara ett känslomässigt stöd. Men det är du som bestämmer om och vad dina närstående ska få reda på. Tystnadsplikt och sekretess gör att närstående bara kan ta del av informationen om du är med vid besöket, men du kan säga till vårdpersonalen att din närstående får ta del av informationen. Personalen brukar fråga vem de får lämna uppgifter till.</p>
-    <p>Är du under 18 år och söker vård behöver de vuxna hemma, i de flesta fall, inte få reda på det. De kontaktas till exempel inte om du</p>
-    <list>
-      <p type="listitem">går till en ungdomsmottagning</p>
-      <p type="listitem">träffar en kurator</p>
-      <p type="listitem">får hjälp med skydd mot graviditet</p>
-      <p type="listitem">testar dig för könssjukdomar.</p>
-    </list>
-    <p>De behöver inte heller få reda på att du sökt vård på en vårdcentral. Det som avgör om de vuxna ska kontaktas, är vad du söker vård för, hur gammal du är och hur mogen du är. Berätta för din läkare ifall du inte vill att dina föräldrar ska kontaktas. Du kan läsa mer om tystnadsplikt och sekretess på UMO.se.</p>
-    <p>När det gäller små barn bestämmer vårdnadshavarna om uppgifter ska få lämnas ut eller inte. Men ju äldre och mognare barnet blir desto mer kan barnet själv avgöra om vårdpersonalen får lämna ut uppgifter och till vem.</p>
-    <p type="title">8. Fråga vad som händer sen</p>
-    <p>Du ska få reda på när och vem du ska kontakt för att ta del av svaren efter provtagning och undersökningar. Du ska också få reda på vart du ska vända dig om du blir sämre.</p>
-    <p>Om du har fått vård på sjukhus bör du och vårdpersonalen tillsammans göra en vårdplanering och fastställa en vårdplan innan du skrivs ut.</p>
-    <p>Har du många olika kontakter inom hälso- och sjukvården kan du be om att få en fast vårdkontakt. Det är en person som hjälper till med att bland annat samordna din vård och förmedla vårdkontakter.</p>
-    <p type="title">9. Allvarlig eller livshotande sjukdom eller skada</p>
-    <p>Har du en livshotande sjukdom, en särskilt allvarlig sjukdom eller en skada, då kan du ha möjlighet att få en ny medicinsk bedömning av en annan läkare, en så kallad second opinion. Det kan hjälpa dig om du exempelvis är osäker på vilken behandling som är bäst för dig. Att vilja få en ny medicinsk bedömning behöver inte betyda att du är missnöjd med din läkares bedömning.</p>
-    <p>Du kan välja läkare i hela landet som ska göra den nya medicinska bedömningen. Fråga din läkare om du vill veta mer.</p>
-    <p type="title">10. Om du inte är nöjd</p>
-    <p>Om du inte är nöjd med den vård som du, eller en närstående, har fått är det bra att du framför dina synpunkter. På så sätt hjälper du till att förbättra vården.</p>
-    <p>I första hand vänder du dig direkt till den läkare eller vårdpersonal som undersökt eller behandlat dig. Du kan också vända dig till verksamhetschefen för enheten där du fått vård. Verksamheten ska utreda vad som hänt och tala om vad de kommer att göra för att det inte ska hända igen.</p>
-    <p>Du kan också vända dig till Patientnämnden för att få hjälp med frågor. Varje landsting ska ha en patientnämnd eller en patientombudsman som ska hjälpa dig. Patientnämnden och patientombudsmannen tar emot synpunkter och klagomål, men har inte befogenhet att avgöra om sjukvårdspersonalen gjort fel. Även patientorganisationer kan ibland hjälpa dig med hantering av ärenden som rör klagomål.</p>
-    <p>Upplever du att du blivit diskriminerad i vården kan du vända dig till diskrimineringsombudsmannen, DO .</p>
-    <p>Har du skadats i vården eller om du upplevt brister i patientsäkerheten kan du anmäla det till IVO, Inspektionen för vård och omsorg . De tittar framför allt på vad som blivit fel och varför, så att samma händelse inte ska ske igen.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1445</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Regler-och-rattigheter/Motet-med-varden</origFileName><parallel_text xml:lang="eng" location="forbered-ditt-lakarbesok--tio-tips-.html"/><parallel_text xml:lang="fin" location="forbered-ditt-lakarbesok--tio-tips-.html"/><parallel_text xml:lang="sme" location="forbered-ditt-lakarbesok--tio-tips-.html"/><parallel_text location="forbered-ditt-lakarbesok--tio-tips.html" xml:lang="rmy-rlo"/><parallel_text location="forbered-ditt-lakarbesok--tio-tips-.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Förbered ditt läkarbesök - tio tips - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Förbered ditt läkarbesök - tio tips</p>
+<p>Genom att förbereda dig kan du vara delaktig i din vård och tillsammans med vårdpersonalen formar ni den vård som passar dig bäst. Grunden till en trygg och säker vård är en väl fungerande dialog mellan dig och vårdpersonalen.</p>
+<p type="title">1. Välj vilken vårdmottagning du ska gå till</p>
+<p>När du ska söka vård kan du själv välja vilken vårdmottagning du ska gå till. Du kan välja vårdmottagning i hela landet, oavsett var du är folkbokförd.</p>
+<p>Du kan välja vårdgivare både inom primärvården, till exempel vårdcentral, och inom öppen specialiserad vård, till exempel en barnmottagning. Till den specialiserade vården kan du behöva en remiss .</p>
+<p>Om du väljer en ny vårdcentral eller specialistmottagning kan personalen där inte se dina journaler som du har hos tidigare vårdgivare. Om du vill att din nya vårdgivare ska kunna se dem måste du godkänna det. Prata med din nya vårdgivare om hur det går till.</p>
+<p>Vårdgarantin anger hur länge du som längst ska behöva vänta för att få kontakt med vården. Om du väljer vård i ett annat landsting gäller inte vårdgarantin.</p>
+<p type="title">2. Se till att du förstår</p>
+<p>När du är hos läkaren är det viktigt att du förstår vad som sägs och vad det innebär. Vårdpersonalen ska se till att du förstår informationen, till exempel hur läkemedel ska tas. Det viktigaste kan du be att få nedskrivet. Du kan också be om att få ett nytt möte med vårdpersonalen för att få svar på dina frågor.</p>
+<p>All information ska vara anpassad efter dig. Har du svårt att förstå eller tala svenska kan du be att få hjälp av en tolk . Det gäller även om du har hörselnedsättning, synnedsättning eller dövblindhet och behöver tolk . Tala om att du behöver tolk när du kontaktar en mottagning inför ett besök.</p>
+<p>Barn har också rätt att vara delaktiga i den vård de får. Det finns ingen given åldersgräns för när ett barn får vara med och bestämma i en vårdsituation, utan det avgörs utifrån barnets mognad och vårdsituation.</p>
+<p>Om du inte kan ta del av informationen, till exempel på grund av demens, ska vårdpersonalen i stället lämna den till en närstående.</p>
+<p type="title">3. Berätta själv och ställ frågor</p>
+<p>Inför ett besök är det bra ifall du förbereder dig och tänker igenom vad du vill berätta och få svar på. Berätta för läkaren vilka förväntningar du har på besöket och om det är något särskilt du oroar dig över. Skriv gärna ner dina frågor så är det lättare att komma ihåg dem. Du kan också be någon annan skriva ner dem. Här är några förslag på vad du kan skriva ner i förväg:</p>
+<list><p type="listitem">Vilka besvär du har.</p>
+<p type="listitem">När besvären började och vad som gör att de känns mer eller mindre.</p>
+<p type="listitem">En lista på de läkemedel du använder, inklusive receptfria läkemedel och naturläkemedel.</p>
+<p type="listitem">Om du har eller har haft allvarliga sjukdomar.</p>
+</list><p>Ett annat bra sätt att komma ihåg är att föra dagbok över dina besvär. Du kan till exempel skriva i vilka situationer du får besvären, hur de känns och var det gör ont.</p>
+<p type="title">4. Du ska vara delaktig i din vård</p>
+<p>Du har rätt att tycka till om din vård och vara med och bestämma där det går . Men för att kunna vara delaktig ska du få individuellt anpassad information om:</p>
+<list><p type="listitem">Ditt hälsotillstånd.</p>
+<p type="listitem">Vilka metoder för undersökning, vård och behandling som finns.</p>
+<p type="listitem">Vilka risker och biverkningar som finns med undersökningarna och behandlingarna.</p>
+<p type="listitem">När du kan förvänta dig att få vård.</p>
+<p type="listitem">Hur den förväntade vården eller behandlingen ser ut.</p>
+<p type="listitem">Eftervård, det vill säga vilken vård och omsorg du behöver efteråt.</p>
+<p type="listitem">Vad du kan göra för att förebygga att bli sjuk eller att skada dig.</p>
+<p type="listitem">Har du en funktionsnedsättning ska du få information om vilka hjälpmedel som finns.</p>
+</list><p type="title">5. Inför undersökningar och behandlingar</p>
+<p>När du har fått en diagnos finns det oftast rutiner för undersökningar och behandlingar. Ibland finns det olika undersöknings- och behandlingsalternativ att välja mellan. Då har du rätt att få information om dessa, samt att välja hur du ska undersökas eller behandlas.</p>
+<p>Du väljer själv om du ska tacka ja eller nej till att bli undersökt eller behandlad.</p>
+<p>Som patient kan du inte tvinga vårdpersonal att utföra sådant som går emot vetenskap och beprövad erfarenhet. Vårdpersonal är inte heller skyldig att medverka till behandlingar med alternativmedicin.</p>
+<p type="title">6. Du kan säga nej</p>
+<p>I stort sett har du full rätt att säga nej till den vård du blir erbjuden. Undantag finns när det gäller psykiatrisk tvångsvård och vissa så kallade allmänfarliga smittsamma sjukdomar, till exempel HIV , som regleras i smittskyddslagen .</p>
+<p>Närstående har ingen rätt att bestämma något om den vård du ska få. Om du själv inte kan uttrycka vad du vill, kan vårdpersonalen fråga någon av dina anhöriga, om de vet hur du vill ha det.</p>
+<p type="title">7. Du bestämmer om dina närstående ska få veta</p>
+<p>Ibland kan det vara bra att ha en närstående med vid besöket. Hen kan hjälpa till att minnas vad som sagts och vara ett känslomässigt stöd. Men det är du som bestämmer om och vad dina närstående ska få reda på. Tystnadsplikt och sekretess gör att närstående bara kan ta del av informationen om du är med vid besöket, men du kan säga till vårdpersonalen att din närstående får ta del av informationen. Personalen brukar fråga vem de får lämna uppgifter till.</p>
+<p>Är du under 18 år och söker vård behöver de vuxna hemma, i de flesta fall, inte få reda på det. De kontaktas till exempel inte om du</p>
+<list><p type="listitem">går till en ungdomsmottagning</p>
+<p type="listitem">träffar en kurator</p>
+<p type="listitem">får hjälp med skydd mot graviditet</p>
+<p type="listitem">testar dig för könssjukdomar.</p>
+</list><p>De behöver inte heller få reda på att du sökt vård på en vårdcentral. Det som avgör om de vuxna ska kontaktas, är vad du söker vård för, hur gammal du är och hur mogen du är. Berätta för din läkare ifall du inte vill att dina föräldrar ska kontaktas. Du kan läsa mer om tystnadsplikt och sekretess på UMO.se.</p>
+<p>När det gäller små barn bestämmer vårdnadshavarna om uppgifter ska få lämnas ut eller inte. Men ju äldre och mognare barnet blir desto mer kan barnet själv avgöra om vårdpersonalen får lämna ut uppgifter och till vem.</p>
+<p type="title">8. Fråga vad som händer sen</p>
+<p>Du ska få reda på när och vem du ska kontakt för att ta del av svaren efter provtagning och undersökningar. Du ska också få reda på vart du ska vända dig om du blir sämre.</p>
+<p>Om du har fått vård på sjukhus bör du och vårdpersonalen tillsammans göra en vårdplanering och fastställa en vårdplan innan du skrivs ut.</p>
+<p>Har du många olika kontakter inom hälso- och sjukvården kan du be om att få en fast vårdkontakt. Det är en person som hjälper till med att bland annat samordna din vård och förmedla vårdkontakter.</p>
+<p type="title">9. Allvarlig eller livshotande sjukdom eller skada</p>
+<p>Har du en livshotande sjukdom, en särskilt allvarlig sjukdom eller en skada, då kan du ha möjlighet att få en ny medicinsk bedömning av en annan läkare, en så kallad second opinion. Det kan hjälpa dig om du exempelvis är osäker på vilken behandling som är bäst för dig. Att vilja få en ny medicinsk bedömning behöver inte betyda att du är missnöjd med din läkares bedömning.</p>
+<p>Du kan välja läkare i hela landet som ska göra den nya medicinska bedömningen. Fråga din läkare om du vill veta mer.</p>
+<p type="title">10. Om du inte är nöjd</p>
+<p>Om du inte är nöjd med den vård som du, eller en närstående, har fått är det bra att du framför dina synpunkter. På så sätt hjälper du till att förbättra vården.</p>
+<p>I första hand vänder du dig direkt till den läkare eller vårdpersonal som undersökt eller behandlat dig. Du kan också vända dig till verksamhetschefen för enheten där du fått vård. Verksamheten ska utreda vad som hänt och tala om vad de kommer att göra för att det inte ska hända igen.</p>
+<p>Du kan också vända dig till Patientnämnden för att få hjälp med frågor. Varje landsting ska ha en patientnämnd eller en patientombudsman som ska hjälpa dig. Patientnämnden och patientombudsmannen tar emot synpunkter och klagomål, men har inte befogenhet att avgöra om sjukvårdspersonalen gjort fel. Även patientorganisationer kan ibland hjälpa dig med hantering av ärenden som rör klagomål.</p>
+<p>Upplever du att du blivit diskriminerad i vården kan du vända dig till diskrimineringsombudsmannen, DO .</p>
+<p>Har du skadats i vården eller om du upplevt brister i patientsäkerheten kan du anmäla det till IVO, Inspektionen för vård och omsorg . De tittar framför allt på vad som blivit fel och varför, så att samma händelse inte ska ske igen.</p>
+</body></document>

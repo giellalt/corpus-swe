@@ -1,31 +1,9 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>225</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/66909</origFileName>
-    <parallel_text xml:lang="sme" location="71359.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Gammal hundras gör comeback? - Sametinget</p>
-    <p type="title">Gammal hundras gör comeback?</p>
-    <p>En bra renvallare är guld värd i renskogen. En vallhund som ska valla renar måste tåla kyla, kunna skälla på kommando, driva en renhjord och lyda kommando på långt håll. Den svenska lapphunden är den äldsta av Sveriges nationalraser - men har efter hård avel mest varit en sällskapshund.</p>
-    <p><em type="italic">De tre första hundar </em>som registrerades i Svenska Kennelklubbens första stambok år 1893, var Svenska lapphundar (som då kallades Nordisk spets A). Det är också en lapphund som än idag pryder kennelklubbens logotyp. </p>
-    <p><em type="italic">Det finns arkeologiska bevis </em>för att den här typen av hund har funnits minst 6000 år i norra Skandinavien. Eftersom den svenska lapphunden under lång tid inte längre avlades efter sina vallegenskaper blev den obrukbar inom renskötseln och förvandlades till en sällskapshund. Idag är rasen i ett akut läge eftersom det bara föds cirka 80 valpar per år. </p>
-    <p><em type="italic">De hundraser som används </em>inom renskötseln idag är främst finsk lapphund och blandraser, ibland med inslag av bordercollie eller australiensiska vallhundar. </p>
-    <p><em type="italic">Går det att återerövra </em>den svenska lapphunden? Svenska lapphundklubben vill gärna komma i kontakt med aktiva renskötare som är nyfikna på den gamla rasen. Under Jokkmokks marknad finns kennelklubben i monter D38. </p>
-    <p><em type="italic">Kontaktpersoner för Svenska Lapphundklubben: </em>Hans Balstedt, 070-640 46 25, hans.balstedt@telia.com Sara Laitamaa, 073-055 73 59, sara@sidmarkens.se Ida Svanberg, 070-363 61 49, ida@sidmarkens.se </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>225</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/66909</origFileName><parallel_text xml:lang="sme" location="71359.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Gammal hundras gör comeback? - Sametinget</p>
+<p type="title">Gammal hundras gör comeback?</p>
+<p>En bra renvallare är guld värd i renskogen. En vallhund som ska valla renar måste tåla kyla, kunna skälla på kommando, driva en renhjord och lyda kommando på långt håll. Den svenska lapphunden är den äldsta av Sveriges nationalraser - men har efter hård avel mest varit en sällskapshund.</p>
+<p><em type="italic">De tre första hundar </em>som registrerades i Svenska Kennelklubbens första stambok år 1893, var Svenska lapphundar (som då kallades Nordisk spets A). Det är också en lapphund som än idag pryder kennelklubbens logotyp. </p>
+<p><em type="italic">Det finns arkeologiska bevis </em>för att den här typen av hund har funnits minst 6000 år i norra Skandinavien. Eftersom den svenska lapphunden under lång tid inte längre avlades efter sina vallegenskaper blev den obrukbar inom renskötseln och förvandlades till en sällskapshund. Idag är rasen i ett akut läge eftersom det bara föds cirka 80 valpar per år. </p>
+<p><em type="italic">De hundraser som används </em>inom renskötseln idag är främst finsk lapphund och blandraser, ibland med inslag av bordercollie eller australiensiska vallhundar. </p>
+<p><em type="italic">Går det att återerövra </em>den svenska lapphunden? Svenska lapphundklubben vill gärna komma i kontakt med aktiva renskötare som är nyfikna på den gamla rasen. Under Jokkmokks marknad finns kennelklubben i monter D38. </p>
+<p><em type="italic">Kontaktpersoner för Svenska Lapphundklubben: </em>Hans Balstedt, 070-640 46 25, hans.balstedt@telia.com Sara Laitamaa, 073-055 73 59, sara@sidmarkens.se Ida Svanberg, 070-363 61 49, ida@sidmarkens.se </p>
+</body></document>

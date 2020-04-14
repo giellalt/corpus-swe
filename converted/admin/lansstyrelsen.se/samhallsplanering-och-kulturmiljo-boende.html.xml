@@ -1,61 +1,33 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>174</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/boende/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-boende.html"/>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-boende.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Boende - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Boende</p>
-    <p>Nader Ghassemi</p>
-    <p>
-      <em type="italic">Länsstyrelsen handlägger statliga stöd för byggande av äldrebostäder och trygghetsbostäder, radonsanering av småhus samt energibidrag för bostadshus och vissa lokaler. Länsstyrelsen sammanställer information och utför analyser av länets bostadsmarknad bland annat som stöd till kommunernas arbete med bostadsförsörjningen. </em>
-    </p>
-    <p>I arbetet ingår att</p>
-    <list>
-      <p type="listitem">informera och besluta om statliga stöd</p>
-      <p type="listitem">lämna råd, information och underlag till kommunerna i deras arbete med boendeplanering</p>
-      <p type="listitem">genomföra en årlig bostadsmarknadsenkät tillsammans med Boverket</p>
-      <p type="listitem">analysera och redovisa kommunernas arbete med bostadsförsörjningen</p>
-      <p type="listitem">redovisa och bedöma utdelningar från allmännyttiga bostadsföretag</p>
-      <p type="listitem">göra en årlig analys och sammanställning av situationen på bostadsmarknaden i länet.</p>
-    </list>
-    <p type="title">Kontakta oss</p>
-    <p>Frida Ryhag</p>
-    <p>Länsarkitekt</p>
-    <p>Samhällsplanering och boende, plan</p>
-    <p>Nils Norgren</p>
-    <p>Handläggare</p>
-    <p>Samhällsplanering och boende, bygg</p>
-    <p>Nils punkt Norgren snabela lansstyrelsen punkt se¤Nils punkt Norgren snabela lansstyrelsen punkt se</p>
-    <p>010-2250454</p>
-    <p>Hanna Westerholm</p>
-    <p>Handläggare</p>
-    <p>Samhällsbyggnadsenheten</p>
-    <p>hanna punkt westerholm snabela lansstyrelsen punkt se¤hanna punkt westerholm snabela lansstyrelsen punkt se</p>
-    <p>010-2250466</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>174</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/boende/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-boende.html"/><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-boende.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Boende - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Boende</p>
+<p>Nader Ghassemi</p>
+<p><em type="italic">Länsstyrelsen handlägger statliga stöd för byggande av äldrebostäder och trygghetsbostäder, radonsanering av småhus samt energibidrag för bostadshus och vissa lokaler. Länsstyrelsen sammanställer information och utför analyser av länets bostadsmarknad bland annat som stöd till kommunernas arbete med bostadsförsörjningen. </em></p>
+<p>I arbetet ingår att</p>
+<list><p type="listitem">informera och besluta om statliga stöd</p>
+<p type="listitem">lämna råd, information och underlag till kommunerna i deras arbete med boendeplanering</p>
+<p type="listitem">genomföra en årlig bostadsmarknadsenkät tillsammans med Boverket</p>
+<p type="listitem">analysera och redovisa kommunernas arbete med bostadsförsörjningen</p>
+<p type="listitem">redovisa och bedöma utdelningar från allmännyttiga bostadsföretag</p>
+<p type="listitem">göra en årlig analys och sammanställning av situationen på bostadsmarknaden i länet.</p>
+</list><p type="title">Kontakta oss</p>
+<p>Frida Ryhag</p>
+<p>Länsarkitekt</p>
+<p>Samhällsplanering och boende, plan</p>
+<p>Nils Norgren</p>
+<p>Handläggare</p>
+<p>Samhällsplanering och boende, bygg</p>
+<p>Nils punkt Norgren snabela lansstyrelsen punkt se¤Nils punkt Norgren snabela lansstyrelsen punkt se</p>
+<p>010-2250454</p>
+<p>Hanna Westerholm</p>
+<p>Handläggare</p>
+<p>Samhällsbyggnadsenheten</p>
+<p>hanna punkt westerholm snabela lansstyrelsen punkt se¤hanna punkt westerholm snabela lansstyrelsen punkt se</p>
+<p>010-2250466</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

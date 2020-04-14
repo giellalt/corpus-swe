@@ -1,50 +1,19 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Kontakttolkutb. |  Samernas Utbildningscentrum</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>286</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.samernas.se/utbildningar/kontakttolkutb</origFileName>
-    <parallel_text xml:lang="smj" location="799-2_796-2_lang_ls12.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Grundutbildning till kontakttolk i samiska</p>
-    <p>Samernas utbildningscentrum samverkar med Härnösands folkhögskola om en grundutbildning till kontakttolk på nord-, lule- och sydsamiska. Den är ett-årig och bedrivs på halvfart. Den är berättigad till studiemedel. Viss reseersättning kommer att kunna ges. Efter genomförd utbildning kan du söka auktorisation hos Kammarkollegiet. Under 2011 har vi en syd- samt lulesamisk grupp som är färdig i dec 2011. Vi har därför förhoppningen att kunna starta upp en nordsamisk grupp i januari 2012 om tillräckligt elevantal finnes. Men om det är många sökande i lule- samt sydsamiska är det inte uteslutet att en sådan grupp kan starta även nästa år.</p>
-    <p>Nästa utbildning planeras starta upp i januari 2012. . OBS, provdagen i Härnösand för de sökande är 7 november!</p>
-    <p>Förkunskaper är behörighet i samiska på gymnasial nivå (3 steg i Moderna Språk eller motsvarande) och att man är samisktalande.</p>
-    <p>Utbildningen omfattar sex delkurser på totalt 545 timmar:</p>
-    <list>
-      <p type="listitem">introduktionskurs (30 tim)</p>
-      <p type="listitem">socialtolkning (120 tim)</p>
-      <p type="listitem">sjukvårdstolkning (120 tim)</p>
-      <p type="listitem">juridikens grunder för tolkar (120 tim)</p>
-      <p type="listitem">juridik för tolkar – påbyggnad (120 tim)</p>
-      <p type="listitem">asyltolkning</p>
-    </list>
-    <p>Ansökan görs till Härnösand folkhögskola senast 15 oktober 2011. Ansökningsblankett hittas på nedanstående länk.</p>
-    <p>I utgångsläget planeras alla fysiska träffar (6 st) i Härnösand. Det finns en viss möjlighet att någon eller några av träffarna kan vara i Jokkmokk om extern finansiering kan hittas.</p>
-    <p>Mer information om den samiska tolkutbildningen hittar Du på hemsidan till Härnösands folkhögskola, se länk nedan. De sökande kommer att kallas till språktest under senare delen av 2011 i Härnösand, 7 november 2011 i Härnösand. denan testdag är obligatorisk för de sökande.</p>
-    <p>Mer information om utbildningen</p>
-    <p>För frågor kontakta:</p>
-    <p><em type="bold">Olga Lysova </em>Kursföreståndare Härnösands folkhögskola 0611-558591 olga.lysova.hf(a)folkbildning.net </p>
-    <p><em type="bold">Britt-Inger Tuorda </em>Rektor rektor(a)samernas.se , 0971-44 002 </p>
-    <p type="title">Språkstudier</p>
-    <p type="title">Slöjdlinjen</p>
-    <p type="title">Rennäringslinje</p>
-    <p type="title">Samisk Mat</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Kontakttolkutb. |  Samernas Utbildningscentrum</title><genre code="facta"/><author><unknown/></author><wordcount>281</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.samernas.se/utbildningar/kontakttolkutb</origFileName><parallel_text xml:lang="smj" location="799-2_796-2_lang_ls12.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Grundutbildning till kontakttolk i samiska</p>
+<p>Samernas utbildningscentrum samverkar med Härnösands folkhögskola om en grundutbildning till kontakttolk på nord-, lule- och sydsamiska. Den är ett-årig och bedrivs på halvfart. Den är berättigad till studiemedel. Viss reseersättning kommer att kunna ges. Efter genomförd utbildning kan du söka auktorisation hos Kammarkollegiet. Under 2011 har vi en syd- samt lulesamisk grupp som är färdig i dec 2011. Vi har därför förhoppningen att kunna starta upp en nordsamisk grupp i januari 2012 om tillräckligt elevantal finnes. Men om det är många sökande i lule- samt sydsamiska är det inte uteslutet att en sådan grupp kan starta även nästa år.</p>
+<p>Nästa utbildning planeras starta upp i januari 2012. . OBS, provdagen i Härnösand för de sökande är 7 november!</p>
+<p>Förkunskaper är behörighet i samiska på gymnasial nivå (3 steg i Moderna Språk eller motsvarande) och att man är samisktalande.</p>
+<p>Utbildningen omfattar sex delkurser på totalt 545 timmar:</p>
+<list><p type="listitem">introduktionskurs (30 tim)</p>
+<p type="listitem">socialtolkning (120 tim)</p>
+<p type="listitem">sjukvårdstolkning (120 tim)</p>
+<p type="listitem">juridikens grunder för tolkar (120 tim)</p>
+<p type="listitem">juridik för tolkar – påbyggnad (120 tim)</p>
+<p type="listitem">asyltolkning</p>
+</list><p>Ansökan görs till Härnösand folkhögskola senast 15 oktober 2011. Ansökningsblankett hittas på nedanstående länk.</p>
+<p>I utgångsläget planeras alla fysiska träffar (6 st) i Härnösand. Det finns en viss möjlighet att någon eller några av träffarna kan vara i Jokkmokk om extern finansiering kan hittas.</p>
+<p>Mer information om den samiska tolkutbildningen hittar Du på hemsidan till Härnösands folkhögskola, se länk nedan. De sökande kommer att kallas till språktest under senare delen av 2011 i Härnösand, 7 november 2011 i Härnösand. denan testdag är obligatorisk för de sökande.</p>
+<p>Mer information om utbildningen</p>
+<p>För frågor kontakta:</p>
+<p><em type="bold">Olga Lysova </em>Kursföreståndare Härnösands folkhögskola 0611-558591 olga.lysova.hf(a)folkbildning.net </p>
+<p><em type="bold">Britt-Inger Tuorda </em>Rektor rektor(a)samernas.se , 0971-44 002 </p>
+</body></document>

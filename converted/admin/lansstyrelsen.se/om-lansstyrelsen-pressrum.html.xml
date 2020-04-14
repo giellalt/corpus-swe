@@ -1,81 +1,52 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>393</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/pressrum/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="om-lansstyrelsen-pressrum.html"/>
-    <parallel_text xml:lang="sma" location="om-lansstyrelsen-pressrum.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>pressrum</p>
-    <list/>
-    <p type="title">Pressrum</p>
-    <p type="title">Vi arbetar med pressfrågor på Länsstyrelsen</p>
-    <list/>
-    <p>
-      <em type="italic">Att sprida information till medborgarna och medierna är en viktig uppgift för oss. Webbplatsen och våra pressmeddelanden är ett sätt att ge medierna service och medborgarna insyn i vårt arbete. I vårt diarium kan du som journalist också följa vårt arbete. </em>
-    </p>
-    <p>I vår kalender lägger vi upp olika aktiviteter som rör Länsstyrelsens verksamhet.</p>
-    <p>I nyhetsarkivet samlas Länsstyrelsens alla nyheter och pressmeddelanden. Varje pressmeddelande har minst en kontaktperson som kan ge ytterligare information.</p>
-    <p>Följ oss gärna på vår Facebook-sida. Där lägger vi upp både stora och små nyheter. På Maria Norrfalks Facebook-sida får du följa vår landshövdings arbete.</p>
-    <p type="title">Vi hjälper dig att hitta rätt person</p>
-    <p>Har du frågor om något i diariet eller vill ha tag på en expert inom något område? Kontakta gärna oss på kommunikationsfunktionen. Våra telefonnummer står härintill.</p>
-    <p>Om vi är upptagna och inte svarar på mobiltelefon, skicka gärna ett SMS med ditt namn och nummer så hör av vi av oss så fort vi kan (OBS, fungerar inte till 010-numren).</p>
-    <p type="title">Söker du pressbilder eller vår logotyp?</p>
-    <p>Vi delar gärna med oss av våra egna bilder om du frågar. Däremot kan ni inte återpublicera bilder från vår webb eller vår Facebooksida hur som helst på grund av upphovsrätt. Om du behöver pressbilder, kontakta oss på info.dalarna@lansstyrelsen.se .</p>
-    <p>Ska du använda vår logotyp? Kontakta kommunikationsfunktionen på info.dalarna@lansstyrelsen.se .</p>
-    <p type="title">Pressmeddelanden</p>
-    <list>
-      <p type="listitem">Länsstyrelsen Dalarna tar ett nytt beslut om licensjakt på varg 2015-01-16</p>
-      <p type="listitem">Länsstyrelsen Dalarna förbereder nytt beslut om vargjakt 2015-01-15</p>
-      <p type="listitem">Resfria möten sparar pengar och miljö 2014-12-19</p>
-      <p type="listitem">Beslut om utvidgat strandskydd i Avesta, Gagnef, Hedemora, Leksand, Ludvika och Mora 2014-12-18</p>
-      <p type="listitem">Tre nya dalapiloter utsedda 2014-12-10</p>
-    </list>
-    <p>Alla nyheter</p>
-    <p type="title">Kontakta oss</p>
-    <p>Lotta Larson</p>
-    <p>Kommunikationschef</p>
-    <p>lotta punkt larson snabela lansstyrelsen punkt se¤lotta punkt larson snabela lansstyrelsen punkt se</p>
-    <p>010-2250204</p>
-    <p>076-7667980</p>
-    <p>Jenny Eldh</p>
-    <p>Kommunikatör</p>
-    <p>jenny punkt eldh snabela lansstyrelsen punkt se¤jenny punkt eldh snabela lansstyrelsen punkt se</p>
-    <p>010-2250494</p>
-    <p>072-2140110</p>
-    <p>Irene Svedjelöv</p>
-    <p>Kommunikatör</p>
-    <p>Irene punkt Svedjelov snabela lansstyrelsen punkt se¤Irene punkt Svedjelov snabela lansstyrelsen punkt se</p>
-    <p>010-2250203</p>
-    <p>073-8131367</p>
-    <p>Leif Helldal</p>
-    <p>Kommunikatör</p>
-    <p>Leif punkt Helldal snabela lansstyrelsen punkt se¤Leif punkt Helldal snabela lansstyrelsen punkt se</p>
-    <p>010-2250338</p>
-    <p>072-2276944</p>
-    <p>Information Länsstyrelsen Dalarna</p>
-    <p>info punkt dalarna snabela lansstyrelsen punkt se¤info punkt dalarna snabela lansstyrelsen punkt se</p>
-    <p>010 225 00 00</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>393</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/pressrum/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="om-lansstyrelsen-pressrum.html"/><parallel_text xml:lang="sma" location="om-lansstyrelsen-pressrum.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>pressrum</p>
+<list/><p type="title">Pressrum</p>
+<p type="title">Vi arbetar med pressfrågor på Länsstyrelsen</p>
+<list/><p><em type="italic">Att sprida information till medborgarna och medierna är en viktig uppgift för oss. Webbplatsen och våra pressmeddelanden är ett sätt att ge medierna service och medborgarna insyn i vårt arbete. I vårt diarium kan du som journalist också följa vårt arbete. </em></p>
+<p>I vår kalender lägger vi upp olika aktiviteter som rör Länsstyrelsens verksamhet.</p>
+<p>I nyhetsarkivet samlas Länsstyrelsens alla nyheter och pressmeddelanden. Varje pressmeddelande har minst en kontaktperson som kan ge ytterligare information.</p>
+<p>Följ oss gärna på vår Facebook-sida. Där lägger vi upp både stora och små nyheter. På Maria Norrfalks Facebook-sida får du följa vår landshövdings arbete.</p>
+<p type="title">Vi hjälper dig att hitta rätt person</p>
+<p>Har du frågor om något i diariet eller vill ha tag på en expert inom något område? Kontakta gärna oss på kommunikationsfunktionen. Våra telefonnummer står härintill.</p>
+<p>Om vi är upptagna och inte svarar på mobiltelefon, skicka gärna ett SMS med ditt namn och nummer så hör av vi av oss så fort vi kan (OBS, fungerar inte till 010-numren).</p>
+<p type="title">Söker du pressbilder eller vår logotyp?</p>
+<p>Vi delar gärna med oss av våra egna bilder om du frågar. Däremot kan ni inte återpublicera bilder från vår webb eller vår Facebooksida hur som helst på grund av upphovsrätt. Om du behöver pressbilder, kontakta oss på info.dalarna@lansstyrelsen.se .</p>
+<p>Ska du använda vår logotyp? Kontakta kommunikationsfunktionen på info.dalarna@lansstyrelsen.se .</p>
+<p type="title">Pressmeddelanden</p>
+<list><p type="listitem">Länsstyrelsen Dalarna tar ett nytt beslut om licensjakt på varg 2015-01-16</p>
+<p type="listitem">Länsstyrelsen Dalarna förbereder nytt beslut om vargjakt 2015-01-15</p>
+<p type="listitem">Resfria möten sparar pengar och miljö 2014-12-19</p>
+<p type="listitem">Beslut om utvidgat strandskydd i Avesta, Gagnef, Hedemora, Leksand, Ludvika och Mora 2014-12-18</p>
+<p type="listitem">Tre nya dalapiloter utsedda 2014-12-10</p>
+</list><p>Alla nyheter</p>
+<p type="title">Kontakta oss</p>
+<p>Lotta Larson</p>
+<p>Kommunikationschef</p>
+<p>lotta punkt larson snabela lansstyrelsen punkt se¤lotta punkt larson snabela lansstyrelsen punkt se</p>
+<p>010-2250204</p>
+<p>076-7667980</p>
+<p>Jenny Eldh</p>
+<p>Kommunikatör</p>
+<p>jenny punkt eldh snabela lansstyrelsen punkt se¤jenny punkt eldh snabela lansstyrelsen punkt se</p>
+<p>010-2250494</p>
+<p>072-2140110</p>
+<p>Irene Svedjelöv</p>
+<p>Kommunikatör</p>
+<p>Irene punkt Svedjelov snabela lansstyrelsen punkt se¤Irene punkt Svedjelov snabela lansstyrelsen punkt se</p>
+<p>010-2250203</p>
+<p>073-8131367</p>
+<p>Leif Helldal</p>
+<p>Kommunikatör</p>
+<p>Leif punkt Helldal snabela lansstyrelsen punkt se¤Leif punkt Helldal snabela lansstyrelsen punkt se</p>
+<p>010-2250338</p>
+<p>072-2276944</p>
+<p>Information Länsstyrelsen Dalarna</p>
+<p>info punkt dalarna snabela lansstyrelsen punkt se¤info punkt dalarna snabela lansstyrelsen punkt se</p>
+<p>010 225 00 00</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

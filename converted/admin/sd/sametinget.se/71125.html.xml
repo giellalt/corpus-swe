@@ -1,33 +1,9 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>197</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/71125</origFileName>
-    <parallel_text xml:lang="sme" location="71249.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samisk förskoleverksamhet är underfinansierad - Sametinget</p>
-    <p type="title">Samisk förskoleverksamhet är underfinansierad</p>
-    <p>Sametingets språknämnd är bekymrad över neddragningar på den samiska förskolan Skierri i Gällivare och att samisktalande pedagoger för närvarande saknas. Språknämndens ordförande ser det som ett exempel på att finansieringen för samisk utbildning inte är anpassad för de särskilda förutsättningar som verksamheten innebär.</p>
-    <p><em type="italic">Sametingets språknämnd </em>diskuterade vid sitt senaste sammanträde den aktuella situationen på den samiska förskolan Skierri i Gällivare. Nämnden ser med oro på händelseutvecklingen då det för närvarande saknas samiskspråkig pedagogisk verksamhet. Språknämnden anser att samiska barns rätt till eget språk är viktig att försvara. </p>
-    <p><em type="italic">Den uppkomna situationen </em>strider mot minoritetsspråkslagens intentioner. De ekonomiska villkoren för att tillhandahålla samisk förskola tar inte i tillräcklig omfattning hänsyn till de särskilda omständigheter som måste beaktas när det gäller samiska förhållanden. </p>
-    <p><em type="italic">- Det här är tyvärr ett exempel </em>som visar att finansieringen för samisk utbildning inte är anpassad för våra förutsättningar, säger Språknämndens ordförande Josefina Skerk. Man kan inte dela personal med andra förskolor, barngrupperna är ofta små och verksamheten kostar mer. Om Sverige menar allvar med att stödja en revitalisering av samiska behövs helt enkelt mer resurser, påpekar Skerk. </p>
-    <p>
-      <em type="bold">Kontakt: </em>
-    </p>
-    <p>Josefina Skerk, Språknämndens ordförande 070-582 21 21</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>197</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/71125</origFileName><parallel_text xml:lang="sme" location="71249.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samisk förskoleverksamhet är underfinansierad - Sametinget</p>
+<p type="title">Samisk förskoleverksamhet är underfinansierad</p>
+<p>Sametingets språknämnd är bekymrad över neddragningar på den samiska förskolan Skierri i Gällivare och att samisktalande pedagoger för närvarande saknas. Språknämndens ordförande ser det som ett exempel på att finansieringen för samisk utbildning inte är anpassad för de särskilda förutsättningar som verksamheten innebär.</p>
+<p><em type="italic">Sametingets språknämnd </em>diskuterade vid sitt senaste sammanträde den aktuella situationen på den samiska förskolan Skierri i Gällivare. Nämnden ser med oro på händelseutvecklingen då det för närvarande saknas samiskspråkig pedagogisk verksamhet. Språknämnden anser att samiska barns rätt till eget språk är viktig att försvara. </p>
+<p><em type="italic">Den uppkomna situationen </em>strider mot minoritetsspråkslagens intentioner. De ekonomiska villkoren för att tillhandahålla samisk förskola tar inte i tillräcklig omfattning hänsyn till de särskilda omständigheter som måste beaktas när det gäller samiska förhållanden. </p>
+<p><em type="italic">- Det här är tyvärr ett exempel </em>som visar att finansieringen för samisk utbildning inte är anpassad för våra förutsättningar, säger Språknämndens ordförande Josefina Skerk. Man kan inte dela personal med andra förskolor, barngrupperna är ofta små och verksamheten kostar mer. Om Sverige menar allvar med att stödja en revitalisering av samiska behövs helt enkelt mer resurser, påpekar Skerk. </p>
+<p><em type="bold">Kontakt: </em></p>
+<p>Josefina Skerk, Språknämndens ordförande 070-582 21 21</p>
+</body></document>

@@ -1,44 +1,22 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>407</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/3428</origFileName>
-    <parallel_text xml:lang="sme" location="3429.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Urfolksdimension saknas i ny nationalparksplan - Sametinget</p>
-    <p type="title">Urfolksdimension saknas i ny nationalparksplan</p>
-    <p>Det finns en acceptans i det samiska samhället för nationalparker för att skydda naturen och den biologiska mångfalden. Samerna vill vara mer delaktiga i förvaltningen av nationalparksområdena i de traditionella sameområdena. &#13; Det är några av synpunkterna som Sametinget har med anledning av Naturvårdsverkets förslag till ny nationalparksplan.</p>
-    <p>Generellt finns det inte någon större motvilja bland samer mot införandet av nationalparker, även om det finns undantag.</p>
-    <p>-	De som har kunskaper om natur och dess bevarandevärden har lättare att acceptera naturskydd och inskränkningar i markanvändningen, förklarar Lars-Anders Baer som är styrelseordförande i Sametinget.</p>
-    <p>Kolonialistisk förhistoria</p>
-    <p>Sametinget har däremot stora invändningar mot nationalparkernas ideologiska och strukturella förankring, eftersom någon riktig uppgörelse av den svenska naturvårdens kolonialistiska förhistoria i sameområdet ännu inte har gjorts.</p>
-    <p>Samisk dimension saknas</p>
-    <p>Med tanke på att de första svenska nationalparkerna etablerades i Sápmi, och att huvuddelen av nationalparkerna arealmässigt finns i det traditionella sameområdet, borde det finnas en samisk dimension i motivbilden, anser Baer.</p>
-    <p>Större ansvar</p>
-    <p>Traditionell kunskap och sedvänjor inom den samiska kulturen måste integreras i förvaltningsstrukturen. Utvecklingen inom folkrätten talar för att samerna skall få ett större ansvar och bli mer delaktiga i förvaltningen av mark inom de traditionella sameområdena.</p>
-    <p>Internationella rekommendationer</p>
-    <p>I Agenda 21 antagen av Riokonferensen 1992 uttalas explicit att urfolk ska bli delaktiga i förvaltningen av naturresurser i sina traditionella områden. Sverige har anslutit sig till principerna i Agenda 21-dokumentet. Internationella naturvårdsunionen (IUNC) har i ett antal rekommendationer uttalat vikten av att ursprungsfolk garanteras delaktighet och inflytande i förvaltning av bl.a. nationalparker.  &#13; &#13; I Australien, Kanada, Nya Zeeland och USA finns nationalparker i urfolksområden där ursprungsfolken i högsta grad är delaktiga i förvaltningen och i vissa fall helt ansvarar för nationalparkerna.</p>
-    <p>Avkoloniseringsprocess</p>
-    <p>Världsarvet Laponia och UNESCO:s beskrivning och motiv till varför området fick världsarvsstatus är en bra utgångspunkt i den fortsatta diskussionen.</p>
-    <p>–	De ansatser som nu görs gemensamt av Naturvårdsverket, länsstyrelsen i Norrbottens län och berörda kommuner och samebyar i Laponia kan vara en del av en begynnande avkoloniseringsprocess av svensk naturvård i Sápmi, hoppas Baer.</p>
-    <p>Både ja och nej</p>
-    <p>–	Vi har alltså principiella invändningar emot nationalparkskonceptets tillämpning i same- och renskötselområdet, men vill samtidigt understryka att det finns en acceptans i det samiska samhället för nationalparker för att skydda naturen och den biologiska mångfalden.</p>
-    <p>- Det ligger i linje med det traditionella samiska förhållningssätten till naturen och miljö, avslutar Baer.</p>
-    <p>Kontakt</p>
-    <p>Lars-Anders Baer, 070-316 20 56</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>407</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/3428</origFileName><parallel_text xml:lang="sme" location="3429.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Urfolksdimension saknas i ny nationalparksplan - Sametinget</p>
+<p type="title">Urfolksdimension saknas i ny nationalparksplan</p>
+<p>Det finns en acceptans i det samiska samhället för nationalparker för att skydda naturen och den biologiska mångfalden. Samerna vill vara mer delaktiga i förvaltningen av nationalparksområdena i de traditionella sameområdena. &#13; Det är några av synpunkterna som Sametinget har med anledning av Naturvårdsverkets förslag till ny nationalparksplan.</p>
+<p>Generellt finns det inte någon större motvilja bland samer mot införandet av nationalparker, även om det finns undantag.</p>
+<p>-	De som har kunskaper om natur och dess bevarandevärden har lättare att acceptera naturskydd och inskränkningar i markanvändningen, förklarar Lars-Anders Baer som är styrelseordförande i Sametinget.</p>
+<p>Kolonialistisk förhistoria</p>
+<p>Sametinget har däremot stora invändningar mot nationalparkernas ideologiska och strukturella förankring, eftersom någon riktig uppgörelse av den svenska naturvårdens kolonialistiska förhistoria i sameområdet ännu inte har gjorts.</p>
+<p>Samisk dimension saknas</p>
+<p>Med tanke på att de första svenska nationalparkerna etablerades i Sápmi, och att huvuddelen av nationalparkerna arealmässigt finns i det traditionella sameområdet, borde det finnas en samisk dimension i motivbilden, anser Baer.</p>
+<p>Större ansvar</p>
+<p>Traditionell kunskap och sedvänjor inom den samiska kulturen måste integreras i förvaltningsstrukturen. Utvecklingen inom folkrätten talar för att samerna skall få ett större ansvar och bli mer delaktiga i förvaltningen av mark inom de traditionella sameområdena.</p>
+<p>Internationella rekommendationer</p>
+<p>I Agenda 21 antagen av Riokonferensen 1992 uttalas explicit att urfolk ska bli delaktiga i förvaltningen av naturresurser i sina traditionella områden. Sverige har anslutit sig till principerna i Agenda 21-dokumentet. Internationella naturvårdsunionen (IUNC) har i ett antal rekommendationer uttalat vikten av att ursprungsfolk garanteras delaktighet och inflytande i förvaltning av bl.a. nationalparker.  &#13; &#13; I Australien, Kanada, Nya Zeeland och USA finns nationalparker i urfolksområden där ursprungsfolken i högsta grad är delaktiga i förvaltningen och i vissa fall helt ansvarar för nationalparkerna.</p>
+<p>Avkoloniseringsprocess</p>
+<p>Världsarvet Laponia och UNESCO:s beskrivning och motiv till varför området fick världsarvsstatus är en bra utgångspunkt i den fortsatta diskussionen.</p>
+<p>–	De ansatser som nu görs gemensamt av Naturvårdsverket, länsstyrelsen i Norrbottens län och berörda kommuner och samebyar i Laponia kan vara en del av en begynnande avkoloniseringsprocess av svensk naturvård i Sápmi, hoppas Baer.</p>
+<p>Både ja och nej</p>
+<p>–	Vi har alltså principiella invändningar emot nationalparkskonceptets tillämpning i same- och renskötselområdet, men vill samtidigt understryka att det finns en acceptans i det samiska samhället för nationalparker för att skydda naturen och den biologiska mångfalden.</p>
+<p>- Det ligger i linje med det traditionella samiska förhållningssätten till naturen och miljö, avslutar Baer.</p>
+<p>Kontakt</p>
+<p>Lars-Anders Baer, 070-316 20 56</p>
+</body></document>

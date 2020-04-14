@@ -1,57 +1,29 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>336</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-default.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-default.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-default.html"/>
-    <parallel_text xml:lang="smj" location="nat-min-default.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sveriges nationella minoriteter - Länsstyrelsen i Stockholm</p>
-    <list/>
-    <p type="title">Sveriges nationella minoriteter</p>
-    <p>Dans på romskt kulturcentrum i Stockholm. Foto: Johan Jeppsson</p>
-    <p/>
-    <p><em type="italic">Länsstyrelsen i Stockholms län och Sametinget är sedan den 1 januari 2010 huvudansvariga för att samordna och följa upp hur Sveriges minoritetspolitik genomförs i landet. </em> </p>
-    <p>I december 1999 beslutade riksdagen att Sverige skulle ansluta sig till Europarådets ramkonvention om skydd för nationella minoriteter och den europeiska stadgan om landsdels- eller minoritetsspråk. Riksdagen fattade också beslut om en minoritetspolitik och ett erkännande av fem nationella minoriteter och deras språk (alla varieteter).</p>
-    <p type="title">Sveriges nationella minoriteter och minoritetsspråk</p>
-    <p>De fem erkända nationella minoriteterna i Sverige är judar, romer, samer (som även är ett urfolk), sverigefinnar och tornedalingar. De historiska minoritetsspråken är jiddisch, romani chib, samiska, finska och meänkieli.</p>
-    <p>Gemensamt för minoritetsgrupperna är att de har befolkat Sverige under lång tid samt att de utgör grupper med en uttalad samhörighet. De har även en egen religiös, språklig eller kulturell tillhörighet och en vilja att behålla sin identitet.</p>
-    <p type="title">Regeringens minoritetspolitik</p>
-    <p>Minoritetspolitiken omfattar frågor om skydd och stöd för de nationella minoriteterna och de historiska minoritetsspråken. Att stärka skyddet av de nationella minoriteterna är en del av Sveriges arbete med att värna om de mänskliga rättigheterna.</p>
-    <p type="title">En minoritetspolitisk strategi</p>
-    <p>Under 2009 presenterade regeringen en ny minoritetspolitisk strategi med åtgärder för att stärka de nationella minoriteternas rättigheter ytterligare. Som en del i regeringens strategi gäller också från den 1 januari 2010 en lag om nationella minoriteter och minoritetsspråk. Strategin innehåller en rad förslag för att stärka de nationella minoriteternas rättigheter i praktiken, däribland åtgärder för att:</p>
-    <list>
-      <p type="listitem">säkerställa en bättre efterlevnad av Europarådets minoritetskonventioner och uppföljning av vidtagna åtgärder</p>
-      <p type="listitem">motverka diskriminering och utsatthet av de nationella minoriteterna</p>
-      <p type="listitem">stärka de nationella minoriteternas egenmakt och inflytande</p>
-      <p type="listitem">främja bevarandet av de nationella minoritetsspråken.</p>
-    </list>
-    <p type="title">Kontakta oss</p>
-    <p>Enheten för arbetsmarknads- och rättighetsfrågor (minoritetsfrågor)</p>
-    <p>stockholm snabela lansstyrelsen punkt se¤stockholm snabela lansstyrelsen punkt se</p>
-    <p>010-223 10 00</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>336</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/Pages/default.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-default.html"/><parallel_text xml:lang="sma" location="nat-min-default.html"/><parallel_text xml:lang="sme" location="nat-min-default.html"/><parallel_text xml:lang="smj" location="nat-min-default.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sveriges nationella minoriteter - Länsstyrelsen i Stockholm</p>
+<list/><p type="title">Sveriges nationella minoriteter</p>
+<p>Dans på romskt kulturcentrum i Stockholm. Foto: Johan Jeppsson</p>
+<p/>
+<p><em type="italic">Länsstyrelsen i Stockholms län och Sametinget är sedan den 1 januari 2010 huvudansvariga för att samordna och följa upp hur Sveriges minoritetspolitik genomförs i landet. </em> </p>
+<p>I december 1999 beslutade riksdagen att Sverige skulle ansluta sig till Europarådets ramkonvention om skydd för nationella minoriteter och den europeiska stadgan om landsdels- eller minoritetsspråk. Riksdagen fattade också beslut om en minoritetspolitik och ett erkännande av fem nationella minoriteter och deras språk (alla varieteter).</p>
+<p type="title">Sveriges nationella minoriteter och minoritetsspråk</p>
+<p>De fem erkända nationella minoriteterna i Sverige är judar, romer, samer (som även är ett urfolk), sverigefinnar och tornedalingar. De historiska minoritetsspråken är jiddisch, romani chib, samiska, finska och meänkieli.</p>
+<p>Gemensamt för minoritetsgrupperna är att de har befolkat Sverige under lång tid samt att de utgör grupper med en uttalad samhörighet. De har även en egen religiös, språklig eller kulturell tillhörighet och en vilja att behålla sin identitet.</p>
+<p type="title">Regeringens minoritetspolitik</p>
+<p>Minoritetspolitiken omfattar frågor om skydd och stöd för de nationella minoriteterna och de historiska minoritetsspråken. Att stärka skyddet av de nationella minoriteterna är en del av Sveriges arbete med att värna om de mänskliga rättigheterna.</p>
+<p type="title">En minoritetspolitisk strategi</p>
+<p>Under 2009 presenterade regeringen en ny minoritetspolitisk strategi med åtgärder för att stärka de nationella minoriteternas rättigheter ytterligare. Som en del i regeringens strategi gäller också från den 1 januari 2010 en lag om nationella minoriteter och minoritetsspråk. Strategin innehåller en rad förslag för att stärka de nationella minoriteternas rättigheter i praktiken, däribland åtgärder för att:</p>
+<list><p type="listitem">säkerställa en bättre efterlevnad av Europarådets minoritetskonventioner och uppföljning av vidtagna åtgärder</p>
+<p type="listitem">motverka diskriminering och utsatthet av de nationella minoriteterna</p>
+<p type="listitem">stärka de nationella minoriteternas egenmakt och inflytande</p>
+<p type="listitem">främja bevarandet av de nationella minoritetsspråken.</p>
+</list><p type="title">Kontakta oss</p>
+<p>Enheten för arbetsmarknads- och rättighetsfrågor (minoritetsfrågor)</p>
+<p>stockholm snabela lansstyrelsen punkt se¤stockholm snabela lansstyrelsen punkt se</p>
+<p>010-223 10 00</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

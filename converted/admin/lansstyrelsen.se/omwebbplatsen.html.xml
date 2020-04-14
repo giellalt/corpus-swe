@@ -1,105 +1,60 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1055</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Teckensprak/Pages/OmWebbplatsen.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="omwebbplatsen.html"/>
-    <parallel_text xml:lang="fin" location="omwebbplatsen.html"/>
-    <parallel_text xml:lang="fit" location="omwebbplatsen.html"/>
-    <parallel_text xml:lang="sma" location="omwebbplatsen.html"/>
-    <parallel_text xml:lang="sme" location="omwebbplatsen.html"/>
-    <parallel_text location="omwebbplatsen.html" xml:lang="rmu"/>
-    <parallel_text location="omwebbplatsen.html" xml:lang="rmy-rka"/>
-    <parallel_text location="omwebbplatsen.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="omwebbplatsen.html" xml:lang="rmf"/>
-    <parallel_text location="omwebbplatsen.html" xml:lang="rmn"/>
-    <parallel_text location="omwebbplatsen.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Om webbplatsen - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Om webbplatsen</p>
-    <p>
-      <em type="italic">Länsstyrelsens webbplats ska hjälpa dig som besökare att hitta information om vad Länsstyrelsen gör och hur det påverkar dig och samhället runt omkring dig. Webbplatsen är framtagen i samarbete med de andra länsstyrelserna i Sverige. </em>
-    </p>
-    <p type="title">Olika sätt att hitta på webbplatsen</p>
-    <p>På startsidan hittar du en toppmeny där den mesta informationen om vår verksamhet finns. På startsidan finns även ingångar till tillstånd, bidrag och stöd, blanketter och publikationer samt aktuella frågor och nyheter.</p>
-    <p type="title">Innehåll A-Ö</p>
-    <p>Sökord i alfabetisk ordning - sådant som vi vet att många vill hitta på vår webbplats. Om du till exempel letar efter Buller så ska du klicka på bokstaven B.</p>
-    <p type="title">Sökfunktion</p>
-    <p>I sidhuvudet finns en sökruta där du kan skriva in valfritt ord, sökningen görs på hela webbplatsen. Den ger träffar på alla typer av innehåll.</p>
-    <p type="title">Webbkarta</p>
-    <p>Visar den hierarkiska strukturen.</p>
-    <p type="title">Prenumerera (RSS)</p>
-    <p>Genom att använda dig av RSS kan du på ett enkelt och smidigt sätt få veta när vi har uppdaterade nyheter. RSS är ett standardformat för att leverera rubriker och sammanfattningar i ett flöde till mottagaren.</p>
-    <p type="title">Kom igång med RSS</p>
-    <p>För att kunna få meddelanden om att vi har gett ut till exempel ett nytt pressmeddelande, behöver du antingen ett speciellt program kallad RSS-läsare eller en webbaserad RSS-tjänst, oftast en webbläsare som Internet Explorer eller Safari. RSS-läsare och RSS-tjänster kontrollerar automatiskt de RSS-flöden du valt att prenumerera på och presenterar nya inlägg på ett överskådligt sätt. Du behöver med andra ord inte aktivt söka upp webbsidor för att se vad som är uppdaterat om du har valt att prenumerera på ett RSS-flöde.</p>
-    <p>Det finns ett flertal gratisvarianter för både PC och Mac.</p>
-    <p type="title">Dela informationen</p>
-    <p>På alla undersidor på webbplatsen finns en funktion för att dela informationen på sidan i sociala medier. Funktionen ligger nedanför sidans rubrik till höger om Skriv ut.</p>
-    <p type="title">Tillgänglighet</p>
-    <p>Länsstyrelsens webbplats följer så långt det är möjligt de riktlinjer som finns för tillgänglighet på webben. Vi har använt E-delegationens Vägledning för webbutveckling och utgår från Web Content Accessibility Guidelines (WCAG) 2.0.</p>
-    <p type="title">Anpassa webbplatsen</p>
-    <p>Webbplatsen har ingen egen Anpassa-funktion eftersom anpassningarna riskerar att störa användarens egna inställningar. Det är lätt att anpassa webbläsarens egna inställningar så att du till exempel kan få högre kontrast eller större text.</p>
-    <p type="title">Uppläsningstjänst -Talande webb plus</p>
-    <p>Genom att aktivera verktyget Talande Webb Plus kan du få text uppläst och visuellt markerad.</p>
-    <p>Talande webb - mer information finns på Funkaportalen</p>
-    <p>Aktivera talande webb</p>
-    <p type="title">Rekommenderade webbläsare</p>
-    <p>Vår webbplats fungerar bra i moderna webbläsare, som stöder webbstandarder satta av W3C. Det är till exempel nyare versioner av Firefox, Safari, Internet Explorer, Opera och Google Chrome.</p>
-    <p type="title">Så används kakor (cookies) på länsstyrelsernas webbplatser</p>
-    <p>På länsstyrelsens webbplats används kakor (cookies). Kakor är små textfiler som lagras på besökarens dator. Länsstyrelsen använder kakor för att förbättra webbplatsen för besökaren bland annat genom att vi för anonym statistik. Ingen personlig information, som e-post eller namn, sparas om besökaren.</p>
-    <p>Den 25 juli 2003 trädde lagen om elektronisk kommunikation i kraft. Enligt den måste vi informera om:</p>
-    <list>
-      <p type="listitem">att webbplatsen innehåller cookies,</p>
-      <p type="listitem">vad dessa cookies används till och</p>
-      <p type="listitem">hur cookies kan undvikas.</p>
-    </list>
-    <p>Det finns två typer av kakor:</p>
-    <list>
-      <p type="listitem">En permanent cookie ligger kvar på besökarens dator under en bestämd tid. Den används till exempel vid funktioner som talar om vad som är nytt sedan användaren senast besökte den aktuella webbplatsen eller anpassningar gjorda av besökaren.</p>
-      <p type="listitem">En sessionscookie lagras tillfälligt i datorns minne under tiden en besökare är inne på en webbsida. Sessioncookies försvinner när du stänger din webbläsare. Om du inte accepterar att cookies används kan du stänga av cookies i din webbläsares säkerhetsinställningar.</p>
-    </list>
-    <p type="title">Stänga av kak-funktionen</p>
-    <p>Om du inte accepterar användandet av kakor kan du ändra inställningar i din webbläsare så att den inte tillåter kakor. Detta kan dock medföra att du inte kan använda våra sidor med full funktionalitet.</p>
-    <p type="title">Så använder vi kakor</p>
-    <p>Här följer en beskrivning av de kakor och den information som lagras på din dator när du besöker länsstyrelsernas webbplatser:</p>
-    <p>
-      <em type="italic">Google Analytics </em>
-    </p>
-    <p>Namn: __utma Permanent kaka från webbstatistiksystemet Google Analytics som används för att beräkna antalet unika besökare på webbplatsen. Domännamn: lansstyrelsen.se Data: antal besök, tider för första besök, föregående besök och när nuvarande besök påbörjades samt tidpunkten för sista interaktionen med webbplatsen. Delar av informationen uppdateras vid varje sidvisning. Ingen personlig information sparas. Kakan förfaller två år från det att den sattes eller senast uppdaterades.</p>
-    <p>Namn: __utmb Sessionskaka från webbstatistiksystemet Google Analytics som används för att beräkna antal besök på webbplatsen. Domännamn: lansstyrelsen.se Data: unikt nummer, antal sidor som visats under nuvarande besök, tid när nuvarande besök påbörjades. Delar av informationen uppdateras vid varje sidvisning. Ingen personlig information sparas. Kakan förfaller 30 minuter från det att den sattes eller senast uppdaterades.</p>
-    <p>Namn: __utmc Sessionskaka från webbstatistiksystemet Google Analytics som används med kakan __utmb för att räkna ut om ett nytt besök görs på webbplatsen (30 minuters inaktivitet räknas som ett nytt besök i Google Analytics). Domännamn: lansstyrelsen.se Data: unikt nummer Kakan förfaller när webbläsaren stängs.</p>
-    <p>Namn: __utmz Permanent kaka från webbstatistiksystemet Google Analytics som används för att mäta trafikkällor och navigering på webbplatsen (exempelvis vilken sökmotor som används för att komma in på webbplatsen). Domännamn: lansstyrelsen.se Data: unikt nummer, tid för klick från trafikkälla, räknare för trafikkälla samt namn på/typ av trafikkälla, sökord från externa sökmotorer. Kakan förfaller sex månader efter att den sattes eller senast uppdaterades.</p>
-    <p>
-      <em type="italic">Addthis (Dela funktionen) </em>
-    </p>
-    <p>Namn: psc, uid, uvc Används för att beräkna användningen av tjänsten addthis.com. Tjänsten gör det möjligt för besökare att dela länkar till sociala medier. Domännamn:addthis.com</p>
-    <p>
-      <em type="italic">Lastbalansering av webbservrar </em>
-    </p>
-    <p>Namn: LANSSTYRELSEN_ACE Sessionskaka som används för fördela trafiken mellan de webbservrar som vi har. Domännamn: lansstyrelsen.se Kakan förfaller 20 minuter från det att den sattes eller senast uppdaterades</p>
-    <p type="title">Läsprogram för pdf-dokument</p>
-    <p>Vissa dokument på webbplatsen är sparade i Portable Document Format (PDF) och för att läsa dem behöver du Adobe Acrobat Reader, som du gratis kan ladda hem från Adobe.</p>
-    <p type="title">Juridisk information</p>
-    <p type="title">Ändamål för behandling</p>
-    <p>Länsstyrelsen får tillgång till dina personuppgifter när du anmäler dig till en konferens eller liknande, beställer en publikation eller skickar e-post till myndigheten.</p>
-    <p type="title">Offentlighetsprincipen</p>
-    <p>Länsstyrelserna är en statlig myndighet. Detta innebär att meddelanden som skickas till oss blir allmänna handlingar, som kan komma att lämnas ut enligt offentlighetsprincipen.</p>
-    <p type="title">Användning av material, upphovsrätt</p>
-    <p>Länsstyrelsernas webbplatser innehåller texter, kartor, bilder och illustrationer som är upphovsrättsskyddade och får inte användas utan tillstånd. Detsamma gäller våra logotyper.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1055</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Teckensprak/Pages/OmWebbplatsen.aspx</origFileName><parallel_text xml:lang="eng" location="omwebbplatsen.html"/><parallel_text xml:lang="fin" location="omwebbplatsen.html"/><parallel_text xml:lang="fit" location="omwebbplatsen.html"/><parallel_text xml:lang="sma" location="omwebbplatsen.html"/><parallel_text xml:lang="sme" location="omwebbplatsen.html"/><parallel_text location="omwebbplatsen.html" xml:lang="rmu"/><parallel_text location="omwebbplatsen.html" xml:lang="rmy-rka"/><parallel_text location="omwebbplatsen.html" xml:lang="rmy-rlo"/><parallel_text location="omwebbplatsen.html" xml:lang="rmf"/><parallel_text location="omwebbplatsen.html" xml:lang="rmn"/><parallel_text location="omwebbplatsen.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Om webbplatsen - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Om webbplatsen</p>
+<p><em type="italic">Länsstyrelsens webbplats ska hjälpa dig som besökare att hitta information om vad Länsstyrelsen gör och hur det påverkar dig och samhället runt omkring dig. Webbplatsen är framtagen i samarbete med de andra länsstyrelserna i Sverige. </em></p>
+<p type="title">Olika sätt att hitta på webbplatsen</p>
+<p>På startsidan hittar du en toppmeny där den mesta informationen om vår verksamhet finns. På startsidan finns även ingångar till tillstånd, bidrag och stöd, blanketter och publikationer samt aktuella frågor och nyheter.</p>
+<p type="title">Innehåll A-Ö</p>
+<p>Sökord i alfabetisk ordning - sådant som vi vet att många vill hitta på vår webbplats. Om du till exempel letar efter Buller så ska du klicka på bokstaven B.</p>
+<p type="title">Sökfunktion</p>
+<p>I sidhuvudet finns en sökruta där du kan skriva in valfritt ord, sökningen görs på hela webbplatsen. Den ger träffar på alla typer av innehåll.</p>
+<p type="title">Webbkarta</p>
+<p>Visar den hierarkiska strukturen.</p>
+<p type="title">Prenumerera (RSS)</p>
+<p>Genom att använda dig av RSS kan du på ett enkelt och smidigt sätt få veta när vi har uppdaterade nyheter. RSS är ett standardformat för att leverera rubriker och sammanfattningar i ett flöde till mottagaren.</p>
+<p type="title">Kom igång med RSS</p>
+<p>För att kunna få meddelanden om att vi har gett ut till exempel ett nytt pressmeddelande, behöver du antingen ett speciellt program kallad RSS-läsare eller en webbaserad RSS-tjänst, oftast en webbläsare som Internet Explorer eller Safari. RSS-läsare och RSS-tjänster kontrollerar automatiskt de RSS-flöden du valt att prenumerera på och presenterar nya inlägg på ett överskådligt sätt. Du behöver med andra ord inte aktivt söka upp webbsidor för att se vad som är uppdaterat om du har valt att prenumerera på ett RSS-flöde.</p>
+<p>Det finns ett flertal gratisvarianter för både PC och Mac.</p>
+<p type="title">Dela informationen</p>
+<p>På alla undersidor på webbplatsen finns en funktion för att dela informationen på sidan i sociala medier. Funktionen ligger nedanför sidans rubrik till höger om Skriv ut.</p>
+<p type="title">Tillgänglighet</p>
+<p>Länsstyrelsens webbplats följer så långt det är möjligt de riktlinjer som finns för tillgänglighet på webben. Vi har använt E-delegationens Vägledning för webbutveckling och utgår från Web Content Accessibility Guidelines (WCAG) 2.0.</p>
+<p type="title">Anpassa webbplatsen</p>
+<p>Webbplatsen har ingen egen Anpassa-funktion eftersom anpassningarna riskerar att störa användarens egna inställningar. Det är lätt att anpassa webbläsarens egna inställningar så att du till exempel kan få högre kontrast eller större text.</p>
+<p type="title">Uppläsningstjänst -Talande webb plus</p>
+<p>Genom att aktivera verktyget Talande Webb Plus kan du få text uppläst och visuellt markerad.</p>
+<p>Talande webb - mer information finns på Funkaportalen</p>
+<p>Aktivera talande webb</p>
+<p type="title">Rekommenderade webbläsare</p>
+<p>Vår webbplats fungerar bra i moderna webbläsare, som stöder webbstandarder satta av W3C. Det är till exempel nyare versioner av Firefox, Safari, Internet Explorer, Opera och Google Chrome.</p>
+<p type="title">Så används kakor (cookies) på länsstyrelsernas webbplatser</p>
+<p>På länsstyrelsens webbplats används kakor (cookies). Kakor är små textfiler som lagras på besökarens dator. Länsstyrelsen använder kakor för att förbättra webbplatsen för besökaren bland annat genom att vi för anonym statistik. Ingen personlig information, som e-post eller namn, sparas om besökaren.</p>
+<p>Den 25 juli 2003 trädde lagen om elektronisk kommunikation i kraft. Enligt den måste vi informera om:</p>
+<list><p type="listitem">att webbplatsen innehåller cookies,</p>
+<p type="listitem">vad dessa cookies används till och</p>
+<p type="listitem">hur cookies kan undvikas.</p>
+</list><p>Det finns två typer av kakor:</p>
+<list><p type="listitem">En permanent cookie ligger kvar på besökarens dator under en bestämd tid. Den används till exempel vid funktioner som talar om vad som är nytt sedan användaren senast besökte den aktuella webbplatsen eller anpassningar gjorda av besökaren.</p>
+<p type="listitem">En sessionscookie lagras tillfälligt i datorns minne under tiden en besökare är inne på en webbsida. Sessioncookies försvinner när du stänger din webbläsare. Om du inte accepterar att cookies används kan du stänga av cookies i din webbläsares säkerhetsinställningar.</p>
+</list><p type="title">Stänga av kak-funktionen</p>
+<p>Om du inte accepterar användandet av kakor kan du ändra inställningar i din webbläsare så att den inte tillåter kakor. Detta kan dock medföra att du inte kan använda våra sidor med full funktionalitet.</p>
+<p type="title">Så använder vi kakor</p>
+<p>Här följer en beskrivning av de kakor och den information som lagras på din dator när du besöker länsstyrelsernas webbplatser:</p>
+<p><em type="italic">Google Analytics </em></p>
+<p>Namn: __utma Permanent kaka från webbstatistiksystemet Google Analytics som används för att beräkna antalet unika besökare på webbplatsen. Domännamn: lansstyrelsen.se Data: antal besök, tider för första besök, föregående besök och när nuvarande besök påbörjades samt tidpunkten för sista interaktionen med webbplatsen. Delar av informationen uppdateras vid varje sidvisning. Ingen personlig information sparas. Kakan förfaller två år från det att den sattes eller senast uppdaterades.</p>
+<p>Namn: __utmb Sessionskaka från webbstatistiksystemet Google Analytics som används för att beräkna antal besök på webbplatsen. Domännamn: lansstyrelsen.se Data: unikt nummer, antal sidor som visats under nuvarande besök, tid när nuvarande besök påbörjades. Delar av informationen uppdateras vid varje sidvisning. Ingen personlig information sparas. Kakan förfaller 30 minuter från det att den sattes eller senast uppdaterades.</p>
+<p>Namn: __utmc Sessionskaka från webbstatistiksystemet Google Analytics som används med kakan __utmb för att räkna ut om ett nytt besök görs på webbplatsen (30 minuters inaktivitet räknas som ett nytt besök i Google Analytics). Domännamn: lansstyrelsen.se Data: unikt nummer Kakan förfaller när webbläsaren stängs.</p>
+<p>Namn: __utmz Permanent kaka från webbstatistiksystemet Google Analytics som används för att mäta trafikkällor och navigering på webbplatsen (exempelvis vilken sökmotor som används för att komma in på webbplatsen). Domännamn: lansstyrelsen.se Data: unikt nummer, tid för klick från trafikkälla, räknare för trafikkälla samt namn på/typ av trafikkälla, sökord från externa sökmotorer. Kakan förfaller sex månader efter att den sattes eller senast uppdaterades.</p>
+<p><em type="italic">Addthis (Dela funktionen) </em></p>
+<p>Namn: psc, uid, uvc Används för att beräkna användningen av tjänsten addthis.com. Tjänsten gör det möjligt för besökare att dela länkar till sociala medier. Domännamn:addthis.com</p>
+<p><em type="italic">Lastbalansering av webbservrar </em></p>
+<p>Namn: LANSSTYRELSEN_ACE Sessionskaka som används för fördela trafiken mellan de webbservrar som vi har. Domännamn: lansstyrelsen.se Kakan förfaller 20 minuter från det att den sattes eller senast uppdaterades</p>
+<p type="title">Läsprogram för pdf-dokument</p>
+<p>Vissa dokument på webbplatsen är sparade i Portable Document Format (PDF) och för att läsa dem behöver du Adobe Acrobat Reader, som du gratis kan ladda hem från Adobe.</p>
+<p type="title">Juridisk information</p>
+<p type="title">Ändamål för behandling</p>
+<p>Länsstyrelsen får tillgång till dina personuppgifter när du anmäler dig till en konferens eller liknande, beställer en publikation eller skickar e-post till myndigheten.</p>
+<p type="title">Offentlighetsprincipen</p>
+<p>Länsstyrelserna är en statlig myndighet. Detta innebär att meddelanden som skickas till oss blir allmänna handlingar, som kan komma att lämnas ut enligt offentlighetsprincipen.</p>
+<p type="title">Användning av material, upphovsrätt</p>
+<p>Länsstyrelsernas webbplatser innehåller texter, kartor, bilder och illustrationer som är upphovsrättsskyddade och får inte användas utan tillstånd. Detsamma gäller våra logotyper.</p>
+</body></document>

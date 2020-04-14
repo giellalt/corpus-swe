@@ -1,38 +1,14 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>551</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/70483</origFileName>
-    <parallel_text xml:lang="sme" location="71251.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Årets lägesrapport från Samiskt språkcentrum - Sametinget</p>
-    <p type="title">Årets lägesrapport från Samiskt språkcentrum</p>
-    <p>Årets lägesrapport över de samiska språken i Sverige visar bland annat att barns första läsebok – offentliga skyltar – långsamt synliggör de samiska språken i samhället. Men rätten att få återta och utveckla sin samiska i sin vardagliga lärmiljö är fortfarande inte säkerställd. Dessutom varierar elevers undervisning i både tid, innehåll och kvalitet.</p>
-    <p>Samiskt språkcentrum släpper idag årets lägesrapport över de samiska språken i Sverige. Situationen för de samiska språken beskrivs och värderas och följer Unescos nio kriterier för att kunna bedöma hur hotat ett språk är. I rapporten delges även andra erfarenheter som Språkcentrum erhållit kunskap om.</p>
-    <p><em type="bold">Skyltning </em>Ett område som Språkcentrum särskilt uppmärksammar i årets lägesrapport är skyltning i offentliga miljöer. Möjligheten att använda samiska i offentliga sammanhang har ökat genom <em type="italic">Lagen om nationella minoriteter och minoritetsspråk </em>(SFS 2009:724). Under 2013 har Samiskt språkcentrum i samarbete med <em type="italic">Ájtte Svenskt Fjäll- och Samemuseum </em>och Sametingets språkarbetare initierat ett arbete med att översätta ord för att underlätta skyltning i offentliga sammanhang. </p>
-    <p>- Skyltar på samiska ökar språkens status, men de är även barnens första läsebok, säger Marie Louise Allas, avdelningschef för språk, kultur och information. För många samer är samiska språket en viktig del av självkänslan, den egna identiteten och en del av kulturarvet. Man får inte heller glömma bort att samiskan också är ett modersmål, ett språk som dagligen används i många hem.</p>
-    <p><em type="bold">Sprida kunskap </em>En annan viktig aspekt som lyfts fram i rapporten är behovet av kunskap om revitalisering. För att öka kunskapen om framgångsrika metoder har Samiskt språkcentrum under 2013 publicerat två böcker och ett häfte: en bok om språkspärrsprojektet, en bok i samarbete med Hugo Valentin-centrum i Uppsala, samt ett häfte om språkinlärning med tips om mentorprogrammets metoder. Publikationerna ingår nu som kurslitteratur inom <em type="italic">Sámi allaskuvla/Samiska högskolans </em>och <em type="italic">Sameskolstyrelsens </em>språkbadskurs. </p>
-    <p>Rapporten beskriver att det finns många unga samer som har en positiv attityd till att lära sig och utveckla sin samiska. Det gläder Ingegerd Vannar som är arbetsledare på Samiskt språkcentrum: - Det känns stimulerande att Språkcentrums metodutvecklingsarbete och erfarenheter tillvaratas och efterfrågas inom hela Sápmi, i alla språkområden, säger hon.</p>
-    <p><em type="bold">Sorg och frustration </em>Men allt är inte bara positivt. Det finns många samer som upplever sorg och frustration när de inte får möjlighet att återerövra och utveckla sin samiska trots att de har rätt till det. Sametinget ser ett tydligt behov av att utvidga språkcentrums verksamhet även inom andra språkområden så att revitaliseringen sprids ytterligare. </p>
-    <p><em type="bold">Barns rätt </em>En annan sak som bekymrar är att barns rätt att återta och utveckla sina kunskaper i samiska i sin vardagliga lärmiljö fortfarande inte är säkerställd. Dessutom varierar elevers undervisning i både tid, innehåll och kvalitet. De vanligaste orsakerna till utebliven undervisning kan vara brist på engagemang från huvudmännen, brist på samiska pedagoger eller att läraren erbjuds för få undervisningstimmar. </p>
-    <p><em type="bold">Brist på statistik </em>I Sverige saknas aktuell, relevant statistik om hur många som använder samiska. Utan en detaljerad nulägesbild försvåras arbetet med att planera, genomföra och utvärdera revitaliseringsinsatser. Denna brist i förutsättningar påverkar arbetet på både lång och kort sikt. Samiskt språkcentrum ser därför ett stort behov av en aktuell språkundersökning. </p>
-    <p>
-      <em type="bold">För mer information: </em>
-    </p>
-    <p>Ingegerd Vannar, arbetsledare på Samiskt språkcentrum, tel 0980-780 29 (070-298 16 61) Marie Louise Allas, avdelningschef för språk, kultur och information, tel 0980-681 93</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>551</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/70483</origFileName><parallel_text xml:lang="sme" location="71251.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Årets lägesrapport från Samiskt språkcentrum - Sametinget</p>
+<p type="title">Årets lägesrapport från Samiskt språkcentrum</p>
+<p>Årets lägesrapport över de samiska språken i Sverige visar bland annat att barns första läsebok – offentliga skyltar – långsamt synliggör de samiska språken i samhället. Men rätten att få återta och utveckla sin samiska i sin vardagliga lärmiljö är fortfarande inte säkerställd. Dessutom varierar elevers undervisning i både tid, innehåll och kvalitet.</p>
+<p>Samiskt språkcentrum släpper idag årets lägesrapport över de samiska språken i Sverige. Situationen för de samiska språken beskrivs och värderas och följer Unescos nio kriterier för att kunna bedöma hur hotat ett språk är. I rapporten delges även andra erfarenheter som Språkcentrum erhållit kunskap om.</p>
+<p><em type="bold">Skyltning </em>Ett område som Språkcentrum särskilt uppmärksammar i årets lägesrapport är skyltning i offentliga miljöer. Möjligheten att använda samiska i offentliga sammanhang har ökat genom <em type="italic">Lagen om nationella minoriteter och minoritetsspråk </em>(SFS 2009:724). Under 2013 har Samiskt språkcentrum i samarbete med <em type="italic">Ájtte Svenskt Fjäll- och Samemuseum </em>och Sametingets språkarbetare initierat ett arbete med att översätta ord för att underlätta skyltning i offentliga sammanhang. </p>
+<p>- Skyltar på samiska ökar språkens status, men de är även barnens första läsebok, säger Marie Louise Allas, avdelningschef för språk, kultur och information. För många samer är samiska språket en viktig del av självkänslan, den egna identiteten och en del av kulturarvet. Man får inte heller glömma bort att samiskan också är ett modersmål, ett språk som dagligen används i många hem.</p>
+<p><em type="bold">Sprida kunskap </em>En annan viktig aspekt som lyfts fram i rapporten är behovet av kunskap om revitalisering. För att öka kunskapen om framgångsrika metoder har Samiskt språkcentrum under 2013 publicerat två böcker och ett häfte: en bok om språkspärrsprojektet, en bok i samarbete med Hugo Valentin-centrum i Uppsala, samt ett häfte om språkinlärning med tips om mentorprogrammets metoder. Publikationerna ingår nu som kurslitteratur inom <em type="italic">Sámi allaskuvla/Samiska högskolans </em>och <em type="italic">Sameskolstyrelsens </em>språkbadskurs. </p>
+<p>Rapporten beskriver att det finns många unga samer som har en positiv attityd till att lära sig och utveckla sin samiska. Det gläder Ingegerd Vannar som är arbetsledare på Samiskt språkcentrum: - Det känns stimulerande att Språkcentrums metodutvecklingsarbete och erfarenheter tillvaratas och efterfrågas inom hela Sápmi, i alla språkområden, säger hon.</p>
+<p><em type="bold">Sorg och frustration </em>Men allt är inte bara positivt. Det finns många samer som upplever sorg och frustration när de inte får möjlighet att återerövra och utveckla sin samiska trots att de har rätt till det. Sametinget ser ett tydligt behov av att utvidga språkcentrums verksamhet även inom andra språkområden så att revitaliseringen sprids ytterligare. </p>
+<p><em type="bold">Barns rätt </em>En annan sak som bekymrar är att barns rätt att återta och utveckla sina kunskaper i samiska i sin vardagliga lärmiljö fortfarande inte är säkerställd. Dessutom varierar elevers undervisning i både tid, innehåll och kvalitet. De vanligaste orsakerna till utebliven undervisning kan vara brist på engagemang från huvudmännen, brist på samiska pedagoger eller att läraren erbjuds för få undervisningstimmar. </p>
+<p><em type="bold">Brist på statistik </em>I Sverige saknas aktuell, relevant statistik om hur många som använder samiska. Utan en detaljerad nulägesbild försvåras arbetet med att planera, genomföra och utvärdera revitaliseringsinsatser. Denna brist i förutsättningar påverkar arbetet på både lång och kort sikt. Samiskt språkcentrum ser därför ett stort behov av en aktuell språkundersökning. </p>
+<p><em type="bold">För mer information: </em></p>
+<p>Ingegerd Vannar, arbetsledare på Samiskt språkcentrum, tel 0980-780 29 (070-298 16 61) Marie Louise Allas, avdelningschef för språk, kultur och information, tel 0980-681 93</p>
+</body></document>

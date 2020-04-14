@@ -1,72 +1,33 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>884</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Kroppen/Mens</origFileName>
-    <parallel_text xml:lang="fin" location="kuukautiset.html"/>
-    <parallel_text xml:lang="fit" location="mensi.html"/>
-    <parallel_text xml:lang="sma" location="gujnelemmie.html"/>
-    <parallel_text xml:lang="sme" location="manodavddat.html"/>
-    <parallel_text xml:lang="smj" location="liejbbe.html"/>
-    <parallel_text location="rattepha.html" xml:lang="rmu"/>
-    <parallel_text location="lolo-kurko.html" xml:lang="rmy-rka"/>
-    <parallel_text location="zuvliako-on-mens.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="meni.html" xml:lang="rmf"/>
-    <parallel_text location="mensturacija.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mens</p>
-    <p>Alla undrar!  Vad undrar du?</p>
-    <p type="title">Mens</p>
-    <p>Mens är den blödning från livmodern som tjejer får ungefär en gång i månaden från och med puberteten. Mens är kroppens sätt att visa att man är könsmogen.</p>
-    <p>Som tjej har man oftast ägglossning varje månad, från att man kommer i puberteten tills man kommer i klimakteriet. Samtidigt som ägglossningen sker blir slemhinnan i livmodern tjockare för att kunna ta emot ägget om det blir befruktat.</p>
-    <p>För att ägget ska bli befruktad måste man få in spermier i slidan. Då kan man bli gravid. Men om ägget inte blir befruktat stöts ägget och livmoderslemhinnan ut som en blödning. Det är det som är mensen.</p>
-    <p type="title">När får man mens?</p>
-    <p>I vilken ålder man får mens är olika. Det beror på att alla är olika gamla när de kommer in i puberteten. Man kan inte själv påverka om man ska komma in tidigt eller sent i puberteten.</p>
-    <p>De flesta brukar få mens någon gång i 12-14-årsåldern. Men man kan få den redan när man är nio eller först när man är 16 år utan att det är något som är fel. Har man inte fått sin första mens när man är 16-17 år ska man gå till en läkare.</p>
-    <p>Första mensen kan komma som en överraskning. Kanske är mensen någonting man längtat efter. De flesta kompisar kanske redan har fått den och man känner sig lättad för att man äntligen är en i <span type="quote">”gänget”</span>.</p>
-    <p>En del tycker att det kännas jobbigt. Kanske har ingen annan i klassen fått mens. Man kanske undrar vilket mensskydd man ska använda och det kanske känns pinsamt att prata med någon vuxen om det.</p>
-    <p type="title">Hur mycket blöder man?</p>
-    <p>Hur mycket man blöder skiljer sig från person till person. Det är också olika hur många dagar man har mens. De flesta blöder 3-7 dagar.</p>
-    <p>Under en mens är det normalt att blöda mellan 20-80 milliliter blod, alltså knappt en deciliter som mest. Men eftersom blodet blandas ut med kroppsvätska och slemhinna från livmodern upplever man det oftast som mer.</p>
-    <p type="title">Att blöda mycket</p>
-    <p>Om man måste byta mensskydd så ofta att det blir jobbigt. Eller om man är tvungen att använda dubbla mensskydd för att inte blöda igenom har man något som brukar kallas för riklig mens. Det beror ofta på att det finns mycket av ett ämne i livmodern som löser upp levrat blod. Det gör att blödningen har svårare att avta och att man blöder mer.</p>
-    <p>Om man blöder mycket kan man känna sig trött och orkeslös. Det beror på att blodvärdet är lågt.</p>
-    <p>Har man riklig mens kan man kontakta elevhälsan, en ungdomsmottagning eller en vårdcentral. Då kan man få hjälp med tabletter som gör att man blöder mindre.</p>
-    <p>Även skydd mot graviditet som innehåller hormoner, som p-piller, p-ring och hormonspiral, gör ofta att man blöder mindre när man har mens.</p>
-    <p type="title">Oregelbunden mens</p>
-    <p>I början när man har mens är det vanligt att den är oregelbunden. Det betyder att den inte kommer vid samma tid varje månad. För de flesta brukar det rätta till sig efter ett tag så att varje menscykel, alltså dagen från att en mens börjar till nästas början, är mellan 21-35 dagar.</p>
-    <p>Det kan vara bra att hålla koll på sin mens genom att skriva upp datumen i en almanacka eller mobil. Det finns också appar till mobilen som man kan använda. Då kan man se om mensen är regelbunden och i så fall veta ungefär när den kommer nästa månad. Man märker också om mensen är sen någon månad.</p>
-    <p>En del har alltid oregelbunden mens. Det är inte farligt. Om man tycker det är besvärligt kan man få regelbunden mens med hjälp av p-piller till exempel.</p>
-    <p type="title">Sen eller utebliven mens</p>
-    <p type="title">Gravid</p>
-    <p>En naturlig anledning till att mensen försvinner är att man är gravid . För att vara gravid måste man ha fått in spermier i slidan. Det sker nästan alltid genom samlag.</p>
-    <p>Om man har smeksex och har färsk sperma på fingrarna och direkt för in dem i slidan finns det också en viss risk för graviditet.</p>
-    <p>Tror man att den uteblivna mensen kan bero på att man är gravid är det bra att göra ett graviditetstest. Graviditetstest kan man köpa på ett apotek och i många mataffärer och servicebutiker. Man kan också göra ett test gratis på en ungdomsmottagning eller barnmorskemottagning.</p>
-    <p type="title">Stress, miljöombyte eller bantning</p>
-    <p>Mensen kan också utebli av flera andra anledningar. Om mensen bara är några veckor sen eller hoppar över en eller två månader kan det bero på en massa olika saker. Till exempel miljöombyte eller att man har varit tillfälligt stressad .</p>
-    <p>Försvinner mensen under en längre tid är det bra att gå och undersöka vad det kan bero på. Det kan till exempel ha att göra med att man är väldigt stressad, mår dåligt, tränar hårt, bantar, har ätstörningar eller någon sjukdom. Då är det kroppens sätt att säga att någonting är fel.</p>
-    <p>Om man känner att man behöver hjälp eller stöd att lösa sina problem kan man till exempel vända sig till elevhälsan eller en ungdomsmottagning.</p>
-    <p>Om mensen försvinner i mer än ett halvår ska man alltid kontakta en läkare till exempel på en ungdomsmottagning eller vårdcentral. Då får man hjälp att ta reda på varför den inte kommer. Om det behövs kan man få tabletter som sätter igång mensen igen.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>879</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Kroppen/Mens</origFileName><parallel_text xml:lang="fin" location="kuukautiset.html"/><parallel_text xml:lang="fit" location="mensi.html"/><parallel_text xml:lang="sma" location="gujnelemmie.html"/><parallel_text xml:lang="sme" location="manodavddat.html"/><parallel_text xml:lang="smj" location="liejbbe.html"/><parallel_text location="rattepha.html" xml:lang="rmu"/><parallel_text location="lolo-kurko.html" xml:lang="rmy-rka"/><parallel_text location="zuvliako-on-mens.html" xml:lang="rmy-rlo"/><parallel_text location="meni.html" xml:lang="rmf"/><parallel_text location="mensturacija.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mens</p>
+<p type="title">Mens</p>
+<p>Mens är den blödning från livmodern som tjejer får ungefär en gång i månaden från och med puberteten. Mens är kroppens sätt att visa att man är könsmogen.</p>
+<p>Som tjej har man oftast ägglossning varje månad, från att man kommer i puberteten tills man kommer i klimakteriet. Samtidigt som ägglossningen sker blir slemhinnan i livmodern tjockare för att kunna ta emot ägget om det blir befruktat.</p>
+<p>För att ägget ska bli befruktad måste man få in spermier i slidan. Då kan man bli gravid. Men om ägget inte blir befruktat stöts ägget och livmoderslemhinnan ut som en blödning. Det är det som är mensen.</p>
+<p type="title">När får man mens?</p>
+<p>I vilken ålder man får mens är olika. Det beror på att alla är olika gamla när de kommer in i puberteten. Man kan inte själv påverka om man ska komma in tidigt eller sent i puberteten.</p>
+<p>De flesta brukar få mens någon gång i 12-14-årsåldern. Men man kan få den redan när man är nio eller först när man är 16 år utan att det är något som är fel. Har man inte fått sin första mens när man är 16-17 år ska man gå till en läkare.</p>
+<p>Första mensen kan komma som en överraskning. Kanske är mensen någonting man längtat efter. De flesta kompisar kanske redan har fått den och man känner sig lättad för att man äntligen är en i <span type="quote">”gänget”</span>.</p>
+<p>En del tycker att det kännas jobbigt. Kanske har ingen annan i klassen fått mens. Man kanske undrar vilket mensskydd man ska använda och det kanske känns pinsamt att prata med någon vuxen om det.</p>
+<p type="title">Hur mycket blöder man?</p>
+<p>Hur mycket man blöder skiljer sig från person till person. Det är också olika hur många dagar man har mens. De flesta blöder 3-7 dagar.</p>
+<p>Under en mens är det normalt att blöda mellan 20-80 milliliter blod, alltså knappt en deciliter som mest. Men eftersom blodet blandas ut med kroppsvätska och slemhinna från livmodern upplever man det oftast som mer.</p>
+<p type="title">Att blöda mycket</p>
+<p>Om man måste byta mensskydd så ofta att det blir jobbigt. Eller om man är tvungen att använda dubbla mensskydd för att inte blöda igenom har man något som brukar kallas för riklig mens. Det beror ofta på att det finns mycket av ett ämne i livmodern som löser upp levrat blod. Det gör att blödningen har svårare att avta och att man blöder mer.</p>
+<p>Om man blöder mycket kan man känna sig trött och orkeslös. Det beror på att blodvärdet är lågt.</p>
+<p>Har man riklig mens kan man kontakta elevhälsan, en ungdomsmottagning eller en vårdcentral. Då kan man få hjälp med tabletter som gör att man blöder mindre.</p>
+<p>Även skydd mot graviditet som innehåller hormoner, som p-piller, p-ring och hormonspiral, gör ofta att man blöder mindre när man har mens.</p>
+<p type="title">Oregelbunden mens</p>
+<p>I början när man har mens är det vanligt att den är oregelbunden. Det betyder att den inte kommer vid samma tid varje månad. För de flesta brukar det rätta till sig efter ett tag så att varje menscykel, alltså dagen från att en mens börjar till nästas början, är mellan 21-35 dagar.</p>
+<p>Det kan vara bra att hålla koll på sin mens genom att skriva upp datumen i en almanacka eller mobil. Det finns också appar till mobilen som man kan använda. Då kan man se om mensen är regelbunden och i så fall veta ungefär när den kommer nästa månad. Man märker också om mensen är sen någon månad.</p>
+<p>En del har alltid oregelbunden mens. Det är inte farligt. Om man tycker det är besvärligt kan man få regelbunden mens med hjälp av p-piller till exempel.</p>
+<p type="title">Sen eller utebliven mens</p>
+<p type="title">Gravid</p>
+<p>En naturlig anledning till att mensen försvinner är att man är gravid . För att vara gravid måste man ha fått in spermier i slidan. Det sker nästan alltid genom samlag.</p>
+<p>Om man har smeksex och har färsk sperma på fingrarna och direkt för in dem i slidan finns det också en viss risk för graviditet.</p>
+<p>Tror man att den uteblivna mensen kan bero på att man är gravid är det bra att göra ett graviditetstest. Graviditetstest kan man köpa på ett apotek och i många mataffärer och servicebutiker. Man kan också göra ett test gratis på en ungdomsmottagning eller barnmorskemottagning.</p>
+<p type="title">Stress, miljöombyte eller bantning</p>
+<p>Mensen kan också utebli av flera andra anledningar. Om mensen bara är några veckor sen eller hoppar över en eller två månader kan det bero på en massa olika saker. Till exempel miljöombyte eller att man har varit tillfälligt stressad .</p>
+<p>Försvinner mensen under en längre tid är det bra att gå och undersöka vad det kan bero på. Det kan till exempel ha att göra med att man är väldigt stressad, mår dåligt, tränar hårt, bantar, har ätstörningar eller någon sjukdom. Då är det kroppens sätt att säga att någonting är fel.</p>
+<p>Om man känner att man behöver hjälp eller stöd att lösa sina problem kan man till exempel vända sig till elevhälsan eller en ungdomsmottagning.</p>
+<p>Om mensen försvinner i mer än ett halvår ska man alltid kontakta en läkare till exempel på en ungdomsmottagning eller vårdcentral. Då får man hjälp att ta reda på varför den inte kommer. Om det behövs kan man få tabletter som sätter igång mensen igen.</p>
+</body></document>

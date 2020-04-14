@@ -1,58 +1,30 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>557</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/23435</origFileName>
-    <parallel_text xml:lang="sme" location="23983.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Om verksamhetsbidrag - Sametinget</p>
-    <p type="title">Om verksamhetsbidrag</p>
-    <p>Verksamhetsbidrag som främjar den samiska kulturen kan ges till samiska föreningar, organisationer och stiftelser som verkar i linje med gällande kulturpolitiskt handlingsprogram.</p>
-    <p><em type="italic">Ansökningstid </em>Ansökningar om verksamhetsbidrag behandlas en gång per år. Ansökan ska ha inkommit till Sametingets kulturnämnd senast: </p>
-    <list>
-      <p type="listitem">1 november</p>
-    </list>
-    <p>
-      <em type="italic">Följande gäller för ansökan om verksamhetsbidrag: </em>
-    </p>
-    <list>
-      <p type="listitem">Verksamhetsbidrag till samiska föreningar och organisationer beviljas om de har ett ideellt syfte, är verksamma inom Sverige och är bildade av samer för samer.</p>
-      <p type="listitem">Politiska partier och sammanslutningar som deltar i sametingsvalet eller andra allmänna val beviljas ej bidrag via kulturnämnden.</p>
-      <p type="listitem">Ansökan ska göras på särskild blankett</p>
-      <p type="listitem">Sametingets kulturnämnd beviljar inte bidrag i efterhand.</p>
-      <p type="listitem">Sametingets kulturnämnd har rätt att bordlägga ansökan i väntan på att annan finansiering prövas/behandlas.</p>
-      <p type="listitem">Ansökan behandlas av kulturnämnden först när ifylld blankett med fullständiga uppgifter har inkommit.</p>
-      <p type="listitem">Ansökan som inkommer till Sametinget efter ansökningstidens slut prövas inte.</p>
-      <p type="listitem">Föreningar ska i ansökan ge en beskrivning av arbetet med samisk språkutveckling. Organisationer och stiftelser ska bifoga en handlingsplan för sitt arbete med samisk språkutveckling.</p>
-      <p type="listitem">Sökande ska i ansökan, eller bifogad handling, ge en beskrivning av arbetet med att öka jämställdheten i verksamheten. Om antagen jämställdhetsplan finns kan denna bifogas istället.</p>
-      <p type="listitem">Sökande som tidigare har fått verksamhetsbidrag måste ha inlämnat en fullständig redovisning av tidigare bidrag innan en ny ansökan kan prövas.</p>
-      <p type="listitem">Ofullständiga ansökningar avslås.</p>
-    </list>
-    <p>Ytterligare villkor kan vara antagna i Sametingets kulturpolitiska handlingsprogram.</p>
-    <p><em type="italic">Blanketter </em>Ansökan, rekvisition och redovisning av verksamhetsbidrag ska göras på särskilda blanketter som du hittar i högerspalten. Se även <em type="italic">Instruktion för ansökan om verksamhetsbidrag </em>och <em type="italic">Instruktion för redovisning av verksamhetsbidrag </em>. </p>
-    <p><em type="italic">Logotype </em>Vid all annonsering och annan marknadsföring ska det anges att verksamheten erhållit bidrag från Sametingets kulturnämnd och Sametingets logotyp ska användas. Se logotyp här. </p>
-    <p><em type="italic">Utbetalning </em>Verksamhetsbidraget betalas ut halvårsvis. Bidraget rekvireras således med halva summan två gånger per verksamhetsår. Första rekvisitionen kan göras när sökande har fått beslutsmeddelandet. Den andra rekvisitionen kan göras när redovisningen av föregående års verksamhetsbidrag har inkommit till Sametinget. </p>
-    <p><em type="italic">Redovisning </em>Redovisningen görs på särskild blankett. Till redovisningen ska bifogas antagna årsmöteshandlingar från årsmötet som ägt rum innevarande år. Det vill säga årsmötesprotokoll, verksamhetsberättelse, bokslut och revisionsberättelse enligt god revisionssed. Till redovisningen ska också resultat- och balansräkning bifogas där medlemsintäkten och bidrag från andra finansiärer tydligt framgår. Redovisningsblanketten och de bifogade dokumenten skickas in till Sametinget så snart föreningens/organisationens årsmöte har godkänt handlingarna. </p>
-    <p>Redovisningen ska inkomma senast <em type="italic">1 juli </em>det året verksamhetsbidraget avser. </p>
-    <p><em type="italic">Återbetalning </em>Om väsentliga förändringar av verksamheten genomförs utan samråd med Sametingets kulturnämnd kan hela eller delar av verksamhetsbidraget återkrävas. Utebliven redovisning medför att hela eller delar av verksamhetsbidraget återkrävs av Sametinget. </p>
-    <p><em type="italic">Frågor? </em>Om du har några frågor om verksamhetsbidrag, hur du ansöker etc. Vänd dig till kulturhandläggarna på telefonnummer 0980-780 57 eller 0980-780 48. </p>
-    <p type="title">Övergång mellan gamla och nya regelverket inför ansökan om verksamhetsbidrag 2014</p>
-    <p>Vid ansökan om verksamhetsbidrag för 2014 hamnar de sökande i en övergångsperiod mellan det gamla och nya regelverket. Det innebär att sökande vid inlämnandet av ansökan om verksamhetsstöd 2014, som lämnas in 1 november 2013, också ska lämna in en redovisning av beviljat verksamhetsbidrag 2012.</p>
-    <p>Den redovisningen sker genom att sökande fyller i blanketten <em type="italic">Redovisning av verksamhetsbidrag </em>samt bifogar kopior av alla de fastställda årsmöteshandlingarna från årsmötet 2013, se blanketten <em type="italic">Redovisning av verksamhetsbidrag </em>samt <em type="italic">Instruktion för ifyllande av blanketten. </em></p>
-    <p>För illustration av övergångsperioden och de nya rutiner som gäller, se dokumentet; Verksamhetsbidrag- Illustration av ny rutin.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>557</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/23435</origFileName><parallel_text xml:lang="sme" location="23983.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Om verksamhetsbidrag - Sametinget</p>
+<p type="title">Om verksamhetsbidrag</p>
+<p>Verksamhetsbidrag som främjar den samiska kulturen kan ges till samiska föreningar, organisationer och stiftelser som verkar i linje med gällande kulturpolitiskt handlingsprogram.</p>
+<p><em type="italic">Ansökningstid </em>Ansökningar om verksamhetsbidrag behandlas en gång per år. Ansökan ska ha inkommit till Sametingets kulturnämnd senast: </p>
+<list><p type="listitem">1 november</p>
+</list><p><em type="italic">Följande gäller för ansökan om verksamhetsbidrag: </em></p>
+<list><p type="listitem">Verksamhetsbidrag till samiska föreningar och organisationer beviljas om de har ett ideellt syfte, är verksamma inom Sverige och är bildade av samer för samer.</p>
+<p type="listitem">Politiska partier och sammanslutningar som deltar i sametingsvalet eller andra allmänna val beviljas ej bidrag via kulturnämnden.</p>
+<p type="listitem">Ansökan ska göras på särskild blankett</p>
+<p type="listitem">Sametingets kulturnämnd beviljar inte bidrag i efterhand.</p>
+<p type="listitem">Sametingets kulturnämnd har rätt att bordlägga ansökan i väntan på att annan finansiering prövas/behandlas.</p>
+<p type="listitem">Ansökan behandlas av kulturnämnden först när ifylld blankett med fullständiga uppgifter har inkommit.</p>
+<p type="listitem">Ansökan som inkommer till Sametinget efter ansökningstidens slut prövas inte.</p>
+<p type="listitem">Föreningar ska i ansökan ge en beskrivning av arbetet med samisk språkutveckling. Organisationer och stiftelser ska bifoga en handlingsplan för sitt arbete med samisk språkutveckling.</p>
+<p type="listitem">Sökande ska i ansökan, eller bifogad handling, ge en beskrivning av arbetet med att öka jämställdheten i verksamheten. Om antagen jämställdhetsplan finns kan denna bifogas istället.</p>
+<p type="listitem">Sökande som tidigare har fått verksamhetsbidrag måste ha inlämnat en fullständig redovisning av tidigare bidrag innan en ny ansökan kan prövas.</p>
+<p type="listitem">Ofullständiga ansökningar avslås.</p>
+</list><p>Ytterligare villkor kan vara antagna i Sametingets kulturpolitiska handlingsprogram.</p>
+<p><em type="italic">Blanketter </em>Ansökan, rekvisition och redovisning av verksamhetsbidrag ska göras på särskilda blanketter som du hittar i högerspalten. Se även <em type="italic">Instruktion för ansökan om verksamhetsbidrag </em>och <em type="italic">Instruktion för redovisning av verksamhetsbidrag </em>. </p>
+<p><em type="italic">Logotype </em>Vid all annonsering och annan marknadsföring ska det anges att verksamheten erhållit bidrag från Sametingets kulturnämnd och Sametingets logotyp ska användas. Se logotyp här. </p>
+<p><em type="italic">Utbetalning </em>Verksamhetsbidraget betalas ut halvårsvis. Bidraget rekvireras således med halva summan två gånger per verksamhetsår. Första rekvisitionen kan göras när sökande har fått beslutsmeddelandet. Den andra rekvisitionen kan göras när redovisningen av föregående års verksamhetsbidrag har inkommit till Sametinget. </p>
+<p><em type="italic">Redovisning </em>Redovisningen görs på särskild blankett. Till redovisningen ska bifogas antagna årsmöteshandlingar från årsmötet som ägt rum innevarande år. Det vill säga årsmötesprotokoll, verksamhetsberättelse, bokslut och revisionsberättelse enligt god revisionssed. Till redovisningen ska också resultat- och balansräkning bifogas där medlemsintäkten och bidrag från andra finansiärer tydligt framgår. Redovisningsblanketten och de bifogade dokumenten skickas in till Sametinget så snart föreningens/organisationens årsmöte har godkänt handlingarna. </p>
+<p>Redovisningen ska inkomma senast <em type="italic">1 juli </em>det året verksamhetsbidraget avser. </p>
+<p><em type="italic">Återbetalning </em>Om väsentliga förändringar av verksamheten genomförs utan samråd med Sametingets kulturnämnd kan hela eller delar av verksamhetsbidraget återkrävas. Utebliven redovisning medför att hela eller delar av verksamhetsbidraget återkrävs av Sametinget. </p>
+<p><em type="italic">Frågor? </em>Om du har några frågor om verksamhetsbidrag, hur du ansöker etc. Vänd dig till kulturhandläggarna på telefonnummer 0980-780 57 eller 0980-780 48. </p>
+<p type="title">Övergång mellan gamla och nya regelverket inför ansökan om verksamhetsbidrag 2014</p>
+<p>Vid ansökan om verksamhetsbidrag för 2014 hamnar de sökande i en övergångsperiod mellan det gamla och nya regelverket. Det innebär att sökande vid inlämnandet av ansökan om verksamhetsstöd 2014, som lämnas in 1 november 2013, också ska lämna in en redovisning av beviljat verksamhetsbidrag 2012.</p>
+<p>Den redovisningen sker genom att sökande fyller i blanketten <em type="italic">Redovisning av verksamhetsbidrag </em>samt bifogar kopior av alla de fastställda årsmöteshandlingarna från årsmötet 2013, se blanketten <em type="italic">Redovisning av verksamhetsbidrag </em>samt <em type="italic">Instruktion för ifyllande av blanketten. </em></p>
+<p>För illustration av övergångsperioden och de nya rutiner som gäller, se dokumentet; Verksamhetsbidrag- Illustration av ny rutin.</p>
+</body></document>

@@ -1,34 +1,11 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>294</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/71623</origFileName>
-    <parallel_text xml:lang="sme" location="71625.html"/>
-    <parallel_text xml:lang="smj" location="71627.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kanslichef sökes - Sametinget</p>
-    <p type="title">Myndighetschef sökes</p>
-    <p>Till Sametingets kansli söker vi en kanslichef med uppdrag att leda en verksamhet under utveckling och förändring.</p>
-    <p>Kanslichefen är Sametingets högsta administrativa ledare och har det övergripande ansvaret för kansliets verksamhet och förvaltning. Som kanslichef ska du tillsammans med avdelningscheferna leda och samordna verksamheten. Positionen innebär ett nära samarbete med den politiska ledningen samt nationella och internationella kontakter.</p>
-    <p><em type="italic">Arbetsuppgifter </em>Som kanslichef är du föredragande för styrelsen och ansvarar för att verksamheten bedrivs författningsenligt och effektivt. Verksamheten arbetar mål- och resultatinriktat och uppdraget innebär bland annat att arbeta strategiskt för att utveckla och förverkliga verksamhetens mål samt utöva ett ledarskap där frågor som värdegrund och kommunikation är viktiga. Du kan skapa goda relationer och bygga nätverk, både nationellt och internationellt, samt samordna olika intressen. </p>
-    <p><em type="italic">Placeringsort </em>Giron/Kiruna </p>
-    <p><em type="italic">Vem är du? </em>Vi söker en samlande och lojal ledare med god förståelse för samisk kultur som kan fånga upp och balansera olika värderingar och politiska signaler. Tjänsten innebär omfattande kontakter med både interna och externa partners. Vi vill därför framhålla att den sökande ska ha god kommunikationsförmåga, vara en relationsbyggare och kunna ingjuta förtroende. Du har förmågan att inspirera och leda dina medarbetare. </p>
-    <p>Vi lägger stor vikt vid din samiska kompetens, varav språket är en viktig del.</p>
-    <p>Vi söker dig med relevant akademisk utbildning eller annan erfarenhet som vi bedömer är relevant för tjänsten. Vi förutsätter att du har några års ledarerfarenhet från offentlig och eller privat sektor och god kännedom om samisk kultur och samhällsliv. Har du erfarenhet från en politiskt styrd organisation samt kunskaper i det samiska språket är det meriterande.</p>
-    <p><em type="italic">Kontaktpersoner </em>Ansök och läs mer om tjänsten på www.experis.se JobID: 917735. För mer information kontakta rekryteringskonsult Inger Sundgren, telefon 070-3774891 eller e-post: inger.sundgren@se.experis.com Sista ansökningsdag är den 28 september. </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>294</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/71623</origFileName><parallel_text xml:lang="sme" location="71625.html"/><parallel_text xml:lang="smj" location="71627.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kanslichef sökes - Sametinget</p>
+<p type="title">Myndighetschef sökes</p>
+<p>Till Sametingets kansli söker vi en kanslichef med uppdrag att leda en verksamhet under utveckling och förändring.</p>
+<p>Kanslichefen är Sametingets högsta administrativa ledare och har det övergripande ansvaret för kansliets verksamhet och förvaltning. Som kanslichef ska du tillsammans med avdelningscheferna leda och samordna verksamheten. Positionen innebär ett nära samarbete med den politiska ledningen samt nationella och internationella kontakter.</p>
+<p><em type="italic">Arbetsuppgifter </em>Som kanslichef är du föredragande för styrelsen och ansvarar för att verksamheten bedrivs författningsenligt och effektivt. Verksamheten arbetar mål- och resultatinriktat och uppdraget innebär bland annat att arbeta strategiskt för att utveckla och förverkliga verksamhetens mål samt utöva ett ledarskap där frågor som värdegrund och kommunikation är viktiga. Du kan skapa goda relationer och bygga nätverk, både nationellt och internationellt, samt samordna olika intressen. </p>
+<p><em type="italic">Placeringsort </em>Giron/Kiruna </p>
+<p><em type="italic">Vem är du? </em>Vi söker en samlande och lojal ledare med god förståelse för samisk kultur som kan fånga upp och balansera olika värderingar och politiska signaler. Tjänsten innebär omfattande kontakter med både interna och externa partners. Vi vill därför framhålla att den sökande ska ha god kommunikationsförmåga, vara en relationsbyggare och kunna ingjuta förtroende. Du har förmågan att inspirera och leda dina medarbetare. </p>
+<p>Vi lägger stor vikt vid din samiska kompetens, varav språket är en viktig del.</p>
+<p>Vi söker dig med relevant akademisk utbildning eller annan erfarenhet som vi bedömer är relevant för tjänsten. Vi förutsätter att du har några års ledarerfarenhet från offentlig och eller privat sektor och god kännedom om samisk kultur och samhällsliv. Har du erfarenhet från en politiskt styrd organisation samt kunskaper i det samiska språket är det meriterande.</p>
+<p><em type="italic">Kontaktpersoner </em>Ansök och läs mer om tjänsten på www.experis.se JobID: 917735. För mer information kontakta rekryteringskonsult Inger Sundgren, telefon 070-3774891 eller e-post: inger.sundgren@se.experis.com Sista ansökningsdag är den 28 september. </p>
+</body></document>

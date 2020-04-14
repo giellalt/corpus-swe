@@ -1,31 +1,8 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>227</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1034</origFileName>
-    <parallel_text xml:lang="sme" location="3237.html"/>
-    <parallel_text xml:lang="smj" location="4056.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Landsbygdsprogrammet - Sametinget</p>
-    <p>Funderar du på hur du ska utveckla ditt företag? Foto: Marie Enoksson.</p>
-    <p type="title">Landsbygds-programmet</p>
-    <p>OBS! Landsbygdsprogrammet för perioden 2007-2013 håller på att avslutas. Några nya ansökningar tas inte emot.</p>
-    <p><em type="italic">Övergripande mål </em>Landsbygdsprogrammets åtgärder finansieras både från EU:s budget och nationellt. Under programperioden 2007-13 satsas totalt 35 miljarder kronor. Det övergripande målet för landsbygdsprogrammet är samma som för den svenska landsbygdspolitiken, det vill säga att främja en ekonomiskt, ekologiskt och socialt hållbar utveckling av landsbygden. Detta mål omfattar en hållbar produktion av livsmedel, sysselsättning på landsbygden, hänsyn till regionala förutsättningar och hållbar tillväxt. Landskapets natur- och kulturvärden ska värnas och den negativa miljöpåverkan ska minskas. </p>
-    <p><em type="italic">Sametinget stödmyndighet </em>Landsbygdsprogrammet finansieras till ungefär hälften av EU och hälften av varje enskild medlemsstat. Från och med januari 2007 är Statens Jordbruksverk förvaltningsmyndighet för programmet. Länsstyrelserna och Sametinget är stödmyndigheter som handlägger inkomna ärenden och fattar beslut. Samiska projektägare och företag ska vända sig till Sametinget. Regelbunden information om landsbygdsprogrammet kan du få om du prenumererar på Jordbruksverkets nyhetsbrev via deras hemsida. </p>
-    <p><em type="italic">Sametingets genomförandestrategi </em>Sametinget har en genomförandestrategi för hur företags- och projektstöd, stöd till kompetensutveckling och utvald miljö ska fördelas för att nå bästa effekt. Denna strategi bygger på det näringspolitiska handlingsprogrammet som utarbetats i samråd med samiskt näringsliv, ideella organisationer m fl och antagits av plenum. Ansökningarna prioriteras efter hur de bidrar till att uppfylla målen i genomförandestrategin. </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>227</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1034</origFileName><parallel_text xml:lang="sme" location="3237.html"/><parallel_text xml:lang="smj" location="4056.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Landsbygdsprogrammet - Sametinget</p>
+<p>Funderar du på hur du ska utveckla ditt företag? Foto: Marie Enoksson.</p>
+<p type="title">Landsbygds-programmet</p>
+<p>OBS! Landsbygdsprogrammet för perioden 2007-2013 håller på att avslutas. Några nya ansökningar tas inte emot.</p>
+<p><em type="italic">Övergripande mål </em>Landsbygdsprogrammets åtgärder finansieras både från EU:s budget och nationellt. Under programperioden 2007-13 satsas totalt 35 miljarder kronor. Det övergripande målet för landsbygdsprogrammet är samma som för den svenska landsbygdspolitiken, det vill säga att främja en ekonomiskt, ekologiskt och socialt hållbar utveckling av landsbygden. Detta mål omfattar en hållbar produktion av livsmedel, sysselsättning på landsbygden, hänsyn till regionala förutsättningar och hållbar tillväxt. Landskapets natur- och kulturvärden ska värnas och den negativa miljöpåverkan ska minskas. </p>
+<p><em type="italic">Sametinget stödmyndighet </em>Landsbygdsprogrammet finansieras till ungefär hälften av EU och hälften av varje enskild medlemsstat. Från och med januari 2007 är Statens Jordbruksverk förvaltningsmyndighet för programmet. Länsstyrelserna och Sametinget är stödmyndigheter som handlägger inkomna ärenden och fattar beslut. Samiska projektägare och företag ska vända sig till Sametinget. Regelbunden information om landsbygdsprogrammet kan du få om du prenumererar på Jordbruksverkets nyhetsbrev via deras hemsida. </p>
+<p><em type="italic">Sametingets genomförandestrategi </em>Sametinget har en genomförandestrategi för hur företags- och projektstöd, stöd till kompetensutveckling och utvald miljö ska fördelas för att nå bästa effekt. Denna strategi bygger på det näringspolitiska handlingsprogrammet som utarbetats i samråd med samiskt näringsliv, ideella organisationer m fl och antagits av plenum. Ansökningarna prioriteras efter hur de bidrar till att uppfylla målen i genomförandestrategin. </p>
+</body></document>

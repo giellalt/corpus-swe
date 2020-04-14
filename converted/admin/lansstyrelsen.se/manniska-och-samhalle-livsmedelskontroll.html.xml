@@ -1,39 +1,13 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>257</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/livsmedelskontroll/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle-livsmedelskontroll.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-livsmedelskontroll.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Livsmedelskontroll - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Livsmedelskontroll</p>
-    <p>
-      <em type="italic">Länsstyrelsen har ansvar för den regionala livsmedelskontrollen och för att kontrollera primärproducenterna av livsmedel. </em>
-    </p>
-    <p type="title">Primärproduktion av foder och livsmedel</p>
-    <p>För att djuren, och i slutänden även människor, ska må bra är det viktigt att foder till djuren produceras, hanteras, lagras, transporteras och används på ett säkert sätt. Primärproduktionen är första ledet i livsmedelskedjan och omfattar bland annat produktion av kött, mjölk, spannmål, grovfoder samt framställning av foderblandningar. Primärproduktionen kontrolleras i flera led av Länsstyrelsen och Jordbruksverket.</p>
-    <p>Dessutom ingår jakt, fiske, biodling och insamling av bär och svamp samt lagring och transport av både foder och livsmedel. Alla anläggningar för primärproduktion ska vara registrerade, och det finns regler om vilka tillsatser, läkemedel, genmodifieringar med mera som är tillåtna.</p>
-    <p type="title">Livsmedelskontroll</p>
-    <p>Syftet med livsmedelskontrollen är att den mat du äter ska vara säker och att du inte ska bli sjuk av den. Kommunerna kontrollerar att den som producerar och säljer mat har tillräckliga goda kunskaper och lokaler för att klara detta. Länsstyrelsen granskar kommunernas livsmedelskontroll för att se att denna sköts på ett bra sätt. Kommunens beslut kan överklagas hos Länsstyrelsen.</p>
-    <p><em type="italic">Länsstyrelserna har en viktig roll </em>i livsmedelstillsynen genom rådgivning, utbildnings och samordnings insatser till länets livsmedelsinspektörer. Länsstyrelsen genomför också kommunrevisioner i syfte att säkerställa en effektiv och likvärdig livsmedelstillsyn. </p>
-    <p>Länsstyrelsen är också överklagningsinstans för kommunala beslut vad gäller livsmedelshantering.</p>
-    <p>Länsveterinären har ett utvecklat samarbete med angränsande län inom livsmedelsområdet och deltar också i ett nordiskt nätverk.</p>
-    <p>Ett länsprojekt om märkning av livsmedel avslutas under 2011 och ett annat om allergener i livsmedel påbörjas.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>257</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/livsmedelskontroll/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle-livsmedelskontroll.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle-livsmedelskontroll.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Livsmedelskontroll - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Livsmedelskontroll</p>
+<p><em type="italic">Länsstyrelsen har ansvar för den regionala livsmedelskontrollen och för att kontrollera primärproducenterna av livsmedel. </em></p>
+<p type="title">Primärproduktion av foder och livsmedel</p>
+<p>För att djuren, och i slutänden även människor, ska må bra är det viktigt att foder till djuren produceras, hanteras, lagras, transporteras och används på ett säkert sätt. Primärproduktionen är första ledet i livsmedelskedjan och omfattar bland annat produktion av kött, mjölk, spannmål, grovfoder samt framställning av foderblandningar. Primärproduktionen kontrolleras i flera led av Länsstyrelsen och Jordbruksverket.</p>
+<p>Dessutom ingår jakt, fiske, biodling och insamling av bär och svamp samt lagring och transport av både foder och livsmedel. Alla anläggningar för primärproduktion ska vara registrerade, och det finns regler om vilka tillsatser, läkemedel, genmodifieringar med mera som är tillåtna.</p>
+<p type="title">Livsmedelskontroll</p>
+<p>Syftet med livsmedelskontrollen är att den mat du äter ska vara säker och att du inte ska bli sjuk av den. Kommunerna kontrollerar att den som producerar och säljer mat har tillräckliga goda kunskaper och lokaler för att klara detta. Länsstyrelsen granskar kommunernas livsmedelskontroll för att se att denna sköts på ett bra sätt. Kommunens beslut kan överklagas hos Länsstyrelsen.</p>
+<p><em type="italic">Länsstyrelserna har en viktig roll </em>i livsmedelstillsynen genom rådgivning, utbildnings och samordnings insatser till länets livsmedelsinspektörer. Länsstyrelsen genomför också kommunrevisioner i syfte att säkerställa en effektiv och likvärdig livsmedelstillsyn. </p>
+<p>Länsstyrelsen är också överklagningsinstans för kommunala beslut vad gäller livsmedelshantering.</p>
+<p>Länsveterinären har ett utvecklat samarbete med angränsande län inom livsmedelsområdet och deltar också i ett nordiskt nätverk.</p>
+<p>Ett länsprojekt om märkning av livsmedel avslutas under 2011 och ett annat om allergener i livsmedel påbörjas.</p>
+</body></document>

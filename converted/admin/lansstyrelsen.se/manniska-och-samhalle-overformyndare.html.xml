@@ -1,49 +1,23 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>419</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/overformyndare/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle-overformyndare.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-overformyndare.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Överförmyndare - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Överförmyndare</p>
-    <p>
-      <em type="italic">Länsstyrelsen Dalarna har tillsyn över överförmyndarna Dalarnas, Gävleborgs, Värmlands och Örebro län. Det innebär att vi med jämna mellanrum gör inspektioner hos dem, men vi kan även granska en överförmyndare efter till exempel en anmälan från allmänheten. </em>
-    </p>
-    <p>Människor som har svårt att sköta sin ekonomi på grund av sjukdom, ålder eller annat liknande skäl kan få hjälp av en god man eller en förvaltare. I varje kommun ska det finnas en överförmyndare eller överförmyndarnämnd som ser till att kommunens gode män och förvaltare sköter sina uppdrag. Överförmyndaren ska särskilt se till att personens tillgångar används för hans eller hennes nytta och att tillgångarna i övrigt är placerade på ett tryggt sätt som ger en rimlig avkastning. Överförmyndaren ser också till att föräldrar och förmyndare tar hand om barns tillgångar på ett säkert sätt till dess att barnet blir myndigt. Bestämmelserna om överförmyndarnas verksamhet finns i föräldrabalken och förmyndarskapsförordningen.</p>
-    <p>Om du vill framföra klagomål på hur en förmyndare, god man eller förvaltare sköter sitt uppdrag ska du vända dig till överförmyndaren i den kommunen. Om du vill framföra klagomål på en överförmyndare eller överförmyndarnämnd kan du vända dig till Länsstyrelsen.</p>
-    <p><em type="italic">Överförmyndarna </em>är en särskild kommunal myndighet. Överförmyndaren har bland annat till uppgift att utöva tillsyn över förmyndare, gode män och förvaltare. </p>
-    <p><em type="italic">Förmyndare </em>företräder omyndiga barn i frågor som gäller barnets egendom. För barn som står under vårdnad av bägge föräldrarna är dessa normalt också förmyndare. En förmyndare skall förvalta omyndigas tillgångar och företräda dem i angelägenheter som rör tillgångarna. </p>
-    <p><em type="italic">God man </em>förordnas av tingsrätten bl.a. om någon p.g.a. sjukdom, psykisk störning, försvagat hälsotillstånd eller liknande behöver hjälp med att bevaka sin rätt, förvalta sin egendom eller sörja för person, enligt föräldrabalken 11 kap 4 §. En god man kan även förordnas enbart för att t.ex. förvalta egendom vilket innebär att den gode mannen bara skall sköta ekonomin. En person som har god man har själv egen rättshandlingsförmåga. </p>
-    <p><em type="italic">Förvaltare </em>förordnas av tingsrätten om någon p.g.a. sjukdom, psykisk störning, försvagat hälsotillstånd eller liknande är ur stånd att vårda sig eller sin egendom enligt föräldrabalken 11 kap 7 §. Förvaltare skall bara utses när godmanskap inte är tillräckligt. Den som får förvaltare förordnad för sig mister i motsvarande mån sin egen rättshandlingsförmåga. </p>
-    <p type="title">Kontakta oss</p>
-    <p>Helle Bryn-Jensen</p>
-    <p>Jurist</p>
-    <p>Rättsenheten</p>
-    <p>helle punkt bryn-jensen snabela lansstyrelsen punkt se¤helle punkt bryn-jensen snabela lansstyrelsen punkt se</p>
-    <p>010-2250396</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>419</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/overformyndare/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle-overformyndare.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle-overformyndare.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Överförmyndare - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Överförmyndare</p>
+<p><em type="italic">Länsstyrelsen Dalarna har tillsyn över överförmyndarna Dalarnas, Gävleborgs, Värmlands och Örebro län. Det innebär att vi med jämna mellanrum gör inspektioner hos dem, men vi kan även granska en överförmyndare efter till exempel en anmälan från allmänheten. </em></p>
+<p>Människor som har svårt att sköta sin ekonomi på grund av sjukdom, ålder eller annat liknande skäl kan få hjälp av en god man eller en förvaltare. I varje kommun ska det finnas en överförmyndare eller överförmyndarnämnd som ser till att kommunens gode män och förvaltare sköter sina uppdrag. Överförmyndaren ska särskilt se till att personens tillgångar används för hans eller hennes nytta och att tillgångarna i övrigt är placerade på ett tryggt sätt som ger en rimlig avkastning. Överförmyndaren ser också till att föräldrar och förmyndare tar hand om barns tillgångar på ett säkert sätt till dess att barnet blir myndigt. Bestämmelserna om överförmyndarnas verksamhet finns i föräldrabalken och förmyndarskapsförordningen.</p>
+<p>Om du vill framföra klagomål på hur en förmyndare, god man eller förvaltare sköter sitt uppdrag ska du vända dig till överförmyndaren i den kommunen. Om du vill framföra klagomål på en överförmyndare eller överförmyndarnämnd kan du vända dig till Länsstyrelsen.</p>
+<p><em type="italic">Överförmyndarna </em>är en särskild kommunal myndighet. Överförmyndaren har bland annat till uppgift att utöva tillsyn över förmyndare, gode män och förvaltare. </p>
+<p><em type="italic">Förmyndare </em>företräder omyndiga barn i frågor som gäller barnets egendom. För barn som står under vårdnad av bägge föräldrarna är dessa normalt också förmyndare. En förmyndare skall förvalta omyndigas tillgångar och företräda dem i angelägenheter som rör tillgångarna. </p>
+<p><em type="italic">God man </em>förordnas av tingsrätten bl.a. om någon p.g.a. sjukdom, psykisk störning, försvagat hälsotillstånd eller liknande behöver hjälp med att bevaka sin rätt, förvalta sin egendom eller sörja för person, enligt föräldrabalken 11 kap 4 §. En god man kan även förordnas enbart för att t.ex. förvalta egendom vilket innebär att den gode mannen bara skall sköta ekonomin. En person som har god man har själv egen rättshandlingsförmåga. </p>
+<p><em type="italic">Förvaltare </em>förordnas av tingsrätten om någon p.g.a. sjukdom, psykisk störning, försvagat hälsotillstånd eller liknande är ur stånd att vårda sig eller sin egendom enligt föräldrabalken 11 kap 7 §. Förvaltare skall bara utses när godmanskap inte är tillräckligt. Den som får förvaltare förordnad för sig mister i motsvarande mån sin egen rättshandlingsförmåga. </p>
+<p type="title">Kontakta oss</p>
+<p>Helle Bryn-Jensen</p>
+<p>Jurist</p>
+<p>Rättsenheten</p>
+<p>helle punkt bryn-jensen snabela lansstyrelsen punkt se¤helle punkt bryn-jensen snabela lansstyrelsen punkt se</p>
+<p>010-2250396</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

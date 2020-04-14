@@ -1,75 +1,26 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>688</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Tema/Barn-och-foraldrar/Sjukdomar-och-besvar1/Sjukdomar-och-besvar-A-O/Ogoninflammationer-hos-barn</origFileName>
-    <parallel_text xml:lang="eng" location="ogoninflammationer-hos-barn.html"/>
-    <parallel_text xml:lang="fin" location="ogoninflammation-hos-barn.html"/>
-    <parallel_text xml:lang="fit" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="ogoninflammation-hos-barn-vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Ögoninflammationer hos barn - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Barn och föräldrar</p>
-    <list>
-      <p type="listitem">Sjukdomar och besvär</p>
-      <p type="listitem">Mat, sömn och praktiska råd</p>
-      <p type="listitem">Skador och olycksfall</p>
-      <p type="listitem">Växa och utvecklas</p>
-      <p type="listitem">Barn och föräldrar i vården</p>
-      <p type="listitem">Familj och relationer</p>
-      <p type="listitem">Frågor och svar om barn</p>
-      <p type="listitem">Barnavdelningen</p>
-      <p type="listitem">Barnets tänder</p>
-      <p type="listitem">Läsare berättar</p>
-    </list>
-    <p type="title">Ögoninflammationer hos barn</p>
-    <p>Det är vanligt att barn får en ögoninflammation, ofta i samband med en förkylning. För det mesta går det över inom en vecka utan behandling med något läkemedel.</p>
-    <p type="title">Symtom vid ögoninflammation</p>
-    <p>När barnet har fått en ögoninflammation blir ögonvitan röd och irriterad. Det är den genomskinliga slemhinna som täcker ögat och insidan av ögonlocken som har blivit inflammerad. Vanligtvis ser ögat svullet ut och det kan kännas som att det skaver i ögat. Det brukar också rinna en kladdig vätska, så kallad var, från ögat. Vätskan gör att ögonen klibbar ihop, speciellt på morgonen.</p>
-    <p>När barn får ögoninflammation beror det oftast på att de har fått en infektion som har orsakats av virus eller bakterier i ögat. Inflammationen är ett sätt för kroppen att försvara sig. En ögoninflammation kan också bero på en allergisk reaktion eller att barnet har skadat eller fått skräp i ögat.</p>
-    <p type="title">Hur ska en ögoninflammation skötas?</p>
-    <p>Om barnet har var i ögonen är det bra att torka bort det med mjukt papper. Kasta sedan pappret för att minska smittorisken. Varet kan också torkas bort med ljummet kranvatten.</p>
-    <p>Om ögonen klibbar ihop, till exempel när barnet har sovit, kan du blöta en kompress eller papper och lägga på ögat. Då brukar varet löses upp och lossnar lite, och är lättare att torka bort.</p>
-    <p>Det är bra att byta örngott dagligen. Barnet bör också ha en egen handduk, både hemma och i förskolan eller familjedaghemmet.</p>
-    <p type="title">Nyfödda barn</p>
-    <p>Det är vanligt att nyfödda barn har gulaktigt sekret i ögonen. Det beror på att de har trängre tårkanaler än äldre barn och vuxna. Om barnet har mycket sekret kan du torka bort det med mjukt papper.</p>
-    <p type="title">Kan barnet vara i förskolan?</p>
-    <p>Barn som har röda och lite kladdiga ögon behöver inte vara hemma från förskolan om de mår bra för övrigt. Barn med allergibesvär i ögonen behöver inte heller vara hemma.</p>
-    <p type="title">Barnet bör stanna hemma om ögat är varigt</p>
-    <p>Om barnets öga klibbar ihop och du måste torka var ur ögonen flera gånger per dag har barnet en kraftig ögoninflammation. För det mesta är båda ögonen inflammerade. Även om barnet mår bra i övrigt bör det vara hemma från förskolan eller familjedaghemmet, dels för att det smittar, dels för att barnets öga måste tvättas flera gånger om dagen. Barnet kan gå tillbaka till barngruppen när den kraftiga inflammationen har läkt och ögat inte är varigt längre.</p>
-    <p type="title">Smittar lätt</p>
-    <p>Ögoninfektionen smittar lättast bland små barn eftersom de leker så nära varandra. Smittan sprids bland annat när barnet gnuggar sig i ögonen och sedan tar på leksaker eller på andra barn. Skolbarn har inte samma närkontakt, men om det är en kraftig ögoninfektion kan de ändå behöva vara hemma om ögonen är irriterade.</p>
-    <p type="title">Hur kan jag undvika att barnet får en ögoninflammation?</p>
-    <p>Om många i omgivningen är förkylda är det bra att vara noggrann med att tvätta händerna för att inte ögoninfektioner ska spridas. Det är också bra om man både hemma och i förskolan eller familjedaghemmet byter handdukar ofta.</p>
-    <p type="title">Söka vård</p>
-    <p>Oftast går ögoninflammationen över av sig själv inom en vecka.</p>
-    <p>Om barnet har en mycket kraftig inflammation och det bildas mycket var, eller om inflammationen inte går över inom en vecka, bör du kontakta vårdcentralen. Om vårdcentralen är stängd eller du inte kan få någon tid där bör du i stället söka vård på en jourmottagning eller akutmottagning. Inflammationen kan behöva behandlas med antibiotika. Efter två dagars behandling med antibiotika smittar det inte längre och om barnet orkar och mår bra i övrigt kan hen gå till förskolan eller familjedaghemmet, eller skolan.</p>
-    <p>Du bör också söka vård direkt på en vårdcentral eller en akutmottagning om barnet är känsligt för ljus eller har svåra besvär i bara det ena ögat och du misstänker att det är skadat.</p>
-    <p>Du kan alltid ringa sjukvårdsrådgivningen på telefon 1177 för att få råd.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>653</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Tema/Barn-och-foraldrar/Sjukdomar-och-besvar1/Sjukdomar-och-besvar-A-O/Ogoninflammationer-hos-barn</origFileName><parallel_text xml:lang="eng" location="ogoninflammationer-hos-barn.html"/><parallel_text xml:lang="fin" location="ogoninflammation-hos-barn.html"/><parallel_text xml:lang="fit" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="ogoninflammation-hos-barn-vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Ögoninflammationer hos barn - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Ögoninflammationer hos barn</p>
+<p>Det är vanligt att barn får en ögoninflammation, ofta i samband med en förkylning. För det mesta går det över inom en vecka utan behandling med något läkemedel.</p>
+<p type="title">Symtom vid ögoninflammation</p>
+<p>När barnet har fått en ögoninflammation blir ögonvitan röd och irriterad. Det är den genomskinliga slemhinna som täcker ögat och insidan av ögonlocken som har blivit inflammerad. Vanligtvis ser ögat svullet ut och det kan kännas som att det skaver i ögat. Det brukar också rinna en kladdig vätska, så kallad var, från ögat. Vätskan gör att ögonen klibbar ihop, speciellt på morgonen.</p>
+<p>När barn får ögoninflammation beror det oftast på att de har fått en infektion som har orsakats av virus eller bakterier i ögat. Inflammationen är ett sätt för kroppen att försvara sig. En ögoninflammation kan också bero på en allergisk reaktion eller att barnet har skadat eller fått skräp i ögat.</p>
+<p type="title">Hur ska en ögoninflammation skötas?</p>
+<p>Om barnet har var i ögonen är det bra att torka bort det med mjukt papper. Kasta sedan pappret för att minska smittorisken. Varet kan också torkas bort med ljummet kranvatten.</p>
+<p>Om ögonen klibbar ihop, till exempel när barnet har sovit, kan du blöta en kompress eller papper och lägga på ögat. Då brukar varet löses upp och lossnar lite, och är lättare att torka bort.</p>
+<p>Det är bra att byta örngott dagligen. Barnet bör också ha en egen handduk, både hemma och i förskolan eller familjedaghemmet.</p>
+<p type="title">Nyfödda barn</p>
+<p>Det är vanligt att nyfödda barn har gulaktigt sekret i ögonen. Det beror på att de har trängre tårkanaler än äldre barn och vuxna. Om barnet har mycket sekret kan du torka bort det med mjukt papper.</p>
+<p type="title">Kan barnet vara i förskolan?</p>
+<p>Barn som har röda och lite kladdiga ögon behöver inte vara hemma från förskolan om de mår bra för övrigt. Barn med allergibesvär i ögonen behöver inte heller vara hemma.</p>
+<p type="title">Barnet bör stanna hemma om ögat är varigt</p>
+<p>Om barnets öga klibbar ihop och du måste torka var ur ögonen flera gånger per dag har barnet en kraftig ögoninflammation. För det mesta är båda ögonen inflammerade. Även om barnet mår bra i övrigt bör det vara hemma från förskolan eller familjedaghemmet, dels för att det smittar, dels för att barnets öga måste tvättas flera gånger om dagen. Barnet kan gå tillbaka till barngruppen när den kraftiga inflammationen har läkt och ögat inte är varigt längre.</p>
+<p type="title">Smittar lätt</p>
+<p>Ögoninfektionen smittar lättast bland små barn eftersom de leker så nära varandra. Smittan sprids bland annat när barnet gnuggar sig i ögonen och sedan tar på leksaker eller på andra barn. Skolbarn har inte samma närkontakt, men om det är en kraftig ögoninfektion kan de ändå behöva vara hemma om ögonen är irriterade.</p>
+<p type="title">Hur kan jag undvika att barnet får en ögoninflammation?</p>
+<p>Om många i omgivningen är förkylda är det bra att vara noggrann med att tvätta händerna för att inte ögoninfektioner ska spridas. Det är också bra om man både hemma och i förskolan eller familjedaghemmet byter handdukar ofta.</p>
+<p type="title">Söka vård</p>
+<p>Oftast går ögoninflammationen över av sig själv inom en vecka.</p>
+<p>Om barnet har en mycket kraftig inflammation och det bildas mycket var, eller om inflammationen inte går över inom en vecka, bör du kontakta vårdcentralen. Om vårdcentralen är stängd eller du inte kan få någon tid där bör du i stället söka vård på en jourmottagning eller akutmottagning. Inflammationen kan behöva behandlas med antibiotika. Efter två dagars behandling med antibiotika smittar det inte längre och om barnet orkar och mår bra i övrigt kan hen gå till förskolan eller familjedaghemmet, eller skolan.</p>
+<p>Du bör också söka vård direkt på en vårdcentral eller en akutmottagning om barnet är känsligt för ljus eller har svåra besvär i bara det ena ögat och du misstänker att det är skadat.</p>
+<p>Du kan alltid ringa sjukvårdsrådgivningen på telefon 1177 för att få råd.</p>
+</body></document>

@@ -1,35 +1,13 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>640</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1061</origFileName>
-    <parallel_text xml:lang="sme" location="5202.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Vad lagen säger - Sametinget</p>
-    <p type="title">Vad lagen säger</p>
-    <p>Inför varje val upprättas en samisk röstlängd. Rätten att bli upptagen i röstlängden och därmed ha rösträtt har du som uppfattar dig som same och har eller har haft samiska som språk hemma.</p>
-    <p>Det går också bra om dina föräldrar, far- eller morföräldrar har eller har haft samiska som språk i hemmet eller om du har en förälder som är upptagen i röstlängden. Du ska ha fyllt eller fylla 18 år på valdagen och vara svensk medborgare. Bestämmelser om rösträtt och den samiska röstlängden finns i Sametingslagen (1992:1433). <em type="bold">1 kap. Inledande bestämmelser </em>1 § I denna lag ges bestämmelser om en särskild myndighet - Sametinget - med uppgift främst att bevaka frågor som rör samisk kultur i Sverige. </p>
-    <p>2 § Med same avses i denna lag den som anser sig vara same och 1. gör sannolikt att han eller hon har eller har haft samiska som språk i hemmet, eller 2. gör sannolikt att någon av hans eller hennes föräldrar, far- eller morföräldrar har eller har haft samiska som språk i hemmet, eller 3. har en förälder som är eller har varit upptagen i röstlängd till Sametinget, utan att länsstyrelsen därefter beslutat annat.</p>
-    <p><em type="bold">3 kap. Val till Sametinget </em>1 § Val till Sametinget skall hållas vart fjärde år (valåret). Valdag är tredje söndagen i maj. </p>
-    <p><em type="bold">Valkrets och valnämndens uppgifter </em>2 § För valet till Sametinget utgör landet en valkrets. Valnämnden utser valförrättare och förbereder valet samt har i övrigt de uppgifter som framgår av detta kapitel. </p>
-    <p><em type="bold">Rösträtt m.m. </em>3 § Rösträtt till Sametinget har den som är upptagen i sameröstlängd. I sameröstlängden tas den same upp som anmäler sig till valnämnden och som är svensk medborgare och på den samiska valdagen fyllt eller fyller 18 år. Under de förutsättningar som i andra stycket anges för svenska medborgare skall i röstlängden tas upp även de utlänningar som enligt folkbokföringsdatabasen enligt lagen ( 2001:182 ) om behandling av personuppgifter i Skatteverkets folkbokföringsverksamhet har varit folkbokförda i landet tre år i följd före valdagen och som anmäler sig till valnämnden. Lag ( <em type="italic">2003:704 </em>). 4 § Anmälan till valnämnden för att tas upp i sameröstlängden skall ha inkommit senast den 20 oktober året före valåret. Den som har förts upp i sameröstlängden skall strykas från längden, om han begär det eller avlider. </p>
-    <p>5 § Valnämnden beslutar om den person som anmält sig enligt 4 § skall tas upp i sameröstlängd. Valnämnden skall ha upprättat en preliminär sameröstlängd senast den 15 november året förevalåret. Den som anmält sig men inte upptagits i den preliminära sameröstlängden skall genast underrättas om beslutet. Han har rätt att överklaga beslutet hos länsstyrelsen i det län där Sametinget har sitt säte senast den 15 december året före valåret. Anmärkning mot röstlängden prövas vid offentligt sammanträde hos länsstyrelsen den 15 februari eller om denna dag är en lördag eller söndag, närmast följande måndag. Länsstyrelsens beslut över anmärkning mot röstlängd får inte överklagas.</p>
-    <p>6 § Efter det att förekommande överklaganden har avgjorts av länsstyrelsen skall valnämnden senast den 1 mars valåret upprätta en slutlig sameröstlängd som skall uppta 1. samer som på grund av valnämndens eller länsstyrelsens beslut skall tas upp i röstlängd och 2. samer som tidigare varit upptagna i sameröstlängd, om de fortfarande fyller villkoren för rösträtt enligt 3 § och om de inte begärt att bli avförda ur sameröstlängden.</p>
-    <p>7 § Den som är upptagen i sameröstlängd skall genom den centrala valmyndighetens försorg erhålla ett röstkort i form av ett ytterkuvert samt ett valkuvert och ett omslagskuvert. Röstkorten och kuverten skall sändas till de röstberättigade senast 30 dagar före valdagen.</p>
-    <p>En röstberättigad som har förlorat sitt röstkort/ytterkuvert eller inte har fått det, är berättigad att efter begäran få ett duplettröstkort/duplettytterkuvert av den centrala valmyndigheten, länsstyrelsen eller valnämnden. Ett sådant kort skall vara tydligt märkt som duplettröstkort. Lag ( <em type="italic">2006:803 </em>). </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>640</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1061</origFileName><parallel_text xml:lang="sme" location="5202.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Vad lagen säger - Sametinget</p>
+<p type="title">Vad lagen säger</p>
+<p>Inför varje val upprättas en samisk röstlängd. Rätten att bli upptagen i röstlängden och därmed ha rösträtt har du som uppfattar dig som same och har eller har haft samiska som språk hemma.</p>
+<p>Det går också bra om dina föräldrar, far- eller morföräldrar har eller har haft samiska som språk i hemmet eller om du har en förälder som är upptagen i röstlängden. Du ska ha fyllt eller fylla 18 år på valdagen och vara svensk medborgare. Bestämmelser om rösträtt och den samiska röstlängden finns i Sametingslagen (1992:1433). <em type="bold">1 kap. Inledande bestämmelser </em>1 § I denna lag ges bestämmelser om en särskild myndighet - Sametinget - med uppgift främst att bevaka frågor som rör samisk kultur i Sverige. </p>
+<p>2 § Med same avses i denna lag den som anser sig vara same och 1. gör sannolikt att han eller hon har eller har haft samiska som språk i hemmet, eller 2. gör sannolikt att någon av hans eller hennes föräldrar, far- eller morföräldrar har eller har haft samiska som språk i hemmet, eller 3. har en förälder som är eller har varit upptagen i röstlängd till Sametinget, utan att länsstyrelsen därefter beslutat annat.</p>
+<p><em type="bold">3 kap. Val till Sametinget </em>1 § Val till Sametinget skall hållas vart fjärde år (valåret). Valdag är tredje söndagen i maj. </p>
+<p><em type="bold">Valkrets och valnämndens uppgifter </em>2 § För valet till Sametinget utgör landet en valkrets. Valnämnden utser valförrättare och förbereder valet samt har i övrigt de uppgifter som framgår av detta kapitel. </p>
+<p><em type="bold">Rösträtt m.m. </em>3 § Rösträtt till Sametinget har den som är upptagen i sameröstlängd. I sameröstlängden tas den same upp som anmäler sig till valnämnden och som är svensk medborgare och på den samiska valdagen fyllt eller fyller 18 år. Under de förutsättningar som i andra stycket anges för svenska medborgare skall i röstlängden tas upp även de utlänningar som enligt folkbokföringsdatabasen enligt lagen ( 2001:182 ) om behandling av personuppgifter i Skatteverkets folkbokföringsverksamhet har varit folkbokförda i landet tre år i följd före valdagen och som anmäler sig till valnämnden. Lag ( <em type="italic">2003:704 </em>). 4 § Anmälan till valnämnden för att tas upp i sameröstlängden skall ha inkommit senast den 20 oktober året före valåret. Den som har förts upp i sameröstlängden skall strykas från längden, om han begär det eller avlider. </p>
+<p>5 § Valnämnden beslutar om den person som anmält sig enligt 4 § skall tas upp i sameröstlängd. Valnämnden skall ha upprättat en preliminär sameröstlängd senast den 15 november året förevalåret. Den som anmält sig men inte upptagits i den preliminära sameröstlängden skall genast underrättas om beslutet. Han har rätt att överklaga beslutet hos länsstyrelsen i det län där Sametinget har sitt säte senast den 15 december året före valåret. Anmärkning mot röstlängden prövas vid offentligt sammanträde hos länsstyrelsen den 15 februari eller om denna dag är en lördag eller söndag, närmast följande måndag. Länsstyrelsens beslut över anmärkning mot röstlängd får inte överklagas.</p>
+<p>6 § Efter det att förekommande överklaganden har avgjorts av länsstyrelsen skall valnämnden senast den 1 mars valåret upprätta en slutlig sameröstlängd som skall uppta 1. samer som på grund av valnämndens eller länsstyrelsens beslut skall tas upp i röstlängd och 2. samer som tidigare varit upptagna i sameröstlängd, om de fortfarande fyller villkoren för rösträtt enligt 3 § och om de inte begärt att bli avförda ur sameröstlängden.</p>
+<p>7 § Den som är upptagen i sameröstlängd skall genom den centrala valmyndighetens försorg erhålla ett röstkort i form av ett ytterkuvert samt ett valkuvert och ett omslagskuvert. Röstkorten och kuverten skall sändas till de röstberättigade senast 30 dagar före valdagen.</p>
+<p>En röstberättigad som har förlorat sitt röstkort/ytterkuvert eller inte har fått det, är berättigad att efter begäran få ett duplettröstkort/duplettytterkuvert av den centrala valmyndigheten, länsstyrelsen eller valnämnden. Ett sådant kort skall vara tydligt märkt som duplettröstkort. Lag ( <em type="italic">2006:803 </em>). </p>
+</body></document>

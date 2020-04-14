@@ -1,63 +1,30 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>706</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Tema/Tander/Barn/Borsta-tander-pa-barn</origFileName>
-    <parallel_text xml:lang="eng" location="brushing-childrens-teeth.html"/>
-    <parallel_text xml:lang="fin" location="brushing-childrens-teeth.html"/>
-    <parallel_text xml:lang="rus" location="brushing-childrens-teeth.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Borsta tänder på barn - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Tänder</p>
-    <list>
-      <p type="listitem">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title">Borsta tänder på barn</p>
-    <p type="title">Gör så här</p>
-    <list>
-      <p type="listitem">Barnet kan stå upp eller sitta ner i den vuxnes knä och luta sig med huvudet lätt bakåt. Håll ut mungipan lite för att se bättre.</p>
-      <p type="listitem">Placera borsten så att den täcker både tand och tandkött. Använd små lätta rörelser.</p>
-      <p type="listitem">Håll skaftet rakt ut när insidan av de främre tänderna borstas.</p>
-    </list>
-    <p type="title">Bra att vänja barnet tidigt</p>
-    <p>Redan när ett barn får sin första tand är det bra att börja med tandborstningen. Om barnet vänjer sig tidigt blir tandborstningen en naturlig del av vardagen.</p>
-    <p>För det lilla barnet handlar det i första hand om att vänja sig vid att ha en tandborste i munnen. När den första kindtanden kommer är det dags att börja borsta mer systematiskt. Om man startar tidigt, leker med borsten och är försiktig brukar det gå bra. Ta som vana att borsta tänderna två gånger om dagen, efter frukosten och före läggdags på kvällen.</p>
-    <p type="title">Tandborste och tandkräm</p>
-    <p>Använd en tandborste med ett litet och mjukt borsthuvud. Till en början kan barnet uppleva att tandkrämen har en stark smak. Man kan pröva med en tandkräm som har mildare smak och bara använda ytterst lite. När barnet får sina första kindtänder är det lagom med en klick stor som barnets egen lillfingernagel. Det är viktigt att tandkrämen innehåller fluor, som stärker tänderna.</p>
-    <p type="title">För att lättare komma åt</p>
-    <p>Om barnet är litet är det bra att borsta tänderna när barnet ligger på skötbordet eller i sängen, gärna med huvudet i den vuxnes knä. De flesta barn gapar automatiskt om man försiktigt för in ett finger i munnen längs med kindens insida. Använd bara ytterst lite vatten. Små barn klarar inte att skölja munnen.</p>
-    <p type="title">Bra ställning för de lite äldre</p>
-    <p>Lite äldre barn kan stå upp och den vuxne sitta ner medan barnet lutar huvudet lätt bakåt mot den vuxnes axel och arm. Ibland kan det passa bättre att barnet sitter i knäet.</p>
-    <p>Om man för in ett eller ett par fingrar utmed insidan av kinden och håller ut mungipan lite så är det lättare att se in i munnen.</p>
-    <p type="title">Äldre barn behöver också hjälp</p>
-    <p>Lite äldre barn kan även ligga ner med huvudet i den vuxnes knä. Det är då lätt att se in i munnen och komma åt tänderna längst bak, samtidigt som det är vilsamt för barnet.</p>
-    <p>Det är bra att låta barnet tidigt börja öva sig på att själv borsta tänderna, men barnet behöver hjälp av en vuxen ända upp i tio- till tolvårsåldern.</p>
-    <p type="title">Borsta rätt</p>
-    <p>Borsta hela tanden ända till tandköttskanten. För borsten fram och tillbaka i sidled, med mycket små lätta rörelser, tand för tand. Man kan pröva med att hålla borsten som en penna för att få ett lättare tryck. Borsta insidan, utsidan och tuggytorna.</p>
-    <p>När insidan av de främre tänderna i över- och underkäke borstas, hålls skaftet rakt ut. Se till att borsten når tandköttet. Tryck inte för hårt med borsten och behåll små rörelser hela tiden.</p>
-    <p type="title">Låt barnet sila skummet</p>
-    <p>För äldre barn är det bra att avsluta tandborstningen med att låta tandkrämsskum och lite vatten sila mellan tänderna.</p>
-    <p type="title">Eltandborste</p>
-    <p>Man kan även använda eltandborste på barn. Oftast behöver man anpassa borstens tryck mot tandytan, något som barnet behöver hjälp med ända upp i tio- till tolvårsåldern. Eltandborste rekommenderas till barn från tre år.</p>
-    <p type="title">Det är inte alltid lätt att borsta barns tänder</p>
-    <p>Det kan vara svårt att borsta tänderna under vissa perioder i barnets utveckling. Många gånger är det den egna viljan hos barnet och föräldrarnas tålamod som testas. Man får försöka att borsta så gott det går. I dessa lägen kan det räcka med att tandborsten bara förs in i munnen. Under sådana perioder är det bra att anpassa maten så att den inte innehåller för mycket onyttigheter.</p>
-    <p>Ett tips är att låta barnet ha en egen tandborste att borsta och tugga på och att själv använda en annan tandborste för att verkligen göra rent. Ett annat tips är att hjälpa barnet på kvällen och låta det borsta själv på morgonen. Tandrengöringen är viktigast på kvällen. Om man försöker göra tandborstningen mer lekfull kan det också många gånger lösa problemen.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>700</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Tema/Tander/Barn/Borsta-tander-pa-barn</origFileName><parallel_text xml:lang="eng" location="brushing-childrens-teeth.html"/><parallel_text xml:lang="fin" location="brushing-childrens-teeth.html"/><parallel_text xml:lang="rus" location="brushing-childrens-teeth.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Borsta tänder på barn - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Borsta tänder på barn</p>
+<p type="title">Gör så här</p>
+<list><p type="listitem">Barnet kan stå upp eller sitta ner i den vuxnes knä och luta sig med huvudet lätt bakåt. Håll ut mungipan lite för att se bättre.</p>
+<p type="listitem">Placera borsten så att den täcker både tand och tandkött. Använd små lätta rörelser.</p>
+<p type="listitem">Håll skaftet rakt ut när insidan av de främre tänderna borstas.</p>
+</list><p type="title">Bra att vänja barnet tidigt</p>
+<p>Redan när ett barn får sin första tand är det bra att börja med tandborstningen. Om barnet vänjer sig tidigt blir tandborstningen en naturlig del av vardagen.</p>
+<p>För det lilla barnet handlar det i första hand om att vänja sig vid att ha en tandborste i munnen. När den första kindtanden kommer är det dags att börja borsta mer systematiskt. Om man startar tidigt, leker med borsten och är försiktig brukar det gå bra. Ta som vana att borsta tänderna två gånger om dagen, efter frukosten och före läggdags på kvällen.</p>
+<p type="title">Tandborste och tandkräm</p>
+<p>Använd en tandborste med ett litet och mjukt borsthuvud. Till en början kan barnet uppleva att tandkrämen har en stark smak. Man kan pröva med en tandkräm som har mildare smak och bara använda ytterst lite. När barnet får sina första kindtänder är det lagom med en klick stor som barnets egen lillfingernagel. Det är viktigt att tandkrämen innehåller fluor, som stärker tänderna.</p>
+<p type="title">För att lättare komma åt</p>
+<p>Om barnet är litet är det bra att borsta tänderna när barnet ligger på skötbordet eller i sängen, gärna med huvudet i den vuxnes knä. De flesta barn gapar automatiskt om man försiktigt för in ett finger i munnen längs med kindens insida. Använd bara ytterst lite vatten. Små barn klarar inte att skölja munnen.</p>
+<p type="title">Bra ställning för de lite äldre</p>
+<p>Lite äldre barn kan stå upp och den vuxne sitta ner medan barnet lutar huvudet lätt bakåt mot den vuxnes axel och arm. Ibland kan det passa bättre att barnet sitter i knäet.</p>
+<p>Om man för in ett eller ett par fingrar utmed insidan av kinden och håller ut mungipan lite så är det lättare att se in i munnen.</p>
+<p type="title">Äldre barn behöver också hjälp</p>
+<p>Lite äldre barn kan även ligga ner med huvudet i den vuxnes knä. Det är då lätt att se in i munnen och komma åt tänderna längst bak, samtidigt som det är vilsamt för barnet.</p>
+<p>Det är bra att låta barnet tidigt börja öva sig på att själv borsta tänderna, men barnet behöver hjälp av en vuxen ända upp i tio- till tolvårsåldern.</p>
+<p type="title">Borsta rätt</p>
+<p>Borsta hela tanden ända till tandköttskanten. För borsten fram och tillbaka i sidled, med mycket små lätta rörelser, tand för tand. Man kan pröva med att hålla borsten som en penna för att få ett lättare tryck. Borsta insidan, utsidan och tuggytorna.</p>
+<p>När insidan av de främre tänderna i över- och underkäke borstas, hålls skaftet rakt ut. Se till att borsten når tandköttet. Tryck inte för hårt med borsten och behåll små rörelser hela tiden.</p>
+<p type="title">Låt barnet sila skummet</p>
+<p>För äldre barn är det bra att avsluta tandborstningen med att låta tandkrämsskum och lite vatten sila mellan tänderna.</p>
+<p type="title">Eltandborste</p>
+<p>Man kan även använda eltandborste på barn. Oftast behöver man anpassa borstens tryck mot tandytan, något som barnet behöver hjälp med ända upp i tio- till tolvårsåldern. Eltandborste rekommenderas till barn från tre år.</p>
+<p type="title">Det är inte alltid lätt att borsta barns tänder</p>
+<p>Det kan vara svårt att borsta tänderna under vissa perioder i barnets utveckling. Många gånger är det den egna viljan hos barnet och föräldrarnas tålamod som testas. Man får försöka att borsta så gott det går. I dessa lägen kan det räcka med att tandborsten bara förs in i munnen. Under sådana perioder är det bra att anpassa maten så att den inte innehåller för mycket onyttigheter.</p>
+<p>Ett tips är att låta barnet ha en egen tandborste att borsta och tugga på och att själv använda en annan tandborste för att verkligen göra rent. Ett annat tips är att hjälpa barnet på kvällen och låta det borsta själv på morgonen. Tandrengöringen är viktigast på kvällen. Om man försöker göra tandborstningen mer lekfull kan det också många gånger lösa problemen.</p>
+</body></document>

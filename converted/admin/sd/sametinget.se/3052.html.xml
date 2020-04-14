@@ -1,48 +1,26 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>490</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/3052</origFileName>
-    <parallel_text xml:lang="sme" location="3053.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Plenum i Luleå 23-25 oktober - Sametinget</p>
-    <p>Sametingets ordförande Sylvia Simma. Foto: Sametinget.</p>
-    <p type="title">Plenum i Luleå 23-25 oktober</p>
-    <p>23-25 oktober 2007 äger årets tredje plenum rum på Quality hotell i&#13; Luleå. Integrations- och jämställdhetsminister Nyamko Sabuni kommer att&#13; närvara vid plenums öppnande på tisdag förmiddag.</p>
-    <p>Efter inledningen tar den allmänpolitiska debatten vid, då samepolitikerna får debattera valfria ämnen i ett snabbt tempo. Ett seminarium om samisk folkhälsa äger rum på onsdagen. En av de viktigaste frågorna som oktoberplenumet ska behandla är FN:s urfolksdeklaration och dess konsekvenser i Sverige.</p>
-    <p>Ministerbesök</p>
-    <p>Integrations- och jämställdhetsminister Nyamko Sabuni kommer under måndagen att träffa Sametingets styrelse och oppositionspartierna. På tisdag kl. 8.30 innan plenum officiellt öppnas kommer minister Sabuni att hålla ett kort anförande för Sametingets politiker och allmänheten.</p>
-    <p>Allmänpolitisk debatt</p>
-    <p>Avsatt tid för en allmänpolitisk debatt prövades första gången under förra plenum i Storhogna. Eftersom det var ett lyckat grepp kommer en sådan debatt även att äga rum i Luleå. Debatten pågår mellan klockan 10.30 och 12.00 på tisdag.</p>
-    <p>– Debattreglerna reglerar talordning och taltid för att så många som möjligt ska kunna få säga sitt och för att debatten ska vara intressant att lyssna på, förklarar Sametingets ordförande Sylvia Simma.</p>
-    <p>Frågestund</p>
-    <p>I samband med plenums behandling av Sametingets rambudget klockan 16 på tisdag har sameallmänheten möjlighet att ställa frågor till politikerna.</p>
-    <p>Samisk folkhälsa</p>
-    <p>På onsdag eftermiddag den 24 oktober mellan klockan 13 och 18 hålls ett seminarium med titeln ”Hur är den samiska folkhälsan?” Då föreläser bland andra professorerna Per Sjölander (södra Lapplands forskningsenhet i Vilhelmina), Lars Jakobsson (Umeå universitet) och Hugh Beach (Uppsala universitet).  Ruth Persen från det samiska kompetenscentret i Karasjok berättar om arbetet med psykisk hälsa bland samer i Norge.</p>
-    <p>Urfolksdeklarationens konsekvenser</p>
-    <p>Urfolksdeklarationen antogs med förkrossande majoritet av FN:s generalförsamling den 13 september 2007. Den uttalar att urfolken har en oreserverad rätt till självbestämmande. Det betyder att samerna har rätt att fritt få avgöra sin ekonomiska, sociala och kulturella utveckling. Den innehåller också progressiva skrivningar gällande urfolkens rätt att äga, bruka och kontrollera land, territorier och naturresurser. Det förpliktigar de nordiska länderna att erkänna att samerna är ägare av sina traditionella landområden. Det innebär i sin tur att svenska staten inte längre kan hävda att samernas marker tillhör staten. Det är några exempel på skrivningar i deklarationen som berör samernas ställning i Norden.</p>
-    <p>Implementering</p>
-    <p>Hur man ska gå vidare för att göra deklarationen känd och implementera den i samarbete med de svenska, finska, norska och ryska folken och regeringarna, blir en fråga som plenum ska ta ställning till.</p>
-    <p>– Att urfolksdeklarationen antagits efter 25 års arbete är en seger för oss samer och för alla urfolk i världen. Deklarationen fastslår att urfolk har rättigheter som andra folk länge sett som självklara, avslutar Sametingets ordförande Sylvia Simma.</p>
-    <p>För att ta del av handlingarna till mötet, klicka på länken i högerspalten!</p>
-    <p>Kontakt</p>
-    <p>Sylvia Simma, Sametingets ordförande (talman)</p>
-    <p>mobil 070-288 32 24</p>
-    <p>Marie Enoksson, informatör och presskontakt under plenum</p>
-    <p>mobil 070-310 09 94</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>490</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/3052</origFileName><parallel_text xml:lang="sme" location="3053.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Plenum i Luleå 23-25 oktober - Sametinget</p>
+<p>Sametingets ordförande Sylvia Simma. Foto: Sametinget.</p>
+<p type="title">Plenum i Luleå 23-25 oktober</p>
+<p>23-25 oktober 2007 äger årets tredje plenum rum på Quality hotell i&#13; Luleå. Integrations- och jämställdhetsminister Nyamko Sabuni kommer att&#13; närvara vid plenums öppnande på tisdag förmiddag.</p>
+<p>Efter inledningen tar den allmänpolitiska debatten vid, då samepolitikerna får debattera valfria ämnen i ett snabbt tempo. Ett seminarium om samisk folkhälsa äger rum på onsdagen. En av de viktigaste frågorna som oktoberplenumet ska behandla är FN:s urfolksdeklaration och dess konsekvenser i Sverige.</p>
+<p>Ministerbesök</p>
+<p>Integrations- och jämställdhetsminister Nyamko Sabuni kommer under måndagen att träffa Sametingets styrelse och oppositionspartierna. På tisdag kl. 8.30 innan plenum officiellt öppnas kommer minister Sabuni att hålla ett kort anförande för Sametingets politiker och allmänheten.</p>
+<p>Allmänpolitisk debatt</p>
+<p>Avsatt tid för en allmänpolitisk debatt prövades första gången under förra plenum i Storhogna. Eftersom det var ett lyckat grepp kommer en sådan debatt även att äga rum i Luleå. Debatten pågår mellan klockan 10.30 och 12.00 på tisdag.</p>
+<p>– Debattreglerna reglerar talordning och taltid för att så många som möjligt ska kunna få säga sitt och för att debatten ska vara intressant att lyssna på, förklarar Sametingets ordförande Sylvia Simma.</p>
+<p>Frågestund</p>
+<p>I samband med plenums behandling av Sametingets rambudget klockan 16 på tisdag har sameallmänheten möjlighet att ställa frågor till politikerna.</p>
+<p>Samisk folkhälsa</p>
+<p>På onsdag eftermiddag den 24 oktober mellan klockan 13 och 18 hålls ett seminarium med titeln ”Hur är den samiska folkhälsan?” Då föreläser bland andra professorerna Per Sjölander (södra Lapplands forskningsenhet i Vilhelmina), Lars Jakobsson (Umeå universitet) och Hugh Beach (Uppsala universitet).  Ruth Persen från det samiska kompetenscentret i Karasjok berättar om arbetet med psykisk hälsa bland samer i Norge.</p>
+<p>Urfolksdeklarationens konsekvenser</p>
+<p>Urfolksdeklarationen antogs med förkrossande majoritet av FN:s generalförsamling den 13 september 2007. Den uttalar att urfolken har en oreserverad rätt till självbestämmande. Det betyder att samerna har rätt att fritt få avgöra sin ekonomiska, sociala och kulturella utveckling. Den innehåller också progressiva skrivningar gällande urfolkens rätt att äga, bruka och kontrollera land, territorier och naturresurser. Det förpliktigar de nordiska länderna att erkänna att samerna är ägare av sina traditionella landområden. Det innebär i sin tur att svenska staten inte längre kan hävda att samernas marker tillhör staten. Det är några exempel på skrivningar i deklarationen som berör samernas ställning i Norden.</p>
+<p>Implementering</p>
+<p>Hur man ska gå vidare för att göra deklarationen känd och implementera den i samarbete med de svenska, finska, norska och ryska folken och regeringarna, blir en fråga som plenum ska ta ställning till.</p>
+<p>– Att urfolksdeklarationen antagits efter 25 års arbete är en seger för oss samer och för alla urfolk i världen. Deklarationen fastslår att urfolk har rättigheter som andra folk länge sett som självklara, avslutar Sametingets ordförande Sylvia Simma.</p>
+<p>För att ta del av handlingarna till mötet, klicka på länken i högerspalten!</p>
+<p>Kontakt</p>
+<p>Sylvia Simma, Sametingets ordförande (talman)</p>
+<p>mobil 070-288 32 24</p>
+<p>Marie Enoksson, informatör och presskontakt under plenum</p>
+<p>mobil 070-310 09 94</p>
+</body></document>

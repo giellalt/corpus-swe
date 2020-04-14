@@ -1,61 +1,29 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>656</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/35667</origFileName>
-    <parallel_text xml:lang="sma" location="35669.html"/>
-    <parallel_text xml:lang="sme" location="35671.html"/>
-    <parallel_text xml:lang="smj" location="35673.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Delmål - Sametinget</p>
-    <p type="title">Delmål</p>
-    <p>Allt arbete inom Eallinbiras baseras på Sametingets livsmiljöprogram Eallinbiras som antogs av Sametingets plenum 2009. Eallinbiras har en styrgrupp som gör prioriteringar inom livsmiljöprogrammet.</p>
-    <p><em type="italic">Tre delmål </em>Det övergripande målet i Eallinbiras är en livskraftig &amp; hållbar samisk livsmiljö. Tre delmål har fastställts för att kunna förverkliga det övergripande målet: </p>
-    <list>
-      <p type="listitem">En bärkraftig livsmiljö</p>
-      <p type="listitem">Traditionell kunskap och</p>
-      <p type="listitem">Balanserad utveckling (där modern och traditionell kunskap kombineras).</p>
-    </list>
-    <p>Vi har jobbat med dessa tre delmål på många olika sätt och med olika målgrupper, både genom egna initiativ, genom pilotprojekt mm. Här nedan presenteras ett urval av aktiviteter som genomförts utifrån den <span type="quote">”röda tråd”</span> som har lett arbetet hittills.</p>
-    <p type="title">Árbediehtu</p>
-    <p>Samisk traditionell kunskap (árbediehtu) är ett bärande fundament i allt arbete med Sametingets Livsmiljöprogram. Vi arbetar på flera sätt för att lyfta fram samisk kunskap, t.ex genom:</p>
-    <list>
-      <p type="listitem"><em type="italic">Pilotprojekten inom rennäringen </em>Läs mer </p>
-      <p type="listitem"><em type="italic">Framtidskonferens i Lycksele </em>: På Sametingets framtidskonferens var árbediehtu ett viktigt tema som vi diskuterade med olika arbetsgrupper. Tankar och idéer från arbetsgrupperna har tagits in i det pågående arbetet. En plan för Sametingets fortsatta strategiska arbete med árbediehtu har tagits fram på uppdrag av den tidigare styrelsen. Planen har överlämnats till ledningen för vidare beredning. </p>
-      <p type="listitem"><em type="italic"><span type="quote">”Renen som indikator”</span> </em>: Ett samarbetsprojekt mellan Sametinget och Centrum för Biologisk Mångfald i Uppsala. Två kunskapssammanställningar tas fram, en om akademisk forskning och en om traditionell kunskap. Utifrån dem ska sedan en analys göras för att få fram en syntes som kan ge en bredare och tydligare bild av renens påverkan på och betydelse för landskapet (markerna). Kunskapssammanställningarna ska också beröra vilka ekosystemtjänster renen tillhandahåller och själv är beroende av. Traineeprogrammet Buolvas buolvvaj ingår som en del i arbetet med att ta fram en kunskapssammanställning om traditionell kunskap och genomförs under hösten 2011. Målet är att lyfta fram renens och renbetets betydelse för naturvården, bevarandet av mångfald. Lyfta fram renskötarnas expertkunskap dvs. lyfta traditionell kunskap på samma ögonhöjd som akademisk kunskap. </p>
-    </list>
-    <p type="title">Arbete med ungdom</p>
-    <p>Inom Eallinbiras jobbar Sametinget med ungdomar på olika sätt.</p>
-    <list>
-      <p type="listitem"><em type="italic">Vi inkluderar ungdomsrepresentanter </em>i arbetsgrupper, referensgrupper som bildas i samband med Eallinbiras. Den unga rösten ska vara med i utarbetandet av både idéer och genomförande. </p>
-      <p type="listitem"><em type="italic">Vi samarbetar med ungdomsorganisationen Sáminuorra </em>. Eallinbirasprojektet har t.ex finansierat samt samarbetat kring utbildningar, studieresor, föreläsningar, <span type="quote">”elders”</span> mm på efterfrågan av Sáminuorra. Detta bidrog bland annat till att en delegation av 25 ungdomar var i Köpenhamn på COP15 i december 2009. </p>
-      <p type="listitem">Vi har ett nära samarbete med Jokkmokks kommun kring <em type="italic">Jokkmokk Winter Conference – en internationell ungdomskonferens </em>som samlar framförallt unga forskare, beslutsfattare och entreprenörer för att föra samtal om klimat och hållbar utveckling. </p>
-    </list>
-    <p type="title">Förankring av Eallinbiras</p>
-    <p><em type="italic">... i det samiska samhället </em> <em type="italic">Čákkit </em>är namnet på en arbetsgrupp där olika formella och informella ledare från det samiska samhället har bjudits in för att arbeta med frågan om hur vi implementerar Eallinbiras och Eallinbiras ledande principer inom olika grupper och organisationer inom det samiska samhället. Framtidskonferensen var också ett tillfälle för samiska representanter från många håll att delta och påverka arbetet. </p>
-    <p><em type="italic">... på Sametingets kansli </em>Sametingets personal har haft en utbildningsdag med tema Eallinbiras. Tre anställda på näringslivsavdelningen har deltagit i en kurs på SLU <span type="quote">"Dialog för naturvård"</span>. När det gäller Sametingets direkta klimat- och miljöpåverkan har ett handlingsprogram för Sametingets miljöpåverkan tagits fram, där Miljöledningssystem &amp; Eallinbiras kombineras. Att Sametinget ska ha ett miljöledningssystem är ett krav från samiska politikerna (genom livsmiljöprogrammet) samt från svenska staten eftersom det finns lagkrav på Sametinget som offentlig myndighet. </p>
-    <p type="title">Några av våra ledande principer:</p>
-    <list>
-      <p type="listitem">Allas kunskap, erfarenhet och perspektiv är viktiga.</p>
-      <p type="listitem">Helhetssyn: vi arbetar <span type="quote">”gränsöverskridande”</span> i flera bemärkelser, över generationer, över ämnen, över nationella gränser, med mera.</p>
-      <p type="listitem">Allt arbete grundas i samiska värderingar och samisk miljösyn. Den samiska kunskapen är ett väsentligt verktyg för att hitta vägar framåt.</p>
-      <p type="listitem">Vi samarbetar med andra experter (tex. akademiska institutioner) - på samma ögonhöjd och på samma villkor.</p>
-      <p type="listitem">Den gemensamma vägen framåt skapas av en mångfald av lösningar och initiativ.</p>
-      <p type="listitem">Vi syftar till att skapa inspiration, delaktighet och engagemang.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>656</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/35667</origFileName><parallel_text xml:lang="sma" location="35669.html"/><parallel_text xml:lang="sme" location="35671.html"/><parallel_text xml:lang="smj" location="35673.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Delmål - Sametinget</p>
+<p type="title">Delmål</p>
+<p>Allt arbete inom Eallinbiras baseras på Sametingets livsmiljöprogram Eallinbiras som antogs av Sametingets plenum 2009. Eallinbiras har en styrgrupp som gör prioriteringar inom livsmiljöprogrammet.</p>
+<p><em type="italic">Tre delmål </em>Det övergripande målet i Eallinbiras är en livskraftig &amp; hållbar samisk livsmiljö. Tre delmål har fastställts för att kunna förverkliga det övergripande målet: </p>
+<list><p type="listitem">En bärkraftig livsmiljö</p>
+<p type="listitem">Traditionell kunskap och</p>
+<p type="listitem">Balanserad utveckling (där modern och traditionell kunskap kombineras).</p>
+</list><p>Vi har jobbat med dessa tre delmål på många olika sätt och med olika målgrupper, både genom egna initiativ, genom pilotprojekt mm. Här nedan presenteras ett urval av aktiviteter som genomförts utifrån den <span type="quote">”röda tråd”</span> som har lett arbetet hittills.</p>
+<p type="title">Árbediehtu</p>
+<p>Samisk traditionell kunskap (árbediehtu) är ett bärande fundament i allt arbete med Sametingets Livsmiljöprogram. Vi arbetar på flera sätt för att lyfta fram samisk kunskap, t.ex genom:</p>
+<list><p type="listitem"><em type="italic">Pilotprojekten inom rennäringen </em>Läs mer </p>
+<p type="listitem"><em type="italic">Framtidskonferens i Lycksele </em>: På Sametingets framtidskonferens var árbediehtu ett viktigt tema som vi diskuterade med olika arbetsgrupper. Tankar och idéer från arbetsgrupperna har tagits in i det pågående arbetet. En plan för Sametingets fortsatta strategiska arbete med árbediehtu har tagits fram på uppdrag av den tidigare styrelsen. Planen har överlämnats till ledningen för vidare beredning. </p>
+<p type="listitem"><em type="italic"><span type="quote">”Renen som indikator”</span> </em>: Ett samarbetsprojekt mellan Sametinget och Centrum för Biologisk Mångfald i Uppsala. Två kunskapssammanställningar tas fram, en om akademisk forskning och en om traditionell kunskap. Utifrån dem ska sedan en analys göras för att få fram en syntes som kan ge en bredare och tydligare bild av renens påverkan på och betydelse för landskapet (markerna). Kunskapssammanställningarna ska också beröra vilka ekosystemtjänster renen tillhandahåller och själv är beroende av. Traineeprogrammet Buolvas buolvvaj ingår som en del i arbetet med att ta fram en kunskapssammanställning om traditionell kunskap och genomförs under hösten 2011. Målet är att lyfta fram renens och renbetets betydelse för naturvården, bevarandet av mångfald. Lyfta fram renskötarnas expertkunskap dvs. lyfta traditionell kunskap på samma ögonhöjd som akademisk kunskap. </p>
+</list><p type="title">Arbete med ungdom</p>
+<p>Inom Eallinbiras jobbar Sametinget med ungdomar på olika sätt.</p>
+<list><p type="listitem"><em type="italic">Vi inkluderar ungdomsrepresentanter </em>i arbetsgrupper, referensgrupper som bildas i samband med Eallinbiras. Den unga rösten ska vara med i utarbetandet av både idéer och genomförande. </p>
+<p type="listitem"><em type="italic">Vi samarbetar med ungdomsorganisationen Sáminuorra </em>. Eallinbirasprojektet har t.ex finansierat samt samarbetat kring utbildningar, studieresor, föreläsningar, <span type="quote">”elders”</span> mm på efterfrågan av Sáminuorra. Detta bidrog bland annat till att en delegation av 25 ungdomar var i Köpenhamn på COP15 i december 2009. </p>
+<p type="listitem">Vi har ett nära samarbete med Jokkmokks kommun kring <em type="italic">Jokkmokk Winter Conference – en internationell ungdomskonferens </em>som samlar framförallt unga forskare, beslutsfattare och entreprenörer för att föra samtal om klimat och hållbar utveckling. </p>
+</list><p type="title">Förankring av Eallinbiras</p>
+<p><em type="italic">... i det samiska samhället </em> <em type="italic">Čákkit </em>är namnet på en arbetsgrupp där olika formella och informella ledare från det samiska samhället har bjudits in för att arbeta med frågan om hur vi implementerar Eallinbiras och Eallinbiras ledande principer inom olika grupper och organisationer inom det samiska samhället. Framtidskonferensen var också ett tillfälle för samiska representanter från många håll att delta och påverka arbetet. </p>
+<p><em type="italic">... på Sametingets kansli </em>Sametingets personal har haft en utbildningsdag med tema Eallinbiras. Tre anställda på näringslivsavdelningen har deltagit i en kurs på SLU <span type="quote">"Dialog för naturvård"</span>. När det gäller Sametingets direkta klimat- och miljöpåverkan har ett handlingsprogram för Sametingets miljöpåverkan tagits fram, där Miljöledningssystem &amp; Eallinbiras kombineras. Att Sametinget ska ha ett miljöledningssystem är ett krav från samiska politikerna (genom livsmiljöprogrammet) samt från svenska staten eftersom det finns lagkrav på Sametinget som offentlig myndighet. </p>
+<p type="title">Några av våra ledande principer:</p>
+<list><p type="listitem">Allas kunskap, erfarenhet och perspektiv är viktiga.</p>
+<p type="listitem">Helhetssyn: vi arbetar <span type="quote">”gränsöverskridande”</span> i flera bemärkelser, över generationer, över ämnen, över nationella gränser, med mera.</p>
+<p type="listitem">Allt arbete grundas i samiska värderingar och samisk miljösyn. Den samiska kunskapen är ett väsentligt verktyg för att hitta vägar framåt.</p>
+<p type="listitem">Vi samarbetar med andra experter (tex. akademiska institutioner) - på samma ögonhöjd och på samma villkor.</p>
+<p type="listitem">Den gemensamma vägen framåt skapas av en mångfald av lösningar och initiativ.</p>
+<p type="listitem">Vi syftar till att skapa inspiration, delaktighet och engagemang.</p>
+</list></body></document>

@@ -1,35 +1,11 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Folkvalt organ och myndighet</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2017</year>
-    <wordcount>388</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>https://www.sametinget.se/bakgrund</origFileName>
-    <parallel_text xml:lang="smj" location="almmukvalljidum_organa_ja_fabmudahka.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Vad är Sametinget? - Sametinget</p>
-    <p type="title">Folkvalt organ och myndighet</p>
-    <p>Sametinget bildades i syfte att förbättra de svenska samernas möjligheter som ursprungsfolk att bevara och utveckla sin kultur. Sametinget invigdes 1993.</p>
-    <p><em type="italic">Dubbla roller </em>Sametinget i Sverige är både en statlig myndighet med tjänstemän och ett samiskt parlament med folkvalda ledamöter. Sametingets organisation liknar kommunernas, där det också finns politiker och tjänstemän, men kallas ibland för <span type="quote">"samernas riksdag"</span>. Sametinget utövar ännu inte något faktiskt självbestämmande, utan kan ses som ett rådgivande organ och en expertmyndighet för samiska frågor. </p>
-    <p><em type="italic">31 ledamöter </em>De 31 ledamöterna i Sametingets plenum utses i sametingsvalet vart fjärde år. Nästan 9 000 av Sveriges förmodade 20.000-35.000 samer har hittills registrerat sig i Sametingets röstlängd. För att få rösta måste man ha fyllt 18 år. <em type="italic">Samernas ställning </em>En orsak till Sametingets tillkomst var att stimulera samers intresse för deltagande i samhällsliv och politik. Sametinget bidrar till att stärka den samiska identiteten. Sametinget är en arena där olika samiska grupper kan mötas för att diskutera hur man bäst kan bevara och utveckla samisk kultur och samiskt samhällsliv. Staten har under 1900-talet fört en politik som splittrat det samiska folket, där den stora klyftan finns mellan renskötande samer och icke-renskötande samer. </p>
-    <list>
-      <p type="listitem">1977 slog Sveriges riksdag fast att samerna är ett urfolk i Sverige.</p>
-      <p type="listitem">1992 togs riksdagsbeslut om att inrätta ett sameting.</p>
-      <p type="listitem">2011 ändrades Sveriges grundlag så att samerna även erkänns som ett folk i Sverige. Ett urfolk har kulturella rättigheter medan ett folk även har politiska rättigheter.</p>
-    </list>
-    <p>Övergripande mål  Det övergripande målet för Sametinget enligt sametingslagen är att verka för en levande samisk kultur och ta initiativ till verksamheter och föreslå åtgärder som främjar denna kultur. I sametingslagen stadgas Sametingets uppgifter. <em type="italic">Myndighet </em>Sametinget har en offentligrättslig ställning som myndighet under regeringen (Kulturdepartementet). De samiska frågorna berör dock flera olika departement. Sametingets huvudkansli finns i Kiruna. Sametinget har lokalkontor i Jokkmokk, Tärnaby och Östersund. Höga krav  Som statlig myndighet måste Sametinget följa riktlinjerna i regleringsbreven från staten samt ett stort antal lagar och förordningar. Den senaste lagändringen i Sametingslagen (SFS 1992:1433) tydliggör gränsdragningen mellan Sametingets politiska del och myndighetsutövande del. En ny bestämmelse har införts som i korthet innebär att förvaltningsfrågor ska handläggas i nämnder eller av styrelsen, och inte i plenum. </p>
-    <p>2017 gjorde Ekonomistyrningsverket en analys av Sametinget som tydliggör vissa oklarheter som följer av Sametingets unika konstruktion. Läs mer</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Folkvalt organ och myndighet</title><genre code="admin"/><author><unknown/></author><year>2017</year><wordcount>388</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.sametinget.se/bakgrund</origFileName><parallel_text xml:lang="smj" location="almmukvalljidum_organa_ja_fabmudahka.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Vad är Sametinget? - Sametinget</p>
+<p type="title">Folkvalt organ och myndighet</p>
+<p>Sametinget bildades i syfte att förbättra de svenska samernas möjligheter som ursprungsfolk att bevara och utveckla sin kultur. Sametinget invigdes 1993.</p>
+<p><em type="italic">Dubbla roller </em>Sametinget i Sverige är både en statlig myndighet med tjänstemän och ett samiskt parlament med folkvalda ledamöter. Sametingets organisation liknar kommunernas, där det också finns politiker och tjänstemän, men kallas ibland för <span type="quote">"samernas riksdag"</span>. Sametinget utövar ännu inte något faktiskt självbestämmande, utan kan ses som ett rådgivande organ och en expertmyndighet för samiska frågor. </p>
+<p><em type="italic">31 ledamöter </em>De 31 ledamöterna i Sametingets plenum utses i sametingsvalet vart fjärde år. Nästan 9 000 av Sveriges förmodade 20.000-35.000 samer har hittills registrerat sig i Sametingets röstlängd. För att få rösta måste man ha fyllt 18 år. <em type="italic">Samernas ställning </em>En orsak till Sametingets tillkomst var att stimulera samers intresse för deltagande i samhällsliv och politik. Sametinget bidrar till att stärka den samiska identiteten. Sametinget är en arena där olika samiska grupper kan mötas för att diskutera hur man bäst kan bevara och utveckla samisk kultur och samiskt samhällsliv. Staten har under 1900-talet fört en politik som splittrat det samiska folket, där den stora klyftan finns mellan renskötande samer och icke-renskötande samer. </p>
+<list><p type="listitem">1977 slog Sveriges riksdag fast att samerna är ett urfolk i Sverige.</p>
+<p type="listitem">1992 togs riksdagsbeslut om att inrätta ett sameting.</p>
+<p type="listitem">2011 ändrades Sveriges grundlag så att samerna även erkänns som ett folk i Sverige. Ett urfolk har kulturella rättigheter medan ett folk även har politiska rättigheter.</p>
+</list><p>Övergripande mål  Det övergripande målet för Sametinget enligt sametingslagen är att verka för en levande samisk kultur och ta initiativ till verksamheter och föreslå åtgärder som främjar denna kultur. I sametingslagen stadgas Sametingets uppgifter. <em type="italic">Myndighet </em>Sametinget har en offentligrättslig ställning som myndighet under regeringen (Kulturdepartementet). De samiska frågorna berör dock flera olika departement. Sametingets huvudkansli finns i Kiruna. Sametinget har lokalkontor i Jokkmokk, Tärnaby och Östersund. Höga krav  Som statlig myndighet måste Sametinget följa riktlinjerna i regleringsbreven från staten samt ett stort antal lagar och förordningar. Den senaste lagändringen i Sametingslagen (SFS 1992:1433) tydliggör gränsdragningen mellan Sametingets politiska del och myndighetsutövande del. En ny bestämmelse har införts som i korthet innebär att förvaltningsfrågor ska handläggas i nämnder eller av styrelsen, och inte i plenum. </p>
+<p>2017 gjorde Ekonomistyrningsverket en analys av Sametinget som tydliggör vissa oklarheter som följer av Sametingets unika konstruktion. Läs mer</p>
+</body></document>

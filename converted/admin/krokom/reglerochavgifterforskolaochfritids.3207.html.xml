@@ -1,197 +1,151 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Regler och avgifter, förskola och fritids - Krokoms kommun</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1910</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.krokom.se/utbildningochbarnomsorg/forskolaochbarnomsorg/reglerochavgifterforskolaochfritids.3207.html</origFileName>
-    <parallel_text xml:lang="sma" location="reglerochavgifterforskolaochfritids.3207.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="ron">Translate site</p>
-    <list>
-      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
-      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
-      <p type="listitem" xml:lang="eng">Press</p>
-      <p type="listitem" xml:lang="vep">A-Ö</p>
-      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
-      <p type="listitem" xml:lang="vep">Intranät</p>
-      <p type="listitem">Lyssna</p>
-      <p type="listitem" xml:lang="sms">Lättläst</p>
-      <p type="listitem" xml:lang="ron">Translate</p>
-    </list>
-    <p xml:lang="isl">Sök</p>
-    <list>
-      <p type="listitem">Kommun och politik</p>
-      <p type="listitem">Utbildning och barnomsorg</p>
-      <p type="listitem">Bygga, bo och miljö</p>
-      <p type="listitem">Omsorg och hjälp</p>
-      <p type="listitem">Näringsliv och arbete</p>
-      <p type="listitem">Kultur, fritid och turism</p>
-      <p type="listitem">Trafik och infrastruktur</p>
-    </list>
-    <p>Mina favoriter</p>
-    <p type="title">Regler och avgifter, förskola och fritids</p>
-    <p>Här finner du information om verksamheten, placeringsregler och avgifter med mera. Mer information finns i broschyren <span type="quote">"Regler för kommunal förskola, fritidshem, förskoleklass och annan pedagogisk verksamhet"</span>. Se länk till höger.</p>
-    <p>Öppethållande Vistelsetider och schema Personalens studiedagar Rätt till plats Vid föräldraledighet och arbetslöshet Allmän förskola Barn i behov av särskilt stöd Barnomsorgsavgifter Avgiftsgrundande inkomst Delad plats och delad faktura Debitering, betalning, krav och avstängning Så här mycket betalar du E-faktura Försäkring Tystnads- och anmälningsplikt Registerkontroll Personuppgifter</p>
-    <p type="title">Öppethållande</p>
-    <p>Utifrån föräldrarnas arbetstider och barnomsorgsbehov kan kommunen tillhandahålla barnomsorg max 12 timmar per dag, måndag-fredag. Lokala avvikelser kan förekomma.</p>
-    <p>Till toppen</p>
-    <p type="title">Vistelsetider och schema</p>
-    <p>Kommunen ska erbjuda förskola, fritidshem och pedagogisk omsorg i den omfattning som behövs med hänsyn till föräldrarnas förvärvsarbete eller studier. Omsorg ska även erbjudas om barnet har ett eget behov på grund av familjens situation i övrigt eller behöver särskilt stöd i sin utveckling.</p>
-    <p>Du som förälder är skyldig att lämna in schema över den tid ditt barn behöver barnomsorg. Om behovet av tillsyn förändras ska du lämna in nytt schema.</p>
-    <p>
-      <em type="italic">Schema ska i första hand lämnas via kommunens e-tjänst . </em>
-    </p>
-    <p>Du som inte har möjlighet att använda e-tjänsten kan lämna schemat till områdesexpeditionen.</p>
-    <p>Föräldrar har rätt att nyttja förskola/fritidshem 5 dagar per år vid semester eller kompledighet, om inte ledigheten infaller under skollov.</p>
-    <p>Till toppen</p>
-    <p type="title" xml:lang="isl">Personalens studiedagar</p>
-    <p>Förskolorna och fritidshemmen har rätt till fyra utvecklingsdagar per år och kan då endast erbjuda vikarier.</p>
-    <p>Dagbarnvårdarna kan ibland bli kallade till studiedagar som är gemensamma för all barnomsorgspersonal. Det är önskvärt att familjerna själva i möjligaste mån försöker ordna tillsyn dessa dagar. Någon reducering av avgiften sker ej.</p>
-    <p>Under sommaren och vid större helger kan det bli fråga om sammanslagningar av vissa förskolor/fritidshem.</p>
-    <p>Till toppen</p>
-    <p type="title">Rätt till plats</p>
-    <p>Förskoleverksamhet och skolbarnomsorg erbjuds barn:</p>
-    <list>
-      <p type="listitem">vars föräldrar förvärvsarbetar eller studerar</p>
-      <p type="listitem">vars förälder är arbetssökande eller föräldraledig för vård av yngre syskon. Dessa har rätt till 15 timmar per vecka. Förläggning av tiden bestäms av verksamheten i samråd med föräldrarna.</p>
-      <p type="listitem">som är asylsökande och barn som beviljats tidsbegränsat uppehållstillstånd</p>
-      <p type="listitem">som är i behov av särskilt stöd i sin utveckling (skollagen 2:a kap § 9)</p>
-    </list>
-    <p>Till toppen</p>
-    <p type="title">Vid föräldraledighet och arbetslöshet</p>
-    <p>Blir förälder 100 % föräldraledig eller arbetslös, ska detta meddelas områdesexpeditionen omgående då detta kan påverka er barnomsorgsplats och avgift.</p>
-    <p><em type="italic">Föräldraledig </em>Vid syskons födelse får förskolebarnet 1-5 år nyttja barnomsorgen en månad efter syskonets hemkomst från BB/sjukhus enligt tidigare schema och därefter 15 timmar/vecka. Barn 3-5 år har rätt till avgiftsfri allmän förskola. Förläggning av tiden bestäms av verksamheten i samråd med föräldern. Skolbarnomsorg får nyttjas 10 timmar/vecka två månader efter syskonets hemkomst. Platsen ska omgående sägas upp skriftligen. </p>
-    <p><em type="italic">Arbetslös </em>Förskolebarn 1-2 år får omgående gå ner till 15 timmar/vecka med avgift enligt gällande taxa. </p>
-    <p>Förskolebarn 3-5 år får gå avgiftsfri allmän förskola under läsåret. Avgift tas ut under sommarlovet juni-augusti enligt gällande taxa.</p>
-    <p>Skolbarn med fritidsplats får omgående gå ner till 10 timmar/vecka och får gå kvar under uppsägningstiden som är två månader. Platsen ska omgående sägas upp skriftligen.</p>
-    <p>Till toppen</p>
-    <p type="title">Allmän förskola</p>
-    <p>Alla 3-5 åringar som har en placering i kommunal eller enskild förskola går automatiskt också i allmän förskola och avgiften är då reducerad.</p>
-    <p>Avgiftsfri allmän förskola 15 timmar per vecka ska anmälas till respektive områdesexpedition för att inte avgift ska debiteras.</p>
-    <p>Mer information hittar du i broschyren <span type="quote">"Välkommen till allmän förskola"</span> under <span type="quote">"Läs mer"</span> till höger.</p>
-    <p>Till toppen</p>
-    <p type="title">Barn i behov av särskilt stöd</p>
-    <p>Barn som behöver särskilt stöd i sin utveckling enligt Skollagen 2a kap 9 §, har rätt att avgiftsfritt nyttja plats i förskola 15 timmar i veckan. Detta gäller även barn som inte fyllt ett år. Särskilt beslut erfordras.</p>
-    <p>Till toppen</p>
-    <p type="title" xml:lang="nob">Barnomsorgsavgifter</p>
-    <p><em type="italic">Avgiftens grundprinciper </em>Föräldraavgiften är en abonnemangsavgift, vilket innebär att en fast månadsavgift tas ut i 12 månader. Avgift betalas enligt den taxa som kommunfullmäktige fastställt. </p>
-    <p>Avgift debiteras från barnets placeringsdatum enligt placeringsmeddelandet. Avdrag för frånvaro görs inte.</p>
-    <p><em type="italic">Hur beräknas avgiften? </em>Avgiften för förskola, fritidshem och pedagogisk omsorg räknas utifrån hushållets bruttoinkomst, den är alltså inkomstrelaterad. Det betyder att föräldrar med låg inkomst får en lägre avgift, medan de med hög inkomst får en högre avgift. Det finns dock ett <span type="quote" xml:lang="est">”avgiftstak”</span> som är indexreglerat och förändras varje år. Den högsta inkomsten som avgiften baseras på kommer från den 1 mars 2016 att vara 43 760 kr per månad. Lägsta debitering av avgift är en månad, även om den totala placeringstiden är för kortare period. Löper placeringen över ett månadsskifte kan det dock innebära två fakturor med del av månad i avgift. </p>
-    <p><em type="italic">Syskonrabatt </em>Taxans syskonrabatt innebär att det yngsta barnet räknas som barn ett, det näst yngsta som barn två och så vidare. Från och med barn fyra är tillsynen avgiftsfri. För familjer med barn inskrivna i både kooperativ och kommunal verksamhet är syskonrabatten reglerad i verksamhetsavtal. </p>
-    <p><em type="italic">Avgiftspliktiga personer </em>Underlag för månadsavgiften är familjens/hushållets ekonomiska bärkraft. Detta innebär att om man sammanbor eller har ett ekonomiskt samarbete med någon räknas man som två försörjare, även om den sammanboende inte är förälder till barnet/barnen. </p>
-    <p>
-      <em type="italic">Det är dock endast vårdnadshavaren i hushållet som är betalningsansvarig. </em>
-    </p>
-    <p><em type="italic">Skyldighet att lämna inkomstuppgifter </em>De avgiftspliktiga är skyldiga att lämna uppgifter för fastställande av avgift. Blanketten med inkomstuppgifter lämnas in till Barn- och utbildningsavdelningen i samband med att barnet får en placering. Inkomstuppgifter kan även lämnas via e-tjänsten . </p>
-    <p>
-      <em type="italic">Förändrad inkomst och andra förändringar, exempelvis föräldraledighet eller arbetslöshet, ska anmälas snarast eftersom det kan påverka avgiften. De avgiftspliktiga är skyldiga att kontrollera att rätt avgift debiteras. </em>
-    </p>
-    <p><em type="italic">Blanketten ska lämnas in även då högsta avgift enligt fastställd taxa accepteras av vårdnadshavaren </em>. Inkomsten behöver då inte specificeras. </p>
-    <p>Inlämnad ny inkomstuppgift börjar gälla den 1:a i nästkommande månad, om inte annat är överenskommet.</p>
-    <p>Till toppen</p>
-    <p type="title">Avgiftsgrundande inkomst</p>
-    <p>Avgiften grundas på inkomst och övriga förhållanden i det hushåll som barnet tillhör där tillsynsbehov finns.</p>
-    <p>Till avgiftsgrundande bruttoinkomst räknas:</p>
-    <list>
-      <p type="listitem">Lön och andra ersättningar</p>
-      <p type="listitem">Vårdbidrag för barn</p>
-      <p type="listitem" xml:lang="nob">Familjepenning</p>
-      <p type="listitem">Föräldrapenning</p>
-      <p type="listitem">Tidsbegränsad sjukersättning och aktivitetsersättning</p>
-      <p type="listitem">Sjukpenning och gravidpenning</p>
-      <p type="listitem" xml:lang="fin">Livränta</p>
-      <p type="listitem" xml:lang="dan">Pension (ej barnpension)</p>
-      <p type="listitem">Arbetslöshetsersättning</p>
-      <p type="listitem">Arbetsmarknadsutbildning (ej rekryteringsbidrag, studiebidrag och studielån)</p>
-      <p type="listitem">Familjehemsföräldrars arvodesersättning</p>
-    </list>
-    <p>Även förvärvsinkomst som intjänats utomlands ska räknas in i den avgiftsgrundande inkomsten.</p>
-    <p>För egna företagare räknas överskott i inkomstslaget näringsverksamhet under innevarande kalenderår.</p>
-    <p>I det fall inkomsten varierar månad för månad ska den sammanlagda inkomsten för en period delat i antal månader redovisas.</p>
-    <p>Till toppen</p>
-    <p type="title">Delad plats och delad faktura</p>
-    <p>När föräldrar inte bor ihop men har gemensam vårdnad ska den som har behov av tillsyn söka plats och blir då platsinnehavare. Föräldrar som inte har ett gemensamt hushåll, men gemensam vårdnad, kan båda vara platsinnehavare om båda nyttjar barnets plats. Föräldrarna får varsin räkning som baseras på respektive hushålls avgiftsgrundande inkomst. Ansökan om delad plats görs på särskild blankett och skickas till Barn- och utbildningsavdelningen.</p>
-    <p>Ett barn har inte rätt till två förskoleplatser.</p>
-    <p>Till toppen</p>
-    <p type="title">Debitering, betalning, krav och avstängning</p>
-    <p>Debitering av avgift sker alltid för innevarande månad. Månadsavgift debiteras under 12 månader per år från barnets placeringsdatum och till och med det datum då uppsägningstiden går ut. Avgift debiteras oberoende av faktisk närvarotid.</p>
-    <p>Vi tillämpar automatisk räkningskorrigering vilket innebär att din räkning justeras automatiskt utifrån de förändringar som du gjort gällande inkomst, schema eller familj. Förändringarna justeras på räkningen för nästkommande månad.</p>
-    <p>Vid för sen betalning skickas en påminnelse med påminnelseavgift ut 8 dagar efter förfallodatum. Påminnelsen ska betalas inom 8 dagar. Ett inkassokrav skickas ut 10 dagar efter betalningspåminnelsens förfallodatum. Fakturor som inte blir betalda handläggs av Intrum Justitia, som kan hjälpa till med en avbetalningsplan om så önskas. Om vårdnadshavaren har två obetalda fakturor skickas meddelande om uppsägning av barnomsorgsplats. Meddelandet skickas en månad efter sista fakturans förfallodatum. Vårdnadshavaren har då två månader på sig att betala skulden. Om betalning uteblir avslutas placeringen efter en utskolningsperiod på två veckor. Ny plats för barnet kan sökas först när skulden är reglerad.</p>
-    <p>Vid delad barnomsorgsplats gäller uppsägningen endast den vårdnadshavare som inte betalat sin avgift.</p>
-    <p>Kommunen har rätt att säga upp platsen om familjen/hushållet lämnat oriktiga uppgifter som har betydelse för bedömningen av barnets behov av plats. Uppsägning kan också ske om hushållet lämnat oriktiga uppgifter vad gäller inkomster.</p>
-    <p>Du som önskar betala månadsavgiften via autogiro kan hämta blankett under <span type="quote">"Läs mer"</span> till höger, eller ta kontakt med Barn- och utbildningsavdelningen.</p>
-    <p>Till toppen</p>
-    <p type="title">Så här mycket betalar du (från 1 mars 2017)</p>
-    <p>(Samma taxa gäller för barn till arbetssökande och föräldralediga)</p>
-    <p>Det yngsta barnet räknas som barn ett, det näst yngsta som barn två och så vidare.</p>
-    <p>1. Avgift för barn 1 år till och med den 31 juli det år barnet fyller 3 år är</p>
-    <list>
-      <p type="listitem">barn 1: 3% av inkomsten – dock högst 1 362 kronor/månad</p>
-      <p type="listitem">barn 2: 2% av inkomsten – dock högst 908 kronor/månad</p>
-      <p type="listitem">barn 3: 1% av inkomsten – dock högst 454 kronor/månad</p>
-    </list>
-    <p>2. Avgift från och med 1 augusti det år barnet fyller 3 år till och med 12 års ålder är</p>
-    <list>
-      <p type="listitem">barn 1: 2% av inkomsten – dock högst 908 kronor/månad</p>
-      <p type="listitem">barn 2: 1% av inkomsten – dock högst 454 kronor/månad</p>
-      <p type="listitem">barn 3: 1% av inkomsten – dock högst 454 kronor/månad</p>
-    </list>
-    <p>Från och med fjärde barnet är omsorgen gratis.</p>
-    <p>Avgift tas ut under 12 månader/år.</p>
-    <p>Samma taxa gäller oavsett antal tillsynstimmar.</p>
-    <p>Till toppen</p>
-    <p type="title" xml:lang="isl">E-faktura</p>
-    <p>Du kan betala dina avgifter för barnomsorg med e-faktura. Det innebär att du slipper pappersfakturan och i stället får en elektronisk faktura till din internetbank. E-fakturan innehåller samma uppgifter och ser ut precis som pappersfakturan. Gå in på din internetbanks sida för e-fakturor och välj Krokoms kommun för att göra en anmälan. Mer information om e-faktura hittar du här.</p>
-    <p>Till toppen</p>
-    <p type="title">Försäkring</p>
-    <p>Alla folkbokförda barn i Krokoms kommun är kollektivt olycksfallsförsäkrade. För förskolebarn och elever i grundskolan gäller försäkringen dygnet runt. OBS! Barnen är inte försäkrade i de fall de eventuellt förorsakar skada på verksamhetens egendom, andra barn eller personal.</p>
-    <p>Försäkringsbesked, olycksfallsförsäkring för elever, barn och ungdomar finner du under <span type="quote">"Läs mer"</span> till höger.</p>
-    <p>Till toppen</p>
-    <p type="title">Tystnads- och anmälningsplikt</p>
-    <p>All barnomsorgspersonal har tystnadsplikt såväl som anmälningsplikt. Tystnadsplikt innebär att enskilda barns förhållanden inte får röjas till utomstående personer. (Sekretesslagen kap.7 § 38).</p>
-    <p>Anmälningsplikt innebär att personalen är skyldig att kontakta sociala myndigheten om de misstänker att ett barn far illa. (Socialtjänstlagen kap.14 § 1).</p>
-    <p>Anmälningsplikten upphäver tystnadsplikten.</p>
-    <p>Till toppen</p>
-    <p type="title" xml:lang="est">Registerkontroll</p>
-    <p>Från och med 1 januari 2001 finns en lag om registerkontroll av personal inom barnomsorgen. Alla som erbjuds anställning är skyldiga att lämna ett registerutdrag från polisens belastningsregister.</p>
-    <p>Till toppen</p>
-    <p type="title" xml:lang="nob">Personuppgifter</p>
-    <p>Då föräldern accepterat placeringen godkänner man samtidigt kommunens regler samt att personuppgifterna datahanteras i enlighet med Datalagen och Personuppgiftslagen.</p>
-    <p>Till toppen</p>
-    <p xml:lang="nob">Uppdaterad 2017-06-05 av Ulla Eriksson</p>
-    <p xml:lang="sma">Åarjelsaemien gïele</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Facebook</p>
-      <p type="listitem" xml:lang="nno">Twitter</p>
-      <p type="listitem" xml:lang="eng">E-post</p>
-    </list>
-    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
-    <p xml:lang="eng">Kontaktinformation</p>
-    <list>
-      <p type="listitem">Gunilla Granström</p>
-      <p type="listitem">Administratör 0640 163 25</p>
-    </list>
-    <p>Läs mer</p>
-    <list>
-      <p type="listitem">Broschyr <span type="quote">"Regler för kommunal förskola, fritidshem, förskoleklass och annan pedagogisk verksamhet"</span></p>
-      <p type="listitem">Broschyr <span type="quote">"Regler för kommunal förskola, fritidshem, förskoleklass och annan pedagogisk verksamhet"</span> på arabiska: قانون للمدرسة التمهيدية ودار رعاية أطفال المدارس والمرحلة ماقبل المدرسة (الصف التمهيدي) وغيرها من الاعمال التعليمية المدرسة الاساسية</p>
-      <p type="listitem" xml:lang="sma">Broschyr <span type="quote">"Regler för kommunal förskola, fritidshem, förskoleklass och annan pedagogisk verksamhet"</span> på sydsamiska. Njoelkedassh tjïelten aarhskuvlese, eejehthhïejmese, aarhskuvleklaassese jïh jeatjah pedagogihke darjose</p>
-      <p type="listitem">Broschyr <span type="quote">"Välkommen till allmän förskola"</span></p>
-      <p type="listitem" xml:lang="nob">Blanketter</p>
-    </list>
-    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Regler och avgifter, förskola och fritids - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>1910</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/utbildningochbarnomsorg/forskolaochbarnomsorg/reglerochavgifterforskolaochfritids.3207.html</origFileName><parallel_text xml:lang="sma" location="reglerochavgifterforskolaochfritids.3207.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="ron">Translate site</p>
+<list><p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+<p type="listitem" xml:lang="nob">Om webbplatsen</p>
+<p type="listitem" xml:lang="eng">Press</p>
+<p type="listitem" xml:lang="est">A-Ö</p>
+<p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+<p type="listitem" xml:lang="vep">Intranät</p>
+<p type="listitem">Lyssna</p>
+<p type="listitem" xml:lang="sms">Lättläst</p>
+<p type="listitem" xml:lang="ron">Translate</p>
+</list><p xml:lang="isl">Sök</p>
+<list><p type="listitem">Kommun och politik</p>
+<p type="listitem">Utbildning och barnomsorg</p>
+<p type="listitem">Bygga, bo och miljö</p>
+<p type="listitem">Omsorg och hjälp</p>
+<p type="listitem">Näringsliv och arbete</p>
+<p type="listitem">Kultur, fritid och turism</p>
+<p type="listitem">Trafik och infrastruktur</p>
+</list><p>Mina favoriter</p>
+<p type="title">Regler och avgifter, förskola och fritids</p>
+<p>Här finner du information om verksamheten, placeringsregler och avgifter med mera. Mer information finns i broschyren <span type="quote">"Regler för kommunal förskola, fritidshem, förskoleklass och annan pedagogisk verksamhet"</span>. Se länk till höger.</p>
+<p>Öppethållande Vistelsetider och schema Personalens studiedagar Rätt till plats Vid föräldraledighet och arbetslöshet Allmän förskola Barn i behov av särskilt stöd Barnomsorgsavgifter Avgiftsgrundande inkomst Delad plats och delad faktura Debitering, betalning, krav och avstängning Så här mycket betalar du E-faktura Försäkring Tystnads- och anmälningsplikt Registerkontroll Personuppgifter</p>
+<p type="title">Öppethållande</p>
+<p>Utifrån föräldrarnas arbetstider och barnomsorgsbehov kan kommunen tillhandahålla barnomsorg max 12 timmar per dag, måndag-fredag. Lokala avvikelser kan förekomma.</p>
+<p>Till toppen</p>
+<p type="title">Vistelsetider och schema</p>
+<p>Kommunen ska erbjuda förskola, fritidshem och pedagogisk omsorg i den omfattning som behövs med hänsyn till föräldrarnas förvärvsarbete eller studier. Omsorg ska även erbjudas om barnet har ett eget behov på grund av familjens situation i övrigt eller behöver särskilt stöd i sin utveckling.</p>
+<p>Du som förälder är skyldig att lämna in schema över den tid ditt barn behöver barnomsorg. Om behovet av tillsyn förändras ska du lämna in nytt schema.</p>
+<p><em type="italic">Schema ska i första hand lämnas via kommunens e-tjänst . </em></p>
+<p>Du som inte har möjlighet att använda e-tjänsten kan lämna schemat till områdesexpeditionen.</p>
+<p>Föräldrar har rätt att nyttja förskola/fritidshem 5 dagar per år vid semester eller kompledighet, om inte ledigheten infaller under skollov.</p>
+<p>Till toppen</p>
+<p type="title" xml:lang="isl">Personalens studiedagar</p>
+<p>Förskolorna och fritidshemmen har rätt till fyra utvecklingsdagar per år och kan då endast erbjuda vikarier.</p>
+<p>Dagbarnvårdarna kan ibland bli kallade till studiedagar som är gemensamma för all barnomsorgspersonal. Det är önskvärt att familjerna själva i möjligaste mån försöker ordna tillsyn dessa dagar. Någon reducering av avgiften sker ej.</p>
+<p>Under sommaren och vid större helger kan det bli fråga om sammanslagningar av vissa förskolor/fritidshem.</p>
+<p>Till toppen</p>
+<p type="title">Rätt till plats</p>
+<p>Förskoleverksamhet och skolbarnomsorg erbjuds barn:</p>
+<list><p type="listitem">vars föräldrar förvärvsarbetar eller studerar</p>
+<p type="listitem">vars förälder är arbetssökande eller föräldraledig för vård av yngre syskon. Dessa har rätt till 15 timmar per vecka. Förläggning av tiden bestäms av verksamheten i samråd med föräldrarna.</p>
+<p type="listitem">som är asylsökande och barn som beviljats tidsbegränsat uppehållstillstånd</p>
+<p type="listitem">som är i behov av särskilt stöd i sin utveckling (skollagen 2:a kap § 9)</p>
+</list><p>Till toppen</p>
+<p type="title">Vid föräldraledighet och arbetslöshet</p>
+<p>Blir förälder 100 % föräldraledig eller arbetslös, ska detta meddelas områdesexpeditionen omgående då detta kan påverka er barnomsorgsplats och avgift.</p>
+<p><em type="italic">Föräldraledig </em>Vid syskons födelse får förskolebarnet 1-5 år nyttja barnomsorgen en månad efter syskonets hemkomst från BB/sjukhus enligt tidigare schema och därefter 15 timmar/vecka. Barn 3-5 år har rätt till avgiftsfri allmän förskola. Förläggning av tiden bestäms av verksamheten i samråd med föräldern. Skolbarnomsorg får nyttjas 10 timmar/vecka två månader efter syskonets hemkomst. Platsen ska omgående sägas upp skriftligen. </p>
+<p><em type="italic">Arbetslös </em>Förskolebarn 1-2 år får omgående gå ner till 15 timmar/vecka med avgift enligt gällande taxa. </p>
+<p>Förskolebarn 3-5 år får gå avgiftsfri allmän förskola under läsåret. Avgift tas ut under sommarlovet juni-augusti enligt gällande taxa.</p>
+<p>Skolbarn med fritidsplats får omgående gå ner till 10 timmar/vecka och får gå kvar under uppsägningstiden som är två månader. Platsen ska omgående sägas upp skriftligen.</p>
+<p>Till toppen</p>
+<p type="title">Allmän förskola</p>
+<p>Alla 3-5 åringar som har en placering i kommunal eller enskild förskola går automatiskt också i allmän förskola och avgiften är då reducerad.</p>
+<p>Avgiftsfri allmän förskola 15 timmar per vecka ska anmälas till respektive områdesexpedition för att inte avgift ska debiteras.</p>
+<p>Mer information hittar du i broschyren <span type="quote">"Välkommen till allmän förskola"</span> under <span type="quote">"Läs mer"</span> till höger.</p>
+<p>Till toppen</p>
+<p type="title">Barn i behov av särskilt stöd</p>
+<p>Barn som behöver särskilt stöd i sin utveckling enligt Skollagen 2a kap 9 §, har rätt att avgiftsfritt nyttja plats i förskola 15 timmar i veckan. Detta gäller även barn som inte fyllt ett år. Särskilt beslut erfordras.</p>
+<p>Till toppen</p>
+<p type="title" xml:lang="nob">Barnomsorgsavgifter</p>
+<p><em type="italic">Avgiftens grundprinciper </em>Föräldraavgiften är en abonnemangsavgift, vilket innebär att en fast månadsavgift tas ut i 12 månader. Avgift betalas enligt den taxa som kommunfullmäktige fastställt. </p>
+<p>Avgift debiteras från barnets placeringsdatum enligt placeringsmeddelandet. Avdrag för frånvaro görs inte.</p>
+<p><em type="italic">Hur beräknas avgiften? </em>Avgiften för förskola, fritidshem och pedagogisk omsorg räknas utifrån hushållets bruttoinkomst, den är alltså inkomstrelaterad. Det betyder att föräldrar med låg inkomst får en lägre avgift, medan de med hög inkomst får en högre avgift. Det finns dock ett <span type="quote" xml:lang="est">”avgiftstak”</span> som är indexreglerat och förändras varje år. Den högsta inkomsten som avgiften baseras på kommer från den 1 mars 2016 att vara 43 760 kr per månad. Lägsta debitering av avgift är en månad, även om den totala placeringstiden är för kortare period. Löper placeringen över ett månadsskifte kan det dock innebära två fakturor med del av månad i avgift. </p>
+<p><em type="italic">Syskonrabatt </em>Taxans syskonrabatt innebär att det yngsta barnet räknas som barn ett, det näst yngsta som barn två och så vidare. Från och med barn fyra är tillsynen avgiftsfri. För familjer med barn inskrivna i både kooperativ och kommunal verksamhet är syskonrabatten reglerad i verksamhetsavtal. </p>
+<p><em type="italic">Avgiftspliktiga personer </em>Underlag för månadsavgiften är familjens/hushållets ekonomiska bärkraft. Detta innebär att om man sammanbor eller har ett ekonomiskt samarbete med någon räknas man som två försörjare, även om den sammanboende inte är förälder till barnet/barnen. </p>
+<p><em type="italic">Det är dock endast vårdnadshavaren i hushållet som är betalningsansvarig. </em></p>
+<p><em type="italic">Skyldighet att lämna inkomstuppgifter </em>De avgiftspliktiga är skyldiga att lämna uppgifter för fastställande av avgift. Blanketten med inkomstuppgifter lämnas in till Barn- och utbildningsavdelningen i samband med att barnet får en placering. Inkomstuppgifter kan även lämnas via e-tjänsten . </p>
+<p><em type="italic">Förändrad inkomst och andra förändringar, exempelvis föräldraledighet eller arbetslöshet, ska anmälas snarast eftersom det kan påverka avgiften. De avgiftspliktiga är skyldiga att kontrollera att rätt avgift debiteras. </em></p>
+<p><em type="italic">Blanketten ska lämnas in även då högsta avgift enligt fastställd taxa accepteras av vårdnadshavaren </em>. Inkomsten behöver då inte specificeras. </p>
+<p>Inlämnad ny inkomstuppgift börjar gälla den 1:a i nästkommande månad, om inte annat är överenskommet.</p>
+<p>Till toppen</p>
+<p type="title">Avgiftsgrundande inkomst</p>
+<p>Avgiften grundas på inkomst och övriga förhållanden i det hushåll som barnet tillhör där tillsynsbehov finns.</p>
+<p>Till avgiftsgrundande bruttoinkomst räknas:</p>
+<list><p type="listitem">Lön och andra ersättningar</p>
+<p type="listitem">Vårdbidrag för barn</p>
+<p type="listitem" xml:lang="nob">Familjepenning</p>
+<p type="listitem">Föräldrapenning</p>
+<p type="listitem">Tidsbegränsad sjukersättning och aktivitetsersättning</p>
+<p type="listitem">Sjukpenning och gravidpenning</p>
+<p type="listitem" xml:lang="fin">Livränta</p>
+<p type="listitem" xml:lang="dan">Pension (ej barnpension)</p>
+<p type="listitem">Arbetslöshetsersättning</p>
+<p type="listitem">Arbetsmarknadsutbildning (ej rekryteringsbidrag, studiebidrag och studielån)</p>
+<p type="listitem">Familjehemsföräldrars arvodesersättning</p>
+</list><p>Även förvärvsinkomst som intjänats utomlands ska räknas in i den avgiftsgrundande inkomsten.</p>
+<p>För egna företagare räknas överskott i inkomstslaget näringsverksamhet under innevarande kalenderår.</p>
+<p>I det fall inkomsten varierar månad för månad ska den sammanlagda inkomsten för en period delat i antal månader redovisas.</p>
+<p>Till toppen</p>
+<p type="title">Delad plats och delad faktura</p>
+<p>När föräldrar inte bor ihop men har gemensam vårdnad ska den som har behov av tillsyn söka plats och blir då platsinnehavare. Föräldrar som inte har ett gemensamt hushåll, men gemensam vårdnad, kan båda vara platsinnehavare om båda nyttjar barnets plats. Föräldrarna får varsin räkning som baseras på respektive hushålls avgiftsgrundande inkomst. Ansökan om delad plats görs på särskild blankett och skickas till Barn- och utbildningsavdelningen.</p>
+<p>Ett barn har inte rätt till två förskoleplatser.</p>
+<p>Till toppen</p>
+<p type="title">Debitering, betalning, krav och avstängning</p>
+<p>Debitering av avgift sker alltid för innevarande månad. Månadsavgift debiteras under 12 månader per år från barnets placeringsdatum och till och med det datum då uppsägningstiden går ut. Avgift debiteras oberoende av faktisk närvarotid.</p>
+<p>Vi tillämpar automatisk räkningskorrigering vilket innebär att din räkning justeras automatiskt utifrån de förändringar som du gjort gällande inkomst, schema eller familj. Förändringarna justeras på räkningen för nästkommande månad.</p>
+<p>Vid för sen betalning skickas en påminnelse med påminnelseavgift ut 8 dagar efter förfallodatum. Påminnelsen ska betalas inom 8 dagar. Ett inkassokrav skickas ut 10 dagar efter betalningspåminnelsens förfallodatum. Fakturor som inte blir betalda handläggs av Intrum Justitia, som kan hjälpa till med en avbetalningsplan om så önskas. Om vårdnadshavaren har två obetalda fakturor skickas meddelande om uppsägning av barnomsorgsplats. Meddelandet skickas en månad efter sista fakturans förfallodatum. Vårdnadshavaren har då två månader på sig att betala skulden. Om betalning uteblir avslutas placeringen efter en utskolningsperiod på två veckor. Ny plats för barnet kan sökas först när skulden är reglerad.</p>
+<p>Vid delad barnomsorgsplats gäller uppsägningen endast den vårdnadshavare som inte betalat sin avgift.</p>
+<p>Kommunen har rätt att säga upp platsen om familjen/hushållet lämnat oriktiga uppgifter som har betydelse för bedömningen av barnets behov av plats. Uppsägning kan också ske om hushållet lämnat oriktiga uppgifter vad gäller inkomster.</p>
+<p>Du som önskar betala månadsavgiften via autogiro kan hämta blankett under <span type="quote">"Läs mer"</span> till höger, eller ta kontakt med Barn- och utbildningsavdelningen.</p>
+<p>Till toppen</p>
+<p type="title">Så här mycket betalar du (från 1 mars 2017)</p>
+<p>(Samma taxa gäller för barn till arbetssökande och föräldralediga)</p>
+<p>Det yngsta barnet räknas som barn ett, det näst yngsta som barn två och så vidare.</p>
+<p>1. Avgift för barn 1 år till och med den 31 juli det år barnet fyller 3 år är</p>
+<list><p type="listitem">barn 1: 3% av inkomsten – dock högst 1 362 kronor/månad</p>
+<p type="listitem">barn 2: 2% av inkomsten – dock högst 908 kronor/månad</p>
+<p type="listitem">barn 3: 1% av inkomsten – dock högst 454 kronor/månad</p>
+</list><p>2. Avgift från och med 1 augusti det år barnet fyller 3 år till och med 12 års ålder är</p>
+<list><p type="listitem">barn 1: 2% av inkomsten – dock högst 908 kronor/månad</p>
+<p type="listitem">barn 2: 1% av inkomsten – dock högst 454 kronor/månad</p>
+<p type="listitem">barn 3: 1% av inkomsten – dock högst 454 kronor/månad</p>
+</list><p>Från och med fjärde barnet är omsorgen gratis.</p>
+<p>Avgift tas ut under 12 månader/år.</p>
+<p>Samma taxa gäller oavsett antal tillsynstimmar.</p>
+<p>Till toppen</p>
+<p type="title" xml:lang="isl">E-faktura</p>
+<p>Du kan betala dina avgifter för barnomsorg med e-faktura. Det innebär att du slipper pappersfakturan och i stället får en elektronisk faktura till din internetbank. E-fakturan innehåller samma uppgifter och ser ut precis som pappersfakturan. Gå in på din internetbanks sida för e-fakturor och välj Krokoms kommun för att göra en anmälan. Mer information om e-faktura hittar du här.</p>
+<p>Till toppen</p>
+<p type="title">Försäkring</p>
+<p>Alla folkbokförda barn i Krokoms kommun är kollektivt olycksfallsförsäkrade. För förskolebarn och elever i grundskolan gäller försäkringen dygnet runt. OBS! Barnen är inte försäkrade i de fall de eventuellt förorsakar skada på verksamhetens egendom, andra barn eller personal.</p>
+<p>Försäkringsbesked, olycksfallsförsäkring för elever, barn och ungdomar finner du under <span type="quote">"Läs mer"</span> till höger.</p>
+<p>Till toppen</p>
+<p type="title">Tystnads- och anmälningsplikt</p>
+<p>All barnomsorgspersonal har tystnadsplikt såväl som anmälningsplikt. Tystnadsplikt innebär att enskilda barns förhållanden inte får röjas till utomstående personer. (Sekretesslagen kap.7 § 38).</p>
+<p>Anmälningsplikt innebär att personalen är skyldig att kontakta sociala myndigheten om de misstänker att ett barn far illa. (Socialtjänstlagen kap.14 § 1).</p>
+<p>Anmälningsplikten upphäver tystnadsplikten.</p>
+<p>Till toppen</p>
+<p type="title" xml:lang="est">Registerkontroll</p>
+<p>Från och med 1 januari 2001 finns en lag om registerkontroll av personal inom barnomsorgen. Alla som erbjuds anställning är skyldiga att lämna ett registerutdrag från polisens belastningsregister.</p>
+<p>Till toppen</p>
+<p type="title" xml:lang="nob">Personuppgifter</p>
+<p>Då föräldern accepterat placeringen godkänner man samtidigt kommunens regler samt att personuppgifterna datahanteras i enlighet med Datalagen och Personuppgiftslagen.</p>
+<p>Till toppen</p>
+<p xml:lang="nob">Uppdaterad 2017-06-05 av Ulla Eriksson</p>
+<p xml:lang="sma">Åarjelsaemien gïele</p>
+<list><p type="listitem" xml:lang="nno">Facebook</p>
+<p type="listitem" xml:lang="nno">Twitter</p>
+<p type="listitem" xml:lang="eng">E-post</p>
+</list><p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+<p xml:lang="eng">Kontaktinformation</p>
+<list><p type="listitem">Gunilla Granström</p>
+<p type="listitem">Administratör 0640 163 25</p>
+</list><p>Läs mer</p>
+<list><p type="listitem">Broschyr <span type="quote">"Regler för kommunal förskola, fritidshem, förskoleklass och annan pedagogisk verksamhet"</span></p>
+<p type="listitem">Broschyr <span type="quote">"Regler för kommunal förskola, fritidshem, förskoleklass och annan pedagogisk verksamhet"</span> på arabiska: قانون للمدرسة التمهيدية ودار رعاية أطفال المدارس والمرحلة ماقبل المدرسة (الصف التمهيدي) وغيرها من الاعمال التعليمية المدرسة الاساسية</p>
+<p type="listitem" xml:lang="sma">Broschyr <span type="quote">"Regler för kommunal förskola, fritidshem, förskoleklass och annan pedagogisk verksamhet"</span> på sydsamiska. Njoelkedassh tjïelten aarhskuvlese, eejehthhïejmese, aarhskuvleklaassese jïh jeatjah pedagogihke darjose</p>
+<p type="listitem">Broschyr <span type="quote">"Välkommen till allmän förskola"</span></p>
+<p type="listitem" xml:lang="nob">Blanketter</p>
+</list><p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+</body></document>

@@ -1,40 +1,12 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>169</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/17794</origFileName>
-    <parallel_text xml:lang="sme" location="20321.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Nytt samiskt forskningsprogram - Sametinget</p>
-    <p type="title">Nytt samiskt forskningsprogram</p>
-    <p>I dag har regeringen fattat beslut om ett nytt heltäckande forskningsprogram som rör det samiska samhället, skriver jordbruksdepartementet i ett pressmeddelande.</p>
-    <p>Den geografiska uppdelningen, kunskapsbrister och statusen som ursprungsbefolkning gör att regeringen anser att det finns ett behov av ett tvärvetenskapligt samiskt forskningsprogram.</p>
-    <p>
-      <em type="bold">Bättre samordning </em>
-    </p>
-    <p>Programmet syftar till en bättre samordning av den samerelaterade forskningen mellan de som utför forskningen och de som finansierar forskningen.</p>
-    <p>
-      <em type="bold">Brist på kunskap </em>
-    </p>
-    <p>Bakgrunden till beslutet är bland annat att det generellt råder stor brist på kunskap om samer och deras levnadsförhållanden i Sverige och övriga länder i Norden. Samernas uppdelning i fler länder innebär både olika levnadsförhållanden för befolkningen men också att kunskapen om dem är splittrad och svårtillgänglig.</p>
-    <p>- Det är viktigt med ett forskningsprogram som spänner över flera områden för att samla kunskaper och få en helhetsbild, säger landsbygdsminister Eskil Erlandsson.</p>
-    <p>
-      <em type="bold">Samverkan </em>
-    </p>
-    <p>Forskningsrådet för miljö, areella näringar och samhällsbyggande, Vetenskapsrådet och Forskningsrådet för arbetsliv och socialvetenskap får ansvar att i samverkan utforma programmet.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>169</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/17794</origFileName><parallel_text xml:lang="sme" location="20321.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Nytt samiskt forskningsprogram - Sametinget</p>
+<p type="title">Nytt samiskt forskningsprogram</p>
+<p>I dag har regeringen fattat beslut om ett nytt heltäckande forskningsprogram som rör det samiska samhället, skriver jordbruksdepartementet i ett pressmeddelande.</p>
+<p>Den geografiska uppdelningen, kunskapsbrister och statusen som ursprungsbefolkning gör att regeringen anser att det finns ett behov av ett tvärvetenskapligt samiskt forskningsprogram.</p>
+<p><em type="bold">Bättre samordning </em></p>
+<p>Programmet syftar till en bättre samordning av den samerelaterade forskningen mellan de som utför forskningen och de som finansierar forskningen.</p>
+<p><em type="bold">Brist på kunskap </em></p>
+<p>Bakgrunden till beslutet är bland annat att det generellt råder stor brist på kunskap om samer och deras levnadsförhållanden i Sverige och övriga länder i Norden. Samernas uppdelning i fler länder innebär både olika levnadsförhållanden för befolkningen men också att kunskapen om dem är splittrad och svårtillgänglig.</p>
+<p>- Det är viktigt med ett forskningsprogram som spänner över flera områden för att samla kunskaper och få en helhetsbild, säger landsbygdsminister Eskil Erlandsson.</p>
+<p><em type="bold">Samverkan </em></p>
+<p>Forskningsrådet för miljö, areella näringar och samhällsbyggande, Vetenskapsrådet och Forskningsrådet för arbetsliv och socialvetenskap får ansvar att i samverkan utforma programmet.</p>
+</body></document>

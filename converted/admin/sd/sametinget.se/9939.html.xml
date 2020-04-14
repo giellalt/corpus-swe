@@ -1,46 +1,22 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>384</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/9939</origFileName>
-    <parallel_text xml:lang="sme" location="9941.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Samisk framtid är temat för Sametingets högtidliga öppnande - Sametinget</p>
-    <p>Solen går upp. Skulptur av Lars-Levi Sunna i Kiruna Stadhus.</p>
-    <p type="title">Samisk framtid är temat för Sametingets högtidliga öppnande</p>
-    <p>Ett antal prominenta gäster kommer till Kiruna tisdagen den 25 augusti då Sametingets högtidliga öppnande äger rum i Kiruna stadshus i närvaro av kronprinsessan Victoria. Ordföranden för FN:s Permanenta Forum för urfolk, Victoria Tauli-Corpuz från Filippinerna invigningstalar. Dessutom har samiska barn och ungdomar en framträdande roll under invigningen.</p>
-    <p><em type="italic">Kända gäster </em>Jordbruksminister Eskil Erlandsson och Integrations- och jämställdhetsminister Nyamko Sabuni finns på plats och kommer att hålla tal. Bland andra kända gäster märks Lee Swepston, Frankrike/USA, som arbetat med urfolk och mänskliga rättigheter på ILO i Genève (1973-2007), och James Stott, Alaska, ordförande för Inuit Circumpolar Council (ICC). <em type="italic">Sång och jojk </em>Kören Sámi Jienat uppträder med sång och jojk. Under ceremonin uppmärksammas vinnaren i Sametingets valnämnds teckningstävling för barn på temat <span type="quote">”Samisk framtid”</span>, Therese Labba. Hennes bild pryder omslaget till programmet för dagen. <em type="italic">Ungdomar förrättar uppropet </em>De unga är viktiga för samernas framtid. Därför har valnämnden bestämt att ledamöter från Sametingets ungdomsråd ska förrätta uppropet av sametingsledamöterna. Ungdomsrådet har bistått valnämnden i hela valprocessen, från att värva ungdomar till röstlängden till att skapa en egen valfilm. <em type="italic">Jämställt sameting </em>Det är det mest jämställda Sametinget som nu samlas. 15 av 31 ledamöter är kvinnor. Konstituerande plenum inleds på tisdagen kl. 16 på Folkets Hus och fortsätter på onsdagen kl. 11. Då får vi veta vilka som kommer att sitta i styrelsen, vem som väljs till ny styrelseordförande, vilka som utses att sitta i presidiet och vem som blir ordförande för Sametinget. <em type="italic">Kontakt </em>Sametingets informatör 0980-780 42, 070-310 09 94 </p>
-    <p><em type="italic">PROGRAM </em>25 augusti 2009 i Kiruna stadshus </p>
-    <p><em type="italic">09.15 </em>Platserna skall vara intagna </p>
-    <p><em type="italic">09.30 </em>HKH Kronprinsessan Victoria anländer </p>
-    <list>
-      <p type="listitem">Samernas nationalsång</p>
-      <p type="listitem">Sametingets ordförande hälsar välkommen</p>
-      <p type="listitem">Jojk/sång – Sámi Jienat</p>
-      <p type="listitem">Ungdomsrådet förrättar upprop av ledamöterna i Sametinget</p>
-      <p type="listitem">Jojk/sång</p>
-      <p type="listitem">Sametingets ordförande fördelar ordet till de som har hälsningar till Sametinget: Jordbruksminister Eskil Erlandsson Integrations- och jämställdhetsminister Nyamko Sabuni Övriga hälsningar till Sametinget max 3 min vardera</p>
-      <p type="listitem">Jojk/sång</p>
-      <p type="listitem">Sametingets ordförande lämnar ordet till Ordföranden för permanent forum som öppnar Sametinget 2009</p>
-      <p type="listitem">Ålderspresident leder Sametingets sammanträde</p>
-      <p type="listitem">Ajournering av Sametingets sammanträde</p>
-    </list>
-    <p><em type="italic">11.30 </em>Lunch för Sametingets ledamöter och speciellt inbjudna gäster på Hotel Ferrum, Värd: Kiruna kommun </p>
-    <p><em type="italic">14.00 </em>Rundabordssamtal, Folkets Hus </p>
-    <p><em type="italic">16.00 </em>Konstituerande plenum på Folkets Hus </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>384</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/9939</origFileName><parallel_text xml:lang="sme" location="9941.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Samisk framtid är temat för Sametingets högtidliga öppnande - Sametinget</p>
+<p>Solen går upp. Skulptur av Lars-Levi Sunna i Kiruna Stadhus.</p>
+<p type="title">Samisk framtid är temat för Sametingets högtidliga öppnande</p>
+<p>Ett antal prominenta gäster kommer till Kiruna tisdagen den 25 augusti då Sametingets högtidliga öppnande äger rum i Kiruna stadshus i närvaro av kronprinsessan Victoria. Ordföranden för FN:s Permanenta Forum för urfolk, Victoria Tauli-Corpuz från Filippinerna invigningstalar. Dessutom har samiska barn och ungdomar en framträdande roll under invigningen.</p>
+<p><em type="italic">Kända gäster </em>Jordbruksminister Eskil Erlandsson och Integrations- och jämställdhetsminister Nyamko Sabuni finns på plats och kommer att hålla tal. Bland andra kända gäster märks Lee Swepston, Frankrike/USA, som arbetat med urfolk och mänskliga rättigheter på ILO i Genève (1973-2007), och James Stott, Alaska, ordförande för Inuit Circumpolar Council (ICC). <em type="italic">Sång och jojk </em>Kören Sámi Jienat uppträder med sång och jojk. Under ceremonin uppmärksammas vinnaren i Sametingets valnämnds teckningstävling för barn på temat <span type="quote">”Samisk framtid”</span>, Therese Labba. Hennes bild pryder omslaget till programmet för dagen. <em type="italic">Ungdomar förrättar uppropet </em>De unga är viktiga för samernas framtid. Därför har valnämnden bestämt att ledamöter från Sametingets ungdomsråd ska förrätta uppropet av sametingsledamöterna. Ungdomsrådet har bistått valnämnden i hela valprocessen, från att värva ungdomar till röstlängden till att skapa en egen valfilm. <em type="italic">Jämställt sameting </em>Det är det mest jämställda Sametinget som nu samlas. 15 av 31 ledamöter är kvinnor. Konstituerande plenum inleds på tisdagen kl. 16 på Folkets Hus och fortsätter på onsdagen kl. 11. Då får vi veta vilka som kommer att sitta i styrelsen, vem som väljs till ny styrelseordförande, vilka som utses att sitta i presidiet och vem som blir ordförande för Sametinget. <em type="italic">Kontakt </em>Sametingets informatör 0980-780 42, 070-310 09 94 </p>
+<p><em type="italic">PROGRAM </em>25 augusti 2009 i Kiruna stadshus </p>
+<p><em type="italic">09.15 </em>Platserna skall vara intagna </p>
+<p><em type="italic">09.30 </em>HKH Kronprinsessan Victoria anländer </p>
+<list><p type="listitem">Samernas nationalsång</p>
+<p type="listitem">Sametingets ordförande hälsar välkommen</p>
+<p type="listitem">Jojk/sång – Sámi Jienat</p>
+<p type="listitem">Ungdomsrådet förrättar upprop av ledamöterna i Sametinget</p>
+<p type="listitem">Jojk/sång</p>
+<p type="listitem">Sametingets ordförande fördelar ordet till de som har hälsningar till Sametinget: Jordbruksminister Eskil Erlandsson Integrations- och jämställdhetsminister Nyamko Sabuni Övriga hälsningar till Sametinget max 3 min vardera</p>
+<p type="listitem">Jojk/sång</p>
+<p type="listitem">Sametingets ordförande lämnar ordet till Ordföranden för permanent forum som öppnar Sametinget 2009</p>
+<p type="listitem">Ålderspresident leder Sametingets sammanträde</p>
+<p type="listitem">Ajournering av Sametingets sammanträde</p>
+</list><p><em type="italic">11.30 </em>Lunch för Sametingets ledamöter och speciellt inbjudna gäster på Hotel Ferrum, Värd: Kiruna kommun </p>
+<p><em type="italic">14.00 </em>Rundabordssamtal, Folkets Hus </p>
+<p><em type="italic">16.00 </em>Konstituerande plenum på Folkets Hus </p>
+</body></document>

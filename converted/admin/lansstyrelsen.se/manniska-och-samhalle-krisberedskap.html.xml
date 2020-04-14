@@ -1,56 +1,30 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>290</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/krisberedskap/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle-krisberedskap.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-krisberedskap.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Krisberedskap - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Krisberedskap</p>
-    <p>Gavin Spencer</p>
-    <p>
-      <em type="italic">Länsstyrelsen samverkar med olika lokala, regionala och centrala aktörer för att skapa ett tryggt och säkert samhälle. Vi ska ha beredskap för att kunna hantera situationer som uppstår före, under och efter en kris. </em>
-    </p>
-    <p>Under en kris ska Länsstyrelsen stödja alla samverkande myndigheter, organisationer och samhällsviktiga företag, och samordna våra insatser med deras. Om beredskapen höjs eller krig bryter ut ska vi leda och samordna all civil verksamhet i länet och samordna arbetet med den militära verksamheten.</p>
-    <p>Vid omfattande räddningsinsatser kan Länsstyrelsen ta över ansvaret för den kommunala räddningstjänstens arbete i en eller flera kommuner.</p>
-    <p>Samtliga länsstyrelser har räddningstjänstansvar vid olyckor i eller utsläpp från kärnkraftverk, men i Uppsala, Kalmar och Hallands län har Länsstyrelsen dessutom utökade beredskapsuppgifter som gäller säkerheten kring kärnkraftverken och risken för utsläpp av radioaktiva ämnen.</p>
-    <p>Vi ser också till att kommunernas räddningstjänst följer LSO, lagen (SFS 2003:778) om skydd mot olyckor.</p>
-    <p>Länsstyrelsens roll, ansvar och organisation beskrivs mer utförligt under rubriken med samma namn i menyn till vänster.</p>
-    <p type="title">Krishanteringssystemets principer</p>
-    <p>Det svenska krishanteringssystemet bygger på ett antal principer som kort beskrivs nedan.</p>
-    <p type="title">Ansvarsprincipen</p>
-    <p>Den som ansvarar för en verksamhet under normala förhållanden ska också ansvara för den i krissituationer.</p>
-    <p type="title">Likhetsprincipen</p>
-    <p>Verksamheten ska så långt som möjligt vara organiserad på samma sätt under krissituationer som under normala förhållanden.</p>
-    <p type="title">Närhetsprincipen</p>
-    <p>Kriser ska hanteras på lägsta möjliga nivå i samhället. Regeringen har områdesansvaret på central nivå, länsstyrelsen på regional nivå och kommunerna har det lokala ansvaret.</p>
-    <p type="title">Kontakta oss</p>
-    <p>Lars-Håkan Jönsson</p>
-    <p>Beredskapsdirektör</p>
-    <p>Lars-Hakan punkt Jonsson snabela lansstyrelsen punkt se¤Lars-Hakan punkt Jonsson snabela lansstyrelsen punkt se</p>
-    <p>010-2250443</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>290</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/krisberedskap/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle-krisberedskap.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle-krisberedskap.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Krisberedskap - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Krisberedskap</p>
+<p>Gavin Spencer</p>
+<p><em type="italic">Länsstyrelsen samverkar med olika lokala, regionala och centrala aktörer för att skapa ett tryggt och säkert samhälle. Vi ska ha beredskap för att kunna hantera situationer som uppstår före, under och efter en kris. </em></p>
+<p>Under en kris ska Länsstyrelsen stödja alla samverkande myndigheter, organisationer och samhällsviktiga företag, och samordna våra insatser med deras. Om beredskapen höjs eller krig bryter ut ska vi leda och samordna all civil verksamhet i länet och samordna arbetet med den militära verksamheten.</p>
+<p>Vid omfattande räddningsinsatser kan Länsstyrelsen ta över ansvaret för den kommunala räddningstjänstens arbete i en eller flera kommuner.</p>
+<p>Samtliga länsstyrelser har räddningstjänstansvar vid olyckor i eller utsläpp från kärnkraftverk, men i Uppsala, Kalmar och Hallands län har Länsstyrelsen dessutom utökade beredskapsuppgifter som gäller säkerheten kring kärnkraftverken och risken för utsläpp av radioaktiva ämnen.</p>
+<p>Vi ser också till att kommunernas räddningstjänst följer LSO, lagen (SFS 2003:778) om skydd mot olyckor.</p>
+<p>Länsstyrelsens roll, ansvar och organisation beskrivs mer utförligt under rubriken med samma namn i menyn till vänster.</p>
+<p type="title">Krishanteringssystemets principer</p>
+<p>Det svenska krishanteringssystemet bygger på ett antal principer som kort beskrivs nedan.</p>
+<p type="title">Ansvarsprincipen</p>
+<p>Den som ansvarar för en verksamhet under normala förhållanden ska också ansvara för den i krissituationer.</p>
+<p type="title">Likhetsprincipen</p>
+<p>Verksamheten ska så långt som möjligt vara organiserad på samma sätt under krissituationer som under normala förhållanden.</p>
+<p type="title">Närhetsprincipen</p>
+<p>Kriser ska hanteras på lägsta möjliga nivå i samhället. Regeringen har områdesansvaret på central nivå, länsstyrelsen på regional nivå och kommunerna har det lokala ansvaret.</p>
+<p type="title">Kontakta oss</p>
+<p>Lars-Håkan Jönsson</p>
+<p>Beredskapsdirektör</p>
+<p>Lars-Hakan punkt Jonsson snabela lansstyrelsen punkt se¤Lars-Hakan punkt Jonsson snabela lansstyrelsen punkt se</p>
+<p>010-2250443</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

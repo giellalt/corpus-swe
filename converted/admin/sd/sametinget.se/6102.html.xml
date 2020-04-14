@@ -1,28 +1,6 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>198</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/6102</origFileName>
-    <parallel_text xml:lang="sme" location="6104.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mindre pengar till samisk kultur 2009 - Sametinget</p>
-    <p>Kulturrådets ordförande heter PG Labba. Foto: Marie Enoksson/ Sametinget.</p>
-    <p type="title">Mindre pengar till samisk kultur 2009</p>
-    <p>Samefonden har tappat i värde på grund av finanskrisen. Kulturrådet måste hålla i&#13; börsen under sitt sammanträde nästa vecka.</p>
-    <p>Oron på världens börser har nu nått Sápmi. Tidigare aviserade Samefondsstyrelsen att fonden har tappat i värde, vilket innebär att styrelsen inte har kunnat ge besked om hur mycket som utgår till Sametinget kulturråd att fördela till samiska organisationer och samisk kultur för 2009. Samefondsstyrelsen kommer att ge besked vid sitt nästa möte i januari. <em type="italic">Mindre pengar att fördela </em>Därför kan Sametingets kulturråd i dagsläget inte fördela lika mycket medel som förväntat inför 2009. Den 2-3 december håller kulturrådet sitt sammanträde. <em type="italic">Tänkbar lösning </em>- Situationen är problematisk, men vi har en lösning på gång, säger Kulturrådets ordförande Per Gustav Labba. - Vi fördelar en viss pott utifrån kulturanslaget, och skjuter till mer medel senare, när vi har fått besked om hur mycket vi får från Samefonden. Det blir en mindre summa som fördelas nu, men vi hoppas kunna fördela mer efter årsskiftet, avslutar Labba. <em type="italic">För frågor kontakta </em>Per Gustav Labba, kulturrådets ordförande, tel. 073-817 71 02 </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>198</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/6102</origFileName><parallel_text xml:lang="sme" location="6104.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mindre pengar till samisk kultur 2009 - Sametinget</p>
+<p>Kulturrådets ordförande heter PG Labba. Foto: Marie Enoksson/ Sametinget.</p>
+<p type="title">Mindre pengar till samisk kultur 2009</p>
+<p>Samefonden har tappat i värde på grund av finanskrisen. Kulturrådet måste hålla i&#13; börsen under sitt sammanträde nästa vecka.</p>
+<p>Oron på världens börser har nu nått Sápmi. Tidigare aviserade Samefondsstyrelsen att fonden har tappat i värde, vilket innebär att styrelsen inte har kunnat ge besked om hur mycket som utgår till Sametinget kulturråd att fördela till samiska organisationer och samisk kultur för 2009. Samefondsstyrelsen kommer att ge besked vid sitt nästa möte i januari. <em type="italic">Mindre pengar att fördela </em>Därför kan Sametingets kulturråd i dagsläget inte fördela lika mycket medel som förväntat inför 2009. Den 2-3 december håller kulturrådet sitt sammanträde. <em type="italic">Tänkbar lösning </em>- Situationen är problematisk, men vi har en lösning på gång, säger Kulturrådets ordförande Per Gustav Labba. - Vi fördelar en viss pott utifrån kulturanslaget, och skjuter till mer medel senare, när vi har fått besked om hur mycket vi får från Samefonden. Det blir en mindre summa som fördelas nu, men vi hoppas kunna fördela mer efter årsskiftet, avslutar Labba. <em type="italic">För frågor kontakta </em>Per Gustav Labba, kulturrådets ordförande, tel. 073-817 71 02 </p>
+</body></document>

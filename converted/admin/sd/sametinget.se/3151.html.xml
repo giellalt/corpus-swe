@@ -1,39 +1,17 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>612</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/3151</origFileName>
-    <parallel_text xml:lang="sme" location="3152.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Egil Olli talade vid Nordiska Rådets 59 session - Sametinget</p>
-    <p type="title">Egil Olli öppningstalade vid Nordiska Rådets 59 session i Oslo 071030</p>
-    <p>Egil Olli, president Sametinget i Norge og påtroppende president i Samisk parlamentarisk råd.</p>
-    <p>President, Ærede forsamling,&#13; &#13; Det er en stor glede for meg å være med på åpningen av Nordisk råds 59. sesjon, og på vegne av Samisk parlamentarisk råd og Sametinget i Norge vil jeg takke for invitasjonen.</p>
-    <p>Samiskt språkarbete</p>
-    <p>I Norden har vi et mangfold av språk – det er en berikelse for oss alle, og alle språkene er sikret i konvensjoner og lovgivning. Når det gjelder det samisk språket, er vi er særdeles opptatt av at det samiske språkarbeidet skjer på et nordisk nivå. Det må ikke begrenses til å være interne spørsmål i de enkelte stater. Det viser seg at det enda er ressursmangel når det gjelder muligheten til å styrke og utvikle det samiske språket. Blant annet er det mange samiske barn som i dag ikke får undervisning på samisk – slik kan vi ikke ha det, og det er et ansvar for oss alle å følge opp disse spørsmålene.</p>
-    <p>Samarbete</p>
-    <p>Jeg ser frem til å overvære dagens og morgendagens temadebatt om klimaendringer. 2007 har vært det året der klimaspørsmål har preget nyhetsbildet i alle deler av verden. Det må et utstrakt internasjonalt miljøvernsamarbeid for å møte de utfordringer klimaendringer medfører. Det er derfor viktig at Nordisk Råd, i likhet med Arktisk Råd, har satt klima høyt på den politiske dagsorden. Et internasjonalt samarbeid har betydelig merverdi utover hva de enkelte land kan oppnå alene. Klimaendringene er viktige fordi det berører oss alle – ikke minst urfolk som har en nær avhengighet og tilknytning til naturen.</p>
-    <p>Klimatförändringar</p>
-    <p>Det er i nord klimaendringene først viser seg. Høyere middeltemperatur og ny teknologi har økt statenes og petroleumsindustriens interesser for større aktivitet i tradisjonelle urfolksområder i Arktis. Urfolk risikerer derfor å være de store taperne, både ved at naturgrunnlaget endres og ved at store industriinteresser tar seg fram til fortrengsel for vårt livsgrunnlag. Dette trenger ikke skje. Men da må vi som urfolk gis makt og myndighet slik at vi kan bestemme veivalg av betydning for våre områder, og for å gjøre de riktige valgene må vi ha kunnskap. Vi må blant annet ha kunnskap om hvordan vi møter og tilpasser endringene, og hvilke områder og virksomheter som er sårbare. Vi trenger derfor dokumentasjon om urfolks tradisjonelle kunnskap for å finne nye tilpasningsstrategier.</p>
-    <p>Traditionell kunskap</p>
-    <p>Urfolks tradisjonelle kunnskaper har vist seg nyttig i forhold til arbeidet med klimaendringer og for å utvikle positive tilpasningsstrategier. Vi ser nå at urfolks tradisjonelle kunnskaper får oppmerksomhet fra forskere, politikere og forvaltere av bærekraft og biologisk mangfold. Slike kunnskaper vil både supplere vitenskapelig kunnskap og bidra til å øke forutsigbarheten rundt de konsekvensene som ulike tiltak kan medføre. Sikring av urfolksrettigheter som bidrar til ivaretakelse av tradisjonelle kunnskaper og naturressursene bidra altså også positivt i forhold til klimautfordringene vi står ovenfor.</p>
-    <p>Grundläggande frågor</p>
-    <p>Språk, miljø og tradisjonelle kunnskaper – er spørsmål som er grunnleggende i en fremtidig nordisk samekonvensjon. En samekonvensjon vil muliggjøre at vi samer blir fullverdig inkludert i statene som likeverdige deltakere. Det har vært vanskelig å anerkjenne at samene som urfolk og folk har grunnleggende rettigheter til sin kultur, sitt språk, sitt livsgrunnlag, til utvikling og deltakelse. Vi snakker her om grunnleggende menneskerettigheter. Arbeidet med en nordisk samekonvensjon står derfor helt sentralt for sametingene i Finland, Norge og Sverige.</p>
-    <p>De nordiske stater har tradisjon for å samarbeid med hverandre og for å formalisere samarbeidet i konvensjoner. Det er mitt håp at den positive tradisjonen videreføres i arbeidet med en nordisk samekonvensjon.</p>
-    <p>Jeg ønsker til lykke med sesjonen. Takk for oppmerksomheten.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>612</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/3151</origFileName><parallel_text xml:lang="sme" location="3152.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Egil Olli talade vid Nordiska Rådets 59 session - Sametinget</p>
+<p type="title">Egil Olli öppningstalade vid Nordiska Rådets 59 session i Oslo 071030</p>
+<p>Egil Olli, president Sametinget i Norge og påtroppende president i Samisk parlamentarisk råd.</p>
+<p>President, Ærede forsamling,&#13; &#13; Det er en stor glede for meg å være med på åpningen av Nordisk råds 59. sesjon, og på vegne av Samisk parlamentarisk råd og Sametinget i Norge vil jeg takke for invitasjonen.</p>
+<p>Samiskt språkarbete</p>
+<p>I Norden har vi et mangfold av språk – det er en berikelse for oss alle, og alle språkene er sikret i konvensjoner og lovgivning. Når det gjelder det samisk språket, er vi er særdeles opptatt av at det samiske språkarbeidet skjer på et nordisk nivå. Det må ikke begrenses til å være interne spørsmål i de enkelte stater. Det viser seg at det enda er ressursmangel når det gjelder muligheten til å styrke og utvikle det samiske språket. Blant annet er det mange samiske barn som i dag ikke får undervisning på samisk – slik kan vi ikke ha det, og det er et ansvar for oss alle å følge opp disse spørsmålene.</p>
+<p>Samarbete</p>
+<p>Jeg ser frem til å overvære dagens og morgendagens temadebatt om klimaendringer. 2007 har vært det året der klimaspørsmål har preget nyhetsbildet i alle deler av verden. Det må et utstrakt internasjonalt miljøvernsamarbeid for å møte de utfordringer klimaendringer medfører. Det er derfor viktig at Nordisk Råd, i likhet med Arktisk Råd, har satt klima høyt på den politiske dagsorden. Et internasjonalt samarbeid har betydelig merverdi utover hva de enkelte land kan oppnå alene. Klimaendringene er viktige fordi det berører oss alle – ikke minst urfolk som har en nær avhengighet og tilknytning til naturen.</p>
+<p>Klimatförändringar</p>
+<p>Det er i nord klimaendringene først viser seg. Høyere middeltemperatur og ny teknologi har økt statenes og petroleumsindustriens interesser for større aktivitet i tradisjonelle urfolksområder i Arktis. Urfolk risikerer derfor å være de store taperne, både ved at naturgrunnlaget endres og ved at store industriinteresser tar seg fram til fortrengsel for vårt livsgrunnlag. Dette trenger ikke skje. Men da må vi som urfolk gis makt og myndighet slik at vi kan bestemme veivalg av betydning for våre områder, og for å gjøre de riktige valgene må vi ha kunnskap. Vi må blant annet ha kunnskap om hvordan vi møter og tilpasser endringene, og hvilke områder og virksomheter som er sårbare. Vi trenger derfor dokumentasjon om urfolks tradisjonelle kunnskap for å finne nye tilpasningsstrategier.</p>
+<p>Traditionell kunskap</p>
+<p>Urfolks tradisjonelle kunnskaper har vist seg nyttig i forhold til arbeidet med klimaendringer og for å utvikle positive tilpasningsstrategier. Vi ser nå at urfolks tradisjonelle kunnskaper får oppmerksomhet fra forskere, politikere og forvaltere av bærekraft og biologisk mangfold. Slike kunnskaper vil både supplere vitenskapelig kunnskap og bidra til å øke forutsigbarheten rundt de konsekvensene som ulike tiltak kan medføre. Sikring av urfolksrettigheter som bidrar til ivaretakelse av tradisjonelle kunnskaper og naturressursene bidra altså også positivt i forhold til klimautfordringene vi står ovenfor.</p>
+<p>Grundläggande frågor</p>
+<p>Språk, miljø og tradisjonelle kunnskaper – er spørsmål som er grunnleggende i en fremtidig nordisk samekonvensjon. En samekonvensjon vil muliggjøre at vi samer blir fullverdig inkludert i statene som likeverdige deltakere. Det har vært vanskelig å anerkjenne at samene som urfolk og folk har grunnleggende rettigheter til sin kultur, sitt språk, sitt livsgrunnlag, til utvikling og deltakelse. Vi snakker her om grunnleggende menneskerettigheter. Arbeidet med en nordisk samekonvensjon står derfor helt sentralt for sametingene i Finland, Norge og Sverige.</p>
+<p>De nordiske stater har tradisjon for å samarbeid med hverandre og for å formalisere samarbeidet i konvensjoner. Det er mitt håp at den positive tradisjonen videreføres i arbeidet med en nordisk samekonvensjon.</p>
+<p>Jeg ønsker til lykke med sesjonen. Takk for oppmerksomheten.</p>
+</body></document>

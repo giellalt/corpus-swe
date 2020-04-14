@@ -1,34 +1,10 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>136</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1053</origFileName>
-    <parallel_text xml:lang="sme" location="9893.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Plenum - Sametinget</p>
-    <p>Marie Enoksson/Sametinget.</p>
-    <p type="title">Plenum</p>
-    <p>Sametingets folkvalda organ håller plenum tre gånger per år. Aktuella handlingar finns för nedladdning i högerspalten cirka en vecka innan.</p>
-    <p><em type="italic">Kommande plenum </em><em type="italic">2014 </em>: </p>
-    <list>
-      <p type="listitem">v. 40 30/9-2/10 i Luleå</p>
-    </list>
-    <p><em type="italic">Protokoll </em>De senaste protokollen finns i dokumentbanken. Protokollen läggs ut så snart de är justerade. </p>
-    <p><em type="italic">Plenum </em>Sametingets folkvalda organ, plenum, består av 31 ledamöter som är valda för fyra år. Ledamöterna representerar under mandatperioden 2013-2017 åtta samepolitiska partier. Plenum sammanträder tre gånger per år. </p>
-    <p><em type="italic">Nämnder </em>Sametingets plenum utser även ledamöter till kulturnämnden, valnämnden, näringsnämnden, rennäringsnämnden, språknämnden och sameskolstyrelsen (som är en egen myndighet). <em type="italic">Presidium </em>Plenum väljer ett presidium med ordförande (talman) och tre vice ordförande som förbereder och leder plenums möten. <em type="italic">Styrelse </em>Plenum utser inom sig en styrelse med högst sju ledamöter. Den nuvarande styrelsen har sju ledamöter. Styrelseordföranden är heltidsarvoderad. </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>136</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1053</origFileName><parallel_text xml:lang="sme" location="9893.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Plenum - Sametinget</p>
+<p>Marie Enoksson/Sametinget.</p>
+<p type="title">Plenum</p>
+<p>Sametingets folkvalda organ håller plenum tre gånger per år. Aktuella handlingar finns för nedladdning i högerspalten cirka en vecka innan.</p>
+<p><em type="italic">Kommande plenum </em><em type="italic">2014 </em>: </p>
+<list><p type="listitem">v. 40 30/9-2/10 i Luleå</p>
+</list><p><em type="italic">Protokoll </em>De senaste protokollen finns i dokumentbanken. Protokollen läggs ut så snart de är justerade. </p>
+<p><em type="italic">Plenum </em>Sametingets folkvalda organ, plenum, består av 31 ledamöter som är valda för fyra år. Ledamöterna representerar under mandatperioden 2013-2017 åtta samepolitiska partier. Plenum sammanträder tre gånger per år. </p>
+<p><em type="italic">Nämnder </em>Sametingets plenum utser även ledamöter till kulturnämnden, valnämnden, näringsnämnden, rennäringsnämnden, språknämnden och sameskolstyrelsen (som är en egen myndighet). <em type="italic">Presidium </em>Plenum väljer ett presidium med ordförande (talman) och tre vice ordförande som förbereder och leder plenums möten. <em type="italic">Styrelse </em>Plenum utser inom sig en styrelse med högst sju ledamöter. Den nuvarande styrelsen har sju ledamöter. Styrelseordföranden är heltidsarvoderad. </p>
+</body></document>

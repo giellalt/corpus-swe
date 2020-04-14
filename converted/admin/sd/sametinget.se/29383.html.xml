@@ -1,36 +1,12 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>142</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/29383</origFileName>
-    <parallel_text xml:lang="sme" location="74639.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Vill du/ni lämna remissvar om nytt kulturpolitiskt handlingsprogram? - Sametinget</p>
-    <p>Marie-Louise Niia.</p>
-    <p type="title">Vill du/ni lämna remissvar om nytt kulturpolitiskt handlingsprogram?</p>
-    <p>Uppmaning till berörda sameföreningar, samiska organisationer och institutioner samt enskilda: Än finns möjlighet att komma med synpunkter på det nya förslaget till kulturpolitiskt handlingsprogram. Remisstiden är förlängd till den 25 september 2014.</p>
-    <p><em type="italic">Remissrunda </em>Sametingets kulturnämnd har beslutat att det nya förslaget till kulturpolitiskt handlingsprogram ska ut på remiss. </p>
-    <p><em type="italic">Sista svarsdatum </em>Sista datum för att lämna in remissvar är den 25 september. Synpunkterna ska skickas in via e-post, i word-format, till kansli@sametinget.se </p>
-    <p>Svar märks med diarienummer 4.2.2-2014-949 i ämnesraden på e-postmeddelandet.</p>
-    <p>Förslag till kulturpolitiskt handlingsprogram samt Konsekvensanalys hittar du i högerspalten.</p>
-    <p>
-      <em type="italic">Vid frågor: </em>
-    </p>
-    <p>Om innehållet i kulturpolitiskt handlingsprogram: Kontakta Karin Mannela, ordförande Sametingets kulturnämnd, tel. 0047 47 34 87 36</p>
-    <p>Om inlämnandet av synpunkter: Kontakta Anna Mämmi, kulturhandläggare, tel. 0980- 780 57, anna.mammi@sametinget.se</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>142</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/29383</origFileName><parallel_text xml:lang="sme" location="74639.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Vill du/ni lämna remissvar om nytt kulturpolitiskt handlingsprogram? - Sametinget</p>
+<p>Marie-Louise Niia.</p>
+<p type="title">Vill du/ni lämna remissvar om nytt kulturpolitiskt handlingsprogram?</p>
+<p>Uppmaning till berörda sameföreningar, samiska organisationer och institutioner samt enskilda: Än finns möjlighet att komma med synpunkter på det nya förslaget till kulturpolitiskt handlingsprogram. Remisstiden är förlängd till den 25 september 2014.</p>
+<p><em type="italic">Remissrunda </em>Sametingets kulturnämnd har beslutat att det nya förslaget till kulturpolitiskt handlingsprogram ska ut på remiss. </p>
+<p><em type="italic">Sista svarsdatum </em>Sista datum för att lämna in remissvar är den 25 september. Synpunkterna ska skickas in via e-post, i word-format, till kansli@sametinget.se </p>
+<p>Svar märks med diarienummer 4.2.2-2014-949 i ämnesraden på e-postmeddelandet.</p>
+<p>Förslag till kulturpolitiskt handlingsprogram samt Konsekvensanalys hittar du i högerspalten.</p>
+<p><em type="italic">Vid frågor: </em></p>
+<p>Om innehållet i kulturpolitiskt handlingsprogram: Kontakta Karin Mannela, ordförande Sametingets kulturnämnd, tel. 0047 47 34 87 36</p>
+<p>Om inlämnandet av synpunkter: Kontakta Anna Mämmi, kulturhandläggare, tel. 0980- 780 57, anna.mammi@sametinget.se</p>
+</body></document>

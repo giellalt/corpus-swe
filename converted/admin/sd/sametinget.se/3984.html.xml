@@ -1,41 +1,19 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>400</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/3984</origFileName>
-    <parallel_text xml:lang="sme" location="4002.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kvinnodagen den 8 mars - Sametinget</p>
-    <p>Det behövs fler kvinnor i samepolitiken. Foto: Marie Enoksson.</p>
-    <p type="title">Kvinnodagen den 8 mars</p>
-    <p>Urfolkskvinnor drabbas ofta av en dubbel strukturell diskriminering,&#13; dels på grund av kön, dels på grund av etnicitet. Detta vill&#13; Sametingets ordförande Sylvia Simma påminna om på kvinnodagen den 8&#13; mars.</p>
-    <p>Utsatt position</p>
-    <p>Urfolken i världen befinner sig i en utsatt position och på många håll kränks de mest elementära mänskliga fri- och rättigheterna.  Barn och kvinnor är särskilt utsatta, vilket ofta glöms bort.  Urfolkskvinnor drabbas ofta av en dubbel strukturell diskriminering, dels på grund av kön, dels på grund av etnicitet.</p>
-    <p>Måste tas på allvar</p>
-    <p>I deklarationen om urfolkens rättigheter som antogs av FN:s generalförsamling den 13 september 2007 uppmärksammas även kvinnornas situation.  I artikel 22 i deklarationen sägs att staterna skall vidta åtgärder i samförstånd med urfolken att trygga att urfolkskvinnorna och barnen åtnjuter fullt skydd och fullständiga garantier mot alla former av våld och diskriminering.</p>
-    <p>-	Det är positivt att kvinnornas utsatta position uppmärksammas i FN:s deklaration, men nu kommer det an på berörda stater och framförallt urfolksamhällen att ta detta på allvar, säger Sametingets ordförande Sylvia Simma.</p>
-    <p>Dubbelt upp</p>
-    <p>-	Vi får heller inte sticka under stol med att det förutom en strukturell diskriminering som drabbar kvinnor på grund av deras kön, även finns en strukturell diskriminering av samer generellt i det svenska samhället, fortsätter Sylvia Simma.</p>
-    <p>Okunskap</p>
-    <p>-	Att det finns en stor okunskap om samer i Sverige är ju ett välkänt fenomen, men okunskapen om de samiska kvinnornas situation är än mer fundamental. En färsk FN-rapport visar att Sverige inte har uppmärksammat situationen för samiska kvinnor i Sverige. De lever i en traditionell patriarkalisk miljö och har svårt att få hjälp om de utsätts för våld av sin make, framhåller Sylvia Simma.</p>
-    <p>Jämställdhetsarbete</p>
-    <p>Samiska kvinnors ställning i det politiska beslutsfattandet, framförallt i Sametinget är svag.  Därför beslutade regeringen nyligen att anvisa Sametinget 1,5 miljoner kronor för 2008 för att stödja det jämställdhetsarbete som Sametinget har inlett. Sametingets mål är att den beslutande församlingen ska ha en jämn könsfördelning efter valet 2013.</p>
-    <p>-	Regeringens beslut att stödja Sametingets jämställdhetsarbete är positivt, men Sveriges regering och riksdag skulle nog behöva ta krafttag för undanröja både den strukturella diskriminering och faktiska diskriminering av samiska kvinnor som finns både finns i samiska och svenska samhället avslutar Sylvia Simma, ordförande i Sametinget.</p>
-    <p>Kontakt</p>
-    <p>Sylvia Simma, Sametingets ordförande, 070-288 32 24</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>400</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/3984</origFileName><parallel_text xml:lang="sme" location="4002.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kvinnodagen den 8 mars - Sametinget</p>
+<p>Det behövs fler kvinnor i samepolitiken. Foto: Marie Enoksson.</p>
+<p type="title">Kvinnodagen den 8 mars</p>
+<p>Urfolkskvinnor drabbas ofta av en dubbel strukturell diskriminering,&#13; dels på grund av kön, dels på grund av etnicitet. Detta vill&#13; Sametingets ordförande Sylvia Simma påminna om på kvinnodagen den 8&#13; mars.</p>
+<p>Utsatt position</p>
+<p>Urfolken i världen befinner sig i en utsatt position och på många håll kränks de mest elementära mänskliga fri- och rättigheterna.  Barn och kvinnor är särskilt utsatta, vilket ofta glöms bort.  Urfolkskvinnor drabbas ofta av en dubbel strukturell diskriminering, dels på grund av kön, dels på grund av etnicitet.</p>
+<p>Måste tas på allvar</p>
+<p>I deklarationen om urfolkens rättigheter som antogs av FN:s generalförsamling den 13 september 2007 uppmärksammas även kvinnornas situation.  I artikel 22 i deklarationen sägs att staterna skall vidta åtgärder i samförstånd med urfolken att trygga att urfolkskvinnorna och barnen åtnjuter fullt skydd och fullständiga garantier mot alla former av våld och diskriminering.</p>
+<p>-	Det är positivt att kvinnornas utsatta position uppmärksammas i FN:s deklaration, men nu kommer det an på berörda stater och framförallt urfolksamhällen att ta detta på allvar, säger Sametingets ordförande Sylvia Simma.</p>
+<p>Dubbelt upp</p>
+<p>-	Vi får heller inte sticka under stol med att det förutom en strukturell diskriminering som drabbar kvinnor på grund av deras kön, även finns en strukturell diskriminering av samer generellt i det svenska samhället, fortsätter Sylvia Simma.</p>
+<p>Okunskap</p>
+<p>-	Att det finns en stor okunskap om samer i Sverige är ju ett välkänt fenomen, men okunskapen om de samiska kvinnornas situation är än mer fundamental. En färsk FN-rapport visar att Sverige inte har uppmärksammat situationen för samiska kvinnor i Sverige. De lever i en traditionell patriarkalisk miljö och har svårt att få hjälp om de utsätts för våld av sin make, framhåller Sylvia Simma.</p>
+<p>Jämställdhetsarbete</p>
+<p>Samiska kvinnors ställning i det politiska beslutsfattandet, framförallt i Sametinget är svag.  Därför beslutade regeringen nyligen att anvisa Sametinget 1,5 miljoner kronor för 2008 för att stödja det jämställdhetsarbete som Sametinget har inlett. Sametingets mål är att den beslutande församlingen ska ha en jämn könsfördelning efter valet 2013.</p>
+<p>-	Regeringens beslut att stödja Sametingets jämställdhetsarbete är positivt, men Sveriges regering och riksdag skulle nog behöva ta krafttag för undanröja både den strukturella diskriminering och faktiska diskriminering av samiska kvinnor som finns både finns i samiska och svenska samhället avslutar Sylvia Simma, ordförande i Sametinget.</p>
+<p>Kontakt</p>
+<p>Sylvia Simma, Sametingets ordförande, 070-288 32 24</p>
+</body></document>

@@ -1,30 +1,8 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>405</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1117</origFileName>
-    <parallel_text xml:lang="sme" location="2842.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Parlamentsbyggnad - Sametinget</p>
-    <p>Foto från utställningsmonter, Murman Arkitekter.</p>
-    <p type="title">Parlamentsbyggnad</p>
-    <p>Redan när Sametinget etablerades diskuterades frågan om ett eget sametingshus. Den 8 oktober 1993 beslutade plenum att Sametingets huvudkansli skulle placeras i Kiruna. 2004 konkretiserades planerna på en egen parlamentsbyggnad men stadsflytten satte käppar i hjulen. Tio år senare är frågan åter på tapeten...</p>
-    <p>Perssons löfte  Dåvarande statsminister Göran Persson gav ett löfte om ny sametingsbyggnad på socialdemokraternas distriktskongress i Boden den 27 mars 2004. Fastighetsverket (SFV) fick ett uppdrag att utreda frågan om ny sametingsbyggnad. Utredningen presenterades den 1 april 2005. Regeringen fattade därefter beslut att låta SFV gå vidare med en arkitekttävling baserad på det programmet och en projektkostnadsram på 150 miljoner. Byggnaden skulle andas samisk kultur och identitet och bli en viktig symbolbyggnad och samlingspunkt för alla samer. Arkitekttävling 2006  111 bidrag kom in och ställdes ut i Kiruna och Stockholm. Fem bidrag gick vidare och i april 2006 korades vinnaren. Det blev bidraget BADJÁNEAPMI ritat av Murman arkitekter i Stockholm. Under 2006 blev planerna för kirunaflytten mer konkreta och samtidigt fick vi ett regeringsskifte. Det försenade den ursprungliga tidplanen. Olika bud om tomtplacering  LKAB och Sametinget hade ett möte i oktober 2006 för att diskutera eventuella alternativ till placering av parlamentet. LKAB motsatte sig att det skulle byggas något på tomten <span type="quote">"Sågverksarbetaren"</span>. Det gjorde i sin tur att projektägaren Statens fastighetsverk drog tillbaka sin ansökan om medel till byggnadsprogram hos finansdepartementet, med motiveringen att en av förutsättningarna i programmet just var den aktuella tomten. Under ett besök i Kiruna i september 2007 gav statsrådet Eskil Erlandsson dock besked om att regeringen avser att fortsätta arbetsprocessen med sametingsbyggnadens placering i Kiruna.</p>
-    <p><em type="italic">Tomt i nya Kiruna </em>Representanter för LKAB, Kiruna kommun och Sametinget har tillsammans med arkitekten Hans Murman diskuterat kriterier som exempelvis mikroklimat, närhet till kommunikation och service, vegetation, trafikangöring och marklutningsförhållanden. Först utsågs en ny tomt vid Luossavaaras sluttning, men efter många om och men beslutade kommunfullmäktige istället att välja det nordöstra alternativet för det nya Kiruna. Och eftersom Sametinget vill ha närhet till service och ligga synligt i ett nytt centrum, har Kiruna kommun föreslagit en ny tomt invid Kirunas nya centrum i närheten av Tuolluvaara. </p>
-    <p><em type="italic">Öppning för andra </em>Eftersom det varit svårt att sätta ner foten om var parlamentsbyggnaden egentligen ska ligga, och inga medel avsatts i regeringens budget än, har det skapat förhoppningar hos andra kommuner. Både Jokkmokks kommun och Arvidsjaurs kommun har framfört nya inviter till Sametingets styrelse. </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>405</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1117</origFileName><parallel_text xml:lang="sme" location="2842.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Parlamentsbyggnad - Sametinget</p>
+<p>Foto från utställningsmonter, Murman Arkitekter.</p>
+<p type="title">Parlamentsbyggnad</p>
+<p>Redan när Sametinget etablerades diskuterades frågan om ett eget sametingshus. Den 8 oktober 1993 beslutade plenum att Sametingets huvudkansli skulle placeras i Kiruna. 2004 konkretiserades planerna på en egen parlamentsbyggnad men stadsflytten satte käppar i hjulen. Tio år senare är frågan åter på tapeten...</p>
+<p>Perssons löfte  Dåvarande statsminister Göran Persson gav ett löfte om ny sametingsbyggnad på socialdemokraternas distriktskongress i Boden den 27 mars 2004. Fastighetsverket (SFV) fick ett uppdrag att utreda frågan om ny sametingsbyggnad. Utredningen presenterades den 1 april 2005. Regeringen fattade därefter beslut att låta SFV gå vidare med en arkitekttävling baserad på det programmet och en projektkostnadsram på 150 miljoner. Byggnaden skulle andas samisk kultur och identitet och bli en viktig symbolbyggnad och samlingspunkt för alla samer. Arkitekttävling 2006  111 bidrag kom in och ställdes ut i Kiruna och Stockholm. Fem bidrag gick vidare och i april 2006 korades vinnaren. Det blev bidraget BADJÁNEAPMI ritat av Murman arkitekter i Stockholm. Under 2006 blev planerna för kirunaflytten mer konkreta och samtidigt fick vi ett regeringsskifte. Det försenade den ursprungliga tidplanen. Olika bud om tomtplacering  LKAB och Sametinget hade ett möte i oktober 2006 för att diskutera eventuella alternativ till placering av parlamentet. LKAB motsatte sig att det skulle byggas något på tomten <span type="quote">"Sågverksarbetaren"</span>. Det gjorde i sin tur att projektägaren Statens fastighetsverk drog tillbaka sin ansökan om medel till byggnadsprogram hos finansdepartementet, med motiveringen att en av förutsättningarna i programmet just var den aktuella tomten. Under ett besök i Kiruna i september 2007 gav statsrådet Eskil Erlandsson dock besked om att regeringen avser att fortsätta arbetsprocessen med sametingsbyggnadens placering i Kiruna.</p>
+<p><em type="italic">Tomt i nya Kiruna </em>Representanter för LKAB, Kiruna kommun och Sametinget har tillsammans med arkitekten Hans Murman diskuterat kriterier som exempelvis mikroklimat, närhet till kommunikation och service, vegetation, trafikangöring och marklutningsförhållanden. Först utsågs en ny tomt vid Luossavaaras sluttning, men efter många om och men beslutade kommunfullmäktige istället att välja det nordöstra alternativet för det nya Kiruna. Och eftersom Sametinget vill ha närhet till service och ligga synligt i ett nytt centrum, har Kiruna kommun föreslagit en ny tomt invid Kirunas nya centrum i närheten av Tuolluvaara. </p>
+<p><em type="italic">Öppning för andra </em>Eftersom det varit svårt att sätta ner foten om var parlamentsbyggnaden egentligen ska ligga, och inga medel avsatts i regeringens budget än, har det skapat förhoppningar hos andra kommuner. Både Jokkmokks kommun och Arvidsjaurs kommun har framfört nya inviter till Sametingets styrelse. </p>
+</body></document>

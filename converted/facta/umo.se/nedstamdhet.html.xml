@@ -1,84 +1,42 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>905</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Att-ma-daligt/Nedstamdhet</origFileName>
-    <parallel_text xml:lang="fin" location="alakuloisuus.html"/>
-    <parallel_text xml:lang="fit" location="matalapaine-eli-alakulonen.html"/>
-    <parallel_text xml:lang="sma" location="hujnesne.html"/>
-    <parallel_text xml:lang="sme" location="lossesvuohta.html"/>
-    <parallel_text xml:lang="smj" location="hajesvuohta.html"/>
-    <parallel_text location="togalopha.html" xml:lang="rmu"/>
-    <parallel_text location="depresirime.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="mulano.html" xml:lang="rmf"/>
-    <parallel_text location="tristimos.html" xml:lang="rmy-rka"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Nedstämdhet</p>
-    <p>Alla undrar!  Vad undrar du?</p>
-    <p type="title">Nedstämdhet</p>
-    <p>Att ibland känna sig nedstämd eller orolig är en naturlig del av livet. Man kan ha dagar när man grubblar mycket eller inte orkar något. Oftast går det över efter ett tag. Det finns saker du göra själv för att må bättre, och det finns hjälp att få.</p>
-    <p>Nedstämdhet kommer och går i livet. Man behöver inte vara rädd för att släppa fram negativa tankar och känslor. Om man försöker undvika såna känslor när de kommer kan man i stället få mer oro och ångest. En del saker måste få kännas och ibland måste det få ta tid.</p>
-    <p type="title">Ibland vet man varför</p>
-    <p>Ibland kan det vara något särskilt som gör att man känner sig nedstämd. Det kan till exempel vara att det tagit slut med den man har varit ihop med, att föräldrar ska flytta isär eller andra problem med familj och kompisar.</p>
-    <p>Man kan också bli nedstämd om livet förändras på något sätt, till exempel om man flyttar, byter skola, eller när man börjar gymnasiet eller börjar jobba.</p>
-    <p>Oftast klarar man av den här typen av svårigheter själv eller med hjälp av kompisar och familj, även om det kan kännas jättejobbigt när det händer.</p>
-    <p>Det är också vanligt att man känner sig nere utan att det har hänt något speciellt. Om man till exempel är stressad eller har svårt att sova för att det är jobbigt i skolan eller på jobbet kan man bli ledsen och nere. Funderingar kring sexualitet, hur man ska vara och på hur kroppen utvecklas kan vara jobbiga. Tjejer kan bli nedstämda dagarna före mens.</p>
-    <p type="title">Det syns inte alltid utanpå hur man mår</p>
-    <p>Ofta förstår inte kompisar, föräldrar, lärare eller andra hur man verkligen mår. Det är inte säkert att det syns utåt även om man själv tycker att det borde göra det.</p>
-    <p>Om man är nedstämd kan man också bli mer arg och lättirriterad. Då kan personer omkring en märka att man är argare, men de kanske inte förstår att det beror på att man egentligen är ledsen och nere. Därför kan det vara bra att försöka berätta hur man känner så att man kan få hjälp och stöd. Genom att prata med någon kan man ofta förstå sig själv bättre.</p>
-    <p type="title">Vad kan man göra själv?</p>
-    <p>Man kan själv påverka hur man mår. Man mår bättre och orkar mer om man rör på sig, kanske tränar regelbundet, än om man inte gör det. För att må bra är det också viktigt att man äter bra och regelbundet, och att man sover lagom mycket. Då klarar man lättare av saker som ibland kan kännas jobbiga. Man kan faktiskt bli trött både av att sova för lite och för mycket.</p>
-    <p>Det finns fler saker som är bra att tänka på om man redan är nedstämd:</p>
-    <list>
-      <p type="listitem">Man mår bra av att göra saker man tycker om och till exempel träffa kompisar. Men man kan också behöva vara för sig själv om man är nedstämd.</p>
-      <p type="listitem">Det kan hjälpa att röra på sig. Att till exempel ta en promenad eller gå och träna brukar hjälpa om man har många tankar och göra att man sover bättre.</p>
-      <p type="listitem">Att vara utomhus när det är ljust är bra, eftersom ljuset kan göra att man blir piggare.</p>
-      <p type="listitem">Det kan hjälpa att prata med någon , som en kompis eller någon i familjen. Man kan också gå till exempelvis skolsköterskan eller en kurator.</p>
-      <p type="listitem">Man skriva ner hur man känner. Genom att sätta ord på sina känslor och funderingar brukar man kunna förstå sig själv bättre, och lättare kunna se om det finns några problem som behöver lösas.</p>
-    </list>
-    <p type="title">Alkohol och droger är inte bra</p>
-    <p>Om man är nedstämd kan det ibland kännas som om det hjälper att dricka alkohol eller använda droger. Man kanske blir gladare och glömmer det som är jobbigt för stunden, men med tiden kan det tvärtom förstärka oro och andra jobbiga känslor. Det kan ju också vara så att det är alkohol eller droger som är orsaken till att man är nere.</p>
-    <p type="title">Nedstämdhet går oftast över</p>
-    <p>Man kan må mycket dåligt när man är nedstämd. Därför kan det vara skönt att veta att nedstämdhet för det mesta går över av sig själv, även om det kan ta tid.</p>
-    <p type="title">Ibland behövs hjälp</p>
-    <p>Ibland kan det vara bra att prata med någon utomstående. För att få hjälp kan man kontakta till exempel en ungdomsmottagning , vårdcentral eller elevhälsan. Där är de vana att träffa unga som är nedstämda. Om det behövs kan den man träffar hjälpa en att få kontakt med till exempel en psykolog eller läkare.</p>
-    <p>Det finns också telefonjourer som man kan ringa, och ställen på internet där man kan chatta, mejla eller läsa för att få hjälp och stöd. Där kan man vara anonym om man vill.</p>
-    <p type="title">Depression</p>
-    <p>En depression är något annat än att vara tillfälligt nere och ledsen. Man kan ha fått en depression om man känner sig nedstämd i flera veckor och samtidigt</p>
-    <list>
-      <p type="listitem">tappar intresset för sånt man brukar gilla</p>
-      <p type="listitem">sover för lite eller för mycket</p>
-      <p type="listitem">har svårt att koncentrera sig</p>
-      <p type="listitem">tappar matlusten</p>
-      <p type="listitem">äter mer än vanligt</p>
-      <p type="listitem">lätt blir irriterad</p>
-      <p type="listitem">får dåligt självförtroende och blir självkritisk</p>
-      <p type="listitem">drar sig undan från folk</p>
-      <p type="listitem">ägnar väldigt mycket tid åt att grubbla</p>
-      <p type="listitem">får problem i skolan eller på jobbet</p>
-      <p type="listitem">får självmordstankar.</p>
-    </list>
-    <p>Om man har fått en depression behöver man professionell hjälp för att må bättre. För att få de kan man kontakta till exempel en ungdomsmottagning, vårdcentral eller elevhälsan.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>900</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Att-ma-daligt/Nedstamdhet</origFileName><parallel_text xml:lang="fin" location="alakuloisuus.html"/><parallel_text xml:lang="fit" location="matalapaine-eli-alakulonen.html"/><parallel_text xml:lang="sma" location="hujnesne.html"/><parallel_text xml:lang="sme" location="lossesvuohta.html"/><parallel_text xml:lang="smj" location="hajesvuohta.html"/><parallel_text location="togalopha.html" xml:lang="rmu"/><parallel_text location="depresirime.html" xml:lang="rmy-rlo"/><parallel_text location="mulano.html" xml:lang="rmf"/><parallel_text location="tristimos.html" xml:lang="rmy-rka"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Nedstämdhet</p>
+<p type="title">Nedstämdhet</p>
+<p>Att ibland känna sig nedstämd eller orolig är en naturlig del av livet. Man kan ha dagar när man grubblar mycket eller inte orkar något. Oftast går det över efter ett tag. Det finns saker du göra själv för att må bättre, och det finns hjälp att få.</p>
+<p>Nedstämdhet kommer och går i livet. Man behöver inte vara rädd för att släppa fram negativa tankar och känslor. Om man försöker undvika såna känslor när de kommer kan man i stället få mer oro och ångest. En del saker måste få kännas och ibland måste det få ta tid.</p>
+<p type="title">Ibland vet man varför</p>
+<p>Ibland kan det vara något särskilt som gör att man känner sig nedstämd. Det kan till exempel vara att det tagit slut med den man har varit ihop med, att föräldrar ska flytta isär eller andra problem med familj och kompisar.</p>
+<p>Man kan också bli nedstämd om livet förändras på något sätt, till exempel om man flyttar, byter skola, eller när man börjar gymnasiet eller börjar jobba.</p>
+<p>Oftast klarar man av den här typen av svårigheter själv eller med hjälp av kompisar och familj, även om det kan kännas jättejobbigt när det händer.</p>
+<p>Det är också vanligt att man känner sig nere utan att det har hänt något speciellt. Om man till exempel är stressad eller har svårt att sova för att det är jobbigt i skolan eller på jobbet kan man bli ledsen och nere. Funderingar kring sexualitet, hur man ska vara och på hur kroppen utvecklas kan vara jobbiga. Tjejer kan bli nedstämda dagarna före mens.</p>
+<p type="title">Det syns inte alltid utanpå hur man mår</p>
+<p>Ofta förstår inte kompisar, föräldrar, lärare eller andra hur man verkligen mår. Det är inte säkert att det syns utåt även om man själv tycker att det borde göra det.</p>
+<p>Om man är nedstämd kan man också bli mer arg och lättirriterad. Då kan personer omkring en märka att man är argare, men de kanske inte förstår att det beror på att man egentligen är ledsen och nere. Därför kan det vara bra att försöka berätta hur man känner så att man kan få hjälp och stöd. Genom att prata med någon kan man ofta förstå sig själv bättre.</p>
+<p type="title">Vad kan man göra själv?</p>
+<p>Man kan själv påverka hur man mår. Man mår bättre och orkar mer om man rör på sig, kanske tränar regelbundet, än om man inte gör det. För att må bra är det också viktigt att man äter bra och regelbundet, och att man sover lagom mycket. Då klarar man lättare av saker som ibland kan kännas jobbiga. Man kan faktiskt bli trött både av att sova för lite och för mycket.</p>
+<p>Det finns fler saker som är bra att tänka på om man redan är nedstämd:</p>
+<list><p type="listitem">Man mår bra av att göra saker man tycker om och till exempel träffa kompisar. Men man kan också behöva vara för sig själv om man är nedstämd.</p>
+<p type="listitem">Det kan hjälpa att röra på sig. Att till exempel ta en promenad eller gå och träna brukar hjälpa om man har många tankar och göra att man sover bättre.</p>
+<p type="listitem">Att vara utomhus när det är ljust är bra, eftersom ljuset kan göra att man blir piggare.</p>
+<p type="listitem">Det kan hjälpa att prata med någon , som en kompis eller någon i familjen. Man kan också gå till exempelvis skolsköterskan eller en kurator.</p>
+<p type="listitem">Man skriva ner hur man känner. Genom att sätta ord på sina känslor och funderingar brukar man kunna förstå sig själv bättre, och lättare kunna se om det finns några problem som behöver lösas.</p>
+</list><p type="title">Alkohol och droger är inte bra</p>
+<p>Om man är nedstämd kan det ibland kännas som om det hjälper att dricka alkohol eller använda droger. Man kanske blir gladare och glömmer det som är jobbigt för stunden, men med tiden kan det tvärtom förstärka oro och andra jobbiga känslor. Det kan ju också vara så att det är alkohol eller droger som är orsaken till att man är nere.</p>
+<p type="title">Nedstämdhet går oftast över</p>
+<p>Man kan må mycket dåligt när man är nedstämd. Därför kan det vara skönt att veta att nedstämdhet för det mesta går över av sig själv, även om det kan ta tid.</p>
+<p type="title">Ibland behövs hjälp</p>
+<p>Ibland kan det vara bra att prata med någon utomstående. För att få hjälp kan man kontakta till exempel en ungdomsmottagning , vårdcentral eller elevhälsan. Där är de vana att träffa unga som är nedstämda. Om det behövs kan den man träffar hjälpa en att få kontakt med till exempel en psykolog eller läkare.</p>
+<p>Det finns också telefonjourer som man kan ringa, och ställen på internet där man kan chatta, mejla eller läsa för att få hjälp och stöd. Där kan man vara anonym om man vill.</p>
+<p type="title">Depression</p>
+<p>En depression är något annat än att vara tillfälligt nere och ledsen. Man kan ha fått en depression om man känner sig nedstämd i flera veckor och samtidigt</p>
+<list><p type="listitem">tappar intresset för sånt man brukar gilla</p>
+<p type="listitem">sover för lite eller för mycket</p>
+<p type="listitem">har svårt att koncentrera sig</p>
+<p type="listitem">tappar matlusten</p>
+<p type="listitem">äter mer än vanligt</p>
+<p type="listitem">lätt blir irriterad</p>
+<p type="listitem">får dåligt självförtroende och blir självkritisk</p>
+<p type="listitem">drar sig undan från folk</p>
+<p type="listitem">ägnar väldigt mycket tid åt att grubbla</p>
+<p type="listitem">får problem i skolan eller på jobbet</p>
+<p type="listitem">får självmordstankar.</p>
+</list><p>Om man har fått en depression behöver man professionell hjälp för att må bättre. För att få de kan man kontakta till exempel en ungdomsmottagning, vårdcentral eller elevhälsan.</p>
+</body></document>

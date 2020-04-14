@@ -1,84 +1,42 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1073</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Regler-och-rattigheter/Barns-och-foraldrars-rattigheter-i-varden2</origFileName>
-    <parallel_text xml:lang="eng" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="fin" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="fit" location="barns-och-.html"/>
-    <parallel_text xml:lang="sma" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="sme" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text xml:lang="smj" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
-    <parallel_text location="barns-och-foraldrars-rattigheter.html" xml:lang="rmy-rka"/>
-    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmn"/>
-    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmu"/>
-    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="yid"/>
-    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Barns och vårdnadshavares rättigheter i vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Barns och vårdnadshavares rättigheter i vården</p>
-    <p>Daphne ska operera sin hand, men när hon kommer till mottagningen visar det sig att operationen är framflyttad till eftermiddagen. Då säger Daphne ifrån – hon ska ju på konståkning på kvällen. Vuxna ska alltid berätta vad som händer och lyssna på vad barn tycker.</p>
-    <p>Som vårdnadshavare ska du vara delaktig och ha inflytande över ditt barns vård. Men även barnet ska vara delaktigt i sin vård. Det betyder att vårdpersonalen ska se till barnets bästa och ska ta reda på vad barnet vill. Barn har också rätt att bestämma själva och ju äldre det är desto viktigare är det.</p>
-    <p>Det är alltså både barnet och du, som vårdnadshavare, som ska få information och ha möjlighet att ta ställning till exempelvis en behandlingsmetod. Det kan till exempel betyda att ni behöver en tolk, en text att läsa hemma, eller annan slags anpassning för att ni verkligen ska kunna förstå och vara delaktiga.</p>
-    <p>Flera olika lagar beskriver vilka skyldigheter vården har att ge barn och unga och deras vårdnadshavare medbestämmande. Det är framför allt i patientlagen och hälso- och sjukvårdslagen. Sverige har också skrivit under FN:s konvention om barnets rättigheter, barnkonventionen . I den står bland annat att barn har rätt till bästa möjliga hälsa och sjukvård. Men också att de har rätt till personlig integritet och att säga sin åsikt.</p>
-    <p type="title">Rätt till information</p>
-    <p>Det är viktigt att få den information som behövs för att kunna vara delaktig. Ni ska få information om exempelvis</p>
-    <list>
-      <p type="listitem">hälsotillståndet</p>
-      <p type="listitem">vilka metoder som finns för undersökning, vård och behandling</p>
-      <p type="listitem">vilka hjälpmedel som finns</p>
-      <p type="listitem">vad behandlingen och vården förväntas resultera i</p>
-      <p type="listitem">vilka risker för komplikationer och biverkningar som finns</p>
-      <p type="listitem">vilka metoder det finns för att förebygga sjukdom eller skada.</p>
-    </list>
-    <p>Det finns ingen åldersgräns för när ett barn får vara med och bestämma i en vårdsituation. Barnets rätt att bestämma hänger ihop med barnets mognad, och ålder är inte det enda som styr barnets mognad. Till exempel kan ett barn som varit sjukt länge eller har ett funktionshinder vara mer moget att bestämma om sin vård än ett annat barn i samma ålder utan sådana erfarenheter.</p>
-    <p>Ju äldre barnet blir, desto oftare behöver både barn och vårdnadshavare samtycka, säga ja, till den vård som erbjuds. Det är de ansvariga för vården, oftast tillsammans med dig som vårdnadshavare, som bedömer när och hur ett barn kan vara med och bestämma i en vårdsituation.</p>
-    <p>Från 18 år, då man blir myndig, kan barnet bestämma i stort sett allt själv.</p>
-    <p type="title">Information utan föräldrars deltagande</p>
-    <p>Det kan finnas situationer där barn kan ha direkt kontakt med sjukvården utan att du som vårdnadshavare är inblandad, även om det också kan ske med din kännedom. Barn har exempelvis rätt att få tala enskilt med vårdpersonal utan att föräldrarna är med eller får veta vad barnet har berättat. Om det i samtal med barnet kommer fram något allvarligt som rör barnets skydd och hälsa har vårdpersonal skyldighet att anmäla det till kommunens socialtjänst.</p>
-    <p>Om ett barn klarar av att söka vård på eget initiativ har det rätt att få hälsorådgivning utan att en förälder närvarar eller ta del av resultatet. Unga, som besöker en ungdomsmottagning , har också rätt att välja om någon annan ska få veta något om besöket eller läsa journalen .</p>
-    <p>Barn har rätt att få eget stöd , råd och information i situationer som berör familjen. Det kan till exempel vara om någon i familjen har en funktionsnedsättning, en fysisk eller psykisk sjukdom eller om någon dör.</p>
-    <p type="title">Vården ska anpassas efter barns behov</p>
-    <p>Ett barn ska vårdas på en barnavdelning så långt det är möjligt. Andra exempel på hur hälso- och sjukvården ska ta hänsyn till barns behov är bland annat att få</p>
-    <list>
-      <p type="listitem">ha minst en närstående med sig om man är inlagd på sjukhus</p>
-      <p type="listitem">avbryta en undersökning eller behandling för en paus eller för att försöka igen vid ett annat tillfälle</p>
-      <p type="listitem">vara med och bestämma hur medicin ska tas eller hur en undersökning ska göras när det finns flera likvärdiga alternativ.</p>
-    </list>
-    <p type="title">När barn inte får vara delaktiga</p>
-    <p>Det finns vissa situationer där barnet och den unga inte kan vara med och bestämma, även om de kan får vara med och påverka delar av beslutet. Det gäller till exempel beslut som kräver medicinsk kunskap. Varken barn eller vårdnadshavare kan tacka nej till vård om barnet vårdas enligt smittskyddslagen , lagen med särskilda bestämmelser om vård av unga (LVU) eller lagen om psykiatrisk tvångsvård (LPT).</p>
-    <p type="title">Din rätt som vårdnadshavare</p>
-    <p>Som vårdnadshavare kan du säga nej till en viss vård för ditt barn. Även om du har gett ditt samtycke till något kan du ändra dig och ta tillbaka det.</p>
-    <p>Om vårdnadshavare och barnet, eller barnets olika vårdnadshavare, inte är överens är det den som ansvarar för vården som får avgöra hur situationen ska lösas. Ibland måste vården be socialtjänsten att utse en medicinsk vårdnadshavare om vårdnadshavarna inte kan komma överens.</p>
-    <p>Du kan säga nej till att medverka i situationer som är svåra. Det kan till exempel handla om att vårdpersonal vill att du ska hålla fast barnet vid en obehaglig undersökning eller behandling. Du kan i stället välja att finnas till hands för att trösta och stötta barnet före och efter.</p>
-    <p>Du har rätt att få sova över i närheten av barnet om det vårdas på sjukhus och du ska kunna få en visning av avdelningen och en beskrivning av rutiner och riktlinjer på avdelningen.</p>
-    <p>Du har rätt att få en kopia av barnets journal, men i takt med barnets mognadsnivå ska barnet också samtycka till att journalkopior lämnas ut.</p>
-    <p type="title">Vad vårdnadshavare inte kan bestämma om</p>
-    <p>Det finns vissa situationer där sjukvårdspersonalen inte har skyldighet att ta hänsyn till vad du som vårdnadshavare önskar. Exempel på det är om du vill</p>
-    <list>
-      <p type="listitem">att barnet ska ha en behandling som strider mot vetenskap och beprövad erfarenhet inom vården</p>
-      <p type="listitem">neka ditt barn livräddande behandling</p>
-      <p type="listitem">spärra uppgifter i barnets journal för andra vårdgivare.</p>
-    </list>
-    <p type="title">Om du inte är nöjd med vården</p>
-    <p>Om du tycker att ditt barn har fått fel vård eller behandling eller dåligt bemötande ska du i första hand vända dig till den vårdpersonal på den mottagning eller avdelning där barnet har behandlats. Du kan också vända dig till patientnämnden , som kan hjälpa dig med att komma i kontakt med ansvarig vårdpersonal och få information om hur du kan rapportera det du inte varit nöjd med.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1073</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Regler-och-rattigheter/Barns-och-foraldrars-rattigheter-i-varden2</origFileName><parallel_text xml:lang="eng" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="fin" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="fit" location="barns-och-.html"/><parallel_text xml:lang="sma" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="sme" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text xml:lang="smj" location="barns-och-foraldrars-rattigheter-i-varden.html"/><parallel_text location="barns-och-foraldrars-rattigheter.html" xml:lang="rmy-rka"/><parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmn"/><parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmu"/><parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="yid"/><parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmy-rlo"/><parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Barns och vårdnadshavares rättigheter i vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Barns och vårdnadshavares rättigheter i vården</p>
+<p>Daphne ska operera sin hand, men när hon kommer till mottagningen visar det sig att operationen är framflyttad till eftermiddagen. Då säger Daphne ifrån – hon ska ju på konståkning på kvällen. Vuxna ska alltid berätta vad som händer och lyssna på vad barn tycker.</p>
+<p>Som vårdnadshavare ska du vara delaktig och ha inflytande över ditt barns vård. Men även barnet ska vara delaktigt i sin vård. Det betyder att vårdpersonalen ska se till barnets bästa och ska ta reda på vad barnet vill. Barn har också rätt att bestämma själva och ju äldre det är desto viktigare är det.</p>
+<p>Det är alltså både barnet och du, som vårdnadshavare, som ska få information och ha möjlighet att ta ställning till exempelvis en behandlingsmetod. Det kan till exempel betyda att ni behöver en tolk, en text att läsa hemma, eller annan slags anpassning för att ni verkligen ska kunna förstå och vara delaktiga.</p>
+<p>Flera olika lagar beskriver vilka skyldigheter vården har att ge barn och unga och deras vårdnadshavare medbestämmande. Det är framför allt i patientlagen och hälso- och sjukvårdslagen. Sverige har också skrivit under FN:s konvention om barnets rättigheter, barnkonventionen . I den står bland annat att barn har rätt till bästa möjliga hälsa och sjukvård. Men också att de har rätt till personlig integritet och att säga sin åsikt.</p>
+<p type="title">Rätt till information</p>
+<p>Det är viktigt att få den information som behövs för att kunna vara delaktig. Ni ska få information om exempelvis</p>
+<list><p type="listitem">hälsotillståndet</p>
+<p type="listitem">vilka metoder som finns för undersökning, vård och behandling</p>
+<p type="listitem">vilka hjälpmedel som finns</p>
+<p type="listitem">vad behandlingen och vården förväntas resultera i</p>
+<p type="listitem">vilka risker för komplikationer och biverkningar som finns</p>
+<p type="listitem">vilka metoder det finns för att förebygga sjukdom eller skada.</p>
+</list><p>Det finns ingen åldersgräns för när ett barn får vara med och bestämma i en vårdsituation. Barnets rätt att bestämma hänger ihop med barnets mognad, och ålder är inte det enda som styr barnets mognad. Till exempel kan ett barn som varit sjukt länge eller har ett funktionshinder vara mer moget att bestämma om sin vård än ett annat barn i samma ålder utan sådana erfarenheter.</p>
+<p>Ju äldre barnet blir, desto oftare behöver både barn och vårdnadshavare samtycka, säga ja, till den vård som erbjuds. Det är de ansvariga för vården, oftast tillsammans med dig som vårdnadshavare, som bedömer när och hur ett barn kan vara med och bestämma i en vårdsituation.</p>
+<p>Från 18 år, då man blir myndig, kan barnet bestämma i stort sett allt själv.</p>
+<p type="title">Information utan föräldrars deltagande</p>
+<p>Det kan finnas situationer där barn kan ha direkt kontakt med sjukvården utan att du som vårdnadshavare är inblandad, även om det också kan ske med din kännedom. Barn har exempelvis rätt att få tala enskilt med vårdpersonal utan att föräldrarna är med eller får veta vad barnet har berättat. Om det i samtal med barnet kommer fram något allvarligt som rör barnets skydd och hälsa har vårdpersonal skyldighet att anmäla det till kommunens socialtjänst.</p>
+<p>Om ett barn klarar av att söka vård på eget initiativ har det rätt att få hälsorådgivning utan att en förälder närvarar eller ta del av resultatet. Unga, som besöker en ungdomsmottagning , har också rätt att välja om någon annan ska få veta något om besöket eller läsa journalen .</p>
+<p>Barn har rätt att få eget stöd , råd och information i situationer som berör familjen. Det kan till exempel vara om någon i familjen har en funktionsnedsättning, en fysisk eller psykisk sjukdom eller om någon dör.</p>
+<p type="title">Vården ska anpassas efter barns behov</p>
+<p>Ett barn ska vårdas på en barnavdelning så långt det är möjligt. Andra exempel på hur hälso- och sjukvården ska ta hänsyn till barns behov är bland annat att få</p>
+<list><p type="listitem">ha minst en närstående med sig om man är inlagd på sjukhus</p>
+<p type="listitem">avbryta en undersökning eller behandling för en paus eller för att försöka igen vid ett annat tillfälle</p>
+<p type="listitem">vara med och bestämma hur medicin ska tas eller hur en undersökning ska göras när det finns flera likvärdiga alternativ.</p>
+</list><p type="title">När barn inte får vara delaktiga</p>
+<p>Det finns vissa situationer där barnet och den unga inte kan vara med och bestämma, även om de kan får vara med och påverka delar av beslutet. Det gäller till exempel beslut som kräver medicinsk kunskap. Varken barn eller vårdnadshavare kan tacka nej till vård om barnet vårdas enligt smittskyddslagen , lagen med särskilda bestämmelser om vård av unga (LVU) eller lagen om psykiatrisk tvångsvård (LPT).</p>
+<p type="title">Din rätt som vårdnadshavare</p>
+<p>Som vårdnadshavare kan du säga nej till en viss vård för ditt barn. Även om du har gett ditt samtycke till något kan du ändra dig och ta tillbaka det.</p>
+<p>Om vårdnadshavare och barnet, eller barnets olika vårdnadshavare, inte är överens är det den som ansvarar för vården som får avgöra hur situationen ska lösas. Ibland måste vården be socialtjänsten att utse en medicinsk vårdnadshavare om vårdnadshavarna inte kan komma överens.</p>
+<p>Du kan säga nej till att medverka i situationer som är svåra. Det kan till exempel handla om att vårdpersonal vill att du ska hålla fast barnet vid en obehaglig undersökning eller behandling. Du kan i stället välja att finnas till hands för att trösta och stötta barnet före och efter.</p>
+<p>Du har rätt att få sova över i närheten av barnet om det vårdas på sjukhus och du ska kunna få en visning av avdelningen och en beskrivning av rutiner och riktlinjer på avdelningen.</p>
+<p>Du har rätt att få en kopia av barnets journal, men i takt med barnets mognadsnivå ska barnet också samtycka till att journalkopior lämnas ut.</p>
+<p type="title">Vad vårdnadshavare inte kan bestämma om</p>
+<p>Det finns vissa situationer där sjukvårdspersonalen inte har skyldighet att ta hänsyn till vad du som vårdnadshavare önskar. Exempel på det är om du vill</p>
+<list><p type="listitem">att barnet ska ha en behandling som strider mot vetenskap och beprövad erfarenhet inom vården</p>
+<p type="listitem">neka ditt barn livräddande behandling</p>
+<p type="listitem">spärra uppgifter i barnets journal för andra vårdgivare.</p>
+</list><p type="title">Om du inte är nöjd med vården</p>
+<p>Om du tycker att ditt barn har fått fel vård eller behandling eller dåligt bemötande ska du i första hand vända dig till den vårdpersonal på den mottagning eller avdelning där barnet har behandlats. Du kan också vända dig till patientnämnden , som kan hjälpa dig med att komma i kontakt med ansvarig vårdpersonal och få information om hur du kan rapportera det du inte varit nöjd med.</p>
+</body></document>

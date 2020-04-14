@@ -1,48 +1,20 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>297</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/penningtvatt/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar-penningtvatt.html"/>
-    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-penningtvatt.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Penningtvätt - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Penningtvätt</p>
-    <p>
-      <em type="italic">Länsstyrelsen utövar tillsyn enligt lagen om åtgärder mot penningtvätt och finansiering av terrorism. </em>
-    </p>
-    <p type="title">Vad är penningtvätt?</p>
-    <p>Penningtvätt är när pengar som kommer från brottsliga verksamheter omvandlas till tillgångar som kan redovisas öppet. Det kan till exempel röra sig om pengar från narkotikabrott, trafficking, människosmuggling, skattebrott, bedrägerier och rån.</p>
-    <p type="title">Vad är Finansiering av terrorism?</p>
-    <p>Terrorismfinansiering innebär att ekonomiskt stödja terrorism. Det gäller inte bara direkta bidrag till terrorism utan även insamling av pengar eller att ta emot, tillhandahålla och förmedla pengar och tillgångar som ska finansiera terrorism.</p>
-    <p type="title">Länsstyrelsens ansvar</p>
-    <p>Tillsynen för att motverka penningtvätt och finansiering av terrorism innebär att Länsstyrelsen granskar fysiska och juridiska personer som</p>
-    <list>
-      <p type="listitem">bedriver verksamhet som avser redovisning och revision, förutom när det gäller auktoriserade eller godkända revisorer eller registrerade revisionsbolag</p>
-      <p type="listitem">bedriver verksamhet som skatterådgivare</p>
-      <p type="listitem">bedriver verksamhet som annan oberoende jurist då dessa bland annat hjälper till vid köp och försäljning av fastigheter eller företag. Detta gäller inte biträdande jurister och advokater vid advokatbyråer</p>
-      <p type="listitem">bedriver verksamhet som avser försäljning och rådgivning om att starta företag</p>
-      <p type="listitem">bedriver verksamhet som avser försäljning av varor mot kontant betalning som uppgår minst till ett belopp som motsvarar 15 000 euro per affärstransaktion.</p>
-    </list>
-    <p>Även filialer i Sverige till utländska juridiska personer med huvudkontor i utlandet omfattas av tillsynen. De ingår i Länsstyrelsen i Stockholms läns tillsyn.</p>
-    <p type="title">Anmälan till Bolagsverkets register mot penningtvätt</p>
-    <p>Företag och personer som bedriver viss typ av näringsverksamhet (se ovan) är skyldiga att anmäla sig till Bolagsverkets register mot penningtvätt. Använd blanketten <span type="quote">”Anmälan till registret mot penningtvätt”</span>, nummer 705 för att anmäla ditt företag till registret.</p>
-    <p type="title">Rapportering till Finanspolisen</p>
-    <p>Rapportering av misstänkt penningtvätt ska göras till Finanspolisen. För vidare information om hur denna rapportering ska utföras, kontakta Finanspolisen på följande telefonnummer: 010-563 68 00 eller skicka e-post till fipo@polisen.se .</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>297</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/naringsliv-och-foreningar/penningtvatt/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="naringsliv-och-foreningar-penningtvatt.html"/><parallel_text xml:lang="sma" location="naringsliv-och-foreningar-penningtvatt.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Penningtvätt - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Penningtvätt</p>
+<p><em type="italic">Länsstyrelsen utövar tillsyn enligt lagen om åtgärder mot penningtvätt och finansiering av terrorism. </em></p>
+<p type="title">Vad är penningtvätt?</p>
+<p>Penningtvätt är när pengar som kommer från brottsliga verksamheter omvandlas till tillgångar som kan redovisas öppet. Det kan till exempel röra sig om pengar från narkotikabrott, trafficking, människosmuggling, skattebrott, bedrägerier och rån.</p>
+<p type="title">Vad är Finansiering av terrorism?</p>
+<p>Terrorismfinansiering innebär att ekonomiskt stödja terrorism. Det gäller inte bara direkta bidrag till terrorism utan även insamling av pengar eller att ta emot, tillhandahålla och förmedla pengar och tillgångar som ska finansiera terrorism.</p>
+<p type="title">Länsstyrelsens ansvar</p>
+<p>Tillsynen för att motverka penningtvätt och finansiering av terrorism innebär att Länsstyrelsen granskar fysiska och juridiska personer som</p>
+<list><p type="listitem">bedriver verksamhet som avser redovisning och revision, förutom när det gäller auktoriserade eller godkända revisorer eller registrerade revisionsbolag</p>
+<p type="listitem">bedriver verksamhet som skatterådgivare</p>
+<p type="listitem">bedriver verksamhet som annan oberoende jurist då dessa bland annat hjälper till vid köp och försäljning av fastigheter eller företag. Detta gäller inte biträdande jurister och advokater vid advokatbyråer</p>
+<p type="listitem">bedriver verksamhet som avser försäljning och rådgivning om att starta företag</p>
+<p type="listitem">bedriver verksamhet som avser försäljning av varor mot kontant betalning som uppgår minst till ett belopp som motsvarar 15 000 euro per affärstransaktion.</p>
+</list><p>Även filialer i Sverige till utländska juridiska personer med huvudkontor i utlandet omfattas av tillsynen. De ingår i Länsstyrelsen i Stockholms läns tillsyn.</p>
+<p type="title">Anmälan till Bolagsverkets register mot penningtvätt</p>
+<p>Företag och personer som bedriver viss typ av näringsverksamhet (se ovan) är skyldiga att anmäla sig till Bolagsverkets register mot penningtvätt. Använd blanketten <span type="quote">”Anmälan till registret mot penningtvätt”</span>, nummer 705 för att anmäla ditt företag till registret.</p>
+<p type="title">Rapportering till Finanspolisen</p>
+<p>Rapportering av misstänkt penningtvätt ska göras till Finanspolisen. För vidare information om hur denna rapportering ska utföras, kontakta Finanspolisen på följande telefonnummer: 010-563 68 00 eller skicka e-post till fipo@polisen.se .</p>
+</body></document>

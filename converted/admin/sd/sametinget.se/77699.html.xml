@@ -1,33 +1,11 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>523</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/77699</origFileName>
-    <parallel_text xml:lang="sme" location="77865.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sameparlamentet i Nya Kiruna - Sametinget</p>
-    <p>Fotomontage från Murman Arkitekter.</p>
-    <p type="title">Sameparlamentet i Nya Kiruna</p>
-    <p>När ska Sametinget i Sverige få en värdig parlamentsbyggnad? För åtta år sedan vann Murman Arkitekter första pris i arkitekttävlingen om sameparlamentet, men sedan gick allt i stå på grund av stadsomvandlingen i Kiruna. Men nu står Sametinget på nytt med fötterna i startblocken. En ny tomt i sluttningen invid Tuolluvaara med närhet till centrum och fin utsikt över Nya Kiruna, har föreslagits av kommunen. Sametingets styrelse är positiv till placeringen.</p>
-    <p><em type="italic">Markförberedelser </em>Vid styrelsemötet i Kiruna höll Kiruna kommuns mark- och exploateringschef Eva Ekelund en presentation över bakgrunden och det pågående arbetet med att utforma Nya Kiruna. Hon visade skisser och bilder över hur det är tänkt att staden ska omvandlas och var centrum ska byggas. Redan nu har byggnader rivits och det aktuella området ska saneras och markberedas. </p>
-    <p><em type="italic">Centrum avvecklas </em>Deformationszonerna kryper allt närmare nuvarande centrum. Det blir sättningar i marken som går att se med blotta ögat. Allt på grund av att malmkroppen ligger som den ligger, snett under staden. Senaste budet är att allt mellan LKAB-området och Stadshuset ska vara avvecklat redan 2018. Kirunas kommersiella centrum måste ersättas och det ska gå fort. Det är inte bara stadshuset som ska byggas upp. </p>
-    <p><em type="italic">Byggnader flyttas eller ersätts </em>I en nära framtid ska även andra allmänna byggnader som kyrkan, badhuset, gymnasieskolan och sjukhuset ersättas. LKAB bygger ett nytt bolagshotell vid Luossavaara och bredvid hotellet kommer den anrika Hjalmar Lundbohms-gården att stå. LKAB ska bekosta flytten av ytterligare 21 kulturmärkta byggnader, bland annat de välkända <span type="quote">"bläckhornen"</span> som en gång i tiden byggdes för att fungera som arbetarbostäder. </p>
-    <p><em type="italic">Tomt i Tuolluvaara </em>Sametinget har själv begärt att det nya parlamentet ska ha ett centrumnära läge. Den nya tomt som kommunen nu erbjuder ligger på en sluttning invid de gamla gruvtornen. Trots nuvarande industriområde går det ändå lätt att tänka sig att det kan bli en vacker plats där Hans Murmans skapelse får breda ut sig med natur på båda sidor och en fin utsikt över den nya framväxande staden. Även arkitekten Hans Murman medverkade vid mötet. Han gav en kort bakgrund till det arbete som lagts ner och tankarna bakom parlamentsbyggnadens utseende. </p>
-    <p><em type="italic">Centrumnära läge </em>Sametingets nya hus ska ligga ca 500 meter från det nya Stadshuset, som i sin tur ska ligga mitt på torget. - Ett tätt centrum och ett torg har varit ett önskemål som framkommit i många samtal med kirunaborna, berättar mark- och exploateringschefen Eva Ekelund. Kiruna har ju idag inget riktigt torg, inget naturligt centrum, förutom en stor parkeringsplats framför Folkets Hus, som ibland används som festivalområde och marknadsplats. </p>
-    <p><em type="italic">Programarbete tar vid </em>Sametingets styrelse är positiv till placeringen men vill avvakta den bergundersökning som sker innan man fattar ett slutgiltigt beslut. Styrelsen har också beslutat att tillskriva regeringen att påbörja ärendet att tillskapa en parlamentsbyggnad för Sametinget. Därefter kan programarbetet starta, förmodligen parallellt med detaljplanearbetet på kommunen. Statens fastighetsverk utser då en projektgrupp som ska fördjupa sig i detaljer om husets exakta innehåll, exakt lokalisering på tomten, med mera. Vad kommer då det hela att kosta? En inte alltför osannolik uppskattning i nuläget är ca 225 miljoner. </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>523</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/77699</origFileName><parallel_text xml:lang="sme" location="77865.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sameparlamentet i Nya Kiruna - Sametinget</p>
+<p>Fotomontage från Murman Arkitekter.</p>
+<p type="title">Sameparlamentet i Nya Kiruna</p>
+<p>När ska Sametinget i Sverige få en värdig parlamentsbyggnad? För åtta år sedan vann Murman Arkitekter första pris i arkitekttävlingen om sameparlamentet, men sedan gick allt i stå på grund av stadsomvandlingen i Kiruna. Men nu står Sametinget på nytt med fötterna i startblocken. En ny tomt i sluttningen invid Tuolluvaara med närhet till centrum och fin utsikt över Nya Kiruna, har föreslagits av kommunen. Sametingets styrelse är positiv till placeringen.</p>
+<p><em type="italic">Markförberedelser </em>Vid styrelsemötet i Kiruna höll Kiruna kommuns mark- och exploateringschef Eva Ekelund en presentation över bakgrunden och det pågående arbetet med att utforma Nya Kiruna. Hon visade skisser och bilder över hur det är tänkt att staden ska omvandlas och var centrum ska byggas. Redan nu har byggnader rivits och det aktuella området ska saneras och markberedas. </p>
+<p><em type="italic">Centrum avvecklas </em>Deformationszonerna kryper allt närmare nuvarande centrum. Det blir sättningar i marken som går att se med blotta ögat. Allt på grund av att malmkroppen ligger som den ligger, snett under staden. Senaste budet är att allt mellan LKAB-området och Stadshuset ska vara avvecklat redan 2018. Kirunas kommersiella centrum måste ersättas och det ska gå fort. Det är inte bara stadshuset som ska byggas upp. </p>
+<p><em type="italic">Byggnader flyttas eller ersätts </em>I en nära framtid ska även andra allmänna byggnader som kyrkan, badhuset, gymnasieskolan och sjukhuset ersättas. LKAB bygger ett nytt bolagshotell vid Luossavaara och bredvid hotellet kommer den anrika Hjalmar Lundbohms-gården att stå. LKAB ska bekosta flytten av ytterligare 21 kulturmärkta byggnader, bland annat de välkända <span type="quote">"bläckhornen"</span> som en gång i tiden byggdes för att fungera som arbetarbostäder. </p>
+<p><em type="italic">Tomt i Tuolluvaara </em>Sametinget har själv begärt att det nya parlamentet ska ha ett centrumnära läge. Den nya tomt som kommunen nu erbjuder ligger på en sluttning invid de gamla gruvtornen. Trots nuvarande industriområde går det ändå lätt att tänka sig att det kan bli en vacker plats där Hans Murmans skapelse får breda ut sig med natur på båda sidor och en fin utsikt över den nya framväxande staden. Även arkitekten Hans Murman medverkade vid mötet. Han gav en kort bakgrund till det arbete som lagts ner och tankarna bakom parlamentsbyggnadens utseende. </p>
+<p><em type="italic">Centrumnära läge </em>Sametingets nya hus ska ligga ca 500 meter från det nya Stadshuset, som i sin tur ska ligga mitt på torget. - Ett tätt centrum och ett torg har varit ett önskemål som framkommit i många samtal med kirunaborna, berättar mark- och exploateringschefen Eva Ekelund. Kiruna har ju idag inget riktigt torg, inget naturligt centrum, förutom en stor parkeringsplats framför Folkets Hus, som ibland används som festivalområde och marknadsplats. </p>
+<p><em type="italic">Programarbete tar vid </em>Sametingets styrelse är positiv till placeringen men vill avvakta den bergundersökning som sker innan man fattar ett slutgiltigt beslut. Styrelsen har också beslutat att tillskriva regeringen att påbörja ärendet att tillskapa en parlamentsbyggnad för Sametinget. Därefter kan programarbetet starta, förmodligen parallellt med detaljplanearbetet på kommunen. Statens fastighetsverk utser då en projektgrupp som ska fördjupa sig i detaljer om husets exakta innehåll, exakt lokalisering på tomten, med mera. Vad kommer då det hela att kosta? En inte alltför osannolik uppskattning i nuläget är ca 225 miljoner. </p>
+</body></document>

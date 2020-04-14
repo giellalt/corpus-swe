@@ -1,45 +1,15 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>228</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/10667</origFileName>
-    <parallel_text xml:lang="sme" location="10671.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Jämställdhetsarbete redovisat - Sametinget</p>
-    <p>15 av 31 ledamöter är nu kvinnor. Foto: Hans-Olof Utsi.</p>
-    <p type="title">Regeringsuppdrag om ökad jämställdhet redovisat för ministern</p>
-    <p>Fredagen den 23 oktober redovisade Sametinget för jämställdhetsminister Nyamko Sabuni hur regeringsuppdraget för att öka kvinnors deltagande i det politiska livet genomförts.</p>
-    <p>Det var under 2008 som Sametinget fick 1,5 miljoner för att i två år jobba för att stärka samiska kvinnors delaktighet i samhällslivet och deras ställning i det politiska beslutsfattandet.</p>
-    <p>
-      <em type="bold">Nöjd styrelseordförande </em>
-    </p>
-    <p>-  Jag är oerhört nöjd att regeringen stödjer det samiska folkets jämställdhetsarbete på detta sätt. Vi har fått ökade resurser för att genomföra vårt eget jämställdhetsprogram och det har också visat sig vara väldigt lyckat, säger Sametingets styrelseordförande Sara Larsson.</p>
-    <p>
-      <em type="bold">Framgångrikt arbete </em>
-    </p>
-    <p>Förutom att partierna själva gjort egna insatser har medlen använts till att anordna seminarier i jämställdhetsfrågor. Dessa hölls i Arvidsjaur och Umeå. I Stockholm anordnades en tjejhelg för att uppmuntra kvinnor att bli politiker. Målet i Sametingets jämställdhetsprogram att öka andelen kvinnor i Sametinget är uppfyllt redan nu och visar att arbetet hittills varit framgångsrikt.</p>
-    <p>
-      <em type="bold">Förhoppning </em>
-    </p>
-    <p>-  2008 var 10 av 31 ledamöter kvinnor. Efter valet 2009 är vi 15 kvinnor, varav fyra sitter i styrelsen, konstaterar Sara Larsson.</p>
-    <p>-  Nu hoppas vi på fortsatt samarbete med jämställdhetsministern så att vi kan intensifiera jämställdhetsarbetet med fokus på samebyar, partier och organisationer, avslutar Larsson.</p>
-    <p>
-      <em type="italic">Kontakt </em>
-    </p>
-    <p>Sara Larsson, Sametingets styrelseordförande, 070-378 88 24</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>228</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/10667</origFileName><parallel_text xml:lang="sme" location="10671.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Jämställdhetsarbete redovisat - Sametinget</p>
+<p>15 av 31 ledamöter är nu kvinnor. Foto: Hans-Olof Utsi.</p>
+<p type="title">Regeringsuppdrag om ökad jämställdhet redovisat för ministern</p>
+<p>Fredagen den 23 oktober redovisade Sametinget för jämställdhetsminister Nyamko Sabuni hur regeringsuppdraget för att öka kvinnors deltagande i det politiska livet genomförts.</p>
+<p>Det var under 2008 som Sametinget fick 1,5 miljoner för att i två år jobba för att stärka samiska kvinnors delaktighet i samhällslivet och deras ställning i det politiska beslutsfattandet.</p>
+<p><em type="bold">Nöjd styrelseordförande </em></p>
+<p>-  Jag är oerhört nöjd att regeringen stödjer det samiska folkets jämställdhetsarbete på detta sätt. Vi har fått ökade resurser för att genomföra vårt eget jämställdhetsprogram och det har också visat sig vara väldigt lyckat, säger Sametingets styrelseordförande Sara Larsson.</p>
+<p><em type="bold">Framgångrikt arbete </em></p>
+<p>Förutom att partierna själva gjort egna insatser har medlen använts till att anordna seminarier i jämställdhetsfrågor. Dessa hölls i Arvidsjaur och Umeå. I Stockholm anordnades en tjejhelg för att uppmuntra kvinnor att bli politiker. Målet i Sametingets jämställdhetsprogram att öka andelen kvinnor i Sametinget är uppfyllt redan nu och visar att arbetet hittills varit framgångsrikt.</p>
+<p><em type="bold">Förhoppning </em></p>
+<p>-  2008 var 10 av 31 ledamöter kvinnor. Efter valet 2009 är vi 15 kvinnor, varav fyra sitter i styrelsen, konstaterar Sara Larsson.</p>
+<p>-  Nu hoppas vi på fortsatt samarbete med jämställdhetsministern så att vi kan intensifiera jämställdhetsarbetet med fokus på samebyar, partier och organisationer, avslutar Larsson.</p>
+<p><em type="italic">Kontakt </em></p>
+<p>Sara Larsson, Sametingets styrelseordförande, 070-378 88 24</p>
+</body></document>

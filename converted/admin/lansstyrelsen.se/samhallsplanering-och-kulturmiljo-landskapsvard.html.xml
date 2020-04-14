@@ -1,31 +1,5 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>95</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/landskapsvard/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-landskapsvard.html"/>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-landskapsvard.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Landskapsvård - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Landskapsvård</p>
-    <p>
-      <em type="italic">Länsstyrelsen arbetar med landskapsvård för att bevara och synliggöra landskapets värden, och vi ger även information om dessa värden till både närboende och turister. </em>
-    </p>
-    <p>Om du vill vårda ett värdefullt kulturlandskap som berättar om länets historia kan du få bidrag från Länsstyrelsen för det. Bidragen styrs utifrån de projekt som vi har prioriterat, och insatserna kan både gälla kulturlämningar och växt- och djurlivet. En viktig del i detta arbete är att ta fram fakta och annan information om kulturlandskapet. Vi ger också bidrag till olika EU-projekt som rör kulturlandskapet.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>95</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/samhallsplanering-och-kulturmiljo/landskapsvard/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo-landskapsvard.html"/><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-landskapsvard.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Landskapsvård - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Landskapsvård</p>
+<p><em type="italic">Länsstyrelsen arbetar med landskapsvård för att bevara och synliggöra landskapets värden, och vi ger även information om dessa värden till både närboende och turister. </em></p>
+<p>Om du vill vårda ett värdefullt kulturlandskap som berättar om länets historia kan du få bidrag från Länsstyrelsen för det. Bidragen styrs utifrån de projekt som vi har prioriterat, och insatserna kan både gälla kulturlämningar och växt- och djurlivet. En viktig del i detta arbete är att ta fram fakta och annan information om kulturlandskapet. Vi ger också bidrag till olika EU-projekt som rör kulturlandskapet.</p>
+</body></document>

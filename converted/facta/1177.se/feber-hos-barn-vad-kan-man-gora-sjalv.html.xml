@@ -1,68 +1,28 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>710</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Fakta-och-rad/Sjukdomar/Feber-hos-barn-vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="feber--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fin" location="feber-hos-barn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fit" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Feber hos barn – vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p type="title">Feber hos barn – vad kan man göra själv?</p>
-    <p type="title">Feber är en del av kroppens försvar</p>
-    <p>Feber innebär att kroppens temperatur är högre än vad den brukar vara. Det är i sig inte farligt utan kroppens försvar mot infektioner. Barn får lätt feber och det är framför allt infektioner som har orsakats av virus, såsom förkylning , hosta och halsont , som gör att kroppstemperaturen stiger. Temperaturen kan även stiga om barnet leker väldigt livligt eller rör sig intensivt. I sällsynta fall kan feber tyda på en allvarlig sjukdom.</p>
-    <p>Barn har feber om temperaturen på morgonen eller efter en halvtimmes vila är över 38 grader.</p>
-    <p>Oftast märks det att barnet har feber. Om man känner sig tveksam kan man ta tempen på barnet, men det viktigaste är att följa hur barnet mår. Om man tänker ta kontakt med sjukvården är det bra att ha mätt temperaturen.</p>
-    <p>Det är säkrast att mäta kroppstemperaturen i stjärten. Det finns också örontermometer, som rätt använd är bra. En sådan är svår att använda på mycket små barn då hörselgången är för trång.</p>
-    <p type="title">Låt barnet vila och dricka mycket</p>
-    <p>Ett barn som har feber behöver få vara hemma från skola eller förskola för att vila och återhämta sig. Barnet behöver inte hålla sig i sängen, men bör inte anstränga sig fysiskt. Det bästa är att låta barnet avgöra hur mycket det orkar vara uppe.</p>
-    <p>Barn behöver mer vätska än vanligt vid feber. För att barnet ska få i sig tillräckligt med vätska är det bra att ofta försöka ge något att dricka. Ge barnet vad det tycker om och själv vill ha att äta och dricka, till exempel glass, kräm eller välling. Om barnet inte har aptit behöver det inte äta vanlig mat. Det gör inget om det äter lite sämre under några dagar. Om barnet kissar sällan eller är hängigt och trött kan det bero på att barnet har druckit för lite.</p>
-    <p type="title">Gör det så behagligt som möjligt</p>
-    <p>Om barnet tycker att det är skönt kan man låta det sova med ett tunt lakan eller bara i underkläderna. Men om barnet huttrar och fryser, vilket är vanligt när febern stiger, kan man lägga på en filt och göra det så behagligt som möjligt.</p>
-    <p type="title">Receptfria läkemedel</p>
-    <p>Feber behöver sällan behandlas med febernedsättande läkemedel. De flesta barn har feber som varar några dagar utan att det behöver betyda något allvarligt. Men man kan ge febernedsättande läkemedel om barnet mår märkbart dåligt av febern, till exempel har ont i kroppen, är gnälligt, äter och dricker sämre, sover dåligt eller har svårt att komma till ro på kvällen.</p>
-    <p>Man ska inte behandla barn under sex månader som har feber med mediciner utan att först kontakta vården.</p>
-    <p>Mot feber finns för barn över tre månader medicin som innehåller paracetamol, till exempel Alvedon eller Panodil. Från sex månaders ålder kan barn få medicin som innehåller ibuprofen, som till exempel säljs under namnen Ipren eller Ibumetin. Medicinerna finns i flytande form eller som stolpiller, som förs in i barnets ändtarm, med rätt dos för små barn. För äldre barn finns även tabletter. Följ anvisningarna på förpackningen noga. Kombinera inte olika läkemedel. Barn under 18 år som har feber ska inte använda febernedsättande läkemedel med acetylsalicylsyra, till exempel Magnecyl, Treo eller Albyl.</p>
-    <p type="title">Man kan behöva kontakta vården</p>
-    <p>Det är framför allt genom att bedöma hur barnet mår i övrigt som man kan avgöra om man behöver kontakta vårdcentral eller inte. Man kan alltid ringa sjukvårdsrådgivningen eller vårdcentralen om man är osäker, speciellt om barnet har andra besvär samtidigt som febern.</p>
-    <p>Man bör söka vård direkt på en vårdcentral eller en akutmottagning om barnet har feber och har något, eller flera, av dessa besvär:</p>
-    <list>
-      <p type="listitem">inte ger samma kontakt som vanligt</p>
-      <p type="listitem">verkar trött och taget och inte orkar dricka</p>
-      <p type="listitem">har en temperatur över 41 grader.</p>
-    </list>
-    <p>Man bör alltid kontakta en vårdcentral eller jourmottagning om barnet är</p>
-    <list>
-      <p type="listitem">yngre än tre månader och har feber över 38 grader</p>
-      <p type="listitem">mellan tre och sex månader och har feber över 39 grader.</p>
-    </list>
-    <p>Man bör kontakta vården om febern inte gått ner efter fyra dygn, oavsett ålder på barnet.</p>
-    <p>Det går alltid att ringa sjukvårdsrådgivningen på telefon 1177 för att få råd.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>710</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.1177.se/Fakta-och-rad/Sjukdomar/Feber-hos-barn-vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="feber--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fin" location="feber-hos-barn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fit" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Feber hos barn – vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p type="title">Feber hos barn – vad kan man göra själv?</p>
+<p type="title">Feber är en del av kroppens försvar</p>
+<p>Feber innebär att kroppens temperatur är högre än vad den brukar vara. Det är i sig inte farligt utan kroppens försvar mot infektioner. Barn får lätt feber och det är framför allt infektioner som har orsakats av virus, såsom förkylning , hosta och halsont , som gör att kroppstemperaturen stiger. Temperaturen kan även stiga om barnet leker väldigt livligt eller rör sig intensivt. I sällsynta fall kan feber tyda på en allvarlig sjukdom.</p>
+<p>Barn har feber om temperaturen på morgonen eller efter en halvtimmes vila är över 38 grader.</p>
+<p>Oftast märks det att barnet har feber. Om man känner sig tveksam kan man ta tempen på barnet, men det viktigaste är att följa hur barnet mår. Om man tänker ta kontakt med sjukvården är det bra att ha mätt temperaturen.</p>
+<p>Det är säkrast att mäta kroppstemperaturen i stjärten. Det finns också örontermometer, som rätt använd är bra. En sådan är svår att använda på mycket små barn då hörselgången är för trång.</p>
+<p type="title">Låt barnet vila och dricka mycket</p>
+<p>Ett barn som har feber behöver få vara hemma från skola eller förskola för att vila och återhämta sig. Barnet behöver inte hålla sig i sängen, men bör inte anstränga sig fysiskt. Det bästa är att låta barnet avgöra hur mycket det orkar vara uppe.</p>
+<p>Barn behöver mer vätska än vanligt vid feber. För att barnet ska få i sig tillräckligt med vätska är det bra att ofta försöka ge något att dricka. Ge barnet vad det tycker om och själv vill ha att äta och dricka, till exempel glass, kräm eller välling. Om barnet inte har aptit behöver det inte äta vanlig mat. Det gör inget om det äter lite sämre under några dagar. Om barnet kissar sällan eller är hängigt och trött kan det bero på att barnet har druckit för lite.</p>
+<p type="title">Gör det så behagligt som möjligt</p>
+<p>Om barnet tycker att det är skönt kan man låta det sova med ett tunt lakan eller bara i underkläderna. Men om barnet huttrar och fryser, vilket är vanligt när febern stiger, kan man lägga på en filt och göra det så behagligt som möjligt.</p>
+<p type="title">Receptfria läkemedel</p>
+<p>Feber behöver sällan behandlas med febernedsättande läkemedel. De flesta barn har feber som varar några dagar utan att det behöver betyda något allvarligt. Men man kan ge febernedsättande läkemedel om barnet mår märkbart dåligt av febern, till exempel har ont i kroppen, är gnälligt, äter och dricker sämre, sover dåligt eller har svårt att komma till ro på kvällen.</p>
+<p>Man ska inte behandla barn under sex månader som har feber med mediciner utan att först kontakta vården.</p>
+<p>Mot feber finns för barn över tre månader medicin som innehåller paracetamol, till exempel Alvedon eller Panodil. Från sex månaders ålder kan barn få medicin som innehåller ibuprofen, som till exempel säljs under namnen Ipren eller Ibumetin. Medicinerna finns i flytande form eller som stolpiller, som förs in i barnets ändtarm, med rätt dos för små barn. För äldre barn finns även tabletter. Följ anvisningarna på förpackningen noga. Kombinera inte olika läkemedel. Barn under 18 år som har feber ska inte använda febernedsättande läkemedel med acetylsalicylsyra, till exempel Magnecyl, Treo eller Albyl.</p>
+<p type="title">Man kan behöva kontakta vården</p>
+<p>Det är framför allt genom att bedöma hur barnet mår i övrigt som man kan avgöra om man behöver kontakta vårdcentral eller inte. Man kan alltid ringa sjukvårdsrådgivningen eller vårdcentralen om man är osäker, speciellt om barnet har andra besvär samtidigt som febern.</p>
+<p>Man bör söka vård direkt på en vårdcentral eller en akutmottagning om barnet har feber och har något, eller flera, av dessa besvär:</p>
+<list><p type="listitem">inte ger samma kontakt som vanligt</p>
+<p type="listitem">verkar trött och taget och inte orkar dricka</p>
+<p type="listitem">har en temperatur över 41 grader.</p>
+</list><p>Man bör alltid kontakta en vårdcentral eller jourmottagning om barnet är</p>
+<list><p type="listitem">yngre än tre månader och har feber över 38 grader</p>
+<p type="listitem">mellan tre och sex månader och har feber över 39 grader.</p>
+</list><p>Man bör kontakta vården om febern inte gått ner efter fyra dygn, oavsett ålder på barnet.</p>
+<p>Det går alltid att ringa sjukvårdsrådgivningen på telefon 1177 för att få råd.</p>
+</body></document>

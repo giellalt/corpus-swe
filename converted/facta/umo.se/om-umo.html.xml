@@ -1,64 +1,22 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>419</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Om-Umo</origFileName>
-    <parallel_text xml:lang="eng" location="about-umo.html"/>
-    <parallel_text xml:lang="fin" location="umosta.html"/>
-    <parallel_text xml:lang="rus" location="o-umo.html"/>
-    <parallel_text location="o-umo-u-serbokroatiska.html" xml:lang="hbs"/>
-    <parallel_text location="umo.html" xml:lang="ara"/>
-    <parallel_text location="sobre-umo.html" xml:lang="spa"/>
-    <parallel_text location="umo-en-francais.html" xml:lang="fra"/>
-    <parallel_text location="li-ser-umo.html" xml:lang="kmr"/>
-    <parallel_text location="umo-hakknda.html" xml:lang="tur"/>
-    <parallel_text location="persiska.html" xml:lang="fas"/>
-    <parallel_text location="o-umo-polska.html" xml:lang="pol"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Om UMO</p>
-    <p>Alla undrar!  Vad undrar du?</p>
-    <p type="title">Om UMO</p>
-    <p>UMO är en webbplats för alla som är mellan 13 och 25 år. På UMO kan du hitta svar på frågor om sex, hälsa och relationer. Bakom UMO står alla landsting och regioner.</p>
-    <p type="title">Innehållet på UMO</p>
-    <p>På UMO.se kan du få kunskap om kroppen, sex, relationer, psykisk hälsa, alkohol och droger, självkänsla, och mycket annat. Du kan få svar på dina frågor eller få nya idéer om hur du kan tänka kring ditt liv.</p>
-    <p>Till Fråga UMO kan alla mellan 13 och 25 år ställa frågor anonymt och få ett personligt svar från någon som jobbar på UMO eller på en ungdomsmottagning. De yrkesgrupper som svarar på frågor är sjuksköterska, barnmorska, kurator, läkare, psykolog eller dietist. På Fråga UMO kan du också läsa andras frågor och svar.</p>
-    <p>Om du vill komma i kontakt med en ungdomsmottagning, kan du söka i UMO:s katalog över alla ungdomsmottagningar . Andra saker som finns på UMO är</p>
-    <list>
-      <p type="listitem">råd om hur du kan söka stöd och hjälp</p>
-      <p type="listitem">filmer och bildspel</p>
-      <p type="listitem">sidan Egna berättelser , dit du som är ung kan skriva och berätta om ditt liv. Där kan du också läsa andras berättelser</p>
-      <p type="listitem">intervjuer med unga om olika ämnen, bland annat om att ha hiv , att bli förälder och att hitta kärleken på nätet</p>
-      <p type="listitem">tips på böcker och filmer som handlar om UMO:s ämnen.</p>
-    </list>
-    <p type="title">UMO - en sajt för alla</p>
-    <p>På UMO.se finns olika sorters material, som texter, filmer och bildspel. Du kan också lyssna på sidan och välja olika textstorlek. En viktig tanke med UMO är att det ska vara lätt att hitta på sajten. Texterna ska vara lättlästa. Det ska inte finnas för långa meningar eller krångliga ord.</p>
-    <p>UMO har som mål att du ska känna att UMO är en sida för dig, oavsett vem du är, vilken bakgrund du har eller i vilken del av landet du bor.</p>
-    <p type="title">Så drivs UMO</p>
-    <p>UMO drivs av Stockholms läns landsting på uppdrag av alla Sveriges landsting och regioner. Verksamheten drivs utan kommersiella intressen och därför finns ingen reklam eller sponsring på UMO.</p>
-    <p type="title">UMO samarbetar med andra</p>
-    <p>Förutom ett aktivt samarbete med unga så samarbetar UMO med många andra. Till exempel experter, ungdomsmottagningar, elevhälsan, myndigheter och organisationer som RFSU, RFSL ungdom, Bris, och tjejjourer. UMO samarbetar också med unga personer som läser texter och hjälper till med förslag och synpunkter.</p>
-    <p>» Vill du kontakta en ungdomsmottagning hittar du nummer och adresser här .</p>
-    <p>» Vill du kontakta någon på webbplatsen UMO.se hittar du mejladresser här.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>414</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Om-Umo</origFileName><parallel_text xml:lang="eng" location="about-umo.html"/><parallel_text xml:lang="fin" location="umosta.html"/><parallel_text xml:lang="rus" location="o-umo.html"/><parallel_text location="o-umo-u-serbokroatiska.html" xml:lang="hbs"/><parallel_text location="umo.html" xml:lang="ara"/><parallel_text location="sobre-umo.html" xml:lang="spa"/><parallel_text location="umo-en-francais.html" xml:lang="fra"/><parallel_text location="li-ser-umo.html" xml:lang="kmr"/><parallel_text location="umo-hakknda.html" xml:lang="tur"/><parallel_text location="persiska.html" xml:lang="fas"/><parallel_text location="o-umo-polska.html" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Om UMO</p>
+<p type="title">Om UMO</p>
+<p>UMO är en webbplats för alla som är mellan 13 och 25 år. På UMO kan du hitta svar på frågor om sex, hälsa och relationer. Bakom UMO står alla landsting och regioner.</p>
+<p type="title">Innehållet på UMO</p>
+<p>På UMO.se kan du få kunskap om kroppen, sex, relationer, psykisk hälsa, alkohol och droger, självkänsla, och mycket annat. Du kan få svar på dina frågor eller få nya idéer om hur du kan tänka kring ditt liv.</p>
+<p>Till Fråga UMO kan alla mellan 13 och 25 år ställa frågor anonymt och få ett personligt svar från någon som jobbar på UMO eller på en ungdomsmottagning. De yrkesgrupper som svarar på frågor är sjuksköterska, barnmorska, kurator, läkare, psykolog eller dietist. På Fråga UMO kan du också läsa andras frågor och svar.</p>
+<p>Om du vill komma i kontakt med en ungdomsmottagning, kan du söka i UMO:s katalog över alla ungdomsmottagningar . Andra saker som finns på UMO är</p>
+<list><p type="listitem">råd om hur du kan söka stöd och hjälp</p>
+<p type="listitem">filmer och bildspel</p>
+<p type="listitem">sidan Egna berättelser , dit du som är ung kan skriva och berätta om ditt liv. Där kan du också läsa andras berättelser</p>
+<p type="listitem">intervjuer med unga om olika ämnen, bland annat om att ha hiv , att bli förälder och att hitta kärleken på nätet</p>
+<p type="listitem">tips på böcker och filmer som handlar om UMO:s ämnen.</p>
+</list><p type="title">UMO - en sajt för alla</p>
+<p>På UMO.se finns olika sorters material, som texter, filmer och bildspel. Du kan också lyssna på sidan och välja olika textstorlek. En viktig tanke med UMO är att det ska vara lätt att hitta på sajten. Texterna ska vara lättlästa. Det ska inte finnas för långa meningar eller krångliga ord.</p>
+<p>UMO har som mål att du ska känna att UMO är en sida för dig, oavsett vem du är, vilken bakgrund du har eller i vilken del av landet du bor.</p>
+<p type="title">Så drivs UMO</p>
+<p>UMO drivs av Stockholms läns landsting på uppdrag av alla Sveriges landsting och regioner. Verksamheten drivs utan kommersiella intressen och därför finns ingen reklam eller sponsring på UMO.</p>
+<p type="title">UMO samarbetar med andra</p>
+<p>Förutom ett aktivt samarbete med unga så samarbetar UMO med många andra. Till exempel experter, ungdomsmottagningar, elevhälsan, myndigheter och organisationer som RFSU, RFSL ungdom, Bris, och tjejjourer. UMO samarbetar också med unga personer som läser texter och hjälper till med förslag och synpunkter.</p>
+<p>» Vill du kontakta en ungdomsmottagning hittar du nummer och adresser här .</p>
+<p>» Vill du kontakta någon på webbplatsen UMO.se hittar du mejladresser här.</p>
+</body></document>

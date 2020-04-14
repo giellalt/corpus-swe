@@ -1,75 +1,32 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>783</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Sex/Skydd-mot-graviditet/Akut-p-piller</origFileName>
-    <parallel_text xml:lang="fin" location="jalkiehkaisypilleri.html"/>
-    <parallel_text xml:lang="fit" location="akyytti-p-pilleri.html"/>
-    <parallel_text xml:lang="sma" location="akute-p-pillere.html"/>
-    <parallel_text xml:lang="sme" location="fahkkatla-p-pillar.html"/>
-    <parallel_text xml:lang="smj" location="hahkka-p-tablahtta.html"/>
-    <parallel_text location="kris-p-drabb.html" xml:lang="rmu"/>
-    <parallel_text location="akutno-p-drab.html" xml:lang="rmy-rka"/>
-    <parallel_text location="akutno-p-piller-preventivno-tabletka.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="sigutno-p-pilleri-akut-p-pilleri.html" xml:lang="rmf"/>
-    <parallel_text location="akutno-pipula.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Akut-p-piller</p>
-    <p>Alla undrar!  Vad undrar du?</p>
-    <p type="title">Akut-p-piller</p>
-    <p>Akut-p-piller är en tablett som en tjej kan ta efter ett oskyddat samlag för att minska risken att bli gravid. Ju tidigare man tar tabletten desto mindre risk är det att man blir gravid . Man kan använda akut-p-piller om man glömt att skydda sig eller det skydd man använde inte funkade.</p>
-    <p>» Texten finns på de nationella minoritetsspråken</p>
-    <p>Akut-p-piller är ett sätt att försöka förhindra graviditet om man av någon anledning haft sex utan att använda skydd.</p>
-    <p>Man bör också ta ett akut-p-piller om det finns en risk för att det skydd man använde inte funkade, till exempel om kondomen sprack eller om man kräkts upp sitt p-piller.</p>
-    <p>Tabletten som man tar innehåller ett hormon som gör att man inte får någon ägglossning eller att ägglossningen skjuts fram. Akut-p-piller avbryter alltså inte en graviditet och är därför inte samma sak som en abort eller ett så kallat abortpiller.</p>
-    <p>Akut-p-piller ska bara användas som en nödlösning och inte som ett regelbundet skydd mot graviditet.</p>
-    <p type="title">Hur använder man akut-p-piller?</p>
-    <p>Ibland kallas akut-p-piller för dagen-efter-piller. Det är lite missvisande eftersom man inte måste ta tabletten dagen efter samlaget. Men ju tidigare man tar tabletten desto mindre risk är det att man blir gravid.</p>
-    <p>Det finns två sorters akut-p-piller. En sort som man kan ta upp till tre dygn efter ett samlag. Det finns också ett akut p-piller som man kan ta upp till fem dygn efter samlag. Den sorten kan man bara få på en ungdomsmottagning eller på recept av barnmorska eller läkare. Om man behöver ett sånt recept kan man kontakta en ungdomsmottagning, sex- och samlevnadsmottagning, vårdcentral, barnmorskemottagning eller kvinnoklinik. Oftast betalar man för det. På en del mottagningar kan man få det utan att det kostar något.</p>
-    <p>När man tagit ett akut-p-piller är det vanligt att mensen kommer antingen lite tidigare eller senare än väntat. Det är också vanligt med mellanblödningar. Oavsett om man får sin mens som väntat eller inte ska man alltid göra ett graviditetstest efter tre till fyra veckor för att vara säker på att man inte blivit gravid.</p>
-    <p>Efter att man tagit ett akut-piller kan man må illa, få huvudvärk och ont i magen. Det är inte farligt och brukar gå över efter något dygn.</p>
-    <p type="title">Var kan man få tag på akut-p-piller?</p>
-    <p>Man kan få hjälp med akut-p-piller på de flesta ungdomsmottagningar, hud- och könsmottagningar och vårdcentraler. Man kan även få akut-p-piller på en del barnmorskemottagningar och kvinnokliniker. Det finns också en sorts akut p-piller att köpa på ett apotek utan recept.</p>
-    <p>Om man går till exempelvis en ungdomsmottagning för att få akut-p-piller kan man även få en ny tid för att göra graviditetstest och, om man vill, ett klamydiatest. Man kan också få råd om hur man kan skydda sig mot graviditet och könssjukdomar framöver om man vill ha det.</p>
-    <p type="title">Vad kostar akut-p-piller?</p>
-    <p>Om man köper akut-p-piller receptfritt på ett apotek får man betala för det. Hur mycket det kostar kan variera beroende på vilket apotek man går till. På ungdomsmottagningen får man tabletten kostnadsfritt.</p>
-    <p type="title">Hur säkert är akut p-piller?</p>
-    <p>Risken att akut-p-pillret inte funkar, det vill säga att man blir gravid, ökar ju längre tid efter samlaget man tar pillret.</p>
-    <p>Om man kräks inom tre timmar efter att man tagit tabletten eller om man har diarré är det inte säkert att kroppen hinner ta upp hormonet. Därför måste man ta en ny tablett så fort som möjligt, annars finns det risk att man blir gravid.</p>
-    <p>Vad som gäller för just det akut-p-piller man tar kan man läsa i bipacksedeln. Bipacksedeln är den lapp som ligger i förpackningen när man får eller köper sitt akut-p-piller. Man kan alltid fråga en barnmorska på till exempel en ungdomsmottagning eller hud- och könsmottagning om man känner sig osäker.</p>
-    <p>För att vara säker på att man inte blivit gravid bör man göra ett graviditetstest ungefär tre veckor efter att man tagit tabletten.</p>
-    <p type="title">Hur ofta kan man ta akut-p-piller?</p>
-    <p>Det finns ingen gräns för hur många gånger per menscykel man kan ta ett akut-p-piller. Har man haft oskyddat samlag och inte vill bli gravid är det därför bättre att ta ett akut-p-piller flera gånger under samma menscykel än att låta bli, även om risken för mellanblödningar ökar.</p>
-    <p>Behöver man ta akut-p-piller ofta bör man tänka över hur man skyddar sig vid samlag och om man kan behöva ändra på det. För att få hjälp med det kan man kontakta en ungdomsmottagning, barnmorskemottagning eller hud- och könsmottagning.</p>
-    <p type="title">Fördelar</p>
-    <list>
-      <p type="listitem">Bra nödlösning för att minska risken för graviditet om man haft samlag utan att skydda sig.</p>
-    </list>
-    <p type="title">Nackdelar</p>
-    <list>
-      <p type="listitem">Akut-p-piller skyddar inte mot könssjukdomar.</p>
-      <p type="listitem">Hormonet i akut-p-piller kan påverka en så att man tillfälligt får till exempel mellanblödningar, huvudvärk eller illamående.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>778</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Sex/Skydd-mot-graviditet/Akut-p-piller</origFileName><parallel_text xml:lang="fin" location="jalkiehkaisypilleri.html"/><parallel_text xml:lang="fit" location="akyytti-p-pilleri.html"/><parallel_text xml:lang="sma" location="akute-p-pillere.html"/><parallel_text xml:lang="sme" location="fahkkatla-p-pillar.html"/><parallel_text xml:lang="smj" location="hahkka-p-tablahtta.html"/><parallel_text location="kris-p-drabb.html" xml:lang="rmu"/><parallel_text location="akutno-p-drab.html" xml:lang="rmy-rka"/><parallel_text location="akutno-p-piller-preventivno-tabletka.html" xml:lang="rmy-rlo"/><parallel_text location="sigutno-p-pilleri-akut-p-pilleri.html" xml:lang="rmf"/><parallel_text location="akutno-pipula.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Akut-p-piller</p>
+<p type="title">Akut-p-piller</p>
+<p>Akut-p-piller är en tablett som en tjej kan ta efter ett oskyddat samlag för att minska risken att bli gravid. Ju tidigare man tar tabletten desto mindre risk är det att man blir gravid . Man kan använda akut-p-piller om man glömt att skydda sig eller det skydd man använde inte funkade.</p>
+<p>» Texten finns på de nationella minoritetsspråken</p>
+<p>Akut-p-piller är ett sätt att försöka förhindra graviditet om man av någon anledning haft sex utan att använda skydd.</p>
+<p>Man bör också ta ett akut-p-piller om det finns en risk för att det skydd man använde inte funkade, till exempel om kondomen sprack eller om man kräkts upp sitt p-piller.</p>
+<p>Tabletten som man tar innehåller ett hormon som gör att man inte får någon ägglossning eller att ägglossningen skjuts fram. Akut-p-piller avbryter alltså inte en graviditet och är därför inte samma sak som en abort eller ett så kallat abortpiller.</p>
+<p>Akut-p-piller ska bara användas som en nödlösning och inte som ett regelbundet skydd mot graviditet.</p>
+<p type="title">Hur använder man akut-p-piller?</p>
+<p>Ibland kallas akut-p-piller för dagen-efter-piller. Det är lite missvisande eftersom man inte måste ta tabletten dagen efter samlaget. Men ju tidigare man tar tabletten desto mindre risk är det att man blir gravid.</p>
+<p>Det finns två sorters akut-p-piller. En sort som man kan ta upp till tre dygn efter ett samlag. Det finns också ett akut p-piller som man kan ta upp till fem dygn efter samlag. Den sorten kan man bara få på en ungdomsmottagning eller på recept av barnmorska eller läkare. Om man behöver ett sånt recept kan man kontakta en ungdomsmottagning, sex- och samlevnadsmottagning, vårdcentral, barnmorskemottagning eller kvinnoklinik. Oftast betalar man för det. På en del mottagningar kan man få det utan att det kostar något.</p>
+<p>När man tagit ett akut-p-piller är det vanligt att mensen kommer antingen lite tidigare eller senare än väntat. Det är också vanligt med mellanblödningar. Oavsett om man får sin mens som väntat eller inte ska man alltid göra ett graviditetstest efter tre till fyra veckor för att vara säker på att man inte blivit gravid.</p>
+<p>Efter att man tagit ett akut-piller kan man må illa, få huvudvärk och ont i magen. Det är inte farligt och brukar gå över efter något dygn.</p>
+<p type="title">Var kan man få tag på akut-p-piller?</p>
+<p>Man kan få hjälp med akut-p-piller på de flesta ungdomsmottagningar, hud- och könsmottagningar och vårdcentraler. Man kan även få akut-p-piller på en del barnmorskemottagningar och kvinnokliniker. Det finns också en sorts akut p-piller att köpa på ett apotek utan recept.</p>
+<p>Om man går till exempelvis en ungdomsmottagning för att få akut-p-piller kan man även få en ny tid för att göra graviditetstest och, om man vill, ett klamydiatest. Man kan också få råd om hur man kan skydda sig mot graviditet och könssjukdomar framöver om man vill ha det.</p>
+<p type="title">Vad kostar akut-p-piller?</p>
+<p>Om man köper akut-p-piller receptfritt på ett apotek får man betala för det. Hur mycket det kostar kan variera beroende på vilket apotek man går till. På ungdomsmottagningen får man tabletten kostnadsfritt.</p>
+<p type="title">Hur säkert är akut p-piller?</p>
+<p>Risken att akut-p-pillret inte funkar, det vill säga att man blir gravid, ökar ju längre tid efter samlaget man tar pillret.</p>
+<p>Om man kräks inom tre timmar efter att man tagit tabletten eller om man har diarré är det inte säkert att kroppen hinner ta upp hormonet. Därför måste man ta en ny tablett så fort som möjligt, annars finns det risk att man blir gravid.</p>
+<p>Vad som gäller för just det akut-p-piller man tar kan man läsa i bipacksedeln. Bipacksedeln är den lapp som ligger i förpackningen när man får eller köper sitt akut-p-piller. Man kan alltid fråga en barnmorska på till exempel en ungdomsmottagning eller hud- och könsmottagning om man känner sig osäker.</p>
+<p>För att vara säker på att man inte blivit gravid bör man göra ett graviditetstest ungefär tre veckor efter att man tagit tabletten.</p>
+<p type="title">Hur ofta kan man ta akut-p-piller?</p>
+<p>Det finns ingen gräns för hur många gånger per menscykel man kan ta ett akut-p-piller. Har man haft oskyddat samlag och inte vill bli gravid är det därför bättre att ta ett akut-p-piller flera gånger under samma menscykel än att låta bli, även om risken för mellanblödningar ökar.</p>
+<p>Behöver man ta akut-p-piller ofta bör man tänka över hur man skyddar sig vid samlag och om man kan behöva ändra på det. För att få hjälp med det kan man kontakta en ungdomsmottagning, barnmorskemottagning eller hud- och könsmottagning.</p>
+<p type="title">Fördelar</p>
+<list><p type="listitem">Bra nödlösning för att minska risken för graviditet om man haft samlag utan att skydda sig.</p>
+</list><p type="title">Nackdelar</p>
+<list><p type="listitem">Akut-p-piller skyddar inte mot könssjukdomar.</p>
+<p type="listitem">Hormonet i akut-p-piller kan påverka en så att man tillfälligt får till exempel mellanblödningar, huvudvärk eller illamående.</p>
+</list></body></document>

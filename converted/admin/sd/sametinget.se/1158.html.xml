@@ -1,36 +1,12 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>208</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1158</origFileName>
-    <parallel_text xml:lang="sme" location="3298.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kulturbidrag - Sametinget</p>
-    <p>Det finns möjligheter att söka pengar från kulturrådets börs. Foto: Carl-Johan Utsi.</p>
-    <p type="title">Kulturbidrag</p>
-    <p>Här finns information om hur du söker kulturbidrag från Sametingets kulturnämnd.</p>
-    <p>Sametinget beslutar om fördelningen av statens bidrag till samisk kultur och samiska organisationer enligt bestämmelserna i Sametingslagen (1992:1433) och det kulturpolitiska handlingsprogrammet. Målet är att bidra till ett starkt och mångfaldigt samiskt konst- och kulturliv. Bidraget fördelas till:</p>
-    <list>
-      <p type="listitem">Verksamhetsbidrag (samiska organisationer, föreningar och institutioner)</p>
-      <p type="listitem">Projektbidrag (samisk kultur)</p>
-    </list>
-    <p><em type="italic">Regler och anvisningar </em>Till stöd för och styrning av Sametingets beslut om fördelning av statens bidrag och av medel ur Samefonden finns Regler och anvisningar för Sametingets kulturnämnds bidragsgivning , <em type="italic">Arbetsordning för Sametingets styrelse och nämnder </em>samt Sametingets kulturpolitiska handlingsprogram. </p>
-    <p><em type="italic">Kan jag skicka ansökan elektroniskt? </em>Det går bra att skicka in en ansökan elektroniskt. Använd då e-postadress: <em type="italic">kansli@sametinget.se </em>för att ansökan säkert ska bli registrerad. En elektronisk ansökan måste kompletteras med en underskriven ansökan per post. </p>
-    <p><em type="italic">Uppföljning </em>Sametinget kan varje år göra en fördjupad uppföljning av ett antal verksamheter och projekt. Sametinget kan vilja ta del av de handlingar som behövs för att kunna granska hur Sametingets bidrag har använts. </p>
-    <p><em type="italic">Frågor? </em>Om du har några frågor om kulturbidrag, hur du ansöker, bedömningsgrunder etc. Vänd dig till kulturhandläggarna på telefonnummer 0980-780 57 eller 0980-780 48. </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>208</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1158</origFileName><parallel_text xml:lang="sme" location="3298.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kulturbidrag - Sametinget</p>
+<p>Det finns möjligheter att söka pengar från kulturrådets börs. Foto: Carl-Johan Utsi.</p>
+<p type="title">Kulturbidrag</p>
+<p>Här finns information om hur du söker kulturbidrag från Sametingets kulturnämnd.</p>
+<p>Sametinget beslutar om fördelningen av statens bidrag till samisk kultur och samiska organisationer enligt bestämmelserna i Sametingslagen (1992:1433) och det kulturpolitiska handlingsprogrammet. Målet är att bidra till ett starkt och mångfaldigt samiskt konst- och kulturliv. Bidraget fördelas till:</p>
+<list><p type="listitem">Verksamhetsbidrag (samiska organisationer, föreningar och institutioner)</p>
+<p type="listitem">Projektbidrag (samisk kultur)</p>
+</list><p><em type="italic">Regler och anvisningar </em>Till stöd för och styrning av Sametingets beslut om fördelning av statens bidrag och av medel ur Samefonden finns Regler och anvisningar för Sametingets kulturnämnds bidragsgivning , <em type="italic">Arbetsordning för Sametingets styrelse och nämnder </em>samt Sametingets kulturpolitiska handlingsprogram. </p>
+<p><em type="italic">Kan jag skicka ansökan elektroniskt? </em>Det går bra att skicka in en ansökan elektroniskt. Använd då e-postadress: <em type="italic">kansli@sametinget.se </em>för att ansökan säkert ska bli registrerad. En elektronisk ansökan måste kompletteras med en underskriven ansökan per post. </p>
+<p><em type="italic">Uppföljning </em>Sametinget kan varje år göra en fördjupad uppföljning av ett antal verksamheter och projekt. Sametinget kan vilja ta del av de handlingar som behövs för att kunna granska hur Sametingets bidrag har använts. </p>
+<p><em type="italic">Frågor? </em>Om du har några frågor om kulturbidrag, hur du ansöker, bedömningsgrunder etc. Vänd dig till kulturhandläggarna på telefonnummer 0980-780 57 eller 0980-780 48. </p>
+</body></document>

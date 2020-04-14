@@ -1,81 +1,47 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Orion, Krokom - Krokoms kommun</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>427</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.krokom.se/omsorgochhjalp/aldre/vilketstodkanmanfa/boendeforaldre/orionkrokom.4267.html</origFileName>
-    <parallel_text xml:lang="sma" location="orionkrokome.6887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="ron">Translate site</p>
-    <list>
-      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
-      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
-      <p type="listitem" xml:lang="eng">Press</p>
-      <p type="listitem" xml:lang="vep">A-Ö</p>
-      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
-      <p type="listitem" xml:lang="vep">Intranät</p>
-      <p type="listitem">Lyssna</p>
-      <p type="listitem" xml:lang="sms">Lättläst</p>
-      <p type="listitem" xml:lang="ron">Translate</p>
-    </list>
-    <p xml:lang="isl">Sök</p>
-    <list>
-      <p type="listitem">Kommun och politik</p>
-      <p type="listitem">Utbildning och barnomsorg</p>
-      <p type="listitem">Bygga, bo och miljö</p>
-      <p type="listitem">Omsorg och hjälp</p>
-      <p type="listitem">Näringsliv och arbete</p>
-      <p type="listitem">Kultur, fritid och turism</p>
-      <p type="listitem">Trafik och infrastruktur</p>
-    </list>
-    <p>Mina favoriter</p>
-    <p type="title" xml:lang="nob">Orion, Krokom</p>
-    <p>
-      <em type="italic">Orion ligger i centrala Krokom, cirka 25 km väster om Östersund och har tjugo lägenheter med eget kök och hygienrum/toalett i varierande storlekar. </em>
-    </p>
-    <p>Från Orion har man utsikt över centrum och över Indalsälvens strömmande vatten där änder och svanar vistas året runt. Här finns nära tillgång till affärer, banker, hälsocentral, folktandvård, apotek, frisörer, fotvård, café och andra former av serviceinriktningar. Utanför samlingslokalen finns vår nya altan där de boende har möjlighet att umgås under trivsamma former. Här finns även tillgång till grill.</p>
-    <p><em type="italic">Aktiviteter </em>I Karlavagnen, vår samlingssal, erbjuds olika verksamheter. Det är bl.a. bingo, underhållning, pysseldagar, gudstjänster, filmvisning, midsommarfest, julfest, grillfest mm. Vi har även gymnastik 1 dag i veckan. Tidningsläsning och kaffestunder finns också på programmet. Karlavagnen är öppen alla dagar i veckan. </p>
-    <p><em type="italic">Kvalitetsarbete </em>Våra vård- och omsorgsinsatser utformas i en individuell genomförandeplan tillsammans med den boende och/eller närstående/god man samt personal. Vårdlagsträffar genomförs varje vecka där personal tillsammans med sjuksköterska och arbetsledaren följer upp beslutade insatser. </p>
-    <p>Anhörigträffar anordnas en gång per år och uppföljning av vårt kvalitetsarbete sker genom en enkät en gång per år. Varje boende har en kontaktperson som är vårdtagarens förlängda arm. Kontaktpersonen håller kontakt och informerar närstående/gode man. Det är även kontaktpersonen på avdelningen som du som är anhörig, i första hand kan kontakta om du undrar över något.</p>
-    <p xml:lang="nno"><em type="italic">Kost och måltider </em>All mat tillagas i verksamhetens kök. Mat levereras ut i matvagnar till Orion. Frukost, mellanmål och kvällsmål serveras i lägenheten. Lunch och middag serveras i samlingslokalen Karlavagnen. </p>
-    <p>Frukost 08.00-09.00 Lunch 12.00 Middag 16.30 Kvällsmål 20.00</p>
-    <p>Mellanmål serveras för- och eftermiddag.</p>
-    <p type="title">Hälso- och sjukvård</p>
-    <p>Sjuksköterska finns varje dag mellan klockan 07.15 och 16.15. Mellan 16.15 och 07.15 finns en distriktssköterska att kontakta via telefon. Läkartider finns varje vecka bokade via Hälsocentralen. Inom verksamheten finns sjukgymnast och arbetsterapeut som deltar i vårdlagsträffar och vid behov i rehabiliteringsarbetet.</p>
-    <p xml:lang="nob">Uppdaterad 2017-05-09 av Ulla Eriksson</p>
-    <p xml:lang="sma">Åarjelsaemien gïele</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Facebook</p>
-      <p type="listitem" xml:lang="nno">Twitter</p>
-      <p type="listitem" xml:lang="eng">E-post</p>
-    </list>
-    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
-    <p xml:lang="eng">Kontaktinformation</p>
-    <list>
-      <p type="listitem" xml:lang="eng">Maud Ericsson</p>
-      <p type="listitem" xml:lang="deu">Enhetschef 0640 162 69</p>
-      <p type="listitem">Sköterskeexpeditionen 0640 165 15</p>
-      <p type="listitem" xml:lang="eng">Orion 0640 165 09</p>
-      <p type="listitem" xml:lang="deu">Postadress: Genvägen 9 835 31 KROKOM</p>
-      <p type="listitem">Hitta till Orion på vår webbkarta</p>
-    </list>
-    <p>Läs mer</p>
-    <list>
-      <p type="listitem">Matsedel för äldreboenden</p>
-    </list>
-    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Orion, Krokom - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>427</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/omsorgochhjalp/aldre/vilketstodkanmanfa/boendeforaldre/orionkrokom.4267.html</origFileName><parallel_text xml:lang="sma" location="orionkrokome.6887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="ron">Translate site</p>
+<list><p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+<p type="listitem" xml:lang="nob">Om webbplatsen</p>
+<p type="listitem" xml:lang="eng">Press</p>
+<p type="listitem" xml:lang="est">A-Ö</p>
+<p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+<p type="listitem" xml:lang="vep">Intranät</p>
+<p type="listitem">Lyssna</p>
+<p type="listitem" xml:lang="sms">Lättläst</p>
+<p type="listitem" xml:lang="ron">Translate</p>
+</list><p xml:lang="isl">Sök</p>
+<list><p type="listitem">Kommun och politik</p>
+<p type="listitem">Utbildning och barnomsorg</p>
+<p type="listitem">Bygga, bo och miljö</p>
+<p type="listitem">Omsorg och hjälp</p>
+<p type="listitem">Näringsliv och arbete</p>
+<p type="listitem">Kultur, fritid och turism</p>
+<p type="listitem">Trafik och infrastruktur</p>
+</list><p>Mina favoriter</p>
+<p type="title" xml:lang="nob">Orion, Krokom</p>
+<p><em type="italic">Orion ligger i centrala Krokom, cirka 25 km väster om Östersund och har tjugo lägenheter med eget kök och hygienrum/toalett i varierande storlekar. </em></p>
+<p>Från Orion har man utsikt över centrum och över Indalsälvens strömmande vatten där änder och svanar vistas året runt. Här finns nära tillgång till affärer, banker, hälsocentral, folktandvård, apotek, frisörer, fotvård, café och andra former av serviceinriktningar. Utanför samlingslokalen finns vår nya altan där de boende har möjlighet att umgås under trivsamma former. Här finns även tillgång till grill.</p>
+<p><em type="italic">Aktiviteter </em>I Karlavagnen, vår samlingssal, erbjuds olika verksamheter. Det är bl.a. bingo, underhållning, pysseldagar, gudstjänster, filmvisning, midsommarfest, julfest, grillfest mm. Vi har även gymnastik 1 dag i veckan. Tidningsläsning och kaffestunder finns också på programmet. Karlavagnen är öppen alla dagar i veckan. </p>
+<p><em type="italic">Kvalitetsarbete </em>Våra vård- och omsorgsinsatser utformas i en individuell genomförandeplan tillsammans med den boende och/eller närstående/god man samt personal. Vårdlagsträffar genomförs varje vecka där personal tillsammans med sjuksköterska och arbetsledaren följer upp beslutade insatser. </p>
+<p>Anhörigträffar anordnas en gång per år och uppföljning av vårt kvalitetsarbete sker genom en enkät en gång per år. Varje boende har en kontaktperson som är vårdtagarens förlängda arm. Kontaktpersonen håller kontakt och informerar närstående/gode man. Det är även kontaktpersonen på avdelningen som du som är anhörig, i första hand kan kontakta om du undrar över något.</p>
+<p><em type="italic">Kost och måltider </em>All mat tillagas i verksamhetens kök. Mat levereras ut i matvagnar till Orion. Frukost, mellanmål och kvällsmål serveras i lägenheten. Lunch och middag serveras i samlingslokalen Karlavagnen. </p>
+<p xml:lang="deu">Frukost 08.00-09.00 Lunch 12.00 Middag 16.30 Kvällsmål 20.00</p>
+<p>Mellanmål serveras för- och eftermiddag.</p>
+<p type="title">Hälso- och sjukvård</p>
+<p>Sjuksköterska finns varje dag mellan klockan 07.15 och 16.15. Mellan 16.15 och 07.15 finns en distriktssköterska att kontakta via telefon. Läkartider finns varje vecka bokade via Hälsocentralen. Inom verksamheten finns sjukgymnast och arbetsterapeut som deltar i vårdlagsträffar och vid behov i rehabiliteringsarbetet.</p>
+<p xml:lang="nob">Uppdaterad 2017-05-09 av Ulla Eriksson</p>
+<p xml:lang="sma">Åarjelsaemien gïele</p>
+<list><p type="listitem" xml:lang="nno">Facebook</p>
+<p type="listitem" xml:lang="nno">Twitter</p>
+<p type="listitem" xml:lang="eng">E-post</p>
+</list><p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+<p xml:lang="eng">Kontaktinformation</p>
+<list><p type="listitem" xml:lang="eng">Maud Ericsson</p>
+<p type="listitem" xml:lang="deu">Enhetschef 0640 162 69</p>
+<p type="listitem">Sköterskeexpeditionen 0640 165 15</p>
+<p type="listitem" xml:lang="eng">Orion 0640 165 09</p>
+<p type="listitem" xml:lang="deu">Postadress: Genvägen 9 835 31 KROKOM</p>
+<p type="listitem">Hitta till Orion på vår webbkarta</p>
+</list><p>Läs mer</p>
+<list><p type="listitem">Matsedel för äldreboenden</p>
+</list><p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+</body></document>

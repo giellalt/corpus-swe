@@ -1,46 +1,14 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Boazodoallu-Rennäring |  Samernas Utbildningscentrum</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>326</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.samernas.se/utbildningar/boazodoallu-rennaring</origFileName>
-    <parallel_text xml:lang="sme" location="oahpahusat_doaimmahat-boazodoallu-1-jagi_lang_sm4.html"/>
-    <parallel_text xml:lang="smj" location="799-2_709-2_lang_ls4.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Boazodoallu/Boatsojäládus/Båatsoejieleme –  Rennäringslinje 1 år</p>
-    <p>Utbildningen vänder sig till Dig som vill satsa på eget företag inom rennäring. Utbildningen stärker dels de traditionella kunskaperna dels dina kunskaper inom modernt småföretagande.</p>
-    <p>Rennäringslinjen är omarbetad i samråd med företrädare för rennäringsorganisationerna, SLU och Skogsstyrelsen. Utbildningen är totalt på 8-10 veckor. Det kommer att bli möjligt att gå alla blocken och då blir det en sammanhållen utbildning på 50% studiefart med möjlighet att få betyg i vissa ämnen. Det kommer även att bli möjligt att kunna läsa blocken fristående.</p>
-    <p><em type="italic">Prel upplägg av utbildningen: </em>- Ekonomi &amp; Administration 2 veckor (oktober 2015) – Slakt &amp; styckning 1 vecka (januari 2016) – Rennäringskunskap 2 veckor (februari 2016) – Samhällskunskap &amp; arbetsmiljö 2 veckor (mars 2016) – Skogsbruket &amp; Rennäringen samt Samiska Språket – renskötseltermer 1 vecka (maj 2016) – Praktisk kurs (anordnas ev vid behov, tex Gröna kortet för röjsåg, motorsågskort A-B) (juni 2015) </p>
-    <p>Planjan2015 (prel upplägg i pdf-format)</p>
-    <p>
-      <em type="italic">Blocken i ekonomi (2 v), rennäringskunskap (2 v) samt samhällskunskap och arbetsmiljö motsvarar dagens kunskapskrav för Sametingets startstöd. Vid anmälan till renäringsutbildningen skall du även ha förslag på en mentor från den egna samebyn alt. från någon annan sameby </em>
-    </p>
-    <p>För med information kontakta rektor eller Per-Stefan Labba (kursansvarig för rennäringslinjen). (+46971-44 004).</p>
-    <p><em type="italic">Antagningsvillkor </em>Du bör vara minst 18 år. Antal platser på rennäringslinjen är 15 med möjlighet att ta in fler deltagare på de olika blocken. </p>
-    <p><em type="italic">Kursavgift </em>Se under länken <span type="quote">”Om skolan – Att studera på Samernas”</span>. Läroböcker, studie- och slöjdmaterial bekostas av eleven. Ev. praktiska kurser såsom Gröna kortet för röjsåg kan bli delvis självfinansierade, dvs. att eleven får stå för vissa kostnader själv. </p>
-    <p><em type="italic">Övrigt </em>Du som läser alla blocken i form av rennäringslinje måste ha tillgång till egen pc med Internetanslutning. Kombinera gärna rennäringsutbildningen med att läsa samiska kvartsfart. Se vidare under länken Giella – Samiska språkstudier. </p>
-    <p><em type="italic">Ohcan/Ansökan </em>Oza – maŋemusat miessemánu 30 beaivvi! </p>
-    <p>Sök senast 30 maj!</p>
-    <p>Webbansökan (rahppo njukčamánu 23 beaivvi/öppnas 23 mars)</p>
-    <p type="title">Språkstudier</p>
-    <p type="title">Slöjdlinjen</p>
-    <p type="title">Rennäringslinje</p>
-    <p type="title">Samisk Mat</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Boazodoallu-Rennäring |  Samernas Utbildningscentrum</title><genre code="facta"/><author><unknown/></author><wordcount>321</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.samernas.se/utbildningar/boazodoallu-rennaring</origFileName><parallel_text xml:lang="sme" location="oahpahusat_doaimmahat-boazodoallu-1-jagi_lang_sm4.html"/><parallel_text xml:lang="smj" location="799-2_709-2_lang_ls4.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Boazodoallu/Boatsojäládus/Båatsoejieleme –  Rennäringslinje 1 år</p>
+<p>Utbildningen vänder sig till Dig som vill satsa på eget företag inom rennäring. Utbildningen stärker dels de traditionella kunskaperna dels dina kunskaper inom modernt småföretagande.</p>
+<p>Rennäringslinjen är omarbetad i samråd med företrädare för rennäringsorganisationerna, SLU och Skogsstyrelsen. Utbildningen är totalt på 8-10 veckor. Det kommer att bli möjligt att gå alla blocken och då blir det en sammanhållen utbildning på 50% studiefart med möjlighet att få betyg i vissa ämnen. Det kommer även att bli möjligt att kunna läsa blocken fristående.</p>
+<p><em type="italic">Prel upplägg av utbildningen: </em>- Ekonomi &amp; Administration 2 veckor (oktober 2015) – Slakt &amp; styckning 1 vecka (januari 2016) – Rennäringskunskap 2 veckor (februari 2016) – Samhällskunskap &amp; arbetsmiljö 2 veckor (mars 2016) – Skogsbruket &amp; Rennäringen samt Samiska Språket – renskötseltermer 1 vecka (maj 2016) – Praktisk kurs (anordnas ev vid behov, tex Gröna kortet för röjsåg, motorsågskort A-B) (juni 2015) </p>
+<p>Planjan2015 (prel upplägg i pdf-format)</p>
+<p><em type="italic">Blocken i ekonomi (2 v), rennäringskunskap (2 v) samt samhällskunskap och arbetsmiljö motsvarar dagens kunskapskrav för Sametingets startstöd. Vid anmälan till renäringsutbildningen skall du även ha förslag på en mentor från den egna samebyn alt. från någon annan sameby </em></p>
+<p>För med information kontakta rektor eller Per-Stefan Labba (kursansvarig för rennäringslinjen). (+46971-44 004).</p>
+<p><em type="italic">Antagningsvillkor </em>Du bör vara minst 18 år. Antal platser på rennäringslinjen är 15 med möjlighet att ta in fler deltagare på de olika blocken. </p>
+<p><em type="italic">Kursavgift </em>Se under länken <span type="quote">”Om skolan – Att studera på Samernas”</span>. Läroböcker, studie- och slöjdmaterial bekostas av eleven. Ev. praktiska kurser såsom Gröna kortet för röjsåg kan bli delvis självfinansierade, dvs. att eleven får stå för vissa kostnader själv. </p>
+<p><em type="italic">Övrigt </em>Du som läser alla blocken i form av rennäringslinje måste ha tillgång till egen pc med Internetanslutning. Kombinera gärna rennäringsutbildningen med att läsa samiska kvartsfart. Se vidare under länken Giella – Samiska språkstudier. </p>
+<p><em type="italic">Ohcan/Ansökan </em>Oza – maŋemusat miessemánu 30 beaivvi! </p>
+<p>Sök senast 30 maj!</p>
+<p>Webbansökan (rahppo njukčamánu 23 beaivvi/öppnas 23 mars)</p>
+</body></document>

@@ -1,28 +1,6 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>252</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1079</origFileName>
-    <parallel_text xml:lang="sme" location="2895.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sametingets språkarbete - Sametinget</p>
-    <p>Marie Enoksson.</p>
-    <p type="title">Sametingets språkarbete</p>
-    <p>En av Sametingets lagstadgade uppgifter är att leda det samiska språkarbetet. Arbetet är organiserat i en språkavdelning för rådgivning och expertkunskap och i Samiskt språkcentrum med ansvar för utåtriktade aktiviteter och språkrevitalisering.</p>
-    <p>Språkavdelningens arbete  Språkavdelningen handlägger språkfrågor och besvarar frågor från allmänheten. Information om språklagen och andra språkfrågor ges kontinuerligt. I arbetet ingår också rådgivning, viss översättning, korrekturläsning, möten, viss faktasökning och forskning samt granskning och revidering av ortnamn. Sametinget kan förmedla uppgifter om tolkar och översättare för myndigheter och andra vid behov. Gemensamt språkarbete i Norden  Sedan 1974 har det funnits en samisk språknämnd (SGL) där alla samiska språkvarieteter varit representerade. SGL lades ner 2011 eftersom den inte klarade av att möta dagens behov och utmaningar, mest på grund av för lite resurser. Under 2013-2014 bedrev de tre Sametingen i Norden ett gemensamt projekt för att omorganisera språksamarbetet, Sámi Giellagáldu-projektet. Projekttiden har tagit slut och just nu (2014) finns inget samnordiskt språkorgan. Ortnamnsrådet  Sametinget är representerat i Ortnamnsrådet. En arbetsgrupp bildades 2006 av Sametinget, SOFI och DAUM med uppgift att dra upp riktlinjer för samverkan kring det samiska ortnamnsarbetet, bestämma arbetsgång och upparbeta regelverk för granskningen av samiska ortnamn. Minoritetsspråkslagen  Samiska språket har fått ett officiellt erkännande i de nordiska länderna genom att dessa infört samiska språklagar. Den 1 april 2000 blev samiskan (alla varieteter) erkänd som officiellt minoritetsspråk i Sverige. En ny lag om nationella minoriteter och minoritetsspråk gäller från 1 januari 2010. Förvaltningsområdet för samiska omfattar 19 kommuner i norra Sverige.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>252</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1079</origFileName><parallel_text xml:lang="sme" location="2895.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sametingets språkarbete - Sametinget</p>
+<p>Marie Enoksson.</p>
+<p type="title">Sametingets språkarbete</p>
+<p>En av Sametingets lagstadgade uppgifter är att leda det samiska språkarbetet. Arbetet är organiserat i en språkavdelning för rådgivning och expertkunskap och i Samiskt språkcentrum med ansvar för utåtriktade aktiviteter och språkrevitalisering.</p>
+<p>Språkavdelningens arbete  Språkavdelningen handlägger språkfrågor och besvarar frågor från allmänheten. Information om språklagen och andra språkfrågor ges kontinuerligt. I arbetet ingår också rådgivning, viss översättning, korrekturläsning, möten, viss faktasökning och forskning samt granskning och revidering av ortnamn. Sametinget kan förmedla uppgifter om tolkar och översättare för myndigheter och andra vid behov. Gemensamt språkarbete i Norden  Sedan 1974 har det funnits en samisk språknämnd (SGL) där alla samiska språkvarieteter varit representerade. SGL lades ner 2011 eftersom den inte klarade av att möta dagens behov och utmaningar, mest på grund av för lite resurser. Under 2013-2014 bedrev de tre Sametingen i Norden ett gemensamt projekt för att omorganisera språksamarbetet, Sámi Giellagáldu-projektet. Projekttiden har tagit slut och just nu (2014) finns inget samnordiskt språkorgan. Ortnamnsrådet  Sametinget är representerat i Ortnamnsrådet. En arbetsgrupp bildades 2006 av Sametinget, SOFI och DAUM med uppgift att dra upp riktlinjer för samverkan kring det samiska ortnamnsarbetet, bestämma arbetsgång och upparbeta regelverk för granskningen av samiska ortnamn. Minoritetsspråkslagen  Samiska språket har fått ett officiellt erkännande i de nordiska länderna genom att dessa infört samiska språklagar. Den 1 april 2000 blev samiskan (alla varieteter) erkänd som officiellt minoritetsspråk i Sverige. En ny lag om nationella minoriteter och minoritetsspråk gäller från 1 januari 2010. Förvaltningsområdet för samiska omfattar 19 kommuner i norra Sverige.</p>
+</body></document>

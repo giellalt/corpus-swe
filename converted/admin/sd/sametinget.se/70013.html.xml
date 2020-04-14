@@ -1,64 +1,29 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>553</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/70013</origFileName>
-    <parallel_text xml:lang="sme" location="71253.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Nekrobacillos (munröta/fotröta) - Sametinget</p>
-    <p type="title">Nekrobacillos</p>
-    <p>Sjukdomen nekrobacillos kan drabba renar i hägn och ge svåra infektioner bland annat i mun och inre organ. Ett annat namn för sjukdomen är munröta och fotröta. Vid misstanke om sjukdomen ska veterinär kontaktas och djuret isoleras för att minska smittspridning.</p>
-    <p><em type="italic">Nekrobacillos förekommer hos renar </em>och andra klövdjur som fotröta (samiska namn: <em type="italic">slubbo, sljubbo, glubbie </em>m.fl.) och munröta ( <em type="italic">njalbmevikke </em>), men angriper också inre organ, exempelvis förmagar och lever. </p>
-    <p><em type="italic">Det är bakterien </em><em type="italic">Fusobacterium necrophorum </em>som orsakar infektionen. Bakterien finns normalt i förmagen hos friska renar. Renar som äter pellets eller annan föda med mycket stärkelse har mer av dessa bakterier i magen än renar som går på bete. </p>
-    <p><em type="italic">När renar hålls tätt </em>ökar risken för smitta. Stora mängder bakterier utsöndras med avföring och saliv och finns då på marken, i foderkrubbor och i vattensamlingar där den kan överleva lång tid och spridas vidare. </p>
-    <p><em type="italic">Bakterien angriper inte frisk hud </em>och slemhinnor, men kan ge infektioner om det finns små skador i ytan, t ex sår orsakade av yttre skada eller virus. Typiskt ses infektionen i tungan eller kinden, där skador från vassa foderpartiklar eller annat har bildat inkörsporten för bakterien. </p>
-    <p><em type="italic">Renkalvar är extra känsliga </em>för infektioner i munnen under första veckorna efter födseln eftersom det bildas tillfälliga sår i tandköttet när tänderna bryter fram. </p>
-    <p><em type="italic">Förr när man mjölkade </em>renar och hade dem i små hägn på sommaren var det ganska vanligt med nekrobacillos. </p>
-    <p><em type="italic">Det verkar som </em>om renar som har haft nekrobacillos och blivit bra ändå kan ha infektionen kvar i kroppen. Sjukdomen kan sannolikt komma tillbaka när renen utsätts för påfrestningar och stress (svält, foderbyte mm). </p>
-    <p>
-      <em type="italic">Riskfaktorer: </em>
-    </p>
-    <list>
-      <p type="listitem">Utfodring med pellets</p>
-      <p type="listitem">Många renar på liten yta</p>
-      <p type="listitem">Dålig hygien (vid utfodring, t ex skitigt kring foderkrubbor och i hagen)</p>
-      <p type="listitem">Brist på rent vatten /ren snö</p>
-      <p type="listitem">Värme</p>
-      <p type="listitem">Stress</p>
-      <p type="listitem">Virusinfektion (t.ex. herpesvirus)</p>
-    </list>
-    <p>
-      <em type="italic">Tecken på nekrobaccillos? </em>
-    </p>
-    <list>
-      <p type="listitem">Hälta vid fotröta, öppna fula hudsår mellan klövarna.</p>
-      <p type="listitem">Saliv som droppar från mun eller kind om det har blivit ett hål i kinden pga. infektionen. Starkt illaluktande mun. Sår med fula, ofta gulvita till brunsvarta, inflammationer i munhålan (tandkött, kind, gom eller tunga). Förtjockning av underkäkens ben när inflammationen gått ner i tandrötterna.</p>
-      <p type="listitem">Vid bukhinneinflammation när skadorna orsakat hål i förmagarna: Renen ser dålig ut och står med krum rygg (tecken på buksmärtor) och ligger ofta kvar när övriga renar rör sig.</p>
-    </list>
-    <p><em type="italic">Gör så här om du misstänker nekrobacillos </em>: </p>
-    <list>
-      <p type="listitem">Isolera misstänkt sjuka renar från övriga renhjorden och antingen behandla eller avliva dem (beroende på hur långt det har gått) – både för renens egen skull och för att undvika risk för vidare smittspridning.</p>
-      <p type="listitem">Om du har sjuka renar eller renar med misstänkt nekrobacillos som har dött kontakta veterinär så att lämpliga prover kan tas för att fastställa smittan.</p>
-      <p type="listitem">Vid hantering av djur med infektioner ska man alltid hålla god hygien (använd handskar, tvätta händer och utrustning) för att inte sprida smittan vidare.</p>
-    </list>
-    <p><em type="italic">Kontakt </em>Vid misstänkt eller konstaterad nekrobacillos hos renar är du välkommen att ringa veterinär Ulrika Rockström på Svenska djurhälsovården (018-682888, ulrika.rockstrom@svdhv.org ), veterinär Erik Ågren, SVA (018-674000, erik.agren@sva.se ) eller professor Birgitta Åhman, SLU (018-672308, birgitta.ahman@slu.se ). </p>
-    <p>
-      <em type="italic">OBS! </em>
-      <em type="italic">Det går bra att vara anonym. Det som kommer till vår kännedom förs inte vidare så att det är möjligt att identifiera enskilda renägare eller samebyar om inte renägaren eller samebyn uttryckligen har godkänt detta. </em>
-    </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>553</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/70013</origFileName><parallel_text xml:lang="sme" location="71253.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Nekrobacillos (munröta/fotröta) - Sametinget</p>
+<p type="title">Nekrobacillos</p>
+<p>Sjukdomen nekrobacillos kan drabba renar i hägn och ge svåra infektioner bland annat i mun och inre organ. Ett annat namn för sjukdomen är munröta och fotröta. Vid misstanke om sjukdomen ska veterinär kontaktas och djuret isoleras för att minska smittspridning.</p>
+<p><em type="italic">Nekrobacillos förekommer hos renar </em>och andra klövdjur som fotröta (samiska namn: <em type="italic">slubbo, sljubbo, glubbie </em>m.fl.) och munröta ( <em type="italic">njalbmevikke </em>), men angriper också inre organ, exempelvis förmagar och lever. </p>
+<p><em type="italic">Det är bakterien </em><em type="italic">Fusobacterium necrophorum </em>som orsakar infektionen. Bakterien finns normalt i förmagen hos friska renar. Renar som äter pellets eller annan föda med mycket stärkelse har mer av dessa bakterier i magen än renar som går på bete. </p>
+<p><em type="italic">När renar hålls tätt </em>ökar risken för smitta. Stora mängder bakterier utsöndras med avföring och saliv och finns då på marken, i foderkrubbor och i vattensamlingar där den kan överleva lång tid och spridas vidare. </p>
+<p><em type="italic">Bakterien angriper inte frisk hud </em>och slemhinnor, men kan ge infektioner om det finns små skador i ytan, t ex sår orsakade av yttre skada eller virus. Typiskt ses infektionen i tungan eller kinden, där skador från vassa foderpartiklar eller annat har bildat inkörsporten för bakterien. </p>
+<p><em type="italic">Renkalvar är extra känsliga </em>för infektioner i munnen under första veckorna efter födseln eftersom det bildas tillfälliga sår i tandköttet när tänderna bryter fram. </p>
+<p><em type="italic">Förr när man mjölkade </em>renar och hade dem i små hägn på sommaren var det ganska vanligt med nekrobacillos. </p>
+<p><em type="italic">Det verkar som </em>om renar som har haft nekrobacillos och blivit bra ändå kan ha infektionen kvar i kroppen. Sjukdomen kan sannolikt komma tillbaka när renen utsätts för påfrestningar och stress (svält, foderbyte mm). </p>
+<p><em type="italic">Riskfaktorer: </em></p>
+<list><p type="listitem">Utfodring med pellets</p>
+<p type="listitem">Många renar på liten yta</p>
+<p type="listitem">Dålig hygien (vid utfodring, t ex skitigt kring foderkrubbor och i hagen)</p>
+<p type="listitem">Brist på rent vatten /ren snö</p>
+<p type="listitem">Värme</p>
+<p type="listitem">Stress</p>
+<p type="listitem">Virusinfektion (t.ex. herpesvirus)</p>
+</list><p><em type="italic">Tecken på nekrobaccillos? </em></p>
+<list><p type="listitem">Hälta vid fotröta, öppna fula hudsår mellan klövarna.</p>
+<p type="listitem">Saliv som droppar från mun eller kind om det har blivit ett hål i kinden pga. infektionen. Starkt illaluktande mun. Sår med fula, ofta gulvita till brunsvarta, inflammationer i munhålan (tandkött, kind, gom eller tunga). Förtjockning av underkäkens ben när inflammationen gått ner i tandrötterna.</p>
+<p type="listitem">Vid bukhinneinflammation när skadorna orsakat hål i förmagarna: Renen ser dålig ut och står med krum rygg (tecken på buksmärtor) och ligger ofta kvar när övriga renar rör sig.</p>
+</list><p><em type="italic">Gör så här om du misstänker nekrobacillos </em>: </p>
+<list><p type="listitem">Isolera misstänkt sjuka renar från övriga renhjorden och antingen behandla eller avliva dem (beroende på hur långt det har gått) – både för renens egen skull och för att undvika risk för vidare smittspridning.</p>
+<p type="listitem">Om du har sjuka renar eller renar med misstänkt nekrobacillos som har dött kontakta veterinär så att lämpliga prover kan tas för att fastställa smittan.</p>
+<p type="listitem">Vid hantering av djur med infektioner ska man alltid hålla god hygien (använd handskar, tvätta händer och utrustning) för att inte sprida smittan vidare.</p>
+</list><p><em type="italic">Kontakt </em>Vid misstänkt eller konstaterad nekrobacillos hos renar är du välkommen att ringa veterinär Ulrika Rockström på Svenska djurhälsovården (018-682888, ulrika.rockstrom@svdhv.org ), veterinär Erik Ågren, SVA (018-674000, erik.agren@sva.se ) eller professor Birgitta Åhman, SLU (018-672308, birgitta.ahman@slu.se ). </p>
+<p><em type="italic">OBS! </em><em type="italic">Det går bra att vara anonym. Det som kommer till vår kännedom förs inte vidare så att det är möjligt att identifiera enskilda renägare eller samebyar om inte renägaren eller samebyn uttryckligen har godkänt detta. </em></p>
+</body></document>

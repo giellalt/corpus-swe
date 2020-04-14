@@ -1,87 +1,60 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2013</year>
-    <wordcount>982</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.krokom.se/download/18.601b0a46143fe3c9a55277e/1490778277606/Vardighetsgaranti.pdf</origFileName>
-    <parallel_text xml:lang="sma" location="vardighetsgaranti_samiska.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Lokal värdighetsgaranti i Krokoms äldreomsorg</p>
-    <p>Den 1 januari 2014 införs lokala värdighetsgarantier i Krokoms kommun. Värdighetsgarantierna gäller för alla äldre (över 65 år) i kommunen som har insatser av hemtjänst eller med särskilt boende, oavsett vem som utför insatserna.</p>
-    <p>Garantierna är framtagna av Krokoms kommuns socialnämnd efter dialog med kommuninvånare och personal. De ska beskriva hur kommunen arbetar utifrån innebörden i Socialstyrelsens nationella värdegrund för äldreomsorgen och vår egen värdegrund.</p>
-    <p>Självbestämmande</p>
-    <p>Att respekteras för den man är, att ha inflytande och delaktig-het i beslut och val som rör en själv och ens tillvaro.</p>
-    <p>Känsla av trygghet</p>
-    <p>Att tillvaron upplevs förutsägbar och säker. Vårt arbete ska präglas av tillgänglighet, kontinuitet och pålitlighet.</p>
-    <p>En meningsfull tillvaro</p>
-    <p>Att känna sig sedd, uppleva gemenskap och sammanhang, ha möjlighet att utvecklas och sträva mot självständighet.</p>
-    <p>Gott bemötandeVi ska möta andra med empati, lyhördhet, omtanke och</p>
-    <p>ödmjukhet.</p>
-    <p xml:lang="nno">God kvalitet</p>
-    <p>Verksamheten har individens bästa i fokus och arbetar systematiskt med förbättring.</p>
-    <p xml:lang="deu">November 2013</p>
-    <p>Vad är en lokal värdighetsgaranti?</p>
-    <p>Värdighetsgarantierna utgår från värdegrunden och ska tydliggöra service och kvalitet, de ska visa vad man kan förvänta sig av äldreomsorgen i kommunen.</p>
-    <p>Värdighetsgarantierna ska handla om något extra utöver det som den enskilde har rätt till i lag eller beviljats i biståndsbeslut och ska gälla någon form av mervärde utifrån den enskildes eget perspektiv.</p>
-    <p>Hur fungerar garantierna?</p>
-    <p>Personalen i hemtjänst och på särskilt boende ska ha kunskap om och jobba enligt de lokala värdighetsgarantierna.Äldre med insatser av hemtjänst eller särskilt boende och deras närstående ska känna till värdighetsgarantierna och veta hur man lämnar information om brister/klagomål när man upplever att en garanti inte levs upp till.</p>
-    <p type="listitem">•  Information om brister/klagomål när det gäller värdighetsgarantierna  lämnas direkt till socialförvaltningens kvalitetscontroller via telefon, mail, post eller hemsida. Blankett och kontaktinformation för rapportering finns längst bak i broschyren om värdighetsgarantier och på hemsidan.</p>
-    <p type="listitem">•  Rapporter om brister/klagomål ska behandlas som avvikelser och dokumenteras, utredas, åtgärdas och följas upp i det systematiska kvalitetsarbetet för att förhindra att begångna misstag upprepas. Information om dessa ärenden ska återkopplas till socialnämnden samt till den äldre/närstående som rapporterat brister/klagomål.</p>
-    <p type="listitem">•  Värdighetsgarantin kommer att följas upp och utvärderas årligen av socialnämnden och kunna utökas eller omprövas kontinuerligt.</p>
-    <p xml:lang="deu">November 2013</p>
-    <p><em type="bold">Självbestämmande</em>Att respekteras för den man är, att ha inflytande och delaktighet i beslut och val som rör en själv och ens tillvaro. </p>
-    <p><em type="bold">Värdighetsgaranti för delaktighet och inflytande i planering av vård och omsorgsinsatser</em> </p>
-    <p>Du får vara delaktig i biståndshandläggarens utredning inför beslut om insatser genom personlig kontakt innan det skriftliga beslutet.Utföraren (hemtjänst eller särskilt boende) erbjuder dig eller din företrädare samtal om genomförandet av dina beviljade insatser minst två gånger per år.</p>
-    <p><em type="bold">Garantin innebär att: </em> Dessa samtal ska handla om hur genomförandet av insatserna upplevs, att genomförandeplanen är aktuell och efterlevs och den enskildes upplevelse av välbefinnande. Om du vill inbjuds närstående att delta. </p>
-    <p>Samtal om genomförandeplanen hålls dessutom vid omfattande förändring av behov eller om du har synpunkter/önskemål att samtala om. En genomförandeplan upprättas inom tre veckor efter att dina insatser startar och uppdateras kontinuerligt så att den beskriver dina aktuella insatser, behov och önskemål.</p>
-    <p><em type="bold">Värdighetsgaranti för byte av beviljad insats</em> </p>
-    <p>Du kan välja att skifta en beslutad insats med en annan beslutad insats med samma omfattning inom samma vecka.</p>
-    <p><em type="bold">Garantin innebär att: </em>T ex skulle tisdagens planerade hjälp med dusch om vädret är fint kunna bytas mot torsdagens planerade promenad så att det iställetblir promenad på tisdag och dusch på torsdagen den veckan. </p>
-    <p xml:lang="deu">November 2013</p>
-    <p>
-      <em type="bold">Känsla av trygghet </em>
-    </p>
-    <p>Att tillvaron upplevs förutsägbar och säker. Vårt arbete ska präglas av tillgänglighet, kontinuitet och pålitlighet.</p>
-    <p><em type="bold">Värdighetsgaranti för tillgänglighet och kontinuitet genom kontaktmannaskap</em> </p>
-    <p>Du erbjuds en namngiven kontaktman som tar en första kontakt inom en vecka från att insatserna startar. Om du inte är nöjd med din kontaktman erbjuds du byta till en annan.</p>
-    <p><em type="bold">Garantin innebär att:</em> Kontaktmannen håller kontinuerlig kontakt med dig och enligt överenskommelse även med dina närstående. </p>
-    <p><em type="bold">Värdighetsgaranti för introduktion av ny personal och namnskylt/legitimation</em> </p>
-    <p>Ny personal får handledning/går bredvid minst en dag och en kväll inför anställning och att all personal bär namnskylt/legitimation.</p>
-    <p><em type="bold">Garantin innebär:</em>Handledning för ny personal avser personal som är ny på det aktuella området eller avdelningen. All personal som inte bär arbetskläder ska bära synlig legitimation som visar att man tillhör äldreomsorgen, annars skylt med information om namn, profession och arbetsplats. </p>
-    <p xml:lang="deu">November 2013</p>
-    <p><em type="bold">En meningsfull tillvaro </em>Att känna sig sedd, uppleva gemenskap och sammanhang, ha möjlighet att utvecklas och sträva mot självständighet. </p>
-    <p><em type="bold">Värdighetsgaranti för erbjudande om levnads-berättelse</em> </p>
-    <p>Du erbjuds hjälp att upprätta en levnadsberättelse för att anpassa ditt stöd utifrån intressen, identitet och kultur.</p>
-    <p><em type="bold">Garantin innebär:</em>I samband med genomförandeplanering erbjuds du hjälp att upprätta en levnadsberättelse. </p>
-    <p>
-      <em type="bold">Värdighetsgaranti för social tid och aktiviteter </em>
-    </p>
-    <p>Du får vara delaktig i planeringen av din sociala tid, på särskilt boende erbjuds minst tre gemensamma aktiviteter per vecka.</p>
-    <p><em type="bold">Garantin innebär:</em> Du erbjuds vara delaktig i planering av egen social tid och att på särskilt boende få hjälp att delta i de gemensamma aktiviteter du vill. </p>
-    <p xml:lang="deu">November 2013</p>
-    <p><em type="bold">God kvalitet </em>Verksamheten har individens bästa i fokus och arbetar systematiskt med förbättring. </p>
-    <p><em type="bold"> Värdighetsgaranti för utveckling och säkring av kvalitet</em> </p>
-    <p>Kvaliteten i äldreomsorgen utvecklas och säkras genom aktivt deltagande i nationella kvalitetsregister och mätningar samt i lokal och regional samverkan. Kvalitetsarbetet redovisas årligen i en kvalitetsberättelse.</p>
-    <p>Information om brister och klagomål</p>
-    <p>Hör av dig till oss om du upplever att värdighetsgarantierna inte uppfylls eller om du har synpunkter eller idéer!De är värdefulla för oss att få och ger oss möjlighet att följa upp och förbättra verksamheten och värdighetsgarantierna.</p>
-    <p>Om du vill, kan du lämna information utan att ge ut ditt namn. Nackdelen är att det då inte blir möjligt för oss att återkomma till dig och berätta hur vi följt upp dina synpunkter.</p>
-    <p>Information om brister/klagomål när det gäller de lokala värdighetsgarantierna i Krokoms äldreomsorg lämnar du via formuläret på hemsidan: www.krokom.se/vardighetsgarantier Eller tillKennenth Österberg, kvalitetscontroller:Offerdalsvägen 8835 80 Krokom</p>
-    <p xml:lang="nno">telefon 0640 168 03e:post kenneth.osterberg@krokom.se</p>
-    <p>En blankett för synpunkter/klagomål finns på nästa sida.</p>
-    <p xml:lang="deu">November 2013</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><year>2013</year><wordcount>982</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/download/18.601b0a46143fe3c9a55277e/1490778277606/Vardighetsgaranti.pdf</origFileName><parallel_text xml:lang="sma" location="vardighetsgaranti_samiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Lokal värdighetsgaranti i Krokoms äldreomsorg</p>
+<p>Den 1 januari 2014 införs lokala värdighetsgarantier i Krokoms kommun. Värdighetsgarantierna gäller för alla äldre (över 65 år) i kommunen som har insatser av hemtjänst eller med särskilt boende, oavsett vem som utför insatserna.</p>
+<p>Garantierna är framtagna av Krokoms kommuns socialnämnd efter dialog med kommuninvånare och personal. De ska beskriva hur kommunen arbetar utifrån innebörden i Socialstyrelsens nationella värdegrund för äldreomsorgen och vår egen värdegrund.</p>
+<p>Självbestämmande</p>
+<p>Att respekteras för den man är, att ha inflytande och delaktig-het i beslut och val som rör en själv och ens tillvaro.</p>
+<p>Känsla av trygghet</p>
+<p>Att tillvaron upplevs förutsägbar och säker. Vårt arbete ska präglas av tillgänglighet, kontinuitet och pålitlighet.</p>
+<p>En meningsfull tillvaro</p>
+<p>Att känna sig sedd, uppleva gemenskap och sammanhang, ha möjlighet att utvecklas och sträva mot självständighet.</p>
+<p>Gott bemötandeVi ska möta andra med empati, lyhördhet, omtanke och</p>
+<p>ödmjukhet.</p>
+<p xml:lang="nno">God kvalitet</p>
+<p>Verksamheten har individens bästa i fokus och arbetar systematiskt med förbättring.</p>
+<p xml:lang="deu">November 2013</p>
+<p>Vad är en lokal värdighetsgaranti?</p>
+<p>Värdighetsgarantierna utgår från värdegrunden och ska tydliggöra service och kvalitet, de ska visa vad man kan förvänta sig av äldreomsorgen i kommunen.</p>
+<p>Värdighetsgarantierna ska handla om något extra utöver det som den enskilde har rätt till i lag eller beviljats i biståndsbeslut och ska gälla någon form av mervärde utifrån den enskildes eget perspektiv.</p>
+<p>Hur fungerar garantierna?</p>
+<p>Personalen i hemtjänst och på särskilt boende ska ha kunskap om och jobba enligt de lokala värdighetsgarantierna.Äldre med insatser av hemtjänst eller särskilt boende och deras närstående ska känna till värdighetsgarantierna och veta hur man lämnar information om brister/klagomål när man upplever att en garanti inte levs upp till.</p>
+<p type="listitem">•  Information om brister/klagomål när det gäller värdighetsgarantierna  lämnas direkt till socialförvaltningens kvalitetscontroller via telefon, mail, post eller hemsida. Blankett och kontaktinformation för rapportering finns längst bak i broschyren om värdighetsgarantier och på hemsidan.</p>
+<p type="listitem">•  Rapporter om brister/klagomål ska behandlas som avvikelser och dokumenteras, utredas, åtgärdas och följas upp i det systematiska kvalitetsarbetet för att förhindra att begångna misstag upprepas. Information om dessa ärenden ska återkopplas till socialnämnden samt till den äldre/närstående som rapporterat brister/klagomål.</p>
+<p type="listitem">•  Värdighetsgarantin kommer att följas upp och utvärderas årligen av socialnämnden och kunna utökas eller omprövas kontinuerligt.</p>
+<p xml:lang="deu">November 2013</p>
+<p><em type="bold">Självbestämmande</em>Att respekteras för den man är, att ha inflytande och delaktighet i beslut och val som rör en själv och ens tillvaro. </p>
+<p><em type="bold">Värdighetsgaranti för delaktighet och inflytande i planering av vård och omsorgsinsatser</em> </p>
+<p>Du får vara delaktig i biståndshandläggarens utredning inför beslut om insatser genom personlig kontakt innan det skriftliga beslutet.Utföraren (hemtjänst eller särskilt boende) erbjuder dig eller din företrädare samtal om genomförandet av dina beviljade insatser minst två gånger per år.</p>
+<p><em type="bold">Garantin innebär att: </em> Dessa samtal ska handla om hur genomförandet av insatserna upplevs, att genomförandeplanen är aktuell och efterlevs och den enskildes upplevelse av välbefinnande. Om du vill inbjuds närstående att delta. </p>
+<p>Samtal om genomförandeplanen hålls dessutom vid omfattande förändring av behov eller om du har synpunkter/önskemål att samtala om. En genomförandeplan upprättas inom tre veckor efter att dina insatser startar och uppdateras kontinuerligt så att den beskriver dina aktuella insatser, behov och önskemål.</p>
+<p><em type="bold">Värdighetsgaranti för byte av beviljad insats</em> </p>
+<p>Du kan välja att skifta en beslutad insats med en annan beslutad insats med samma omfattning inom samma vecka.</p>
+<p><em type="bold">Garantin innebär att: </em>T ex skulle tisdagens planerade hjälp med dusch om vädret är fint kunna bytas mot torsdagens planerade promenad så att det iställetblir promenad på tisdag och dusch på torsdagen den veckan. </p>
+<p xml:lang="deu">November 2013</p>
+<p><em type="bold">Känsla av trygghet </em></p>
+<p>Att tillvaron upplevs förutsägbar och säker. Vårt arbete ska präglas av tillgänglighet, kontinuitet och pålitlighet.</p>
+<p><em type="bold">Värdighetsgaranti för tillgänglighet och kontinuitet genom kontaktmannaskap</em> </p>
+<p>Du erbjuds en namngiven kontaktman som tar en första kontakt inom en vecka från att insatserna startar. Om du inte är nöjd med din kontaktman erbjuds du byta till en annan.</p>
+<p><em type="bold">Garantin innebär att:</em> Kontaktmannen håller kontinuerlig kontakt med dig och enligt överenskommelse även med dina närstående. </p>
+<p><em type="bold">Värdighetsgaranti för introduktion av ny personal och namnskylt/legitimation</em> </p>
+<p>Ny personal får handledning/går bredvid minst en dag och en kväll inför anställning och att all personal bär namnskylt/legitimation.</p>
+<p><em type="bold">Garantin innebär:</em>Handledning för ny personal avser personal som är ny på det aktuella området eller avdelningen. All personal som inte bär arbetskläder ska bära synlig legitimation som visar att man tillhör äldreomsorgen, annars skylt med information om namn, profession och arbetsplats. </p>
+<p xml:lang="deu">November 2013</p>
+<p><em type="bold">En meningsfull tillvaro </em>Att känna sig sedd, uppleva gemenskap och sammanhang, ha möjlighet att utvecklas och sträva mot självständighet. </p>
+<p><em type="bold">Värdighetsgaranti för erbjudande om levnads-berättelse</em> </p>
+<p>Du erbjuds hjälp att upprätta en levnadsberättelse för att anpassa ditt stöd utifrån intressen, identitet och kultur.</p>
+<p><em type="bold">Garantin innebär:</em>I samband med genomförandeplanering erbjuds du hjälp att upprätta en levnadsberättelse. </p>
+<p><em type="bold">Värdighetsgaranti för social tid och aktiviteter </em></p>
+<p>Du får vara delaktig i planeringen av din sociala tid, på särskilt boende erbjuds minst tre gemensamma aktiviteter per vecka.</p>
+<p><em type="bold">Garantin innebär:</em> Du erbjuds vara delaktig i planering av egen social tid och att på särskilt boende få hjälp att delta i de gemensamma aktiviteter du vill. </p>
+<p xml:lang="deu">November 2013</p>
+<p><em type="bold">God kvalitet </em>Verksamheten har individens bästa i fokus och arbetar systematiskt med förbättring. </p>
+<p><em type="bold"> Värdighetsgaranti för utveckling och säkring av kvalitet</em> </p>
+<p>Kvaliteten i äldreomsorgen utvecklas och säkras genom aktivt deltagande i nationella kvalitetsregister och mätningar samt i lokal och regional samverkan. Kvalitetsarbetet redovisas årligen i en kvalitetsberättelse.</p>
+<p>Information om brister och klagomål</p>
+<p>Hör av dig till oss om du upplever att värdighetsgarantierna inte uppfylls eller om du har synpunkter eller idéer!De är värdefulla för oss att få och ger oss möjlighet att följa upp och förbättra verksamheten och värdighetsgarantierna.</p>
+<p>Om du vill, kan du lämna information utan att ge ut ditt namn. Nackdelen är att det då inte blir möjligt för oss att återkomma till dig och berätta hur vi följt upp dina synpunkter.</p>
+<p>Information om brister/klagomål när det gäller de lokala värdighetsgarantierna i Krokoms äldreomsorg lämnar du via formuläret på hemsidan: www.krokom.se/vardighetsgarantier Eller tillKennenth Österberg, kvalitetscontroller:Offerdalsvägen 8835 80 Krokom</p>
+<p xml:lang="nno">telefon 0640 168 03e:post kenneth.osterberg@krokom.se</p>
+<p>En blankett för synpunkter/klagomål finns på nästa sida.</p>
+<p xml:lang="deu">November 2013</p>
+</body></document>

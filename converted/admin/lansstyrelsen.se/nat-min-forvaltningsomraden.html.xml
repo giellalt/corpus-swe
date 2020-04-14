@@ -1,48 +1,20 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>230</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/Pages/forvaltningsomraden.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-hallintoalueet.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-reeremedajvh.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-halddahusguovllut.html"/>
-    <parallel_text xml:lang="smj" location="nat-min-tjuottjudusguovlo.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Förvaltningsområden - Länsstyrelsen i Stockholm</p>
-    <list/>
-    <p type="title">Förvaltningsområden</p>
-    <p>
-      <em type="italic">Från den 1 februari 2014 ingår sammanlagt 68 kommuner och 13 landsting/regioner i förvaltningsområdena för samiska, meänkieli och finska. </em>
-    </p>
-    <p><em type="italic">Det finska förvaltningsområdet </em>omfattar kommunerna Borlänge, Borås, Botkyrka, Degerfors, Enköping, Eskilstuna, Fagersta, Finspång, Gällivare, Gävle, Göteborg, Hallstahammar, Haninge, Haparanda, Hofors, Huddinge, Håbo, Hällefors, Kalix, Karlskoga, Kiruna, Köping, Lindesberg, Luleå, Motala, Norrköping, Norrtälje, Pajala, Sandviken, Sigtuna, Skinnskatteberg, Skövde, Solna, Stockholm, Sundbyberg, Sundsvall, Surahammar, Södertälje, Tierp, Trollhättan, Trosa, Uddevalla, Umeå, Upplands Väsby, Upplands-Bro, Uppsala, Västerås, Älvkarleby, Örebro, Österåker, Östhammar och Övertorneå. </p>
-    <p><em type="italic">Det samiska förvaltningsområdet </em>omfattar kommunerna Arjeplog, Arvidsjaur, Berg, Dorotea, Gällivare, Härjedalen, Jokkmokk, Kiruna, Krokom, Lycksele, Malå, Sorsele, Storuman, Strömsund, Umeå, Vilhelmina, Åre, Älvdalen och Östersund. </p>
-    <p><em type="italic">Förvaltningsområdet för meänkieli </em>omfattar kommunerna Gällivare, Haparanda, Kalix, Kiruna, Pajala och Övertorneå. </p>
-    <p>I förvaltningsområdena för finska, samiska och meänkieli ingår också <em type="italic">landstingen </em>i Dalarna, Gävleborg, Jämtland, Norrbotten, Stockholm, Södermanland, Uppland, Västerbotten, Västmanland, Västernorrland, Örebro och Östergötland samt Västra Götalandsregionen. </p>
-    <p>Även andra kommuner har möjlighet att <em type="italic">frivilligt ansöka om att ingå i förvaltningsområden </em>. Regeringen fattar beslut om sådan anslutning efter ansökan av kommun som vill ingå. Ansökan ska ha inkommit till Regeringskansliet senast den 1 april. </p>
-    <p type="title">Kontakta oss</p>
-    <p>Enheten för arbetsmarknads- och rättighetsfrågor (minoritetsfrågor)</p>
-    <p>stockholm snabela lansstyrelsen punkt se¤stockholm snabela lansstyrelsen punkt se</p>
-    <p>010-223 10 00</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>230</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/Pages/forvaltningsomraden.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-hallintoalueet.html"/><parallel_text xml:lang="sma" location="nat-min-reeremedajvh.html"/><parallel_text xml:lang="sme" location="nat-min-halddahusguovllut.html"/><parallel_text xml:lang="smj" location="nat-min-tjuottjudusguovlo.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Förvaltningsområden - Länsstyrelsen i Stockholm</p>
+<list/><p type="title">Förvaltningsområden</p>
+<p><em type="italic">Från den 1 februari 2014 ingår sammanlagt 68 kommuner och 13 landsting/regioner i förvaltningsområdena för samiska, meänkieli och finska. </em></p>
+<p><em type="italic">Det finska förvaltningsområdet </em>omfattar kommunerna Borlänge, Borås, Botkyrka, Degerfors, Enköping, Eskilstuna, Fagersta, Finspång, Gällivare, Gävle, Göteborg, Hallstahammar, Haninge, Haparanda, Hofors, Huddinge, Håbo, Hällefors, Kalix, Karlskoga, Kiruna, Köping, Lindesberg, Luleå, Motala, Norrköping, Norrtälje, Pajala, Sandviken, Sigtuna, Skinnskatteberg, Skövde, Solna, Stockholm, Sundbyberg, Sundsvall, Surahammar, Södertälje, Tierp, Trollhättan, Trosa, Uddevalla, Umeå, Upplands Väsby, Upplands-Bro, Uppsala, Västerås, Älvkarleby, Örebro, Österåker, Östhammar och Övertorneå. </p>
+<p><em type="italic">Det samiska förvaltningsområdet </em>omfattar kommunerna Arjeplog, Arvidsjaur, Berg, Dorotea, Gällivare, Härjedalen, Jokkmokk, Kiruna, Krokom, Lycksele, Malå, Sorsele, Storuman, Strömsund, Umeå, Vilhelmina, Åre, Älvdalen och Östersund. </p>
+<p><em type="italic">Förvaltningsområdet för meänkieli </em>omfattar kommunerna Gällivare, Haparanda, Kalix, Kiruna, Pajala och Övertorneå. </p>
+<p>I förvaltningsområdena för finska, samiska och meänkieli ingår också <em type="italic">landstingen </em>i Dalarna, Gävleborg, Jämtland, Norrbotten, Stockholm, Södermanland, Uppland, Västerbotten, Västmanland, Västernorrland, Örebro och Östergötland samt Västra Götalandsregionen. </p>
+<p>Även andra kommuner har möjlighet att <em type="italic">frivilligt ansöka om att ingå i förvaltningsområden </em>. Regeringen fattar beslut om sådan anslutning efter ansökan av kommun som vill ingå. Ansökan ska ha inkommit till Regeringskansliet senast den 1 april. </p>
+<p type="title">Kontakta oss</p>
+<p>Enheten för arbetsmarknads- och rättighetsfrågor (minoritetsfrågor)</p>
+<p>stockholm snabela lansstyrelsen punkt se¤stockholm snabela lansstyrelsen punkt se</p>
+<p>010-223 10 00</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

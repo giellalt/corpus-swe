@@ -1,48 +1,22 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>346</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/overklaga/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="om-lansstyrelsen-overklaga.html"/>
-    <parallel_text xml:lang="sma" location="om-lansstyrelsen-overklaga.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Överklaga - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Överklaga</p>
-    <p>
-      <em type="italic">De allra flesta beslut som fattas av Länsstyrelsen kan överklagas av den som är berörd av beslutet. Vi prövar också överklagande av beslut som fattats av en kommun eller församling. </em>
-    </p>
-    <p type="title">Överklagande av Länsstyrelsens beslut</p>
-    <p>Om du påverkas av ett beslut som Länsstyrelsen har fattat kan du oftast överklaga det, och med beslutet får du också information som förklarar hur du går tillväga. Du har en viss tid på dig att lämna in ett överklagande, räknat från den dag du tog emot beslutet. Överklagandet ska vara skriftligt och du ska ange vilket beslut du är missnöjd med och vilken ändring du begär. Underteckna skrivelsen innan du skickar den till Länsstyrelsen.</p>
-    <p>Länsstyrelsen kontrollerar att överklagandet har kommit in i rätt tid, och därefter skickar vi det och övriga handlingar i ärendet vidare till den myndighet som ska avgöra frågan. Vi kan också rätta eller ompröva våra egna beslut.</p>
-    <p type="title">Länsstyrelsen prövar överklagande av kommunens beslut</p>
-    <p>Många typer av beslut som fattas av en kommun kan överklagas till Länsstyrelsen. Det gäller till exempel beslut om bygglov och detaljplaner, parkeringstillstånd och kommunala beslut om lokala trafikföreskrifter samt beslut som kommunen fattar enligt miljöbalken, livsmedelslagen och lagen om skydd mot olyckor.</p>
-    <p>Du som vill överklaga ett kommunalt beslut ska skicka ditt brev till den kommun som har fattat beslutet. Kommunen kontrollerar först att det har kommit in i rätt tid, och i så fall skickas det vidare till Länsstyrelsen tillsammans med övriga handlingar. Därefter ska du vända dig till oss om du har några frågor om ärendet. Länsstyrelsen fattar sedan ett beslut, och om du fortfarande är missnöjd med vårt avgörande kan du oftast överklaga även det.</p>
-    <p>Förvaltningslagens (SFS 1986:223) regler gäller när vi handlägger ett överklagningsärende. Det innebär att du måste vara berörd av ett beslut för att ha rätt att överklaga det.</p>
-    <p type="title">Kontakta oss</p>
-    <p>Länsstyrelsen Dalarna</p>
-    <p>dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
-    <p>010 225 00 00</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>346</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/om-lansstyrelsen/overklaga/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="om-lansstyrelsen-overklaga.html"/><parallel_text xml:lang="sma" location="om-lansstyrelsen-overklaga.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Överklaga - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Överklaga</p>
+<p><em type="italic">De allra flesta beslut som fattas av Länsstyrelsen kan överklagas av den som är berörd av beslutet. Vi prövar också överklagande av beslut som fattats av en kommun eller församling. </em></p>
+<p type="title">Överklagande av Länsstyrelsens beslut</p>
+<p>Om du påverkas av ett beslut som Länsstyrelsen har fattat kan du oftast överklaga det, och med beslutet får du också information som förklarar hur du går tillväga. Du har en viss tid på dig att lämna in ett överklagande, räknat från den dag du tog emot beslutet. Överklagandet ska vara skriftligt och du ska ange vilket beslut du är missnöjd med och vilken ändring du begär. Underteckna skrivelsen innan du skickar den till Länsstyrelsen.</p>
+<p>Länsstyrelsen kontrollerar att överklagandet har kommit in i rätt tid, och därefter skickar vi det och övriga handlingar i ärendet vidare till den myndighet som ska avgöra frågan. Vi kan också rätta eller ompröva våra egna beslut.</p>
+<p type="title">Länsstyrelsen prövar överklagande av kommunens beslut</p>
+<p>Många typer av beslut som fattas av en kommun kan överklagas till Länsstyrelsen. Det gäller till exempel beslut om bygglov och detaljplaner, parkeringstillstånd och kommunala beslut om lokala trafikföreskrifter samt beslut som kommunen fattar enligt miljöbalken, livsmedelslagen och lagen om skydd mot olyckor.</p>
+<p>Du som vill överklaga ett kommunalt beslut ska skicka ditt brev till den kommun som har fattat beslutet. Kommunen kontrollerar först att det har kommit in i rätt tid, och i så fall skickas det vidare till Länsstyrelsen tillsammans med övriga handlingar. Därefter ska du vända dig till oss om du har några frågor om ärendet. Länsstyrelsen fattar sedan ett beslut, och om du fortfarande är missnöjd med vårt avgörande kan du oftast överklaga även det.</p>
+<p>Förvaltningslagens (SFS 1986:223) regler gäller när vi handlägger ett överklagningsärende. Det innebär att du måste vara berörd av ett beslut för att ha rätt att överklaga det.</p>
+<p type="title">Kontakta oss</p>
+<p>Länsstyrelsen Dalarna</p>
+<p>dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
+<p>010 225 00 00</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>

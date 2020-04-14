@@ -1,36 +1,12 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>252</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/69425</origFileName>
-    <parallel_text xml:lang="sme" location="69427.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Tre sameting konfererar i Umeå - Sametinget</p>
-    <p type="title">Tre sameting konfererar i Umeå</p>
-    <p>Ett hundratal samiska politiker från Norge, Finland, Sverige och representanter för samerna i Ryssland samlas i Nolia-hallen i Umeå torsdagen den 20 februari kl. 9-18. Två teman ska behandlas: Nordiska samekonventionen och exploateringarna i Sápmi.</p>
-    <p>Samarbetsorganet för de nordiska sametingen heter Samiskt parlamentariskt råd (SPR) och har funnits sedan 2000. Det är fjärde gången som parlamentarikerna samlas till en gemensam konferens. Konferensen ska behandla två teman: Den nordiska samekonventionen och exploateringarna i Arktis. Resultatet ska bli ett gemensamt uttalande som läggs fram för regeringarna.</p>
-    <p>- Det är viktigt och värdefullt för oss politiker att tillsammans få diskutera frågeställningar som berör oss alla i Arktis. Vad händer med miljön? Hur ska vi ställa oss till de exploateringar som hotar de arktiska områdena? säger Håkan Jonsson från Sorsele, styrelseordförande i svenska Sametinget och för närvarande ordförande i SPR.</p>
-    <p>De nordiska regeringarna och sametingen är mitt inne i en process att behandla förslaget till Nordisk samekonvention som bland annat har till syfte att harmonisera lagstiftning som berör samer. Detta kommer också att diskuteras i Umeå.</p>
-    <p>- Jag ser fram emot diskussionerna, säger Håkan Jonsson. Vi samer är ett folk trots att vi splittrats upp av statsgränserna i modern historisk tid.</p>
-    <p>Närvarande är även presidenten för de norska Sametinget, Aili Keskitalo och presidenten för det finska sametinget, Klemmetti Näkkäläjärvi. Representanter för de ryska samerna kommer också.</p>
-    <p>
-      <em type="bold">Kontakt: </em>
-    </p>
-    <p>Håkan Jonsson, Ordförande SPR Styrelseordförande Sametinget i Sverige 070-372 10 10</p>
-    <p>Marie Enoksson Informatör 070-310 09 94</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>252</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/69425</origFileName><parallel_text xml:lang="sme" location="69427.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tre sameting konfererar i Umeå - Sametinget</p>
+<p type="title">Tre sameting konfererar i Umeå</p>
+<p>Ett hundratal samiska politiker från Norge, Finland, Sverige och representanter för samerna i Ryssland samlas i Nolia-hallen i Umeå torsdagen den 20 februari kl. 9-18. Två teman ska behandlas: Nordiska samekonventionen och exploateringarna i Sápmi.</p>
+<p>Samarbetsorganet för de nordiska sametingen heter Samiskt parlamentariskt råd (SPR) och har funnits sedan 2000. Det är fjärde gången som parlamentarikerna samlas till en gemensam konferens. Konferensen ska behandla två teman: Den nordiska samekonventionen och exploateringarna i Arktis. Resultatet ska bli ett gemensamt uttalande som läggs fram för regeringarna.</p>
+<p>- Det är viktigt och värdefullt för oss politiker att tillsammans få diskutera frågeställningar som berör oss alla i Arktis. Vad händer med miljön? Hur ska vi ställa oss till de exploateringar som hotar de arktiska områdena? säger Håkan Jonsson från Sorsele, styrelseordförande i svenska Sametinget och för närvarande ordförande i SPR.</p>
+<p>De nordiska regeringarna och sametingen är mitt inne i en process att behandla förslaget till Nordisk samekonvention som bland annat har till syfte att harmonisera lagstiftning som berör samer. Detta kommer också att diskuteras i Umeå.</p>
+<p>- Jag ser fram emot diskussionerna, säger Håkan Jonsson. Vi samer är ett folk trots att vi splittrats upp av statsgränserna i modern historisk tid.</p>
+<p>Närvarande är även presidenten för de norska Sametinget, Aili Keskitalo och presidenten för det finska sametinget, Klemmetti Näkkäläjärvi. Representanter för de ryska samerna kommer också.</p>
+<p><em type="bold">Kontakt: </em></p>
+<p>Håkan Jonsson, Ordförande SPR Styrelseordförande Sametinget i Sverige 070-372 10 10</p>
+<p>Marie Enoksson Informatör 070-310 09 94</p>
+</body></document>

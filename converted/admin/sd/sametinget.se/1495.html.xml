@@ -1,47 +1,19 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>282</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1495</origFileName>
-    <parallel_text xml:lang="sme" location="71317.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Kortfakta - Sametinget</p>
-    <p type="title">Kortfakta om Sametinget</p>
-    <p>Några snabba fakta om Sametinget i Sverige.</p>
-    <p>Invigt:  1993 Innevarande mandatperiod:  2013-2017 <em type="italic">Nästa val: </em>Maj 2017 <em type="italic">Övergripande uppdrag: </em>Sametinget är både en statlig myndighet och ett folkvalt samiskt parlament, med det övergripande uppdraget att bevaka frågor som rör samisk kultur i Sverige enligt sametingslagen SFS 1992:1433. Styrelse:  Sju ledamöter </p>
-    <p>Styrelseordförande:  Håkan Jonsson Plenum:  Sametingets <span type="quote">"riksdag"</span> med 31 folkvalda ledamöter. Plenum hålls tre gånger per år. Presidiets ordförande (talman):  Stefan Mikaelsson Antal partier i plenum:  Åtta</p>
-    <p>Partier:  Jakt- och fiskesamerna 9 mandat Samelandspartiet 6 Samerna 2 mandat Guovvsonásti 3 mandat Min Geaidnu 4 mandat Skogssamerna 3 mandat Landspartiet Svenska Samer 3 mandat Álbmut 1 mandat</p>
-    <p>(Kontaktuppgifter till ledamöterna: Politiker )</p>
-    <p>Kansliet:  Sametingets tjänstemän Antal fast anställda:  ca 50 Kanslichef:  Inez Svonni Fjällström Huvudkontor:  Kiruna Lokalkontor:  Jokkmokk, Tärnaby och Östersund</p>
-    <p>Ramanslag:  Ca. 36,8 miljoner kr (2014) till Sametinget, delas av det folkvalda organet och myndigheten. 1,5 miljoner till Samefonden.</p>
-    <list>
-      <p type="listitem">Folkvald verksamhet: 9,9 mkr</p>
-      <p type="listitem">Kansliets verksamhet 26,9 mkr</p>
-    </list>
-    <p>
-      <em type="italic">Övriga anslag: </em>
-    </p>
-    <list>
-      <p type="listitem">Anslag till samisk kultur från staten: 14,4 miljoner <em type="italic">(ska bl.a. användas till verksamhet med samisk bibliotekskonsulent och för bidrag till Giron Sámi Teahter) </em></p>
-      <p type="listitem">Anslag för främjande av rennäringen m.m. samt Ersättning för viltskador: 107,9 miljoner</p>
-      <p type="listitem">Åtgärder för nationella minoriteter: 26,7 miljoner <em type="italic">(nationellt uppföljningsansvar 2,2 miljoner, statsbidrag till kommuner och landsting i förvaltningsområdena 17,3 miljoner, Samiskt språkcentrum 6 miljoner och hemsida om nationella minoriteter 1,2 miljoner) </em></p>
-    </list>
-    <p>Antal samer i Sverige:  Uppskattningarna varierar men brukar ofta anges 20 000- 35 000. (Många fler svenskar har samiska gener utan att veta om det. Identitet handlar inte bara om gener utan om hur man själv identifierar sig.)</p>
-    <p>Sverige genomför inte folkräkningar på etniska grunder. Läs mer</p>
-    <p>Antal samer i röstlängden:  8 322 (2013)</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>282</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1495</origFileName><parallel_text xml:lang="sme" location="71317.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Kortfakta - Sametinget</p>
+<p type="title">Kortfakta om Sametinget</p>
+<p>Några snabba fakta om Sametinget i Sverige.</p>
+<p>Invigt:  1993 Innevarande mandatperiod:  2013-2017 <em type="italic">Nästa val: </em>Maj 2017 <em type="italic">Övergripande uppdrag: </em>Sametinget är både en statlig myndighet och ett folkvalt samiskt parlament, med det övergripande uppdraget att bevaka frågor som rör samisk kultur i Sverige enligt sametingslagen SFS 1992:1433. Styrelse:  Sju ledamöter </p>
+<p>Styrelseordförande:  Håkan Jonsson Plenum:  Sametingets <span type="quote">"riksdag"</span> med 31 folkvalda ledamöter. Plenum hålls tre gånger per år. Presidiets ordförande (talman):  Stefan Mikaelsson Antal partier i plenum:  Åtta</p>
+<p>Partier:  Jakt- och fiskesamerna 9 mandat Samelandspartiet 6 Samerna 2 mandat Guovvsonásti 3 mandat Min Geaidnu 4 mandat Skogssamerna 3 mandat Landspartiet Svenska Samer 3 mandat Álbmut 1 mandat</p>
+<p>(Kontaktuppgifter till ledamöterna: Politiker )</p>
+<p>Kansliet:  Sametingets tjänstemän Antal fast anställda:  ca 50 Kanslichef:  Inez Svonni Fjällström Huvudkontor:  Kiruna Lokalkontor:  Jokkmokk, Tärnaby och Östersund</p>
+<p>Ramanslag:  Ca. 36,8 miljoner kr (2014) till Sametinget, delas av det folkvalda organet och myndigheten. 1,5 miljoner till Samefonden.</p>
+<list><p type="listitem">Folkvald verksamhet: 9,9 mkr</p>
+<p type="listitem">Kansliets verksamhet 26,9 mkr</p>
+</list><p><em type="italic">Övriga anslag: </em></p>
+<list><p type="listitem">Anslag till samisk kultur från staten: 14,4 miljoner <em type="italic">(ska bl.a. användas till verksamhet med samisk bibliotekskonsulent och för bidrag till Giron Sámi Teahter) </em></p>
+<p type="listitem">Anslag för främjande av rennäringen m.m. samt Ersättning för viltskador: 107,9 miljoner</p>
+<p type="listitem">Åtgärder för nationella minoriteter: 26,7 miljoner <em type="italic">(nationellt uppföljningsansvar 2,2 miljoner, statsbidrag till kommuner och landsting i förvaltningsområdena 17,3 miljoner, Samiskt språkcentrum 6 miljoner och hemsida om nationella minoriteter 1,2 miljoner) </em></p>
+</list><p>Antal samer i Sverige:  Uppskattningarna varierar men brukar ofta anges 20 000- 35 000. (Många fler svenskar har samiska gener utan att veta om det. Identitet handlar inte bara om gener utan om hur man själv identifierar sig.)</p>
+<p>Sverige genomför inte folkräkningar på etniska grunder. Läs mer</p>
+<p>Antal samer i röstlängden:  8 322 (2013)</p>
+</body></document>

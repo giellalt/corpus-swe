@@ -1,36 +1,4 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Geasse-/Sommarkurser |  Samernas Utbildningscentrum</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>30</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.samernas.se/utbildningar/geasse-sommarkurser</origFileName>
-    <parallel_text xml:lang="sme" location="oahpahusat_geassegursser_lang_sm8.html"/>
-    <parallel_text xml:lang="smj" location="799-2_759-2_lang_ls8.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>
-      <em type="bold">Geassegursset – Sommarkurser 2015 </em>
-    </p>
-    <p>Eanet diehtu fargga – information om detta läggs in</p>
-    <p>Kontakta gärna Per Stefan för ytterligare information. e.post: per-stefan.labba@samernas.se tel: +46971 44004</p>
-    <p type="title">Språkstudier</p>
-    <p type="title">Slöjdlinjen</p>
-    <p type="title">Rennäringslinje</p>
-    <p type="title">Samisk Mat</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Geasse-/Sommarkurser |  Samernas Utbildningscentrum</title><genre code="facta"/><author><unknown/></author><wordcount>25</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.samernas.se/utbildningar/geasse-sommarkurser</origFileName><parallel_text xml:lang="sme" location="oahpahusat_geassegursser_lang_sm8.html"/><parallel_text xml:lang="smj" location="799-2_759-2_lang_ls8.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">Geassegursset – Sommarkurser 2015 </em></p>
+<p>Eanet diehtu fargga – information om detta läggs in</p>
+<p>Kontakta gärna Per Stefan för ytterligare information. e.post: per-stefan.labba@samernas.se tel: +46971 44004</p>
+</body></document>

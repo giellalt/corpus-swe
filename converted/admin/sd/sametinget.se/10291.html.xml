@@ -1,46 +1,20 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>567</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/10291</origFileName>
-    <parallel_text xml:lang="sme" location="10313.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Minoritetsreformen - Sametinget</p>
-    <p>Skyltning på minoritetsspråk - en effekt av minoritetsspråklagen. Foto: Marie Enoksson.</p>
-    <p type="title">Minoritetsreformen och samerna</p>
-    <p>Regeringen satsar 80 miljoner per år på minoritetsreformen. Det ska bli lättare att använda ett nationellt minoritetsspråk i det offentliga rummet. Och åtgärder vidtas för att rädda hotade minoritetsspråk i Sverige. Särskilda insatser riktas mot det sydsamiska området.</p>
-    <p>Från 2010 gäller en ny lag om nationella minoriteter och minoritetsspråk (SFS 2009:724). Ändringar i sametingslagen (SFS 1992:1433) och socialtjänstlagen (SFS 2001:453) har införts.</p>
-    <p><em type="italic">Myndigheters särskilda ansvar </em>Alla fem nationella minoriteter omfattas av minoritetsspråklagen. Myndigheter är skyldiga att informera minoriteterna om deras rättigheter. Det allmänna har också ett särskilt ansvar för att skydda och främja de nationella minoritetsspråken. Den som tillhör en nationell minoritet ska ges möjligheter att lära sig, utveckla och använda sitt språk och behålla och utveckla sin kultur i Sverige. Barn har rätt att få utveckla sin kulturella identitet och sitt minoritetsspråk. </p>
-    <p>
-      <em type="italic">Regeringens minoritetspolitiska strategi i korthet: </em>
-    </p>
-    <list>
-      <p type="listitem">Säkerställa en bättre efterlevnad av Europarådets minoritetskonventioner</p>
-      <p type="listitem">Bättre följa upp genomförandet av minoritetspolitiken</p>
-      <p type="listitem">Motverka diskriminering av de nationella minoriteterna</p>
-      <p type="listitem">Stärka de nationella minoriteternas egenmakt och inflytande</p>
-      <p type="listitem">Främja bevarandet av de nationella minoritetsspråken </p>
-    </list>
-    <p><em type="italic">Förvaltningsområdet för samiska </em>Förvaltningsområdet för samiska har utvidgats. I förvaltningsområdet har samer rätt att använda samiska i kontakter med myndigheter. Man har rätt till förskoleverksamhet och äldreomsorg helt eller delvis på samiska. Rättigheterna gäller i 18 kommuner. De kommuner som berörs får statsbidrag för merkostnaderna. Även andra kommuner kan ansluta sig frivilligt. </p>
-    <p><em type="italic">Utanför förvaltningsområdet </em>Utanför förvaltningsområdet har samer rätt att använda samiska i kontakten med myndigheter om ärendet kan handläggas av personal som behärskar språket. Man har även rätt till äldreomsorg på samiska om kommunen har tillgång till språkkunnig personal. Enskilda har alltid rätt att använda samiska vid sina skriftliga kontakter med Riksdagens ombudsmän, Justitiekanslern, Försäkringskassan, Skatteverket och Diskrimineringsombudsmannen. </p>
-    <p><em type="italic">Uppföljningsansvar </em>Sametinget har tillsammans med länsstyrelsen i Stockholms län ansvar för att följa upp hur minoritetspolitiken genomförs. Vi ska genom rådgivning och information hjälpa andra myndigheter. Vi ska också samråda med berörda kommuner, bygga nätverk, identifiera behov och samordna utvidgningen av förvaltningsområdena. Resultaten ska återrapporteras till regeringen och utgör underlag för framtida insatser. </p>
-    <p><em type="italic">Hemsida om minoriteter </em>Sametinget och länsstyrelsen i Stockholm ska genomföra insatser för att öka kunskapen och medvetenheten om de nationella minoriteterna och Sveriges folkrättsliga förpliktelser. Sametinget ansvarar för en hemsida om de nationella minoriteterna. Adressen är www.minoritet.se . <em type="italic">Fastställa mål </em>Sametinget ska fastställa mål för det samiska språkarbetet. Riksdag och regering formulerar övergripande mål men Sametinget har ansvar för målsättningarna för det interna samiska språkarbetet. </p>
-    <p><em type="italic">Bättre möjligheter till samråd </em>De nationella minoriteterna har rätt till inflytande. Särskilt viktigt är samråden på lokal nivå, eftersom det är där många beslut fattas som berör enskilda. Organisationer som företräder nationella minoriteter får ett högre organisationsstöd så att möjligheter för fungerande samrådsmodeller kan skapas inom förvaltningsområdena. </p>
-    <p><em type="italic">Språkcentra </em>Aktiva insatser behövs för att revitalisera de nationella minoritetsspråken. Sydsamiskan är ett starkt hotat språk. Därför etableras två språkcentra i det sydsamiska området, i Östersund och i Tärnaby. Sametinget är huvudman för dessa språkcentra. Språkcentren ska bedriva utåtriktad verksamhet för att stimulera till ökad användning av de samiska språken. <em type="italic">Skolan </em>Tillgången på integrerad samisk undervisning ska utökas. Fler elever i grundskolan ska alltså få tillgång till undervisning med samiska inslag och undervisning i samiska utöver modersmålsundervisningen. </p>
-    <p><em type="italic">Revitaliseringsinsatser </em>Det blir möjligt att söka medel för revitaliseringsinsatser som riktar sig till enskilda. De fördelas efter ansökan hos Institutet för språk och folkminnen (SOFI). Se länk i högerspalten. </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>567</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/10291</origFileName><parallel_text xml:lang="sme" location="10313.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Minoritetsreformen - Sametinget</p>
+<p>Skyltning på minoritetsspråk - en effekt av minoritetsspråklagen. Foto: Marie Enoksson.</p>
+<p type="title">Minoritetsreformen och samerna</p>
+<p>Regeringen satsar 80 miljoner per år på minoritetsreformen. Det ska bli lättare att använda ett nationellt minoritetsspråk i det offentliga rummet. Och åtgärder vidtas för att rädda hotade minoritetsspråk i Sverige. Särskilda insatser riktas mot det sydsamiska området.</p>
+<p>Från 2010 gäller en ny lag om nationella minoriteter och minoritetsspråk (SFS 2009:724). Ändringar i sametingslagen (SFS 1992:1433) och socialtjänstlagen (SFS 2001:453) har införts.</p>
+<p><em type="italic">Myndigheters särskilda ansvar </em>Alla fem nationella minoriteter omfattas av minoritetsspråklagen. Myndigheter är skyldiga att informera minoriteterna om deras rättigheter. Det allmänna har också ett särskilt ansvar för att skydda och främja de nationella minoritetsspråken. Den som tillhör en nationell minoritet ska ges möjligheter att lära sig, utveckla och använda sitt språk och behålla och utveckla sin kultur i Sverige. Barn har rätt att få utveckla sin kulturella identitet och sitt minoritetsspråk. </p>
+<p><em type="italic">Regeringens minoritetspolitiska strategi i korthet: </em></p>
+<list><p type="listitem">Säkerställa en bättre efterlevnad av Europarådets minoritetskonventioner</p>
+<p type="listitem">Bättre följa upp genomförandet av minoritetspolitiken</p>
+<p type="listitem">Motverka diskriminering av de nationella minoriteterna</p>
+<p type="listitem">Stärka de nationella minoriteternas egenmakt och inflytande</p>
+<p type="listitem">Främja bevarandet av de nationella minoritetsspråken </p>
+</list><p><em type="italic">Förvaltningsområdet för samiska </em>Förvaltningsområdet för samiska har utvidgats. I förvaltningsområdet har samer rätt att använda samiska i kontakter med myndigheter. Man har rätt till förskoleverksamhet och äldreomsorg helt eller delvis på samiska. Rättigheterna gäller i 18 kommuner. De kommuner som berörs får statsbidrag för merkostnaderna. Även andra kommuner kan ansluta sig frivilligt. </p>
+<p><em type="italic">Utanför förvaltningsområdet </em>Utanför förvaltningsområdet har samer rätt att använda samiska i kontakten med myndigheter om ärendet kan handläggas av personal som behärskar språket. Man har även rätt till äldreomsorg på samiska om kommunen har tillgång till språkkunnig personal. Enskilda har alltid rätt att använda samiska vid sina skriftliga kontakter med Riksdagens ombudsmän, Justitiekanslern, Försäkringskassan, Skatteverket och Diskrimineringsombudsmannen. </p>
+<p><em type="italic">Uppföljningsansvar </em>Sametinget har tillsammans med länsstyrelsen i Stockholms län ansvar för att följa upp hur minoritetspolitiken genomförs. Vi ska genom rådgivning och information hjälpa andra myndigheter. Vi ska också samråda med berörda kommuner, bygga nätverk, identifiera behov och samordna utvidgningen av förvaltningsområdena. Resultaten ska återrapporteras till regeringen och utgör underlag för framtida insatser. </p>
+<p><em type="italic">Hemsida om minoriteter </em>Sametinget och länsstyrelsen i Stockholm ska genomföra insatser för att öka kunskapen och medvetenheten om de nationella minoriteterna och Sveriges folkrättsliga förpliktelser. Sametinget ansvarar för en hemsida om de nationella minoriteterna. Adressen är www.minoritet.se . <em type="italic">Fastställa mål </em>Sametinget ska fastställa mål för det samiska språkarbetet. Riksdag och regering formulerar övergripande mål men Sametinget har ansvar för målsättningarna för det interna samiska språkarbetet. </p>
+<p><em type="italic">Bättre möjligheter till samråd </em>De nationella minoriteterna har rätt till inflytande. Särskilt viktigt är samråden på lokal nivå, eftersom det är där många beslut fattas som berör enskilda. Organisationer som företräder nationella minoriteter får ett högre organisationsstöd så att möjligheter för fungerande samrådsmodeller kan skapas inom förvaltningsområdena. </p>
+<p><em type="italic">Språkcentra </em>Aktiva insatser behövs för att revitalisera de nationella minoritetsspråken. Sydsamiskan är ett starkt hotat språk. Därför etableras två språkcentra i det sydsamiska området, i Östersund och i Tärnaby. Sametinget är huvudman för dessa språkcentra. Språkcentren ska bedriva utåtriktad verksamhet för att stimulera till ökad användning av de samiska språken. <em type="italic">Skolan </em>Tillgången på integrerad samisk undervisning ska utökas. Fler elever i grundskolan ska alltså få tillgång till undervisning med samiska inslag och undervisning i samiska utöver modersmålsundervisningen. </p>
+<p><em type="italic">Revitaliseringsinsatser </em>Det blir möjligt att söka medel för revitaliseringsinsatser som riktar sig till enskilda. De fördelas efter ansökan hos Institutet för språk och folkminnen (SOFI). Se länk i högerspalten. </p>
+</body></document>

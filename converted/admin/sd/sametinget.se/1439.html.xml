@@ -1,38 +1,12 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>214</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1439</origFileName>
-    <parallel_text xml:lang="sme" location="4130.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Interreg - Sametinget</p>
-    <p>Interreg är ett EU-program där samer kan samarbeta i projekt över nationsgränserna. Bildcollage: Sametinget.</p>
-    <p type="title">Interreg</p>
-    <p>Interreg är ett strukturfondsprogram som riktar in sig på utökat samarbete över gränserna. Det är ett program som passar samerna mycket väl eftersom man då kan samarbeta med varandra över nationsgränserna.</p>
-    <p>INTERREG är ett särskilt EU-program som inrättades 1990 av EU-kommissionen. Syftet är att utveckla samarbetet över nationsgränserna så att gränserna inte blir ett hinder för utveckling och integration i Europa. Från och med 2007 gäller ett enda Interreg-program, INTERREG VI A Nord.</p>
-    <p>
-      <em type="bold">Programmål </em>
-    </p>
-    <p>Det övergripande målet för programsamarbetet är att öka regionens funktionalitet och styrka genom näringslivssamarbete, infrastruktursamarbete samt genom utveckling av specialkompetenser och identitetsskapande insatser. För det samiska programmet gäller speciellt att säkerställa ett differentierat och utvecklat samiskt samhällsliv baserat på den samiska kulturen, de samiska näringarna, traditionerna, samiskt synsätt samt det samiska språket.</p>
-    <p>Interreg IV A Nord Sápmi</p>
-    <p>Under programperioden 2007-2013 gäller ett sammanhållet delprogram för hela det samiska området. Det nya delprogrammet tillhör Interreg IV A Nord och kallas Sápmi.</p>
-    <p>
-      <em type="bold">Finansiering </em>
-    </p>
-    <p>Grundprincipen i INTERREG är samfinansiering. Förutom EU-bidraget ska medel erhållas från andra nationella offentliga finansiärer. EU-bidraget får i delprogram Sápmi uppgå till högst 65 % av den totala budgeten. Till nationell offentlig medfinansiering räknas medel från statliga organ, kommuner och landsting.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>214</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1439</origFileName><parallel_text xml:lang="sme" location="4130.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Interreg - Sametinget</p>
+<p>Interreg är ett EU-program där samer kan samarbeta i projekt över nationsgränserna. Bildcollage: Sametinget.</p>
+<p type="title">Interreg</p>
+<p>Interreg är ett strukturfondsprogram som riktar in sig på utökat samarbete över gränserna. Det är ett program som passar samerna mycket väl eftersom man då kan samarbeta med varandra över nationsgränserna.</p>
+<p>INTERREG är ett särskilt EU-program som inrättades 1990 av EU-kommissionen. Syftet är att utveckla samarbetet över nationsgränserna så att gränserna inte blir ett hinder för utveckling och integration i Europa. Från och med 2007 gäller ett enda Interreg-program, INTERREG VI A Nord.</p>
+<p><em type="bold">Programmål </em></p>
+<p>Det övergripande målet för programsamarbetet är att öka regionens funktionalitet och styrka genom näringslivssamarbete, infrastruktursamarbete samt genom utveckling av specialkompetenser och identitetsskapande insatser. För det samiska programmet gäller speciellt att säkerställa ett differentierat och utvecklat samiskt samhällsliv baserat på den samiska kulturen, de samiska näringarna, traditionerna, samiskt synsätt samt det samiska språket.</p>
+<p>Interreg IV A Nord Sápmi</p>
+<p>Under programperioden 2007-2013 gäller ett sammanhållet delprogram för hela det samiska området. Det nya delprogrammet tillhör Interreg IV A Nord och kallas Sápmi.</p>
+<p><em type="bold">Finansiering </em></p>
+<p>Grundprincipen i INTERREG är samfinansiering. Förutom EU-bidraget ska medel erhållas från andra nationella offentliga finansiärer. EU-bidraget får i delprogram Sápmi uppgå till högst 65 % av den totala budgeten. Till nationell offentlig medfinansiering räknas medel från statliga organ, kommuner och landsting.</p>
+</body></document>

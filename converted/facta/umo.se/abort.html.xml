@@ -1,86 +1,47 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1664</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Kroppen/Graviditet/Abort</origFileName>
-    <parallel_text xml:lang="fin" location="abortti.html"/>
-    <parallel_text xml:lang="fit" location="abortti.html"/>
-    <parallel_text xml:lang="sma" location="abort.html"/>
-    <parallel_text xml:lang="sme" location="aborta.html"/>
-    <parallel_text xml:lang="smj" location="abartta.html"/>
-    <parallel_text location="phatra-pari-abort.html" xml:lang="rmu"/>
-    <parallel_text location="kana-e-uvli-udel-pestar.html" xml:lang="rmy-rka"/>
-    <parallel_text location="abortsia.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="abortos.html" xml:lang="rmf"/>
-    <parallel_text location="abortiribehinavibe-o-khamnipa.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Abort</p>
-    <p>Alla undrar!  Vad undrar du?</p>
-    <p type="title">Abort</p>
-    <p>Abort betyder att avbryta en graviditet. Om man funderar på att göra abort kan man ha många frågor. Man kan alltid få träffa någon för att få svar på sina frågor. Det gäller även den som gjort någon gravid.</p>
-    <p>» Texten finns på de nationella minoritetsspråken</p>
-    <p>Anledningarna till att man vill göra abort kan vara många. Det kan vara för att man inte känner sig redo. Att man tycker att man är för ung eller att det inte passar i ens liv just då. Kanske är den man blivit gravid tillsammans med inte den som man vill ha barn med.</p>
-    <p>Man har rätt att göra abort utan att behöva förklara sig för någon annan, oavsett anledning. Det står skrivet i abortlagen. Man har också rätt att ändra sig när som helst före själva aborten.</p>
-    <p>Att göra abort gör inte att det blir svårare att bli gravid i framtiden. Det finns inte heller någon åldersgräns för att få göra abort.</p>
-    <p type="title">Före aborten</p>
-    <p>Den som funderar på att göra abort kan ha många frågor och då kan det vara bra att prata med någon. I samband med en abort erbjuds man alltid stöd och hjälp, både före och efter. Om man är den som har gjort någon gravid kan man också få träffa någon att prata med om man vill.</p>
-    <p type="title">Tjejen som bestämmer</p>
-    <p>Det är alltid bra att prata med den som man blivit gravid tillsammans med om hur man vill göra. Om det går är det också bra om man kan fatta det beslutet gemensamt. Men om man inte är överens är det alltid den gravida tjejen som bestämmer om hon ska göra abort eller inte. Den som har gjort någon gravid har inte rätt att ensam fatta beslutet om man ska göra abort eller behålla barnet.</p>
-    <p type="title">Att vara partner till den som gör abort</p>
-    <p>Oavsett om beslutet om abort är gemensamt eller inte, kan det som partner vara en jobbig upplevelse. På både abortmottagningar och ungdomsmottagningar kan man få träffa någon och prata med, antingen båda två gemensamt eller enskilt.</p>
-    <p>Efter en abort kan man känna sig både lättad och ledsen. Känslorna och funderingarna kan växla med tiden och ibland kommer de först långt efter aborten.</p>
-    <p>Även om det har gått lång tid kan man ta kontakt med exempelvis en ungdomsmottagning för att få prata om det man känner.</p>
-    <p type="title">När kan man göra en abort?</p>
-    <p>Fram till och med den 18:e graviditetsveckan har man rätt att göra abort utan att behöva berätta för någon varför man vill göra det.</p>
-    <p>Efter den 18:e graviditetsveckan måste man ha ett tillstånd från Socialstyrelsen för att få göra abort. Ett sånt tillstånd får man bara om det finns särskilda skäl till aborten. Exempel på det kan vara att man är väldigt ung, har problem med alkohol eller droger, har blivit våldtagen eller att fostret har någon allvarlig skada eller missbildning.</p>
-    <p>Socialstyrelsen får inte ge tillstånd till abort om fostret  kan överleva utanför mammans kropp.</p>
-    <p type="title">Var gör man en abort?</p>
-    <p>Abort utförs alltid på sjukhus eller andra specialistkliniker, man kan till exempel inte göra abort på en ungdomsmottagning. Men om man vet att man är gravid och funderar på att göra en abort kan man kontakta en ungdomsmottagning för att få råd. Man kan också gå till en vårdcentral eller gynekolog. De kan också hjälpa en att ta kontakt med en abortmottagning på ett sjukhus.</p>
-    <p>Man kan även själv ringa direkt till en abortmottagning och boka tid. Om man vet att man vill göra abort kan det vara bra att boka en tid så snart som möjligt eftersom det ibland kan vara väntetider på vissa mottagningar.</p>
-    <p type="title">Hur går en abort till?</p>
-    <p>Abort kan göras på flera olika sätt. Vilka sätt den kan göras på beror på hur långt i graviditeten man har kommit. För att ta reda på vilken graviditetsvecka man är i utgår man från senaste mensens första dag. Man räknar alltså inte från själva befruktningstillfället.</p>
-    <p type="title">Fram till och med vecka nio</p>
-    <p>Fram till och med vecka nio kan man göra abort med hjälp av läkemedel. Det kallas för medicinsk abort. På vissa ställen används den metoden fram till och med vecka tolv. Då får man en tablett på abortmottagningen, detta är inte samma sak som akut-p-piller. Efter att man tagit tabletten får man gå hem.</p>
-    <p>En till två dagar senare kommer man tillbaka till mottagningen för att få ett nytt läkemedel, antingen som tabletter man sväljer eller som förs upp i slidan. Man stannar sen kvar på mottagningen och efter några timmar börjar man blöda och graviditeten stöts ut. Det kan göra ont men i så fall får man smärtlindring och senare samma dag kan man åka hem.</p>
-    <p>Det går också att slutföra aborten hemma, en så kallad hemabort. Då får man med sig den andra omgångens tabletter och tar dem hemma. För att få göra en hemabort måste man vara minst 18 år och ha någon annan vuxen hos sig.</p>
-    <p>Några veckor efter aborten gör man ett återbesök hos en gynekolog eller barnmorska för att göra ett nytt graviditetstest och berätta hur man mår. Det är först då som en medicinsk abort ses som helt genomförd. Ibland görs också en undersökning för att kontrollera att det inte finns några rester av till exempel moderkakan kvar i livmodern. Om det finns det kan en så kallad skrapning behöva göras och då sugs de delar som är kvar försiktigt bort. Om det behöver göras blir man nersövd.</p>
-    <p type="title">Fram till och med vecka 12</p>
-    <p>Fram till och med vecka 12, kan man göra det som kallas för kirurgisk abort, det som görs då är en skrapning. Under själva operationen är man nersövd. Läkaren för in ett instrument i livmodern. Instrumentet är kopplat till en sug. Försiktigt sugs foster och moderkaka ut ur livmodern. Själva aborten tar ungefär 20 minuter. Efteråt stannar man kvar på mottagningen i några timmar för att vila. Några veckor senare kan man ibland få göra ett återbesök.</p>
-    <p type="title">Efter vecka 12 och fram till och med vecka 18</p>
-    <p>Efter vecka 12 måste aborten göras i två steg. Då får man först läkemedel på mottagningen som är samma sorts tabletter som används vid tidig abort. Två dagar senare kommer man tillbaka till mottagningen och får nya läkemedel som sätter igång livmoderns sammandragningar så att fostret så småningom stöts ut.</p>
-    <p>Det kan liknas vid en miniförlossning och kan göra ont på samma sätt som när man föder barn. Tiden det tar kan variera, alltifrån några timmar till flera dygn men för de flesta sker det inom ett dygn. Under tiden är man inlagd på sjukhus. När aborten är klar undersöker läkaren livmodern. Om rester av moderkakan finns kvar kan en skrapning av livmodern behöva göras. Några veckor efter aborten får man ibland göra ett återbesök.</p>
-    <p type="title">Efter vecka 18</p>
-    <p>Efter vecka 18 får man bara göra abort om det finns särskilda skäl till aborten. Då måste Socialstyrelsen ge tillstånd till aborten och de får de bara göra så länge fostret inte kommer kunna överleva utanför mammans kropp.  Abort efter vecka 18 görs på samma sätt som efter vecka 12.</p>
-    <p type="title">Vad kostar en abort?</p>
-    <p>Vad det kostar att göra abort kan variera beroende på var i landet man bor. På många ställen behöver man inte betala något om man är under 20 år. Om man behöver betala så kostar det cirka 300 kronor oavsett hur gammal man är. Om man vill veta exakt vad det kostar där man själv bor så kan man fråga någon på en ungdomsmottagning eller barnmorskemottagning. Det går också bra att kontakta en abortmottagning.</p>
-    <p type="title">Måste föräldrar eller vårdnadshavare få veta?</p>
-    <p>Personalen på mottagningarna har tystnadsplikt. Men om man ska göra en abort är det bra om någon som kan vara ett stöd både före och efter aborten. Är man ung brukar personalen därför föreslå att föräldrar eller andra vårdnadshavare får veta om att man ska göra abort. Går det inte att berätta hemma att man ska göra en abort kan man kanske berätta det för någon annan vuxen som man litar på. Det kan vara ett vuxet syskon, en släkting, kuratorn eller sjuksköterskan på skolan eller någon annan som kan ge stöd.</p>
-    <p>Om föräldrar eller andra vårdnadshavare kontaktas bedöms från fall till fall och beror bland annat på vad man själv vill, omständigheterna och hur gammal man är. Ju närmare 18 år man är ju mindre har en förälder eller annan vårdnadshavare rätt att få veta om ens kontakter med vården. För det mesta kan man diskutera sig fram till hur man ska göra med den personal man träffar. Om föräldrar eller vårdnadshavare kontaktas så får man alltid själv veta det först.</p>
-    <p>Om det är så att ens föräldrar eller vårdnadshavare absolut inte kan få veta att man vill göra abort, för att det då skulle kunna hända en själv något, tar inte vårdpersonalen kontakt med dem. Att göra abort ska inte innebära att man försätts i en situation där man kan råka illa ut. Man kan då få hjälp av kurator eller en annan stödperson istället.</p>
-    <p type="title">Efter aborten</p>
-    <p>Dagarna efter en abort är det bra att vila. Under de första dagarna och upp till en dryg vecka kan man ha ont, ungefär som mensvärk. Veckorna efter aborten brukar man blöda ungefär som när man har mens eller kanske lite mer. Hur länge man blöder skiljer sig från person till person och beror bland annat på vilken typ av abort man har gått igenom. Så länge man blöder ska man inte ha sex, använda tampong eller bada eftersom man då kan få en infektion. Efter ungefär fyra till sex veckor brukar mensen komma tillbaka.</p>
-    <p>Efter en abort kan vissa känna sig lättade medan andra kan känna sig ledsna. Man kan också växla mellan de känslorna och ibland kommer de först långt efter aborten.</p>
-    <p>Även om det har gått lång tid kan man ta kontakt med en mottagning för att prata om det man känner. Det kan man göra på mottagningen där aborten gjordes eller till exempel på en ungdomsmottagning.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1659</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/></multilingual><origFileName>http://www.umo.se/Kroppen/Graviditet/Abort</origFileName><parallel_text xml:lang="fin" location="abortti.html"/><parallel_text xml:lang="fit" location="abortti.html"/><parallel_text xml:lang="sma" location="abort.html"/><parallel_text xml:lang="sme" location="aborta.html"/><parallel_text xml:lang="smj" location="abartta.html"/><parallel_text location="phatra-pari-abort.html" xml:lang="rmu"/><parallel_text location="kana-e-uvli-udel-pestar.html" xml:lang="rmy-rka"/><parallel_text location="abortsia.html" xml:lang="rmy-rlo"/><parallel_text location="abortos.html" xml:lang="rmf"/><parallel_text location="abortiribehinavibe-o-khamnipa.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Abort</p>
+<p type="title">Abort</p>
+<p>Abort betyder att avbryta en graviditet. Om man funderar på att göra abort kan man ha många frågor. Man kan alltid få träffa någon för att få svar på sina frågor. Det gäller även den som gjort någon gravid.</p>
+<p>» Texten finns på de nationella minoritetsspråken</p>
+<p>Anledningarna till att man vill göra abort kan vara många. Det kan vara för att man inte känner sig redo. Att man tycker att man är för ung eller att det inte passar i ens liv just då. Kanske är den man blivit gravid tillsammans med inte den som man vill ha barn med.</p>
+<p>Man har rätt att göra abort utan att behöva förklara sig för någon annan, oavsett anledning. Det står skrivet i abortlagen. Man har också rätt att ändra sig när som helst före själva aborten.</p>
+<p>Att göra abort gör inte att det blir svårare att bli gravid i framtiden. Det finns inte heller någon åldersgräns för att få göra abort.</p>
+<p type="title">Före aborten</p>
+<p>Den som funderar på att göra abort kan ha många frågor och då kan det vara bra att prata med någon. I samband med en abort erbjuds man alltid stöd och hjälp, både före och efter. Om man är den som har gjort någon gravid kan man också få träffa någon att prata med om man vill.</p>
+<p type="title">Tjejen som bestämmer</p>
+<p>Det är alltid bra att prata med den som man blivit gravid tillsammans med om hur man vill göra. Om det går är det också bra om man kan fatta det beslutet gemensamt. Men om man inte är överens är det alltid den gravida tjejen som bestämmer om hon ska göra abort eller inte. Den som har gjort någon gravid har inte rätt att ensam fatta beslutet om man ska göra abort eller behålla barnet.</p>
+<p type="title">Att vara partner till den som gör abort</p>
+<p>Oavsett om beslutet om abort är gemensamt eller inte, kan det som partner vara en jobbig upplevelse. På både abortmottagningar och ungdomsmottagningar kan man få träffa någon och prata med, antingen båda två gemensamt eller enskilt.</p>
+<p>Efter en abort kan man känna sig både lättad och ledsen. Känslorna och funderingarna kan växla med tiden och ibland kommer de först långt efter aborten.</p>
+<p>Även om det har gått lång tid kan man ta kontakt med exempelvis en ungdomsmottagning för att få prata om det man känner.</p>
+<p type="title">När kan man göra en abort?</p>
+<p>Fram till och med den 18:e graviditetsveckan har man rätt att göra abort utan att behöva berätta för någon varför man vill göra det.</p>
+<p>Efter den 18:e graviditetsveckan måste man ha ett tillstånd från Socialstyrelsen för att få göra abort. Ett sånt tillstånd får man bara om det finns särskilda skäl till aborten. Exempel på det kan vara att man är väldigt ung, har problem med alkohol eller droger, har blivit våldtagen eller att fostret har någon allvarlig skada eller missbildning.</p>
+<p>Socialstyrelsen får inte ge tillstånd till abort om fostret  kan överleva utanför mammans kropp.</p>
+<p type="title">Var gör man en abort?</p>
+<p>Abort utförs alltid på sjukhus eller andra specialistkliniker, man kan till exempel inte göra abort på en ungdomsmottagning. Men om man vet att man är gravid och funderar på att göra en abort kan man kontakta en ungdomsmottagning för att få råd. Man kan också gå till en vårdcentral eller gynekolog. De kan också hjälpa en att ta kontakt med en abortmottagning på ett sjukhus.</p>
+<p>Man kan även själv ringa direkt till en abortmottagning och boka tid. Om man vet att man vill göra abort kan det vara bra att boka en tid så snart som möjligt eftersom det ibland kan vara väntetider på vissa mottagningar.</p>
+<p type="title">Hur går en abort till?</p>
+<p>Abort kan göras på flera olika sätt. Vilka sätt den kan göras på beror på hur långt i graviditeten man har kommit. För att ta reda på vilken graviditetsvecka man är i utgår man från senaste mensens första dag. Man räknar alltså inte från själva befruktningstillfället.</p>
+<p type="title">Fram till och med vecka nio</p>
+<p>Fram till och med vecka nio kan man göra abort med hjälp av läkemedel. Det kallas för medicinsk abort. På vissa ställen används den metoden fram till och med vecka tolv. Då får man en tablett på abortmottagningen, detta är inte samma sak som akut-p-piller. Efter att man tagit tabletten får man gå hem.</p>
+<p>En till två dagar senare kommer man tillbaka till mottagningen för att få ett nytt läkemedel, antingen som tabletter man sväljer eller som förs upp i slidan. Man stannar sen kvar på mottagningen och efter några timmar börjar man blöda och graviditeten stöts ut. Det kan göra ont men i så fall får man smärtlindring och senare samma dag kan man åka hem.</p>
+<p>Det går också att slutföra aborten hemma, en så kallad hemabort. Då får man med sig den andra omgångens tabletter och tar dem hemma. För att få göra en hemabort måste man vara minst 18 år och ha någon annan vuxen hos sig.</p>
+<p>Några veckor efter aborten gör man ett återbesök hos en gynekolog eller barnmorska för att göra ett nytt graviditetstest och berätta hur man mår. Det är först då som en medicinsk abort ses som helt genomförd. Ibland görs också en undersökning för att kontrollera att det inte finns några rester av till exempel moderkakan kvar i livmodern. Om det finns det kan en så kallad skrapning behöva göras och då sugs de delar som är kvar försiktigt bort. Om det behöver göras blir man nersövd.</p>
+<p type="title">Fram till och med vecka 12</p>
+<p>Fram till och med vecka 12, kan man göra det som kallas för kirurgisk abort, det som görs då är en skrapning. Under själva operationen är man nersövd. Läkaren för in ett instrument i livmodern. Instrumentet är kopplat till en sug. Försiktigt sugs foster och moderkaka ut ur livmodern. Själva aborten tar ungefär 20 minuter. Efteråt stannar man kvar på mottagningen i några timmar för att vila. Några veckor senare kan man ibland få göra ett återbesök.</p>
+<p type="title">Efter vecka 12 och fram till och med vecka 18</p>
+<p>Efter vecka 12 måste aborten göras i två steg. Då får man först läkemedel på mottagningen som är samma sorts tabletter som används vid tidig abort. Två dagar senare kommer man tillbaka till mottagningen och får nya läkemedel som sätter igång livmoderns sammandragningar så att fostret så småningom stöts ut.</p>
+<p>Det kan liknas vid en miniförlossning och kan göra ont på samma sätt som när man föder barn. Tiden det tar kan variera, alltifrån några timmar till flera dygn men för de flesta sker det inom ett dygn. Under tiden är man inlagd på sjukhus. När aborten är klar undersöker läkaren livmodern. Om rester av moderkakan finns kvar kan en skrapning av livmodern behöva göras. Några veckor efter aborten får man ibland göra ett återbesök.</p>
+<p type="title">Efter vecka 18</p>
+<p>Efter vecka 18 får man bara göra abort om det finns särskilda skäl till aborten. Då måste Socialstyrelsen ge tillstånd till aborten och de får de bara göra så länge fostret inte kommer kunna överleva utanför mammans kropp.  Abort efter vecka 18 görs på samma sätt som efter vecka 12.</p>
+<p type="title">Vad kostar en abort?</p>
+<p>Vad det kostar att göra abort kan variera beroende på var i landet man bor. På många ställen behöver man inte betala något om man är under 20 år. Om man behöver betala så kostar det cirka 300 kronor oavsett hur gammal man är. Om man vill veta exakt vad det kostar där man själv bor så kan man fråga någon på en ungdomsmottagning eller barnmorskemottagning. Det går också bra att kontakta en abortmottagning.</p>
+<p type="title">Måste föräldrar eller vårdnadshavare få veta?</p>
+<p>Personalen på mottagningarna har tystnadsplikt. Men om man ska göra en abort är det bra om någon som kan vara ett stöd både före och efter aborten. Är man ung brukar personalen därför föreslå att föräldrar eller andra vårdnadshavare får veta om att man ska göra abort. Går det inte att berätta hemma att man ska göra en abort kan man kanske berätta det för någon annan vuxen som man litar på. Det kan vara ett vuxet syskon, en släkting, kuratorn eller sjuksköterskan på skolan eller någon annan som kan ge stöd.</p>
+<p>Om föräldrar eller andra vårdnadshavare kontaktas bedöms från fall till fall och beror bland annat på vad man själv vill, omständigheterna och hur gammal man är. Ju närmare 18 år man är ju mindre har en förälder eller annan vårdnadshavare rätt att få veta om ens kontakter med vården. För det mesta kan man diskutera sig fram till hur man ska göra med den personal man träffar. Om föräldrar eller vårdnadshavare kontaktas så får man alltid själv veta det först.</p>
+<p>Om det är så att ens föräldrar eller vårdnadshavare absolut inte kan få veta att man vill göra abort, för att det då skulle kunna hända en själv något, tar inte vårdpersonalen kontakt med dem. Att göra abort ska inte innebära att man försätts i en situation där man kan råka illa ut. Man kan då få hjälp av kurator eller en annan stödperson istället.</p>
+<p type="title">Efter aborten</p>
+<p>Dagarna efter en abort är det bra att vila. Under de första dagarna och upp till en dryg vecka kan man ha ont, ungefär som mensvärk. Veckorna efter aborten brukar man blöda ungefär som när man har mens eller kanske lite mer. Hur länge man blöder skiljer sig från person till person och beror bland annat på vilken typ av abort man har gått igenom. Så länge man blöder ska man inte ha sex, använda tampong eller bada eftersom man då kan få en infektion. Efter ungefär fyra till sex veckor brukar mensen komma tillbaka.</p>
+<p>Efter en abort kan vissa känna sig lättade medan andra kan känna sig ledsna. Man kan också växla mellan de känslorna och ibland kommer de först långt efter aborten.</p>
+<p>Även om det har gått lång tid kan man ta kontakt med en mottagning för att prata om det man känner. Det kan man göra på mottagningen där aborten gjordes eller till exempel på en ungdomsmottagning.</p>
+</body></document>

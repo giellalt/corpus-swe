@@ -1,39 +1,14 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>604</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1123</origFileName>
-    <parallel_text xml:lang="sme" location="3326.html"/>
-    <parallel_text xml:lang="smj" location="4021.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Rovdjur - Sametinget</p>
-    <p>Rovdjursriven rentjur. Foto: Carl-Johan Utsi.</p>
-    <p type="title">Rovdjursersättning</p>
-    <p>Sveriges rovdjurspolitik innebär att det ska finnas rovdjur i vår fauna. Samtidigt ska enskilda personer kompenseras för att deras privata egendom blir föda åt rovdjuren. Därför har renägarna rätt till rovdjursersättning, som betalas ut till samebyarna.</p>
-    <p>Rovdjursutredningen (SOU 2007:89) beräknar att en lodjurstam på 600 djur dödar 23 000 renar per år. Enligt ersättningssystemet för rovdjursskador på rennäringen ska samebyarna kompenseras för förekomst av rovdjur och antalet föryngringar (hona med årskull) i renskötselområdet. Rovdjursersättningarna är inte ett stöd eller ett bidrag utan en <em type="italic">ersättning </em>för verkliga förluster av privat egendom, på den grunden att vi vill ha rovdjur i vår fauna i Sverige. <em type="italic">Regelverk </em>De förordningar som reglerar rovdjursersättningen är Viltskadeförordningen och Sametingets föreskrifter. Sametinget administrerar utbetalningarna av rovdjursersättning. Ersättningen är baserad på en beräknad kostnad för varje art. <em type="italic">Inventeringar </em>En viktig förutsättning för att ersättningssystemet ska fungera, är trovärdiga rovdjursinventeringar. Inventeringarna görs i samarbete mellan länsstyrelsens naturvårdspatruller och samebyarna. </p>
-    <list>
-      <p type="listitem">Samebyarna deltar aktivt i inventeringsarbetet och utser så kallade rovdjursansvariga.</p>
-      <p type="listitem">Länsstyrelserna är huvudansvariga för inventeringarna och sammanställningen av övrig dokumentation om förekomst och föryngring av rovdjur.</p>
-      <p type="listitem">Sametinget fördelar de medel regeringen anvisar till respektive sameby för samebyarnas medverkan, utifrån beslutade fördelningsprinciper.</p>
-    </list>
-    <p><em type="italic">Dokumenterad förekomst ersätts </em>Rennäringen ersätts för dokumenterad förekomst av järv, lo och varg och antalet föryngringar av respektive art inom samebyarnas betesområde. <em type="italic">Järv och lodjur </em>Samebyn ersätts för varje dokumenterad järv- och loföryngring med 200 000 kronor. Regelbunden förekomst av järv och lo ersätts med 70 000 kronor. Tillfällig förekomst ersätts med 35 000 kronor. <em type="italic">Varg </em>Föryngring av varg inom en samebys betesområde ersätts med 500 000 kronor. En vargföryngring ger större skador och vargen har ett högre <span type="quote">"naturvårdsvärde"</span> än järv och lo. Regelbunden förekomst av varg ersätts med 80 000 kronor. Tillfällig förekomst ersätts med 35 000 kronor. <em type="italic">Björn och kungsörn </em>För björn och kungsörn gäller en arealbaserad ersättning som utgår ifrån storleken på samebyns barmarksbete. Förekomst av björn ersätts med totalt 1,5 miljoner och örn med 1 miljon kronor. </p>
-    <p><em type="italic">Samebyn fördelar själv </em>Sametinget tar beslut om ersättning för rovdjursförekomst till samebyarna i juni månad varje år. I november månad tas beslut om resterande ersättning för förekomster som konstaterats, genom t.ex. DNA-prover, senare än juni månad. Hur samebyarna bestämmer sig att fördela ersättningen är samebyarnas inre angelägenhet (STFS 2007:9, §9). </p>
-    <p><em type="italic">Förlust för renägare </em>Beräkningar som SSR och professor Öje Danell på Sveriges Lantbruksuniversitet (SLU) gjort visar att en renhjord på 500 djur årligen skulle ge en intäkt på ca 277 500 kr om det inte fanns några rovdjur. Om 18 % av renhjorden dödas av rovdjur, blir nettointäkten istället ca 43 000 kr. Den totala årsinkomsten blir då 133 700 kr med en rovdjursersättning på 90 000 kr inkluderat. (OBS! Predationen kan vara högre än så. Vid en predation på 22 % riskerar renskötseln en kollaps, d v s renhjorden minskar och dör så småningom ut.) </p>
-    <p><em type="italic">Framtidens rovdjurspolitik </em>Riksdagen antog i december 2013 en ny rovdjurspolitik. Enligt miljöministern ska politiken möjliggöra en god förvaltning av stora rovdjur, samtidigt som den ska tillgodose en bra balans mellan målet om gynnsam bevarandestatus för rovdjuren och ta hänsyn till de människor som lever och verkar i rovdjurstäta områden. </p>
-    <p><em type="italic">Toleransnivåer </em>Riksdagen beslutade också att rennäringen inte ska behöva tåla att mer än tio procent av renarna blir rovdjursmat årligen. Björnstammen ska ner från cirka 3300 till en miniminivå om 1100 individer. Vargen ska ner från dagens 350 till miniminivån 170-270, lodjuret ska minskas ner från dagens 1650 till minst 700, järvens mininivå ska ner från 750 till 500 och 50 häckande kungsörnspar måste bort. Minskningen av lo, järv och björn ska i första hand ske i renskötselområdet. </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>604</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1123</origFileName><parallel_text xml:lang="sme" location="3326.html"/><parallel_text xml:lang="smj" location="4021.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Rovdjur - Sametinget</p>
+<p>Rovdjursriven rentjur. Foto: Carl-Johan Utsi.</p>
+<p type="title">Rovdjursersättning</p>
+<p>Sveriges rovdjurspolitik innebär att det ska finnas rovdjur i vår fauna. Samtidigt ska enskilda personer kompenseras för att deras privata egendom blir föda åt rovdjuren. Därför har renägarna rätt till rovdjursersättning, som betalas ut till samebyarna.</p>
+<p>Rovdjursutredningen (SOU 2007:89) beräknar att en lodjurstam på 600 djur dödar 23 000 renar per år. Enligt ersättningssystemet för rovdjursskador på rennäringen ska samebyarna kompenseras för förekomst av rovdjur och antalet föryngringar (hona med årskull) i renskötselområdet. Rovdjursersättningarna är inte ett stöd eller ett bidrag utan en <em type="italic">ersättning </em>för verkliga förluster av privat egendom, på den grunden att vi vill ha rovdjur i vår fauna i Sverige. <em type="italic">Regelverk </em>De förordningar som reglerar rovdjursersättningen är Viltskadeförordningen och Sametingets föreskrifter. Sametinget administrerar utbetalningarna av rovdjursersättning. Ersättningen är baserad på en beräknad kostnad för varje art. <em type="italic">Inventeringar </em>En viktig förutsättning för att ersättningssystemet ska fungera, är trovärdiga rovdjursinventeringar. Inventeringarna görs i samarbete mellan länsstyrelsens naturvårdspatruller och samebyarna. </p>
+<list><p type="listitem">Samebyarna deltar aktivt i inventeringsarbetet och utser så kallade rovdjursansvariga.</p>
+<p type="listitem">Länsstyrelserna är huvudansvariga för inventeringarna och sammanställningen av övrig dokumentation om förekomst och föryngring av rovdjur.</p>
+<p type="listitem">Sametinget fördelar de medel regeringen anvisar till respektive sameby för samebyarnas medverkan, utifrån beslutade fördelningsprinciper.</p>
+</list><p><em type="italic">Dokumenterad förekomst ersätts </em>Rennäringen ersätts för dokumenterad förekomst av järv, lo och varg och antalet föryngringar av respektive art inom samebyarnas betesområde. <em type="italic">Järv och lodjur </em>Samebyn ersätts för varje dokumenterad järv- och loföryngring med 200 000 kronor. Regelbunden förekomst av järv och lo ersätts med 70 000 kronor. Tillfällig förekomst ersätts med 35 000 kronor. <em type="italic">Varg </em>Föryngring av varg inom en samebys betesområde ersätts med 500 000 kronor. En vargföryngring ger större skador och vargen har ett högre <span type="quote">"naturvårdsvärde"</span> än järv och lo. Regelbunden förekomst av varg ersätts med 80 000 kronor. Tillfällig förekomst ersätts med 35 000 kronor. <em type="italic">Björn och kungsörn </em>För björn och kungsörn gäller en arealbaserad ersättning som utgår ifrån storleken på samebyns barmarksbete. Förekomst av björn ersätts med totalt 1,5 miljoner och örn med 1 miljon kronor. </p>
+<p><em type="italic">Samebyn fördelar själv </em>Sametinget tar beslut om ersättning för rovdjursförekomst till samebyarna i juni månad varje år. I november månad tas beslut om resterande ersättning för förekomster som konstaterats, genom t.ex. DNA-prover, senare än juni månad. Hur samebyarna bestämmer sig att fördela ersättningen är samebyarnas inre angelägenhet (STFS 2007:9, §9). </p>
+<p><em type="italic">Förlust för renägare </em>Beräkningar som SSR och professor Öje Danell på Sveriges Lantbruksuniversitet (SLU) gjort visar att en renhjord på 500 djur årligen skulle ge en intäkt på ca 277 500 kr om det inte fanns några rovdjur. Om 18 % av renhjorden dödas av rovdjur, blir nettointäkten istället ca 43 000 kr. Den totala årsinkomsten blir då 133 700 kr med en rovdjursersättning på 90 000 kr inkluderat. (OBS! Predationen kan vara högre än så. Vid en predation på 22 % riskerar renskötseln en kollaps, d v s renhjorden minskar och dör så småningom ut.) </p>
+<p><em type="italic">Framtidens rovdjurspolitik </em>Riksdagen antog i december 2013 en ny rovdjurspolitik. Enligt miljöministern ska politiken möjliggöra en god förvaltning av stora rovdjur, samtidigt som den ska tillgodose en bra balans mellan målet om gynnsam bevarandestatus för rovdjuren och ta hänsyn till de människor som lever och verkar i rovdjurstäta områden. </p>
+<p><em type="italic">Toleransnivåer </em>Riksdagen beslutade också att rennäringen inte ska behöva tåla att mer än tio procent av renarna blir rovdjursmat årligen. Björnstammen ska ner från cirka 3300 till en miniminivå om 1100 individer. Vargen ska ner från dagens 350 till miniminivån 170-270, lodjuret ska minskas ner från dagens 1650 till minst 700, järvens mininivå ska ner från 750 till 500 och 50 häckande kungsörnspar måste bort. Minskningen av lo, järv och björn ska i första hand ske i renskötselområdet. </p>
+</body></document>

@@ -1,42 +1,19 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>514</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/1130</origFileName>
-    <parallel_text xml:lang="sme" location="3081.html"/>
-    <parallel_text xml:lang="smj" location="4070.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Renen och naturen - Sametinget</p>
-    <p>Renar gräver fram lav under snön. Foto: Marie Enoksson.</p>
-    <p type="title">Renen och naturen</p>
-    <p>Renen är ett hjortdjur med speciell förmåga att tillgodogöra sig lavar. Betestillgången är avgörande för köttproduktionen.</p>
-    <p>Flocklevande hjortdjur</p>
-    <p>Renen&#13; är ett flocklevande hjortdjur som lever i de nordliga delarna av&#13; Europa, Asien och Nordamerika. Renen är idisslare och har en unik&#13; förmåga att smälta lav. På sommarhalvåret äter den gräs, örter och löv.&#13; På vintern är den huvudsakliga födan renlav, ibland hänglav uppblandat&#13; med ljung och kråkbär. På vinterhalvåret förekommer också stödutfodring&#13; med pellets. Både sarvar (handjur) och vajor (hondjur) har horn. Renen&#13; är suverän på att klara kyla genom sina ihåliga pälsstrån, men saknar&#13; svettkörtlar. Den är ett bytesdjur för rovdjur som björn, järv och lo.</p>
-    <p>Användbart djur</p>
-    <p>Genom historien har renen använts som lockdjur, packdjur och&#13; dragdjur. Man har jagat den, tämjt den, mjölkat den, ätit den och gjort kläder&#13; av päls och skinn. Senor kan bli tråd och tarmar kan bli korvskinn. Renens magar har använts som förvaringskärl.</p>
-    <p>Köttet</p>
-    <p>Renkött är ett magert kött med mild viltsmak. Det kan stekas, kokas,&#13; saltas och torkas. Renkött är mört och behöver inte hänga innan&#13; styckning.</p>
-    <p>Renens förutsättningar</p>
-    <p>Ett särdrag hos renen är att kroppsfunktioner och näringsbehov varierar extremt under olika årstider. Tillväxt, mjölkproduktion till kalven och uppbyggnad av egna kroppsreserver (fett och protein) sker under sommaren när det är hög kvalitet på betet. På vintern lever renen ofta i näringsmässigt underskott och förbrukar sina kroppsreserver. Den svåraste perioden är senvintern och våren då vajornas näringsbehov ökar på grund av fosterutveckling och digivning. Då är betestillgången och beteskvaliteten låg.</p>
-    <p>Kalvning och brunst</p>
-    <p>Renen kalvar i maj, vilket är till nackdel för vajornas kondition men ökar längden på kalvarnas första betessäsong. För sarvarna är brunsten i oktober den mest krävande perioden, då en stor del av kroppsförråden förbrukas. Dödligheten kan bli hög om vintern är svår och sarvarna inte hunnit återfå en del av kroppsförråden under senhösten.</p>
-    <p>Selektiv idisslare</p>
-    <p>Renen är en så kallad selektiv idisslare, vilket ställer höga krav på födans kvalitet. Renens förmåga att tillgodogöra sig lav är unik. För renen har laven en mycket hög smältbarhet och därmed ett högt energiinnehåll. Laven innehåller dock lite protein. Även under goda betesförhållanden behöver renen utnyttja sitt kroppsförråd av protein för att klara vintern. Det leder till att kroppens muskelandel minskar under vintern. Frånvaro av lav måste kompenseras med större mängder av andra växter. Växternas lägre näringsmässiga kvalitet under vintern begränsar samtidigt renens totala konsumtionsförmåga. Hjortdjur har en begränsad kapacitet att tillgodogöra sig fiberrika växtmaterial jämfört med till exempel nötkreatur och får.</p>
-    <p>Lavtäcket</p>
-    <p>Renlaven växer långsamt, ungefär 10&#13; procent per år. Hänglav är ett komplement till renlaven, speciellt under vintrar då betet är låst under ett istäcke. Ökad skogavverkning och miljöförstöring har gjort att hänglaven minskat i skogarna. Ett för högt renantal i förhållande till betestillgång&#13; leder till att lavtäcket minskar, vilket i sin tur kan leda till att&#13; landskap och biotop förändras så att marken eroderar. Den stora&#13; utmaningen för rennäringen i framtiden är tillräckliga betesmarker och att hushålla med betet så att&#13; den biologiska mångfalden bibehålls.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>514</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1130</origFileName><parallel_text xml:lang="sme" location="3081.html"/><parallel_text xml:lang="smj" location="4070.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Renen och naturen - Sametinget</p>
+<p>Renar gräver fram lav under snön. Foto: Marie Enoksson.</p>
+<p type="title">Renen och naturen</p>
+<p>Renen är ett hjortdjur med speciell förmåga att tillgodogöra sig lavar. Betestillgången är avgörande för köttproduktionen.</p>
+<p>Flocklevande hjortdjur</p>
+<p>Renen&#13; är ett flocklevande hjortdjur som lever i de nordliga delarna av&#13; Europa, Asien och Nordamerika. Renen är idisslare och har en unik&#13; förmåga att smälta lav. På sommarhalvåret äter den gräs, örter och löv.&#13; På vintern är den huvudsakliga födan renlav, ibland hänglav uppblandat&#13; med ljung och kråkbär. På vinterhalvåret förekommer också stödutfodring&#13; med pellets. Både sarvar (handjur) och vajor (hondjur) har horn. Renen&#13; är suverän på att klara kyla genom sina ihåliga pälsstrån, men saknar&#13; svettkörtlar. Den är ett bytesdjur för rovdjur som björn, järv och lo.</p>
+<p>Användbart djur</p>
+<p>Genom historien har renen använts som lockdjur, packdjur och&#13; dragdjur. Man har jagat den, tämjt den, mjölkat den, ätit den och gjort kläder&#13; av päls och skinn. Senor kan bli tråd och tarmar kan bli korvskinn. Renens magar har använts som förvaringskärl.</p>
+<p>Köttet</p>
+<p>Renkött är ett magert kött med mild viltsmak. Det kan stekas, kokas,&#13; saltas och torkas. Renkött är mört och behöver inte hänga innan&#13; styckning.</p>
+<p>Renens förutsättningar</p>
+<p>Ett särdrag hos renen är att kroppsfunktioner och näringsbehov varierar extremt under olika årstider. Tillväxt, mjölkproduktion till kalven och uppbyggnad av egna kroppsreserver (fett och protein) sker under sommaren när det är hög kvalitet på betet. På vintern lever renen ofta i näringsmässigt underskott och förbrukar sina kroppsreserver. Den svåraste perioden är senvintern och våren då vajornas näringsbehov ökar på grund av fosterutveckling och digivning. Då är betestillgången och beteskvaliteten låg.</p>
+<p>Kalvning och brunst</p>
+<p>Renen kalvar i maj, vilket är till nackdel för vajornas kondition men ökar längden på kalvarnas första betessäsong. För sarvarna är brunsten i oktober den mest krävande perioden, då en stor del av kroppsförråden förbrukas. Dödligheten kan bli hög om vintern är svår och sarvarna inte hunnit återfå en del av kroppsförråden under senhösten.</p>
+<p>Selektiv idisslare</p>
+<p>Renen är en så kallad selektiv idisslare, vilket ställer höga krav på födans kvalitet. Renens förmåga att tillgodogöra sig lav är unik. För renen har laven en mycket hög smältbarhet och därmed ett högt energiinnehåll. Laven innehåller dock lite protein. Även under goda betesförhållanden behöver renen utnyttja sitt kroppsförråd av protein för att klara vintern. Det leder till att kroppens muskelandel minskar under vintern. Frånvaro av lav måste kompenseras med större mängder av andra växter. Växternas lägre näringsmässiga kvalitet under vintern begränsar samtidigt renens totala konsumtionsförmåga. Hjortdjur har en begränsad kapacitet att tillgodogöra sig fiberrika växtmaterial jämfört med till exempel nötkreatur och får.</p>
+<p>Lavtäcket</p>
+<p>Renlaven växer långsamt, ungefär 10&#13; procent per år. Hänglav är ett komplement till renlaven, speciellt under vintrar då betet är låst under ett istäcke. Ökad skogavverkning och miljöförstöring har gjort att hänglaven minskat i skogarna. Ett för högt renantal i förhållande till betestillgång&#13; leder till att lavtäcket minskar, vilket i sin tur kan leda till att&#13; landskap och biotop förändras så att marken eroderar. Den stora&#13; utmaningen för rennäringen i framtiden är tillräckliga betesmarker och att hushålla med betet så att&#13; den biologiska mångfalden bibehålls.</p>
+</body></document>

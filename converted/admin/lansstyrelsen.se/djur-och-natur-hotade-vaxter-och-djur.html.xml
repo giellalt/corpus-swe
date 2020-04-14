@@ -1,36 +1,10 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>201</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/djur-och-natur/hotade-vaxter-och-djur/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="djur-och-natur-hotade-vaxter-och-djur.html"/>
-    <parallel_text xml:lang="sma" location="djur-och-natur-hotade-vaxter-och-djur.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Hotade växter och djur - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Hotade växter och djur</p>
-    <p>
-      <em type="italic">Länsstyrelsen arbetar för att länets värdefulla växter och djur ska bevaras. Vi tar fram åtgärdsprogram för att skydda hotade djur- och växtarter. </em>
-    </p>
-    <p type="title">Arter kan fridlysas</p>
-    <p>Om en art är fridlyst får du inte plocka, samla in eller skada växten eller djuret. För många arter är det även förbjudet att skada deras livsmiljöer. Hotade arter sätts upp på den så kallade rödlistan. Det är ArtDatabanken som på Naturvårdsverkets uppdrag tar fram Sveriges rödlista. Den ger inget automatiskt skydd, men är en viktig signal om att artens livsmiljö bör skyddas eller återställas.</p>
-    <p>Fridlysningsbestämmelserna finns i kapitel 8 i miljöbalken (SFS 1998:808) och i artskyddsförordningen (SFS 2007:845). Kontakta Länsstyrelsen om du vill ansöka om dispens från fridlysningsbestämmelserna.</p>
-    <p>Naturvårdsverket har mer information om fridlysta växter och djur.</p>
-    <p type="title">Hotade arter får Åtgärdsprogram</p>
-    <p>Länsstyrelsen tar fram särskilda åtgärdsprogram för hotade arter (ÅGP) när det inte räcker med insatser som reservatsbildning och miljöersättningar till jordbruket. ArtDatabanken analyserar vilka arter som är i störst behov av åtgärdsprogram, och Naturvårdsverket står för den nationella samordningen av åtgärdsprogrammen. Länsstyrelsen utför dock en stor del av arbetet, både när det gäller att ta fram programmet och att genomföra olika skyddsåtgärder.</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>201</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/djur-och-natur/hotade-vaxter-och-djur/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="djur-och-natur-hotade-vaxter-och-djur.html"/><parallel_text xml:lang="sma" location="djur-och-natur-hotade-vaxter-och-djur.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Hotade växter och djur - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Hotade växter och djur</p>
+<p><em type="italic">Länsstyrelsen arbetar för att länets värdefulla växter och djur ska bevaras. Vi tar fram åtgärdsprogram för att skydda hotade djur- och växtarter. </em></p>
+<p type="title">Arter kan fridlysas</p>
+<p>Om en art är fridlyst får du inte plocka, samla in eller skada växten eller djuret. För många arter är det även förbjudet att skada deras livsmiljöer. Hotade arter sätts upp på den så kallade rödlistan. Det är ArtDatabanken som på Naturvårdsverkets uppdrag tar fram Sveriges rödlista. Den ger inget automatiskt skydd, men är en viktig signal om att artens livsmiljö bör skyddas eller återställas.</p>
+<p>Fridlysningsbestämmelserna finns i kapitel 8 i miljöbalken (SFS 1998:808) och i artskyddsförordningen (SFS 2007:845). Kontakta Länsstyrelsen om du vill ansöka om dispens från fridlysningsbestämmelserna.</p>
+<p>Naturvårdsverket har mer information om fridlysta växter och djur.</p>
+<p type="title">Hotade arter får Åtgärdsprogram</p>
+<p>Länsstyrelsen tar fram särskilda åtgärdsprogram för hotade arter (ÅGP) när det inte räcker med insatser som reservatsbildning och miljöersättningar till jordbruket. ArtDatabanken analyserar vilka arter som är i störst behov av åtgärdsprogram, och Naturvårdsverket står för den nationella samordningen av åtgärdsprogrammen. Länsstyrelsen utför dock en stor del av arbetet, både när det gäller att ta fram programmet och att genomföra olika skyddsåtgärder.</p>
+</body></document>

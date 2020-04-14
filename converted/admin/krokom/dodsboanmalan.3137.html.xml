@@ -1,92 +1,56 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title>Dödsboanmälan - Krokoms kommun</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>343</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.krokom.se/omsorgochhjalp/dodsfallochbegravning/dodsboanmalan.3137.html</origFileName>
-    <parallel_text xml:lang="sma" location="dodsboanmalan.3137.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="ron">Translate site</p>
-    <list>
-      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
-      <p type="listitem" xml:lang="eng">Om webbplatsen</p>
-      <p type="listitem" xml:lang="eng">Press</p>
-      <p type="listitem" xml:lang="vep">A-Ö</p>
-      <p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
-      <p type="listitem" xml:lang="vep">Intranät</p>
-      <p type="listitem">Lyssna</p>
-      <p type="listitem" xml:lang="sms">Lättläst</p>
-      <p type="listitem" xml:lang="ron">Translate</p>
-    </list>
-    <p xml:lang="isl">Sök</p>
-    <list>
-      <p type="listitem">Kommun och politik</p>
-      <p type="listitem">Utbildning och barnomsorg</p>
-      <p type="listitem">Bygga, bo och miljö</p>
-      <p type="listitem">Omsorg och hjälp</p>
-      <p type="listitem">Näringsliv och arbete</p>
-      <p type="listitem">Kultur, fritid och turism</p>
-      <p type="listitem">Trafik och infrastruktur</p>
-    </list>
-    <p>Mina favoriter</p>
-    <p type="title">Dödsboanmälan</p>
-    <p type="title">Dödsboanmälan eller bouppteckning</p>
-    <p>När någon har avlidit ansvarar de anhöriga för att bouppteckning eller dödsboanmälan sker.</p>
-    <p>Om det inte finns tillgångar som räcker till mer än begravningskostnaderna kan kommunen hjälpa till med en dödsboanmälan.</p>
-    <p>Dödsboanmälan ska upprättas av Socialnämnden i den kommun där den avlidne var bosatt och bör ske inom två månader efter dödsfallet.  <em type="italic">Det är viktigt att inga räkningar betalas innan dödsboanmälan är klar och att alla autogiron stoppas. </em> </p>
-    <p type="title">Vad ska vara uppfyllt för att en dödsboanmälan ska kunna göras ?</p>
-    <list>
-      <p type="listitem">Den avlidne ska ha varit folkbokförd i kommunen.</p>
-      <p type="listitem">Det får inte finnas fast egendom eller tomträtt i dödsboet.</p>
-      <p type="listitem">Tillgångarna skall vara orörda och Socialförvaltningen ska ha fått möjlighet att göra hembesök, innan förvaltningen beslutar om dödsboanmälan kan göras.</p>
-      <p type="listitem">Tillgångarna skall i första hand bekosta begravningen.</p>
-      <p type="listitem">Räcker inte tillgångarna till övriga räkningar och skulder finns möjlighet att få dessa avskrivna genom att den som företräder dödsboet lämnar en kopia på dödsboanmälan till fodringsägarna.</p>
-    </list>
-    <p type="title">Vem betalar begravningen ?</p>
-    <list>
-      <p type="listitem">Dödsboet betalar begravningen.</p>
-      <p type="listitem">Finns det inte medel i dödsboet, kan dödsboet ansöka om ekonomiskt bistånd till hela eller delar av begravningskostnaden. Man kan som mest få hjälp med ett halvt prisbasbelopp minus dödsboets egna tillgångar och detta efter en ekonomiutredning.</p>
-    </list>
-    <p type="title">Socialförvaltningen kan erbjuda hjälp med:</p>
-    <list>
-      <p type="listitem" xml:lang="fin">Kista</p>
-      <p type="listitem">Urna (ska den avlidne vila i minneslund fås urna gratis av krematoriet)</p>
-      <p type="listitem" xml:lang="est">Kistläggning</p>
-      <p type="listitem">Bärare vid bisittning</p>
-      <p type="listitem" xml:lang="nob">Representant vid begravningen</p>
-      <p type="listitem">Begravningsbyråns arvode</p>
-      <p type="listitem" xml:lang="nob">Dödsannons i en lokaltidning</p>
-      <p type="listitem">Nödvändiga transporter (inom Sverige)</p>
-      <p type="listitem" xml:lang="eng">Enklare kistdekoration</p>
-      <p type="listitem">Enklare förtäring för en mindre krets sörjande</p>
-      <p type="listitem">Gravsten med inskription</p>
-    </list>
-    <p xml:lang="nno">Uppdaterad 2012-04-23 av Åsa Sjödin</p>
-    <p xml:lang="sma">Åarjelsaemien gïele</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Facebook</p>
-      <p type="listitem" xml:lang="nno">Twitter</p>
-      <p type="listitem" xml:lang="eng">E-post</p>
-    </list>
-    <p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
-    <p xml:lang="eng">Kontaktinformation</p>
-    <list>
-      <p type="listitem">Individ- och familjeomsorgen</p>
-      <p type="listitem" xml:lang="koi">0640-162 83</p>
-    </list>
-    <p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title>Dödsboanmälan - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>343</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/omsorgochhjalp/dodsfallochbegravning/dodsboanmalan.3137.html</origFileName><parallel_text xml:lang="sma" location="dodsboanmalan.3137.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="ron">Translate site</p>
+<list><p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+<p type="listitem" xml:lang="nob">Om webbplatsen</p>
+<p type="listitem" xml:lang="eng">Press</p>
+<p type="listitem" xml:lang="est">A-Ö</p>
+<p type="listitem" xml:lang="sms">Kontakt &amp; journummer</p>
+<p type="listitem" xml:lang="vep">Intranät</p>
+<p type="listitem">Lyssna</p>
+<p type="listitem" xml:lang="sms">Lättläst</p>
+<p type="listitem" xml:lang="ron">Translate</p>
+</list><p xml:lang="isl">Sök</p>
+<list><p type="listitem">Kommun och politik</p>
+<p type="listitem">Utbildning och barnomsorg</p>
+<p type="listitem">Bygga, bo och miljö</p>
+<p type="listitem">Omsorg och hjälp</p>
+<p type="listitem">Näringsliv och arbete</p>
+<p type="listitem">Kultur, fritid och turism</p>
+<p type="listitem">Trafik och infrastruktur</p>
+</list><p>Mina favoriter</p>
+<p type="title">Dödsboanmälan</p>
+<p type="title">Dödsboanmälan eller bouppteckning</p>
+<p>När någon har avlidit ansvarar de anhöriga för att bouppteckning eller dödsboanmälan sker.</p>
+<p>Om det inte finns tillgångar som räcker till mer än begravningskostnaderna kan kommunen hjälpa till med en dödsboanmälan.</p>
+<p>Dödsboanmälan ska upprättas av Socialnämnden i den kommun där den avlidne var bosatt och bör ske inom två månader efter dödsfallet.  <em type="italic">Det är viktigt att inga räkningar betalas innan dödsboanmälan är klar och att alla autogiron stoppas. </em> </p>
+<p type="title">Vad ska vara uppfyllt för att en dödsboanmälan ska kunna göras ?</p>
+<list><p type="listitem">Den avlidne ska ha varit folkbokförd i kommunen.</p>
+<p type="listitem">Det får inte finnas fast egendom eller tomträtt i dödsboet.</p>
+<p type="listitem">Tillgångarna skall vara orörda och Socialförvaltningen ska ha fått möjlighet att göra hembesök, innan förvaltningen beslutar om dödsboanmälan kan göras.</p>
+<p type="listitem">Tillgångarna skall i första hand bekosta begravningen.</p>
+<p type="listitem">Räcker inte tillgångarna till övriga räkningar och skulder finns möjlighet att få dessa avskrivna genom att den som företräder dödsboet lämnar en kopia på dödsboanmälan till fodringsägarna.</p>
+</list><p type="title">Vem betalar begravningen ?</p>
+<list><p type="listitem">Dödsboet betalar begravningen.</p>
+<p type="listitem">Finns det inte medel i dödsboet, kan dödsboet ansöka om ekonomiskt bistånd till hela eller delar av begravningskostnaden. Man kan som mest få hjälp med ett halvt prisbasbelopp minus dödsboets egna tillgångar och detta efter en ekonomiutredning.</p>
+</list><p type="title">Socialförvaltningen kan erbjuda hjälp med:</p>
+<list><p type="listitem" xml:lang="fin">Kista</p>
+<p type="listitem">Urna (ska den avlidne vila i minneslund fås urna gratis av krematoriet)</p>
+<p type="listitem" xml:lang="est">Kistläggning</p>
+<p type="listitem">Bärare vid bisittning</p>
+<p type="listitem" xml:lang="nob">Representant vid begravningen</p>
+<p type="listitem">Begravningsbyråns arvode</p>
+<p type="listitem" xml:lang="nob">Dödsannons i en lokaltidning</p>
+<p type="listitem">Nödvändiga transporter (inom Sverige)</p>
+<p type="listitem" xml:lang="eng">Enklare kistdekoration</p>
+<p type="listitem">Enklare förtäring för en mindre krets sörjande</p>
+<p type="listitem">Gravsten med inskription</p>
+</list><p xml:lang="nno">Uppdaterad 2012-04-23 av Åsa Sjödin</p>
+<p xml:lang="sma">Åarjelsaemien gïele</p>
+<list><p type="listitem" xml:lang="nno">Facebook</p>
+<p type="listitem" xml:lang="nno">Twitter</p>
+<p type="listitem" xml:lang="eng">E-post</p>
+</list><p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
+<p xml:lang="eng">Kontaktinformation</p>
+<list><p type="listitem">Individ- och familjeomsorgen</p>
+<p type="listitem" xml:lang="vep">0640-162 83</p>
+</list><p xml:lang="nob"><em type="italic">KROKOMS KOMMUN </em>Offerdalsvägen 8, 835 80 Krokom Tel. 0640-161 00 vxl (vardagar kl 08-17) | Fax 0640-161 05 | E-post » </p>
+</body></document>

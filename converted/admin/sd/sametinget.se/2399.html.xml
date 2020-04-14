@@ -1,45 +1,15 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>328</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <origFileName>http://www.samediggi.se/2399</origFileName>
-    <parallel_text xml:lang="sme" location="4996.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Traditionell kunskap - Sametinget</p>
-    <p>Carl-Johan Utsi.</p>
-    <p type="title">Traditionell kunskap</p>
-    <p>Det är av stor vikt att dokumentera den traditionella, samiska och ofta <span type="quote">"tysta"</span> kunskapen. Det finns en koppling mellan den traditionella kunskapen och hållbart nyttjande av biologisk mångfald.</p>
-    <p>I vår tid har mycket gammal kunskap gått förlorad om hur man försörjer sig och överlever i ett hårt och kargt klimat med de förutsättningar som står till buds. För att förhindra att även det som fortfarande går att dokumentera försvinner, pågår nu ett flertal pilotprojekt.</p>
-    <p>
-      <em type="bold">Mycket att lära </em>
-    </p>
-    <p>Det gamla sättet att göra saker på har oftast varit både miljövänligt och ekologiskt hållbart. Vi har mycket att lära oss om vårt kulturarv och våra förfäders förhållningssätt till natur, djur och miljö.</p>
-    <p>
-      <em type="bold">Utredning som grund </em>
-    </p>
-    <p>Sametinget har tillsammans med Centrum för Biologisk Mångfald gjort utredningen <span type="quote">”Traditionell kunskap och sedvänjor inom den samiska kulturen - relaterat till bevarande och hållbart nyttjande av biologisk mångfald”</span> (Per Mikael Utsi). Utredningen finns att läsa i lågupplöst pdf-format i högerspalten. Den tryckta versionen kan beställas från Sametingets kansli i Kiruna.</p>
-    <p>
-      <em type="bold">Pilotprojekt </em>
-    </p>
-    <p>Med utgångspunkt i utredningen har Centrum för Biologiskt Mångfald (CBM) och Sametinget under 2007 och 2008 ställt medel till förfogande för pilotprojekt för dokumentation av den lokala samiska traditionella kunskapen. (Klicka på länken i högerspalten för att läsa mer om de projekten.) Pilotprojekten ligger till grund för en större flerårig satsning på kartläggning, dokumentation, upprätthållande och överföring av samisk traditionell kunskap.</p>
-    <p>
-      <em type="bold">Nationellt program </em>
-    </p>
-    <p>Centrum för biologisk mångfald (CBM) har på uppdrag av regeringen initierat ett <span type="quote">”nationellt program för lokal och traditionell kunskap relaterad till bevarande och hållbart nyttjande av biologiskt mångfald”</span>. Bakgrunden till programmet är bland annat konventionen om biologiskt mångfald och särskilt artikel 8j som handlar om traditionell kunskap i förvaltandet av biologisk mångfald. I regeringsbeslutet framhölls vikten av ett nära samarbete med Sametinget. Detta samarbete har resulterat i ett särskilt delprogram kallat det samiska initiativet vars mål är att det samiska samhället utifrån egna prioriteringar tar initiativet att dokumentera samisk traditionell kunskap och naturresursanvändning.</p>
-    <p/>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>328</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/2399</origFileName><parallel_text xml:lang="sme" location="4996.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Traditionell kunskap - Sametinget</p>
+<p>Carl-Johan Utsi.</p>
+<p type="title">Traditionell kunskap</p>
+<p>Det är av stor vikt att dokumentera den traditionella, samiska och ofta <span type="quote">"tysta"</span> kunskapen. Det finns en koppling mellan den traditionella kunskapen och hållbart nyttjande av biologisk mångfald.</p>
+<p>I vår tid har mycket gammal kunskap gått förlorad om hur man försörjer sig och överlever i ett hårt och kargt klimat med de förutsättningar som står till buds. För att förhindra att även det som fortfarande går att dokumentera försvinner, pågår nu ett flertal pilotprojekt.</p>
+<p><em type="bold">Mycket att lära </em></p>
+<p>Det gamla sättet att göra saker på har oftast varit både miljövänligt och ekologiskt hållbart. Vi har mycket att lära oss om vårt kulturarv och våra förfäders förhållningssätt till natur, djur och miljö.</p>
+<p><em type="bold">Utredning som grund </em></p>
+<p>Sametinget har tillsammans med Centrum för Biologisk Mångfald gjort utredningen <span type="quote">”Traditionell kunskap och sedvänjor inom den samiska kulturen - relaterat till bevarande och hållbart nyttjande av biologisk mångfald”</span> (Per Mikael Utsi). Utredningen finns att läsa i lågupplöst pdf-format i högerspalten. Den tryckta versionen kan beställas från Sametingets kansli i Kiruna.</p>
+<p><em type="bold">Pilotprojekt </em></p>
+<p>Med utgångspunkt i utredningen har Centrum för Biologiskt Mångfald (CBM) och Sametinget under 2007 och 2008 ställt medel till förfogande för pilotprojekt för dokumentation av den lokala samiska traditionella kunskapen. (Klicka på länken i högerspalten för att läsa mer om de projekten.) Pilotprojekten ligger till grund för en större flerårig satsning på kartläggning, dokumentation, upprätthållande och överföring av samisk traditionell kunskap.</p>
+<p><em type="bold">Nationellt program </em></p>
+<p>Centrum för biologisk mångfald (CBM) har på uppdrag av regeringen initierat ett <span type="quote">”nationellt program för lokal och traditionell kunskap relaterad till bevarande och hållbart nyttjande av biologiskt mångfald”</span>. Bakgrunden till programmet är bland annat konventionen om biologiskt mångfald och särskilt artikel 8j som handlar om traditionell kunskap i förvaltandet av biologisk mångfald. I regeringsbeslutet framhölls vikten av ett nära samarbete med Sametinget. Detta samarbete har resulterat i ett särskilt delprogram kallat det samiska initiativet vars mål är att det samiska samhället utifrån egna prioriteringar tar initiativet att dokumentera samisk traditionell kunskap och naturresursanvändning.</p>
+<p/>
+</body></document>

@@ -1,68 +1,36 @@
-<document xml:lang="swe" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>314</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/notarius-publicus/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="manniska-och-samhalle-notarius-publicus.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-notarius-publicus.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Notarius publicus - Länsstyrelsen i Dalarna</p>
-    <list/>
-    <p type="title">Notarius publicus</p>
-    <p>
-      <em type="italic">Länsstyrelsen utser så kallade notarius publicus, enskilda personer som har i uppdrag att hjälpa allmänheten med att kontrollera och intyga riktigheten i olika uppgifter. Titeln är latin och betyder ungefär <span type="quote">”offentlig sekreterare”</span>. </em>
-    </p>
-    <p>Uppdraget som notarius publicus kan vara tidsbegränsat och Länsstyrelsen anger inom vilket geografiskt område, oftast en kommun, som personen ska utföra sitt uppdrag. Hon eller han är dock behörig att arbeta även utanför det angivna området.</p>
-    <p>För att kunna bli notarius publicus ska du ha avlagt juristexamen. Du får inte vara försatt i konkurs eller ha en förvaltare.</p>
-    <p type="title">Vad gör notarius publicus?</p>
-    <p>Notarius publicus ska bland annat hjälpa allmänheten med att</p>
-    <list>
-      <p type="listitem">bestyrka namnunderskrifter, avskrifter, översättningar och andra uppgifter som rör innehållet i handlingar</p>
-      <p type="listitem">närvara som vittne när förvaringsrum öppnas eller stängs, eller när förseglingar sätts på eller bryts</p>
-      <p type="listitem">kontrollera lotteridragningar</p>
-      <p type="listitem">bekräfta att någon är behörig att göra vissa saker, eller att någon har kompetens eller tjänsteställning att företräda någon annan.</p>
-    </list>
-    <p>
-      <em type="italic">Länsstyrelsen har utsett följande personer till notarius publicus: </em>
-    </p>
-    <p>Jur kand Mats Sörsten Advokatfirman Glimstedt Stadshusgränd 3, Box 1283, 791 12 FALUN Tfn 070-517 80 00 E-post mats.sorsten@telia.com</p>
-    <p>Advokat Svante Hedberg Åsgatan 59 B, 776 31 HEDEMORA Tfn 070-542 08 14 E-post svante.hedberg@telia.com</p>
-    <p>Advokat Christer Mellberg Norra Kyrkogatan 1, 783 30 SÄTER Tfn 0225-156 00, 070-731 46 91, fax 0225-142 20 E-post advokat@christermellberg.se</p>
-    <p>
-      <em type="italic">Biträdande </em>
-    </p>
-    <p>Advokat Lars Morell Box 224, 771 25 LUDVIKAT fn 0240-106 70 E-post advokat.morell@telia.com</p>
-    <p>Kronofogde Rolf Ahlsson c/o Ahlsson, Hemmansvägen 12, 122 38 Enskede Tfn 070-518 96 17 E-post r.ahlsson@gmail.com</p>
-    <p type="title">Kontakta oss</p>
-    <p>Inger Haag</p>
-    <p>Rättsenheten</p>
-    <p>Inger punkt Haag snabela lansstyrelsen punkt se¤Inger punkt Haag snabela lansstyrelsen punkt se</p>
-    <p>010-2250401</p>
-    <p>Helle Bryn-Jensen</p>
-    <p>Jurist</p>
-    <p>Rättsenheten</p>
-    <p>helle punkt bryn-jensen snabela lansstyrelsen punkt se¤helle punkt bryn-jensen snabela lansstyrelsen punkt se</p>
-    <p>010-2250396</p>
-    <p>Skicka meddelande</p>
-    <p>Dölj formulär</p>
-    <p>E-postadress</p>
-    <p>Skicka en kopia av meddelandet till angiven e-postadress</p>
-    <p>Meddelande</p>
-    <p>Skriv in nedanstående kod för att skicka meddelande</p>
-    <p>Generera ny bild</p>
-  </body>
-</document>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>314</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/dalarna/Sv/manniska-och-samhalle/notarius-publicus/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="manniska-och-samhalle-notarius-publicus.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle-notarius-publicus.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Notarius publicus - Länsstyrelsen i Dalarna</p>
+<list/><p type="title">Notarius publicus</p>
+<p><em type="italic">Länsstyrelsen utser så kallade notarius publicus, enskilda personer som har i uppdrag att hjälpa allmänheten med att kontrollera och intyga riktigheten i olika uppgifter. Titeln är latin och betyder ungefär <span type="quote">”offentlig sekreterare”</span>. </em></p>
+<p>Uppdraget som notarius publicus kan vara tidsbegränsat och Länsstyrelsen anger inom vilket geografiskt område, oftast en kommun, som personen ska utföra sitt uppdrag. Hon eller han är dock behörig att arbeta även utanför det angivna området.</p>
+<p>För att kunna bli notarius publicus ska du ha avlagt juristexamen. Du får inte vara försatt i konkurs eller ha en förvaltare.</p>
+<p type="title">Vad gör notarius publicus?</p>
+<p>Notarius publicus ska bland annat hjälpa allmänheten med att</p>
+<list><p type="listitem">bestyrka namnunderskrifter, avskrifter, översättningar och andra uppgifter som rör innehållet i handlingar</p>
+<p type="listitem">närvara som vittne när förvaringsrum öppnas eller stängs, eller när förseglingar sätts på eller bryts</p>
+<p type="listitem">kontrollera lotteridragningar</p>
+<p type="listitem">bekräfta att någon är behörig att göra vissa saker, eller att någon har kompetens eller tjänsteställning att företräda någon annan.</p>
+</list><p><em type="italic">Länsstyrelsen har utsett följande personer till notarius publicus: </em></p>
+<p>Jur kand Mats Sörsten Advokatfirman Glimstedt Stadshusgränd 3, Box 1283, 791 12 FALUN Tfn 070-517 80 00 E-post mats.sorsten@telia.com</p>
+<p>Advokat Svante Hedberg Åsgatan 59 B, 776 31 HEDEMORA Tfn 070-542 08 14 E-post svante.hedberg@telia.com</p>
+<p>Advokat Christer Mellberg Norra Kyrkogatan 1, 783 30 SÄTER Tfn 0225-156 00, 070-731 46 91, fax 0225-142 20 E-post advokat@christermellberg.se</p>
+<p><em type="italic">Biträdande </em></p>
+<p>Advokat Lars Morell Box 224, 771 25 LUDVIKAT fn 0240-106 70 E-post advokat.morell@telia.com</p>
+<p>Kronofogde Rolf Ahlsson c/o Ahlsson, Hemmansvägen 12, 122 38 Enskede Tfn 070-518 96 17 E-post r.ahlsson@gmail.com</p>
+<p type="title">Kontakta oss</p>
+<p>Inger Haag</p>
+<p>Rättsenheten</p>
+<p>Inger punkt Haag snabela lansstyrelsen punkt se¤Inger punkt Haag snabela lansstyrelsen punkt se</p>
+<p>010-2250401</p>
+<p>Helle Bryn-Jensen</p>
+<p>Jurist</p>
+<p>Rättsenheten</p>
+<p>helle punkt bryn-jensen snabela lansstyrelsen punkt se¤helle punkt bryn-jensen snabela lansstyrelsen punkt se</p>
+<p>010-2250396</p>
+<p>Skicka meddelande</p>
+<p>Dölj formulär</p>
+<p>E-postadress</p>
+<p>Skicka en kopia av meddelandet till angiven e-postadress</p>
+<p>Meddelande</p>
+<p>Skriv in nedanstående kod för att skicka meddelande</p>
+<p>Generera ny bild</p>
+</body></document>
