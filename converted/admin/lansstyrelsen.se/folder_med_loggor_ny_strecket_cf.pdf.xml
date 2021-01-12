@@ -1,52 +1,124 @@
-<document xml:lang="swe" id="no_id"><header><title>5 nationella minoriteter i Sverige</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>485</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_med_loggor_NY_strecket_CF.pdf</origFileName><parallel_text xml:lang="eng" location="folder_grundskyddet_engelska.pdf"/><parallel_text xml:lang="fin" location="folder_grundskyddet_finska.pdf"/><parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="bold">§</em>LAGEN<em type="bold"> GER </em></p>
-<p><em type="bold"> NATIONELLA  MINORITETER  RÄTTIGHETER</em>DELMÅL <em type="bold">FÖR </em></p>
-<p><em type="bold">Regeringens målsättning med minoritetspolitiken är att ge skydd för de nationella minoriteterna, att stärka deras möjligheter till inflytande och att stödja de historiska minoritets språken så att de hålls levande.</em> </p>
-<p><em type="bold"> NATIONELLA  MINORITETER  </em>NATIONELLA </p>
-<p>MINORITETER<em type="bold">I SVERIGE</em> </p>
-<p><em type="bold"> DISKRIMINERING OCH UTSATTHET</em> </p>
-<p><em type="bold">Sverige har alltid varit flerspråkigt och mång kulturellt.  Samer, finnar, tornedalingar, romer och judar har funnits i landet under mycket lång tid. Deras språk och kulturer är en del av det svenska samhället och vårt gemensamma kulturarv.</em> </p>
-<p><em type="bold"> </em>Diskriminering, utsatthet och missgynnande av </p>
-<p>personer som tillhör nationella minoriteter ska bekämpas. De ska ha samma möjligheter som resten av befolkningen att delta i samhällslivet.</p>
-<p><em type="bold"> </em>Förvaltningsmyndigheter ska när det behövs </p>
-<p>på lämpligt sätt informera de nationella  minoriteterna om deras rättigheter enligt denna lag.</p>
-<p>SAMER: Det finns 20 000–35 000 samer i Sverige</p>
-<p>som talar olika varieteter av samiska. Samerna är även ett urfolk.</p>
-<p><em type="bold"> INFLYTANDE OCH UTSATTHET</em> </p>
-<p>De nationella minoriteternas möjligheter till inflytande och delaktighet ska stärkas, bland annat genom att myndigheter samråder med dem. Minoriteterna ska ges reellt inflytande i frågor som berör dem.</p>
-<p>I språklagen (2009:600) anges att det all</p>
-<p>männa har ett särskilt ansvar för att skydda och främja de nationella minoritetsspråken.</p>
-<p><em type="bold"> SPRÅK OCH KULTURELL IDENTITET</em> </p>
-<p>De nationella minoriteternas språk och kulturer ska skyddas och främjas. Personer som tillhör  nationella minoriteter ska kunna tillägna sig och använda sitt modersmål och utveckla en egen kulturell identitet. De nationella minoritetsspråken ska vara levande språk i Sverige.</p>
-<p>Förvaltningsmyndigheter ska ge de nationella minoriteterna möjlighet till inflytande i frågor som berör dem och så långt det är</p>
-<p>SVERIGEFINNAR::Det finns 450 000–600 000 sverige finnar i Sverige. Många bor i Stockholm</p>
+<document xml:lang="swe" id="no_id"><header><title>5 nationella minoriteter i Sverige</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>618</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_med_loggor_NY_strecket_CF.pdf</origFileName><parallel_text xml:lang="eng" location="folder_grundskyddet_engelska.pdf"/><parallel_text xml:lang="fin" location="folder_grundskyddet_finska.pdf"/><parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Regeringens målsättning med minoritets </em><em type="bold">politiken är att ge skydd för de nationella </em><em type="bold">minoriteterna, att stärka deras möjligheter </em><em type="bold">till inflytande och att stödja de historiska </em><em type="bold">minoritets språken så att de hålls levande. </em><em type="bold">1 DISKRIMINERING OCH UTSATTHET </em></p>
+<p>Diskriminering, utsatthet och missgynnande av personer som tillhör nationella minoriteter ska bekämpas. De ska ha samma möjligheter som resten av befolkningen att delta i samhällslivet. <em type="bold">2 INFLYTANDE OCH UTSATTHET </em></p>
+<p>De nationella minoriteternas möjligheter till infly-tande och delaktighet ska stärkas, bland annat ge-nom att myndigheter samråder med dem. Minoriteterna ska ges reellt inflytande i frågor som berör dem. <em type="bold">3 SPRÅK OCH KULTURELL IDENTITET </em></p>
+<p>De nationella minoriteternas språk och kulturer ska skyddas och främjas. Personer som tillhör nationella minoriteter ska kunna tillägna sig och använda sitt modersmål och utveckla en egen kulturell identitet.</p>
+<p>De nationella minoritetsspråken ska vara levande språk i</p>
+<p>Sverige. <em type="bold">§ </em><em type="bold">3 </em>Förvaltningsmyndigheter ska när det behövs på lämpligt sätt informera de nationella minoriteterna om deras rättigheter enligt denna lag. <em type="bold">§ </em><em type="bold">4 </em>I språklagen (2009:600) anges att det all-männa har ett särskilt ansvar för att skydda och främja de nationella minoritetsspråken. </p>
+<p>Det allmänna ska även i övrigt främja de nationella minoriteternas möjligheter att behålla och utveckla sin kultur i Sverige. Barns utveckling av en kulturell identi-tet och användning av det egna minoritetsspråket ska främjas särskilt. <em type="bold">§ </em><em type="bold">5 </em>Förvaltningsmyndigheter ska ge de natio-nella minoriteterna möjlighet till inflytande i frågor som berör dem och så långt det är möjligt samråda med representanter för minoriteterna i sådana frågor. </p>
+<p><em type="bold">Den 1 januari 2010 trädde lagen om nationella </em><em type="bold">minoriteter och minoritetsspråk i kraft i Sverige. </em></p>
+<p><em type="bold">Lagens tre grundskyddsparagrafer ger de </em><em type="bold">nationella minoriteterna rätt till information, </em><em type="bold">skydd av kultur och språk och rätt till delaktig </em><em type="bold">het och inflytande. </em><em type="bold">§ </em>LAGEN <em type="bold">GER </em></p>
+<p><em type="bold">NATIONELLA </em></p>
+<p><em type="bold">MINORITETER </em></p>
+<p><em type="bold">RÄTTIGHETER </em><em type="bold">3 </em>DELMÅL <em type="bold">FÖR </em></p>
+<p><em type="bold">NATIONELLA </em></p>
+<p><em type="bold">MINORITETER </em><em type="bold">5 </em>NATIONELLA </p>
+<p>MINORITETER</p>
+<p><em type="bold">I SVERIGE </em></p>
+<p>SAMER: Det finns 20 000–35 000 samer i Sverige som talar olika varieteter av samiska. Samerna är även ett urfolk.</p>
+<p>SVERIGEFINNAR: Det finns 450 000–600 000 sverige finnar i Sverige. Många bor i Stockholm-</p>
 <p>Mälardalen. Minoritetsspråket är finska.</p>
 <p>TORNEDALINGAR: Det finns cirka 50 000 torne-dalingar i Sverige framförallt bosatta i Norrbotten.</p>
 <p>Minoritets språket heter meänkieli.</p>
-<p>ROMER::Det finns 50 000–100 000 romer i Sverige bosatta över hela landet. Minoritetsspråket är olika</p>
-<p>varie teter av romani chib.</p>
-<p>JUDAR:<em type="bold"> </em>Det finns 20 000–25 000 judar </p>
-<p>bosatta i Sverige. Minoritetsspråket är jiddisch.</p>
-<p><em type="bold">EN   INFORMATIONSFOLDER   FRÅN</em> </p>
-<p><em type="bold">NORGE</em> </p>
-<p><em type="bold">SVERIGE</em> </p>
-<p> Kvänska  Romani  Samiska</p>
-<p> Samiska  Finska  Meänkieli  Romani chib  Jiddisch</p>
-<p><em type="bold">STORBRITANNIEN</em> </p>
-<p><em type="bold">FINLAND</em> </p>
-<p> Romani  Ryska  Samiska  Svenska  Tatariska  Jiddisch  Karelska</p>
-<p><em type="bold">TYSKLAND</em> </p>
-<p>Korniska  Iriska  Manx  Lågskotska  Skotsk gaeliska  Ulster scots  Kymriska (walesiska)</p>
-<p> Danska  Lågtyska  Lågsorbiska  Nordfrisiska  Romani  Saterfrisiska  Högsorbiska<em type="bold">DANMARK</em> </p>
+<p>ROMER: Det finns 50 000–100 000 romer i Sverige bosatta över hela landet. Minoritetsspråket är olika varie teter av romani chib.</p>
+<p>JUDAR: Det finns 20 000–25 000 judar bosatta i Sverige. </p>
+<p>Minoritetsspråket är jiddisch.</p>
+<p><em type="bold">Sverige har alltid varit flerspråkigt och </em><em type="bold">mång kulturellt. Samer, finnar, torne </em><em type="bold">dalingar, romer och judar har funnits i landet </em><em type="bold">under mycket lång tid. Deras språk och kul </em><em type="bold">turer är en del av det svenska samhället och </em><em type="bold">vårt gemensamma kulturarv. </em></p>
+<p><em type="bold">EN INFORMATIONSFOLDER FRÅN </em></p>
+<p><em type="bold">SPANIEN </em> </p>
+<p>Arabiska</p>
+<p>Aragonska</p>
+<p>Aranesiska</p>
+<p>Asturiska/</p>
+<p>Bable</p>
+<p>Baskiska</p>
+<p>Berber</p>
+<p>Katalanska</p>
+<p>Galiciska</p>
+<p>Portugisiska</p>
+<p>Valencianska</p>
+<p><em type="bold">TYSKLAND </em> </p>
+<p>Danska</p>
+<p>Lågtyska</p>
+<p>Lågsorbiska</p>
+<p>Nordfrisiska</p>
+<p>Romani</p>
+<p>Saterfrisiska</p>
+<p>Högsorbiska</p>
+<p>Bakgrunden til Sveriges minoritetspolitik är Europarådets arbete med mänskliga rättigheter och minoritetsfrågor. Nationel a minoriteter och landsdels- el er minoritetsspråk finns i många länder i Europa. Här är ett urval av några länder och språk.</p>
+<p>Ett urval av språk på Europakartan</p>
+<p><em type="bold">DANMARK </em> </p>
 <p>Tyska</p>
-<p><em type="bold">UNGERN</em> </p>
-<p> Armeniska  Beas  Bulgariska  Kroatiska  Tyska  Grekiska  Polska</p>
-<p><em type="bold">NEDERLÄNDERNA</em> </p>
-<p>Frisiska  Limburgiska  Lågsaxiska  Romanes  Jiddisch</p>
-<p> Rumänska  Romani  Rusinska/Rutenska  Serbiska  Slovakiska  Slovenska  Ukrainska</p>
-<p><em type="bold">RUMÄNIEN</em> </p>
-<p><em type="bold">SPANIEN</em> </p>
-<p> Arabiska  Aragonska  Aranesiska  Asturiska/</p>
-<p>Bable</p>
-<p> Baskiska  Berber  Katalanska  Galiciska  Portugisiska  Valencianska</p>
-<p> Albanska  Armeniska  Bulgariska  Kroatiska  Tjeckiska  Tyska  Grekiska  Ungerska  Italienska  Makedonska  Polska  Romani  Ryska  Rusinska/Rutenska  Serbiska  Slovakiska  Tatariska  Turkiska  Ukrainska  Jiddisch</p>
+<p><em type="bold">STORBRITANNIE </em></p>
+<p><em type="bold">N </em> </p>
+<p>Korniska</p>
+<p>Iriska</p>
+<p>Manx</p>
+<p>Lågskotska</p>
+<p>Skotsk gaeliska</p>
+<p>Ulster scots</p>
+<p>Kymriska (walesiska)</p>
+<p><em type="bold">UNGERN </em> </p>
+<p>Armeniska</p>
+<p>Beas</p>
+<p>Bulgariska</p>
+<p>Kroatiska</p>
+<p>Tyska</p>
+<p>Grekiska</p>
+<p>Polska</p>
+<p>KÄ</p>
+<p>LL</p>
+<p>A: Database for the European Charter f or R egional or Minor ity Languages, http://languagecharter.coe.int/index.h tm (sammanställd av</p>
+<p>The P ublic Foundation for E uropean Comparative M inor ity R esearch med stöd från E uroparådet och Ministry for F oreig n A ffairs of Hungary).</p>
+<p><em type="bold">NEDERLÄNDERNA </em> </p>
+<p>Frisiska</p>
+<p>Limburgiska</p>
+<p>Lågsaxiska</p>
+<p>Romanes</p>
+<p>Jiddisch</p>
+<p><em type="bold">NORGE </em> </p>
+<p>Kvänska</p>
+<p>Romani</p>
+<p>Samiska</p>
+<p><em type="bold">SVERIGE </em> </p>
+<p>Samiska</p>
+<p>Finska</p>
+<p>Meänkieli</p>
+<p>Romani chib</p>
+<p>Jiddisch</p>
+<p>Rumänska</p>
+<p>Romani</p>
+<p>Rusinska/Rutenska</p>
+<p>Serbiska</p>
+<p>Slovakiska</p>
+<p>Slovenska</p>
+<p>Ukrainska</p>
+<p><em type="bold">RUMÄNIEN </em> </p>
+<p>Albanska</p>
+<p>Armeniska</p>
+<p>Bulgariska</p>
+<p>Kroatiska</p>
+<p>Tjeckiska</p>
+<p>Tyska</p>
+<p>Grekiska</p>
+<p>Ungerska</p>
+<p>Italienska</p>
+<p>Makedonska</p>
+<p>Polska</p>
+<p>Romani</p>
+<p>Ryska</p>
+<p>Rusinska/Rutenska</p>
+<p>Serbiska</p>
+<p>Slovakiska</p>
+<p>Tatariska</p>
+<p>Turkiska</p>
+<p>Ukrainska</p>
+<p>Jiddisch</p>
+<p><em type="bold">FINLAND </em> </p>
+<p>Romani</p>
+<p>Ryska</p>
+<p>Samiska</p>
+<p>Svenska</p>
+<p>Tatariska</p>
+<p>Jiddisch</p>
+<p>Karelska</p>
 </body></document>
