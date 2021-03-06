@@ -1,4 +1,4 @@
-<document xml:lang="swe" id="no_id"><header><title>Ansök eller säg upp plats - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>597</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/utbildningochbarnomsorg/forskolaochbarnomsorg/ansokellersaguppplats.3472.html</origFileName><parallel_text xml:lang="sma" location="ansokellersaguppplats.3472.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="ron">Translate site</p>
+<document xml:lang="swe" id="no_id"><header><title>Ansök eller säg upp plats - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>597</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/utbildningochbarnomsorg/forskolaochbarnomsorg/ansokellersaguppplats.3472.html</origFileName><parallel_text xml:lang="sma" location="ansokellersaguppplats.3472.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="ron">Translate site</p>
 <list><p type="listitem" xml:lang="sma">Åarjelsaemien</p>
 <p type="listitem" xml:lang="nob">Om webbplatsen</p>
 <p type="listitem" xml:lang="eng">Press</p>
@@ -39,7 +39,7 @@
 <p>Med e-legitimationen kan du logga in dig på <em type="italic">Mina sidor </em>och signera de uppgifter du vill skicka till kommunen. Läs mer om hur du laddar ner och använder e-legitimation på sidan om e-legitimation . </p>
 <p>Till e-tjänsten och Mina sidor</p>
 <p>Har du inte möjlighet att använda vår e-tjänst hittar du länk till blanketter här till höger.</p>
-<p xml:lang="nno">Uppdaterad 2015-05-25 av Birgitta Sjöström</p>
+<p xml:lang="fao">Uppdaterad 2015-05-25 av Birgitta Sjöström</p>
 <p xml:lang="sma">Åarjelsaemien gïele</p>
 <list><p type="listitem" xml:lang="nno">Facebook</p>
 <p type="listitem" xml:lang="nno">Twitter</p>
