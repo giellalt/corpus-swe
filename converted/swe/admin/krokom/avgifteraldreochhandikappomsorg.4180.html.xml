@@ -1,4 +1,4 @@
-<document xml:lang="swe" id="no_id"><header><title>Avgifter, äldre- och handikappomsorg - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>316</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/omsorgochhjalp/aldre/avgifteraldreochhandikappomsorg.4180.html</origFileName><parallel_text xml:lang="sma" location="avgifteraldreochhandikappomsorg.4180.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="ron">Translate site</p>
+<document xml:lang="swe" id="no_id"><header><title>Avgifter, äldre- och handikappomsorg - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>316</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/omsorgochhjalp/aldre/avgifteraldreochhandikappomsorg.4180.html</origFileName><parallel_text xml:lang="sma" location="avgifteraldreochhandikappomsorg.4180.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="ron">Translate site</p>
 <list><p type="listitem" xml:lang="sma">Åarjelsaemien</p>
 <p type="listitem" xml:lang="nob">Om webbplatsen</p>
 <p type="listitem" xml:lang="eng">Press</p>
@@ -37,8 +37,8 @@
 <p type="listitem" xml:lang="eng">E-post</p>
 </list><p><em type="italic">Kontakta oss </em>Har du tekniska frågor eller vill kommentera informationen på sidan så kan du kontakta webbredaktionen. Klicka här! </p>
 <p xml:lang="eng">Kontaktinformation</p>
-<list><p type="listitem" xml:lang="sma">Ann-Louise Mattsson Armgren</p>
-<p type="listitem" xml:lang="deu">Assistent 0640 165 03</p>
+<list><p type="listitem" xml:lang="nob">Ann-Louise Mattsson Armgren</p>
+<p type="listitem" xml:lang="fra">Assistent 0640 165 03</p>
 </list><p>Läs mer</p>
 <list><p type="listitem" xml:lang="smj">Socialtjänstlagen 8 kap</p>
 <p type="listitem">Folder <span type="quote">"Avgifter för service, vård och omsorg"</span></p>

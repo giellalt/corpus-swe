@@ -1,8 +1,8 @@
-<document xml:lang="swe" id="no_id"><header><title>Studera på Samernas |  Samernas Utbildningscentrum</title><genre code="facta"/><author><unknown/></author><wordcount>458</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.samernas.se/om-samernas/studera-pa-samernas</origFileName><parallel_text xml:lang="smj" location="om-studera.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Allmän information om att studera vid Samernas utbildningscentrum</p>
+<document xml:lang="swe" id="no_id"><header><title>Studera på Samernas |  Samernas Utbildningscentrum</title><genre code="facta"/><author><unknown/></author><wordcount>458</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.samernas.se/om-samernas/studera-pa-samernas</origFileName><parallel_text xml:lang="smj" location="om-studera.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Allmän information om att studera vid Samernas utbildningscentrum</p>
 <p><em type="bold">Att studera hos oss:  </em></p>
 <p>Lägsta ålder för att bli antagen är 18 år. Dispens kan ges för de under 18 år.</p>
 <p xml:lang="deu"><em type="bold">Kurstider  </em></p>
-<p xml:lang="vep"><em type="bold">2014/2015 </em></p>
+<p xml:lang="mrj"><em type="bold">2014/2015 </em></p>
 <p xml:lang="fin">Höstterminen: 20140826-20141219, höstlov v. 44</p>
 <p xml:lang="fin">Vårterminen: 20150107-20140605, sportlov v. 10, påsklov v.15</p>
 <p xml:lang="isl"><em type="bold">Studiefinansiering  </em>:  </p>
@@ -27,7 +27,7 @@
 <p>Ett hyreskontrakt upprättas med vissa regler.</p>
 <p xml:lang="nob"><em type="bold">Skolhälsovård:  </em></p>
 <p>Skolan tillhandahåller viss skolhälsovård. Möjlighet till samtal med kurator vid behov samt psykolog.</p>
-<p/>
+<p xml:lang="mdf"/>
 <p><em type="bold">Försäkringar:  </em></p>
 <p><em type="bold">Alkohol/droger:  </em></p>
 <p>Alla inskrivna elever är försäkrade (olycksfallsförsäkring) dygnet runt. Även elever på kortkurser är försäkrade under den tid eleven deltar i kortkursen. I övrigt ska eleven själv ha hemförsäkring för sitt lösöre.</p>
