@@ -1,12 +1,9 @@
-<document xml:lang="swe" id="no_id"><header><title>5 nationella minoriteter i Sverige</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>618</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_med_loggor_NY_strecket_CF.pdf</origFileName><parallel_text xml:lang="eng" location="folder_grundskyddet_engelska.pdf"/><parallel_text xml:lang="fin" location="folder_grundskyddet_finska.pdf"/><parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Regeringens målsättning med minoritets </em><em type="bold">politiken är att ge skydd för de nationella </em><em type="bold">minoriteterna, att stärka deras möjligheter </em><em type="bold">till inflytande och att stödja de historiska </em><em type="bold">minoritets språken så att de hålls levande. </em><em type="bold">1 DISKRIMINERING OCH UTSATTHET </em></p>
+<document xml:lang="swe" id="no_id"><header><title>5 nationella minoriteter i Sverige</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>421</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_med_loggor_NY_strecket_CF.pdf</origFileName><parallel_text xml:lang="eng" location="folder_grundskyddet_engelska.pdf"/><parallel_text xml:lang="fin" location="folder_grundskyddet_finska.pdf"/><parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Regeringens målsättning med minoritets </em><em type="bold">politiken är att ge skydd för de nationella </em><em type="bold">minoriteterna, att stärka deras möjligheter </em><em type="bold">till inflytande och att stödja de historiska </em><em type="bold">minoritets språken så att de hålls levande. </em><em type="bold">1 DISKRIMINERING OCH UTSATTHET </em></p>
 <p>Diskriminering, utsatthet och missgynnande av personer som tillhör nationella minoriteter ska bekämpas. De ska ha samma möjligheter som resten av befolkningen att delta i samhällslivet. <em type="bold">2 INFLYTANDE OCH UTSATTHET </em></p>
 <p>De nationella minoriteternas möjligheter till infly-tande och delaktighet ska stärkas, bland annat ge-nom att myndigheter samråder med dem. Minoriteterna ska ges reellt inflytande i frågor som berör dem. <em type="bold">3 SPRÅK OCH KULTURELL IDENTITET </em></p>
 <p>De nationella minoriteternas språk och kulturer ska skyddas och främjas. Personer som tillhör nationella minoriteter ska kunna tillägna sig och använda sitt modersmål och utveckla en egen kulturell identitet.</p>
 <p>De nationella minoritetsspråken ska vara levande språk i</p>
-<p>Sverige. <em type="bold">§ </em><em type="bold">3 </em>Förvaltningsmyndigheter ska när det behövs på lämpligt sätt informera de nationella minoriteterna om deras rättigheter enligt denna lag. <em type="bold">§ </em><em type="bold">4 </em>I språklagen (2009:600) anges att det all-männa har ett särskilt ansvar för att skydda och främja de nationella minoritetsspråken. </p>
-<p>Det allmänna ska även i övrigt främja de nationella minoriteternas möjligheter att behålla och utveckla sin kultur i Sverige. Barns utveckling av en kulturell identi-tet och användning av det egna minoritetsspråket ska främjas särskilt. <em type="bold">§ </em><em type="bold">5 </em>Förvaltningsmyndigheter ska ge de natio-nella minoriteterna möjlighet till inflytande i frågor som berör dem och så långt det är möjligt samråda med representanter för minoriteterna i sådana frågor. </p>
-<p><em type="bold">Den 1 januari 2010 trädde lagen om nationella </em><em type="bold">minoriteter och minoritetsspråk i kraft i Sverige. </em></p>
-<p><em type="bold">Lagens tre grundskyddsparagrafer ger de </em><em type="bold">nationella minoriteterna rätt till information, </em><em type="bold">skydd av kultur och språk och rätt till delaktig </em><em type="bold">het och inflytande. </em><em type="bold">§ </em>LAGEN <em type="bold">GER </em></p>
+<p>Sverige.på lämpligt sätt informera de nationella minoriteterna om deras rättigheter enligt denna lag.männa har ett särskilt ansvar för att skydda och främja de nationella minoritetsspråken.nella minoriteterna möjlighet till inflytande i frågor som berör dem och så långt det är <em type="bold">§ </em>LAGEN <em type="bold">GER </em></p>
 <p><em type="bold">NATIONELLA </em></p>
 <p><em type="bold">MINORITETER </em></p>
 <p><em type="bold">RÄTTIGHETER </em><em type="bold">3 </em>DELMÅL <em type="bold">FÖR </em></p>
@@ -44,18 +41,15 @@
 <p>Romani</p>
 <p>Saterfrisiska</p>
 <p>Högsorbiska</p>
-<p>Bakgrunden til Sveriges minoritetspolitik är Europarådets arbete med mänskliga rättigheter och minoritetsfrågor. Nationel a minoriteter och landsdels- el er minoritetsspråk finns i många länder i Europa. Här är ett urval av några länder och språk.</p>
-<p>Ett urval av språk på Europakartan</p>
-<p><em type="bold">DANMARK </em> </p>
+<p><em type="bold">DANMARK </em></p>
 <p>Tyska</p>
 <p><em type="bold">STORBRITANNIE </em></p>
-<p><em type="bold">N </em> </p>
-<p>Korniska</p>
-<p>Iriska</p>
-<p>Manx</p>
-<p>Lågskotska</p>
-<p>Skotsk gaeliska</p>
-<p>Ulster scots</p>
+<p>Korniska</p>
+<p>Iriska</p>
+<p>Manx</p>
+<p>Lågskotska</p>
+<p>Skotsk gaeliska</p>
+<p>Ulster scots</p>
 <p>Kymriska (walesiska)</p>
 <p><em type="bold">UNGERN </em> </p>
 <p>Armeniska</p>
@@ -65,15 +59,11 @@
 <p>Tyska</p>
 <p>Grekiska</p>
 <p>Polska</p>
-<p>KÄ</p>
-<p>LL</p>
-<p>A: Database for the European Charter f or R egional or Minor ity Languages, http://languagecharter.coe.int/index.h tm (sammanställd av</p>
-<p>The P ublic Foundation for E uropean Comparative M inor ity R esearch med stöd från E uroparådet och Ministry for F oreig n A ffairs of Hungary).</p>
-<p><em type="bold">NEDERLÄNDERNA </em> </p>
-<p>Frisiska</p>
-<p>Limburgiska</p>
-<p>Lågsaxiska</p>
-<p>Romanes</p>
+<p><em type="bold">NEDERLÄNDERNA </em></p>
+<p>Frisiska</p>
+<p>Limburgiska</p>
+<p>Lågsaxiska</p>
+<p>Romanes</p>
 <p>Jiddisch</p>
 <p><em type="bold">NORGE </em> </p>
 <p>Kvänska</p>

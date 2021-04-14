@@ -1,6 +1,4 @@
-<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1346</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.lansstyrelsen.se/dalarna/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Faktablad%20meänkieli.pdf</origFileName><parallel_text xml:lang="fin" location="faktablad_finska.pdf"/><parallel_text xml:lang="sma" location="faktablad_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="faktablad_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="faktablad_lulesamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104790 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>reviderad 090624</p>
-<p>INTEGRATIONS- OCH JÄMSTÄLLDHETSDEPARTEMENTET</p>
-<p>RÄTTIGHETER STÄRKS FÖR DE</p>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1326</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/><origFileName>http://www.lansstyrelsen.se/dalarna/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Faktablad%20meänkieli.pdf</origFileName><parallel_text xml:lang="fin" location="faktablad_finska.pdf"/><parallel_text xml:lang="sma" location="faktablad_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="faktablad_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="faktablad_lulesamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 104790 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>RÄTTIGHETER STÄRKS FÖR DE</p>
 <p>NATIONELLA MINORITETERNA</p>
 <p>FAKTABLAD</p>
 <p><em type="italic">Regeringen presenterade i mars 2009 en ny minoritetspolitisk strategi i propositionen Från erkännande till egenmakt – regeringens strategi för de nationella minoriteterna (prop. 2008/2009:158). </em></p>
@@ -14,8 +12,7 @@
 <p type="listitem">bättre följa upp genomförandet av minoritetspolitiken</p>
 <p type="listitem">motverka diskriminering av och utsatthet för de nationella minoriteterna</p>
 <p type="listitem">stärka de nationella minoriteternas egenmakt och inflytande samt</p>
-<p type="listitem">främja bevarandet av de nationella minoritetsspråken. reviderad 090624</p>
-<p>INTEGRATIONS- OCH JÄMSTÄLLDHETSDEPARTEMENTET</p>
+<p type="listitem">främja bevarandet av de nationella minoritetsspråken.</p>
 <p>RÄTTIGHETER STÄRKS FÖR DE NATIONELLA</p>
 <p>MINORITETERNA</p>
 <p>NY LAG OM NATIONELLA MINORITETER En ny lag om nationella minoriteter och minoritets-språk (SFS 2009:724) ska ersätta nuvarande lagar om rätt att använda samiska respektive finska och meänkieli (SFS 1999:1175, 1999:1176).</p>
@@ -42,8 +39,7 @@
 <p>STÄRKTA RÄTTIGHETER UTANFÖR</p>
 <p>FÖRVALTNINGSOMRÅDENA Enskilda har rätt att använda finska, meänkieli respektive samiska i kontakter med myndigheter, om ett ärendet kan handläggas av personal som behärskar minoritetsspråket. Enskilda ska även ges möjlighet till äldreomsorg på finska, meänkieli respektive samiska, om kommunen har tillgång till språkkunnig personal. Förvaltningsmyndigheterna ska därför verka för att det finns tillgång till perso-nal med kunskaper i finska, meänkieli respektive samiska där detta behövs i kontakter med myndig-heten eller i omvårdnaden om äldre människor.</p>
 <p>Detta innebär en ändring av socialtjänstlagen.</p>
-<p>Enskilda har alltid rätt att använda finska och samiska vid sina skriftliga kontakter med Riks-dagens ombudsmän, Justitiekanslern, Försäk-ringskassan, Skatteverket, och Diskrimineringsom-budsmannen i ärenden i vilka den enskilde är part eller ställföreträdare för part. reviderad 090624</p>
-<p>INTEGRATIONS- OCH JÄMSTÄLLDHETSDEPARTEMENTET</p>
+<p>Enskilda har alltid rätt att använda finska och samiska vid sina skriftliga kontakter med Riks-dagens ombudsmän, Justitiekanslern, Försäk-ringskassan, Skatteverket, och Diskrimineringsom-budsmannen i ärenden i vilka den enskilde är part eller ställföreträdare för part.</p>
 <p>RÄTTIGHETER STÄRKS FÖR DE NATIONELLA</p>
 <p>MINORITETERNA</p>
 <p>TYDLIGARE MYNDIGHETSANSVAR Efterlevnaden av Europarådets minoritetskonven-tioner behöver förbättras genom att myndigheternas ansvar förtydligas. Länsstyrelsen i Stockholms län och Sametinget får därför ansvar att följa upp hur minoritetspolitikens genomförs. Dessa myndigheter ska även genom rådgivning, information och liknande verksamhet hjälpa andra förvaltnings-myndigheter vid tillämpning av lagen och i samråd med berörda kommuner samordna utvidgning av förvaltningsområdena.</p>
@@ -59,8 +55,7 @@
 <p>INSATSER FÖR ATT STÄRKA</p>
 <p>MINORITETSSPRÅKEN De nationella minoritetsspråkens framtid i Sverige är oviss. Vissa av språken, bl.a. sydsamiskan, är starkt hotade. Aktiva insatser behövs för att stärka, bevara och revitalisera de nationella minoritets-språken. Att revitalisera ett språk betyder att vidta åtgärder så att ett hotat språk börjar återta mark bl.a. genom att fler börjar tala det.</p>
 <p>Förutom de åtgärder som införs för att underlätta enskildas möjligheter att använda minoritetssprå-ken i kontakter med myndigheter ska även att två samiska språkcentra etableras i det sydsamiska området i Östersund respektive Tärnaby.</p>
-<p>Sametinget blir huvudman för dessa språkcentra som ska bedriva utåtriktad verksamhet för att utveckla och stimulera till en ökad användning av det samiska språket. reviderad 090624</p>
-<p>INTEGRATIONS- OCH JÄMSTÄLLDHETSDEPARTEMENTET</p>
+<p>Sametinget blir huvudman för dessa språkcentra som ska bedriva utåtriktad verksamhet för att utveckla och stimulera till en ökad användning av det samiska språket.</p>
 <p>RÄTTIGHETER STÄRKS FÖR DE NATIONELLA</p>
 <p>MINORITETERNA</p>
 <p>Regeringen avsätter särskilda medel från och med budgetåret 2010 för revitaliseringsinsatser för de nationella minoritetsspråken. Medlen ska användas för insatser som riktar sig till enskilda och ska fördelas efter ansökan av den myndighet som regeringen bestämmer. Ytterligare medel avsätts för språkvårdsinsatser för de nationella minoritetsspråken och till en början kommer särskilt meänkieli att prioriteras. För att stärka det samiska språket utökas också tillgången på integrerad samisk undervisning från och med 2010 (integrerad samisk undervisning anordnas i kommunala grundskolor och innebär att elever kan få undervisning med samiska inslag och undervis-ning i samiska utöver modersmålsundervisning i samiska).</p>
