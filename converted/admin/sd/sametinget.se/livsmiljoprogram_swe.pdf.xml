@@ -1,4 +1,4 @@
-<document xml:lang="swe" id="no_id"><header><title>Sametingets Livsmiljöprogram EALLINBIRAS</title><genre code="admin"/><author><unknown/></author><year>2009</year><publChannel><publication><publisher>svenske Sametinget</publisher></publication></publChannel><wordcount>7579</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><origFileName>http://www.samediggi.se/7366</origFileName><parallel_text xml:lang="sma" location="eallinbiras_oarjelsam.pdf"/><parallel_text xml:lang="smj" location="iellembiras_julev.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="italic">Ur ett samiskt </em><em type="italic">perspektiv är alla frågor </em><em type="italic">miljöfrågor – eftersom miljön </em><em type="italic">berör alla aspekter av våra liv och </em><em type="italic">vår omgivning. Därför har detta </em><em type="italic">program fokus på eallinbiras - vår </em><em type="italic">livsmiljö - och hur vi aktivt kan </em><em type="italic">verka för att bevara en bärkraftig </em><em type="italic">livsmiljö i framtiden. </em></p>
+<document xml:lang="swe" id="no_id"><header><title>Sametingets Livsmiljöprogram EALLINBIRAS</title><genre code="admin"/><author><unknown/></author><year>2009</year><publChannel><publication><publisher>svenske Sametinget</publisher></publication></publChannel><wordcount>7578</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/><origFileName>http://www.samediggi.se/7366</origFileName><parallel_text xml:lang="sma" location="eallinbiras_oarjelsam.pdf"/><parallel_text xml:lang="smj" location="iellembiras_julev.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="italic">Ur ett samiskt </em><em type="italic">perspektiv är alla frågor </em><em type="italic">miljöfrågor – eftersom miljön </em><em type="italic">berör alla aspekter av våra liv och </em><em type="italic">vår omgivning. Därför har detta </em><em type="italic">program fokus på eallinbiras - vår </em><em type="italic">livsmiljö - och hur vi aktivt kan </em><em type="italic">verka för att bevara en bärkraftig </em><em type="italic">livsmiljö i framtiden. </em></p>
 <p><em type="bold">Sametingets Livsmiljöprogram </em></p>
 <p>EALLINBIRAS</p>
 <p>IELLEMBIRÁS/ JIELEMEN BIJRE ____________________________________ </p>
@@ -174,7 +174,7 @@
 <p><em type="bold">Vem har ansvar för vad? </em></p>
 <p>Varje steg är ett viktigt bidrag till att komma vidare och nå målen. Vår framgång beror på varje individ.</p>
 <p><em type="bold">Sametingets ansvar </em></p>
-<p type="listitem">Delmål Natur:  Sametinget ska skaffa måste-instrument och indikatorer som följer nedanstående principer:</p>
+<p type="listitem">Delmål Natur:   Sametinget ska skaffa måste-instrument och indikatorer som följer nedanstående principer:</p>
 <p type="listitem">arternas livsmiljöer och ekosystem värnas</p>
 <p type="listitem">all verksamhet bedrivs efter försiktighetsprincipen</p>
 <p type="listitem">nyttjande av naturresurser sker på ett långsiktig hållbart sätt</p>
@@ -187,7 +187,7 @@
 <p type="listitem">maximal återanvändning av värdefulla substanser (som  vanligtvis sammanfattas som  avfall, till exempel: virke, kompost,  biogas)</p>
 <p type="listitem">återvinning av allt som inte kan återanvändas (där det är möjligt)</p>
 <p><em type="bold">Delmål Samisk Kunskap: </em></p>
-<p type="listitem">Sametinget ska uppmuntra och underlätta  forskning, dokumentation &amp; återupprättandet av traditionell kunskap med fokus på följande  områden:</p>
+<p type="listitem">Sametinget ska uppmuntra och underlätta  forskning, dokumentation &amp; återupprättandet  av traditionell kunskap med fokus på följande  områden:</p>
 <p type="listitem">Biebmu (Mat): födoämnen, tillagning och förvaring</p>
 <p type="listitem">Dearvalasvuohta (Hälsa): samisk  läkekonst och hälsotips samt kunskap  om kläder och material för att klara  klimatet</p>
 <p type="listitem">Ráhkadeapmi (Byggande): lokalt byggmaterial och klimatlämpad  arkitektur, byggplatser (klimat-smart  placering mm), byggplaner</p>
@@ -231,7 +231,7 @@
 <p type="listitem">ifrågasätta dina matvanor och använda samiska traditionella födoämnen</p>
 <p type="listitem">äta så mycket årstidanpassad och naturlig mat som möjligt</p>
 <p type="listitem">avstå genetiskt förändrade produkter</p>
-<p type="listitem">tillse att de matvaror du köper som inte kan produceras i Sápmi är   ekologiskt producerade och  rättvisemärkta</p>
+<p type="listitem">tillse att de matvaror du köper som inte kan produceras i Sápmi är    ekologiskt producerade och  rättvisemärkta</p>
 <p type="listitem">Energia ja golggaheapmi (Energi och  transport): Sametinget ber dig att delta i vår  ansträngning att minska sårbarheten i Sápmi  genom att minska energiberoendet i ditt liv.  Du kan bidra genom att</p>
 <p type="listitem">begränsa användningen av motorfordon</p>
 <p type="listitem">sträva att använda miljöbättre bränsle</p>
@@ -305,7 +305,7 @@
 <p type="listitem">mark och vattenresurserna i Sápmi först och främst finns för våra  näringars behov</p>
 <p type="listitem">utnyttjandet och exploateringen av mark och vattenresurser inte  ytterligare utarmar de samiska  näringarnas behov</p>
 <p type="listitem">alla verksamheter är hållbara och bedrivs efter försiktighetsprincipen</p>
-<p type="listitem">lokalisering av produktion uppmuntras och sker inom alla  sektorer. 20 4. Tidplan – Handlingsprogram 2009-2012   2009-2011  Sametinget anställer en samordnare för</p>
+<p type="listitem">lokalisering av produktion uppmuntras och sker inom alla  sektorer. 20 4. Tidplan – Handlingsprogram 2009-2012   2009-2011   Sametinget anställer en samordnare för</p>
 <p>Sametingets miljöarbete.</p>
 <p type="listitem">Sametinget bildar en övergripande styrgrupp som ska</p>
 <p type="listitem">definiera prioriteringar av målen</p>
@@ -393,7 +393,7 @@
 <p><em type="bold">Delkostnad </em><em type="bold">650 000 </em><em type="bold">550 000 </em><em type="bold">450 000 </em><em type="bold">350 000 </em><em type="bold">1 600 000 </em></p>
 <p><em type="bold">Målgrupp 1 </em></p>
 <p>Förankring org, samebyar och seminarier 300 000 100000 100000 100000 600 000</p>
-<p>Internationel t evenemang 500 000 500 000 1 000 000</p>
+<p>Internationellt evenemang 500 000 500 000 1 000 000</p>
 <p>Informationsmaterial 100 000 75 000 75 000 75 000 325 000</p>
 <p><em type="bold">Delkostnad: </em><em type="bold">400 000 </em><em type="bold">675 000 </em><em type="bold">675 000 </em><em type="bold">175 000 </em><em type="bold">1 925 000 </em></p>
 <p><em type="bold">Målgrupp 2 </em></p>
@@ -464,7 +464,7 @@
 <p><em type="italic">En ny rennäringspolitik – öppna samebyar och samverkan med andra markanvändare </em></p>
 <p>(Del 1 och 2), SOU 2001:101  Samernas Riksförbund (1996)</p>
 <p><em type="italic">Samiskt Vägval; Agenda 21 - Handlingsprogram i Miljö och Demokratifrågor. </em></p>
-<p>Umeå.  Samerådet (1991)</p>
+<p>Umeå.   Samerådet (1991)</p>
 <p><em type="italic">Samerådets Miljöpolitiskt Program . </em></p>
 <p>Samerådet.  Sametinget (1995)</p>
 <p><em type="italic">Miljösyn. </em></p>
