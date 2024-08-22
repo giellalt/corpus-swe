@@ -1,4 +1,4 @@
-<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>702</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.folkhalsomyndigheten.se/contentassets/46489fed663042a4be208d2db73d74be/du-som-ar-70-ar-eller-aldre.pdf</origFileName><parallel_text xml:lang="fin" location="faktablad-covid-19-70-ar-finska.pdf"/><parallel_text xml:lang="fit" location="faktablad-covid-19-70-ar-meankieli.pdf"/><parallel_text xml:lang="sma" location="faktablad-covid-19-70-ar-sydsamiska.pdf"/><parallel_text xml:lang="sme" location="faktablad-covid-19-70-ar-nordsamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Du som är 70 år eller äldre – begränsa dina nära kontakter Vi rekommenderar att du som är 70 år eller äldre begränsar dina nära kontakter och håller fysiskt avstånd till människor som du inte bor med.</p>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>719</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.folkhalsomyndigheten.se/contentassets/46489fed663042a4be208d2db73d74be/du-som-ar-70-ar-eller-aldre.pdf</origFileName><parallel_text xml:lang="fin" location="faktablad-covid-19-70-ar-finska.pdf"/><parallel_text xml:lang="fit" location="faktablad-covid-19-70-ar-meankieli.pdf"/><parallel_text xml:lang="sma" location="faktablad-covid-19-70-ar-sydsamiska.pdf"/><parallel_text xml:lang="sme" location="faktablad-covid-19-70-ar-nordsamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Du som är 70 år eller äldre – begränsa dina nära kontakter Vi rekommenderar att du som är 70 år eller äldre begränsar dina nära kontakter och håller fysiskt avstånd till människor som du inte bor med.</p>
 <p>Det är särskilt viktigt inomhus.</p>
 <p>Virussjukdomen covid-19 har utvecklats till en pandemi och sprids sedan i mars i Sverige. Du som är 70 år eller äldre tillhör en riskgrupp.</p>
 <p>Därför är det mycket viktigt att du skyddar dig själv och andra från att smittas av covid-19.</p>
@@ -20,7 +20,7 @@
 <p type="listitem">muskel- och ledvärk</p>
 <p type="listitem">illamående.</p>
 <p xml:lang="est">INFORMATION OM COVID-19</p>
-<p><em type="bold">Solna </em>Nobels väg 18, 171 82 Solna <em type="bold">Östersund </em>Forskarens väg 3. Box 505, 831 26 Östersund. </p>
+<p><em type="bold">Solna </em>Nobels väg 18, 171 82 Solna <em type="bold">Östersund </em>Forskarens väg 3. Box 505, 831 26 Östersund. <em type="bold">www.folkhalsomyndigheten.se </em></p>
 <p>Åtgärderna för att begränsa nära kontakter är under en avgränsad tid. Försök att sysselsätta dig med det du tycker är roligt och stimulerande.</p>
 <p type="listitem">Tips på hur man kan träffas i coronatider  Planera mötet i förväg och fundera över vad du kan göra för att minska riskerna för smittspridning.</p>
 <p type="listitem">Träffas när alla är friska. Undvik att träffas om du har sjukdomssymtom, även milda symtom.</p>
@@ -29,6 +29,8 @@
 <p type="listitem">Var noga med handhygienen. Tvätta händerna med tvål och vatten innan ni ska fika eller äta tillsam-mans. Handsprit kan vara ett alternativ om tvål och vatten inte finns tillgängligt.</p>
 <p type="listitem">Placera stolar och bord så att avstånd kan hållas, även utomhus.</p>
 <p>Ta för vana att tvätta händerna, det första du gör när du kommer hem. </p>
+<p>Folkhälsomyndigheten 2020. Du som är 70 år eler äldre, revidering 1. Artikel 200 79</p>
+<p xml:lang="nno">Sve nska</p>
 <p><em type="bold">Viktiga telefonnummer </em>För allmänna frågor om covid-19, ring 113 13. För sjukvårdsrådgivning, besök Vårdguiden, www.1177.se eller ring telefonnummer 1177, linjen är öppen dygnet runt. Om du känner oro ring Äldrelinjen, 020-22 22 33. </p>
 <p>Öppet vardagar 8-19, helger 10-16. Vid livshotande tillstånd ring 112.</p>
 </body></document>
