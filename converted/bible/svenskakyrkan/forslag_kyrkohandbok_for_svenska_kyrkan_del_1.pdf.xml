@@ -1,11 +1,11 @@
-<document xml:lang="swe" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>43375</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.svenskakyrkan.se/default.aspx?di=925732</origFileName><parallel_text xml:lang="fin" location="kyrkohandboksforslag_finska.pdf"/><parallel_text xml:lang="fit" location="kh_meankieli.pdf"/><parallel_text xml:lang="sma" location="kh_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="kh_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="kh_lulesamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="kal">FÖRSL AG</p>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>43326</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.svenskakyrkan.se/default.aspx?di=925732</origFileName><parallel_text xml:lang="fin" location="kyrkohandboksforslag_finska.pdf"/><parallel_text xml:lang="fit" location="kh_meankieli.pdf"/><parallel_text xml:lang="sma" location="kh_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="kh_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="kh_lulesamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="kal">FÖRSL AG</p>
 <p>KyrKohandboKför SvenSKa KyrKandeL I</p>
 <p><em type="italic">Förslag </em></p>
-<p><em type="italic">Kyrkohandbok för Svenska kyrkan </em><em type="italic">del 1 </em></p>
+<p><em type="italic">Kyrkohandbok för Svenska kyrkandel 1 </em></p>
 <p xml:lang="kal">FÖRSL AG</p>
 <p>KyrKohandboKför SvenSKa KyrKandeL I</p>
 <p>Svenska kyrkans utredningar 2012:2</p>
-<p xml:lang="nob">Bibeltexter återges med tillstånd av Svenska Bibelsällskapet. <em type="italic">Produktion och </em><em type="italic">tryck: </em>Ineko AB <em type="italic">Artikelnummer: </em>sk12077 issn 0283-426x </p>
+<p xml:lang="nob">Bibeltexter återges med tillstånd av Svenska Bibelsällskapet. <em type="italic">Produktion och tryck: </em>Ineko AB <em type="italic">Artikelnummer: </em>sk12077 issn 0283-426x </p>
 <p>Kyrkohandboksförslaget finns på Svenska kyrkans intranät: internwww.svenskakyrkan.se/kyrkohandboken, liksom på Svenska kyrkans externa webbplats: www.svenskakyrkan.se/kyrkohandboken.</p>
 <p>Den tryckta upplagan kan från hösten 2012 beställas från Svenska kyrkans informationsservice, info@svenskakyrkan.se, 018-16 96 00.5</p>
 <p xml:lang="olo">TILL kyRkoSTyReLSen</p>
@@ -64,7 +64,7 @@
 <p xml:lang="deu">Musikserie B 249</p>
 <p xml:lang="fin">Musikserie C 275</p>
 <p xml:lang="fin">Musikserie D 293</p>
-<p>Musikserie E 303 källförteckning musik 309 9inledning</p>
+<p>Musikserie E 303källförteckning musik 309 9inledning</p>
 <p>Gudstjänsten är kyrkolivets centrum, där församlingen möter Gud i Ordet och sakramenten. Gudstjänsten är hela församlingens gåva och uppgift. Alla är kallade att delta i gudstjänsten och komma med sina erfarenheter och livsfrågor till det gemensamma mötet med Gud. Tron får näring genom förkunnelsen av evangeliet, firandet av den heliga måltiden och gemenskapen i bön och lovsång. De som firar gudstjänst sänds ut för att i vardagen vittna om evangelium och göra kärlekens gärningar, till mission och diakoni. Svenska kyrkan är en del av den världsvida kyrkan och delar den kristna bekännelsen och lovsången till en treenig Gud. <em type="italic">Kyrkohandbok för Svenska kyrkan </em>antas av kyrkomötet och reglerar gudstjänstfirande enligt Svenska kyrkans ordning. Kyrkohandboken är tillsammans med <em type="italic">Bibeln </em>, <em type="italic">Den svenska evangelieboken </em>, <em type="italic">Den svenska psalmboken </em>och <em type="italic">En liten bönbok </em>Svenska kyrkans gudstjänstböcker och uttrycker kyrkans tro, bekännelse och lära. </p>
 <p>Kyrkans huvuddag för Den allmänna gudstjänstens firande är sönda-gen, eftersom Jesus Kristus uppstod på söndagen, Herrens dag. Gudstjänst enligt Svenska kyrkans ordning firas med eller utan nattvard enligt någon av ordningarna för Den allmänna gudstjänsten på sön- och helgdagar och veckans övriga dagar, och som kyrkliga handlingar: dop, bikt, konfirmation, vigsel och begravning.</p>
 <p>Gudstjänstordningarna utgår från en struktur: Samling, Ordet, Målti-den (om nattvard firas) och Sändning. Denna struktur utgör även benämningar för Den allmänna gudstjänstens huvuddelar.</p>
@@ -422,7 +422,7 @@
 <p>Bönen fortsätter på ett av följande sätt:p/l: Herre, allsmäktige Gud, du som hör de botfärdigas suckar och tröstar bedrövade hjärtan, hör den bön som vi i vår nöd bär fram, och hjälp oss så att allt det onda, som djävulen, världen och vi själva tillfogar oss, genom din Andes kraft blir tillintetgjort. Så vill vi, frälsta från allt ont, i din församling alltid tacka och lova dig. Genom Jesus Kristus vår Herre. f:</p>
 <p>Amen. <em type="italic">eller </em>(läst):p: </p>
 <p>Gud, vi ber för dem som döpts i vår församling, för NN (och …).</p>
-<p>Låt <em type="italic">henne/honom/dem </em>växa i tro. Välsigna och bevara <em type="italic">henne/ </em><em type="italic">honom/dem </em>(och <em type="italic">hennes/hans/deras familjer </em>) nu och alltid. </p>
+<p>Låt <em type="italic">henne/honom/dem </em>växa i tro. Välsigna och bevara <em type="italic">henne/ honom/dem </em>(och <em type="italic">hennes/hans/deras familjer </em>) nu och alltid. </p>
 <p>Gud, tack för kärleken och gemenskapen mellan människor.</p>
 <p>Idag ber vi för NN och NN som ska ingå/har ingått äktenskap.</p>
 <p>Bevara dem med din nåd och kärlek, och välsigna deras liv tillsammans.58 ordet</p>
@@ -671,7 +671,7 @@
 <p>Bibelläsning</p>
 <p>Prästen/Ledaren kan säga:</p>
 <p>Läsning ur Mark 10 vid dop av barn, kan också läsas vid dop av unga och vuxna.</p>
-<p>Låt oss höra evangeliet om Jesus och barnen/ Jesu ord om barnen som förebilder i tro.p/l: Folk kom till Jesus med barnför att han skulle röra vid dem. Men lärjungarna visade bort dem. När Jesus såg det blev han förargad och sade: ”Låt barnen komma hit till mig och hindra dem inte: Guds rike tillhör sådana som de. Sannerligen, den som inte tar emot Guds rike som ett barn kommer aldrig dit in.” Och han tog dem i famnen, lade händerna på dem och välsignade dem. <em type="italic">Mark 10:13–16 </em><em type="italic">eller </em></p>
+<p>Låt oss höra evangeliet om Jesus och barnen/ Jesu ord om barnen som förebilder i tro.p/l: Folk kom till Jesus med barnför att han skulle röra vid dem. Men lärjungarna visade bort dem. När Jesus såg det blev han förargad och sade: ”Låt barnen komma hit till mig och hindra dem inte: Guds rike tillhör sådana som de. Sannerligen, den som inte tar emot Guds rike som ett barn kommer aldrig dit in.” Och han tog dem i famnen, lade händerna på dem och välsignade dem. <em type="italic">Mark 10:13–16eller </em></p>
 <p>Prästen/Ledaren kan säga:</p>
 <p>Fakultativ bibelläsning vid dop av unga och vuxna.</p>
 <p>Låt oss höra Jesu ord om befrielse och nåd:p/l: Jesus kom till Nasaret, där han hade växt upp, och på sabbaten gick han till synagogan, som han brukade. Han reste sig för att läsa, och man gav honom profeten Jesajas bok. När han öppnade den fann han det ställe där det står skrivet: Herrens ande är över mig, ty han har smort mig till att frambära ett glädjebud till de fattiga. Han har sänt mig att förkunna befrielse för de fångna och syn för de blinda, att ge de förtryckta frihet och förkunna ett nådens år från Herren. <em type="italic">Luk 4:16–20 </em>103dop </p>
@@ -826,9 +826,9 @@
 <p>Ytterligare bibelläsning kan förekomma, till exempel av en eller flera av följande eller andra bibeltexter, och inledas enligt följande:p/l: Låt oss lyssna till Bibelns ord i …</p>
 <p>Samma dag som kvinnorna funnit Jesu grav tom var två lärjungar på väg till en by som ligger en mil bort från Jerusalem och som heter Emmaus. De talade med varandra om allt det som hade hänt. Medan de gick där och samtalade och diskuterade kom Jesus själv och slog följe med dem. Men deras ögon var förblindade och de kände inte igen honom. Han frågade: ”Vad är det ni går här och talar med varandra om?” De två 124 konfirmationlärjungarna berättade för honom om hur Jesus blivit dödad, och om hur kvinnorna funnit hans grav tom på morgonen, om att kvinnorna mött änglar som sade att han lever och om att några lärjungar gått ut till graven, sett att den var tom, men inte mött Jesus själv. Då sade Jesus: ”Förstår ni så lite, är ni så tröga till att tro på det som profeterna har sagt? Skulle inte Messias lida detta och gå in i sin härlighet?” Och med början hos Mose och alla profeterna förklarade han för dem vad som står om honom överallt i skrifterna.</p>
 <p>De var nästan framme vid byn dit de skulle, och han såg ut att vilja gå vidare, men de höll kvar honom och sade: ”Stanna hos oss. Det börjar bli kväll och dagen är snart slut.” Då följde han med in och stannade hos dem. När han sedan låg till bords med dem tog han brödet, läste tackbönen, bröt det och gav åt dem. Då öppnades deras ögon och de kände igen honom, men han försvann ur deras åsyn. Och de sade till varandra: ”Brann inte våra hjärtan när han talade till oss på vägen och utlade skrifterna för oss?”</p>
-<p>De bröt genast upp och återvände till Jerusalem, där de fann de elva och alla de andra församlade, och dessa sade ”Herren har verkligen blivit uppväckt och han har visat sig för Simon.” Själva berättade de då vad som hänt dem på vägen och hur han hade gett sig till känna för dem genom att bryta brödet. <em type="italic">Luk 24:13–35 (sammanfattad) </em><em type="italic">eller </em></p>
-<p>Jesus sade: ”Mitt bud är detta: att ni skall älska varandra så som jag har älskat er. Ingen har större kärlek än den som ger sitt liv för sina vänner. Ni är mina vänner om ni gör vad jag befaller er.” <em type="italic">Joh 15:12–14 </em><em type="italic">eller </em></p>
-<p>Är ni döpta in i Kristus har ni också iklätt er Kristus. Nu är ingen längre jude eller grek, slav eller fri, man eller kvinna. Alla är ni ett i Kristus Jesus. <em type="italic">Gal 3:27–28 </em><em type="italic">eller </em>125konfirmation </p>
+<p>De bröt genast upp och återvände till Jerusalem, där de fann de elva och alla de andra församlade, och dessa sade ”Herren har verkligen blivit uppväckt och han har visat sig för Simon.” Själva berättade de då vad som hänt dem på vägen och hur han hade gett sig till känna för dem genom att bryta brödet. <em type="italic">Luk 24:13–35 (sammanfattad)eller </em></p>
+<p>Jesus sade: ”Mitt bud är detta: att ni skall älska varandra så som jag har älskat er. Ingen har större kärlek än den som ger sitt liv för sina vänner. Ni är mina vänner om ni gör vad jag befaller er.” <em type="italic">Joh 15:12–14eller </em></p>
+<p>Är ni döpta in i Kristus har ni också iklätt er Kristus. Nu är ingen längre jude eller grek, slav eller fri, man eller kvinna. Alla är ni ett i Kristus Jesus. <em type="italic">Gal 3:27–28eller </em>125konfirmation </p>
 <p>Mina kära, om Gud har älskat oss så, måste också vi älska varandra. Ingen har någonsin sett Gud. Men om vi älskar varandra är Gud alltid i oss, och hans kärlek har nått sin fullhet i oss. Han har gett oss sin ande, och därför vet vi att vi förblir i honom och han i oss. <em type="italic">1 Joh 4:11–13 </em></p>
 <p xml:lang="tur">Predikan</p>
 <p>Med hjälp av präst och andra ledare gestaltas predikan av konfirmanderna, till exempel med drama och musik.</p>
@@ -1131,15 +1131,15 @@
 <p>Guds frid, som övergår allt förstånd, bevarar våra hjärtan och våra tankar i Kristus Jesus. Amen. <em type="italic">eller </em>l: </p>
 <p>Må Faderns omsorg, Sonens kärlek och den heliga Andens tillgivenhet omsluta oss under dagens timmar, när natten kommer och när uppståndelsens morgon gryr. Amen.174175176</p>
 <p xml:lang="fkv"><em type="bold">Musikserier </em></p>
-<p xml:lang="olo"><em type="bold">Kristusrop </em><em type="bold">(Kyrie) </em></p>
-<p><em type="bold">Lovsången </em><em type="bold">(Gloria och </em></p>
+<p xml:lang="olo"><em type="bold">Kristusrop(Kyrie) </em></p>
+<p><em type="bold">Lovsången(Gloria och </em></p>
 <p xml:lang="est"><em type="bold">Laudamus) </em></p>
-<p xml:lang="rmy-rka"><em type="bold">Lovsägelsen </em><em type="bold">(Sursum </em></p>
+<p xml:lang="rmy-rka"><em type="bold">Lovsägelsen(Sursum </em></p>
 <p><em type="bold">Corda och </em></p>
 <p xml:lang="fra"><em type="bold">Prefationen) </em></p>
-<p xml:lang="est"><em type="bold">Helig </em><em type="bold">(Sanctus) </em></p>
-<p xml:lang="nno"><em type="bold">O Guds Lamm </em><em type="bold">(Agnus Dei) </em></p>
-<p><em type="bold">Lovprisningen </em><em type="bold">(Benedicamus) </em><em type="bold">och Amen </em></p>
+<p xml:lang="est"><em type="bold">Helig(Sanctus) </em></p>
+<p xml:lang="nno"><em type="bold">O Guds Lamm(Agnus Dei) </em></p>
+<p><em type="bold">Lovprisningen(Benedicamus)och Amen </em></p>
 <p xml:lang="nob"><em type="bold">Musikserie A </em>kyrkoårsserier (Jul, Fastan, Påsk) och Allmän serie </p>
 <p>I serie A återfinns även gudstjänstens övriga sjungna moment. dessa kan kombineras med musik ur valfri musikserie.kristusrop 1 (Jul, Fastan, Påsk,</p>
 <p>Allmän;695:1, sid. 183)kristusrop 2(Jul, Påsk, Allmän; 695:4, sid. 184)kristusrop 3(Jul; 696:1, sid. 185)kristusrop 3(Fastan; 696:2, sid. 186)kristusrop 3(Påsk; 696:4, sid. 187)kristusrop 3(Allmän; 696:5, sid. 188)lovsången 1(Jul, Allmän; 697:2, sid. 189) lovsången 1(Påsk, Allmän; 697:1, sid. 191)lovsången 2(Allmän; 697:5, sid. 193)lovsången 3(Jul, Allmän; 697:6, sid. 195)lovsången 4(Allmän; 697:8, sid. 196)lovsången 4(Allmän; 697:9, sid. 197)lovsången 5(Allmän; Sv. Ps. 21, sid. 198)lovsägelsens inledning(två alternativ, sid. 218)prefationen <em type="italic">inledning </em>(två alternativ) </p>
@@ -1156,22 +1156,22 @@
 <p><em type="italic">Fortsättning </em>(sex kyrkoårsbe-stämda alternativ samt Allmän 1–3, sid. 280–288) </p>
 <p><em type="italic">Avslutning </em>(två alternativ, sid. 289)helig 2(sid. 290)o guds lamm 3(sid. 291) <em type="bold">- </em>översikt: musikserier177 </p>
 <p xml:lang="fkv"><em type="bold">Musikserier </em></p>
-<p xml:lang="olo"><em type="bold">Kristusrop </em><em type="bold">(Kyrie) </em></p>
-<p><em type="bold">Lovsången </em><em type="bold">(Gloria och </em></p>
+<p xml:lang="olo"><em type="bold">Kristusrop(Kyrie) </em></p>
+<p><em type="bold">Lovsången(Gloria och </em></p>
 <p xml:lang="est"><em type="bold">Laudamus) </em></p>
-<p xml:lang="rmy-rka"><em type="bold">Lovsägelsen </em><em type="bold">(Sursum </em></p>
+<p xml:lang="rmy-rka"><em type="bold">Lovsägelsen(Sursum </em></p>
 <p><em type="bold">Corda och </em></p>
 <p xml:lang="fra"><em type="bold">Prefationen) </em></p>
-<p xml:lang="est"><em type="bold">Helig </em><em type="bold">(Sanctus) </em></p>
-<p xml:lang="nno"><em type="bold">O Guds Lamm </em><em type="bold">(Agnus Dei) </em></p>
-<p><em type="bold">Lovprisningen </em><em type="bold">(Benedicamus) </em><em type="bold">och Amen </em></p>
+<p xml:lang="est"><em type="bold">Helig(Sanctus) </em></p>
+<p xml:lang="nno"><em type="bold">O Guds Lamm(Agnus Dei) </em></p>
+<p><em type="bold">Lovprisningen(Benedicamus)och Amen </em></p>
 <p xml:lang="fin"><em type="bold">Musikserie D </em></p>
 <p>Allmän seriekristusrop 5(sid. 294)lovsången 8(sid. 295)lovsägelsens inledning (ett alternativ, sid. 296)prefationen(sid. 297–299) <em type="italic">inledning </em>(ett alternativ) </p>
 <p><em type="italic">Fortsättning </em>(Allmän 1–3) </p>
 <p><em type="italic">Avslutning </em>(ett alternativ)helig 3(sid. 300)o guds lamm 4(sid. 301)o guds lamm 5(sid. 301) <em type="bold">- </em></p>
 <p xml:lang="est"><em type="bold">Musikserie E </em></p>
 <p>Allmän seriekristusrop 6(sid. 304)lovsången 9(sid. 305)lovsägelsens inledning (ett alternativ, sid. 306)prefationen(Allmän 4, sid. 306)helig 4(sid. 307)o guds lamm 6(sid. 308) <em type="bold">- </em>178179musikserie a </p>
-<p xml:lang="nob">Samling <em type="bold">inledningsord </em><em type="bold">kristusrop (kyrie) </em><em type="bold">lovsången (gloria och laudamus) </em><em type="bold">dagens bön </em>180 samling </p>
+<p xml:lang="nob">Samling <em type="bold">inledningsordkristusrop (kyrie)lovsången (gloria och laudamus)dagens bön </em>180 samling </p>
 <p>Helig,--helig,-helig--är</p>
 <p xml:lang="deu">Herren-</p>
 <p xml:lang="sme">Seba--ot.-</p>
@@ -1701,9 +1701,9 @@
 <p xml:lang="nob"><em type="italic">P/L </em>tus-ärmitti bland-oss. </p>
 <p xml:lang="nno">Ihans namn villvibe.&amp;b</p>
 <p xml:lang="nob">Her</p>
-<p xml:lang="nob"><em type="italic">P/L </em><em type="italic">eller </em>ren-vare-med er. </p>
+<p xml:lang="nob"><em type="italic">P/Leller </em>ren-vare-med er. </p>
 <p xml:lang="nob">Med digvare-ock Her ren.-</p>
-<p xml:lang="nob"><em type="italic">P/L </em>Låt oss be.œJ œJ œJ œJ œJ œJ œ œJ œJ œJ œJ œJ œœJ œJ œJ œJ œJ œœJ œJ œJ œJ œJ œJ œœJ œJ œ200201ordetmusikserie aordet <em type="bold">gammaltestamentlig läsning och epistelläsning </em><em type="bold">evangelium </em><em type="bold">hallelujarop </em><em type="bold">kyrkans förbön </em>202 ordet&amp;b W </p>
+<p xml:lang="nob"><em type="italic">P/L </em>Låt oss be.œJ œJ œJ œJ œJ œJ œ œJ œJ œJ œJ œJ œœJ œJ œJ œJ œJ œœJ œJ œJ œJ œJ œJ œœJ œJ œ200201ordetmusikserie aordet <em type="bold">gammaltestamentlig läsning och epistelläsningevangeliumhallelujaropkyrkans förbön </em>202 ordet&amp;b W </p>
 <p><em type="italic">Avslutning vid gammaltestamentlig läsning och epistelläsning </em></p>
 <p xml:lang="fra"><em type="italic">P/L </em></p>
 <p xml:lang="dan">Så lyder</p>
@@ -1781,7 +1781,7 @@
 <p xml:lang="eng">I&amp;bbb</p>
 <p xml:lang="nno">Herre-</p>
 <p xml:lang="smj">Gud,duheli-ga-</p>
-<p>Ande.-&amp;bbb</p>
+<p xml:lang="rmy-rlo">Ande.-&amp;bbb</p>
 <p>För</p>
 <p xml:lang="nno"><em type="italic">F </em>bar-ma-digöver-oss. </p>
 <p xml:lang="fra"><em type="italic">P/L </em></p>
@@ -2072,7 +2072,7 @@
 <p xml:lang="nob"><em type="italic">F </em>men.- </p>
 <p xml:lang="smj">Œ œj œj œj œ œj œj œ</p>
 <p xml:lang="nob">J œjœj œœj œj œj œj œj œj œj œjœ œ œœj œj œj œj œj œj œ œ œj œj œj œj œJ œj œj œ œœj œj œj œj œj œj œj œj œj œœœœj œj œj œj œj œj œ œj œj œ œ œ œ œœj œj œj œj œj œj œj œj œjœœj œj œj œj œj œjœj œJ œjœj œj œœj œJ œJ œj œ œ œ œj œj œj œj œj œœj œj œj œj œj œj œJ œjœj œœœj œj œjœj œj œ œœjœj œjœjœjœjœj œJ œjœj œj œœj œj œj œj œj œ œj œj œj œj œj œ œœj œj œj œj œj œj œj œj œ œ œ œJ œj œœ œförbön begravning 2217måltidenmusikserie a</p>
-<p>Måltiden <em type="bold">lovsägelsen (sursum corda och prefationen) </em><em type="bold">helig (sanctus) </em><em type="bold">nattvardsbönen </em><em type="bold">o guds lamm (agnus dei) </em>218 måltiden </p>
+<p>Måltiden <em type="bold">lovsägelsen (sursum corda och prefationen)helig (sanctus)nattvardsböneno guds lamm (agnus dei) </em>218 måltiden </p>
 <p xml:lang="est">Tonus solemnis&amp;b</p>
 <p xml:lang="isl">Upp Öpp</p>
 <p>Ett av följande alternativ:</p>
@@ -2704,7 +2704,7 @@
 <p xml:lang="deu">Iamen.-</p>
 <p xml:lang="smj">Œ œJ œJ œ œ œJ œj œ</p>
 <p xml:lang="smj">J œj œ œ œœ œ œ œ œJ œj œj œj œ œ</p>
-<p>JœJ œ œ œj œj œ œ œj œj œ œœj œjœj œjœœœlovprisning 249musikserie b <em type="bold">kristusrop (kyrie) </em><em type="bold">lovsången (gloria och laudamus) </em><em type="bold">lovsägelsen (sursum corda och prefationen) </em><em type="bold">helig (sanctus) </em><em type="bold">o guds lamm (agnus dei) </em><em type="bold">lovprisning (benedicamus) och amen </em>2502011&amp;b </p>
+<p>JœJ œ œ œj œj œ œ œj œj œ œœj œjœj œjœœœlovprisning 249musikserie b <em type="bold">kristusrop (kyrie)lovsången (gloria och laudamus)lovsägelsen (sursum corda och prefationen)helig (sanctus)o guds lamm (agnus dei)lovprisning (benedicamus) och amen </em>2502011&amp;b </p>
 <p xml:lang="smj">He li-ge-</p>
 <p xml:lang="eng">Her re-</p>
 <p>Gud,he li-ge-star ke-</p>
@@ -2905,7 +2905,7 @@
 <p xml:lang="fra"><em type="italic">P/L </em>2011&amp;# </p>
 <p xml:lang="nob"><em type="italic">F </em>&amp;#&amp;## </p>
 <p xml:lang="rmy-rka">Välsignelsen</p>
-<p>Œ™‰ œj œj œJ œJ œj œ œ œj œ œ œj œ™œ œJ œ œ œJ œ œ œj œ™‰ œbJ œjœ œj ‰ œJ œbJ œb œj‰ œbJ œJ œb™˙™˙˙œ œ ˙wwlovprisning275musikserie c <em type="bold">kristusrop (kyrie) </em><em type="bold">lovsången (gloria och laudamus) </em><em type="bold">lovsägelsen (sursum corda och prefationen) </em><em type="bold">helig (sanctus) </em><em type="bold">o guds lamm (agnus dei) </em>276 </p>
+<p>Œ™‰ œj œj œJ œJ œj œ œ œj œ œ œj œ™œ œJ œ œ œJ œ œ œj œ™‰ œbJ œjœ œj ‰ œJ œbJ œb œj‰ œbJ œJ œb™˙™˙˙œ œ ˙wwlovprisning275musikserie c <em type="bold">kristusrop (kyrie)lovsången (gloria och laudamus)lovsägelsen (sursum corda och prefationen)helig (sanctus)o guds lamm (agnus dei) </em>276 </p>
 <p xml:lang="nob">Her</p>
 <p><em type="italic">Ky </em>re, <em type="italic">ri </em>--för <em type="italic">e </em>- <em type="italic">e </em>bar <em type="italic">le </em>--ma <em type="italic">i </em>--dig, <em type="italic">son. </em>- </p>
 <p xml:lang="nob">Her</p>
@@ -3008,7 +3008,7 @@
 <p>Guds Lamm,du som tarbortvärldens-synd,för -&amp;bbar</p>
 <p><em type="italic">F </em>ma-dig.dig. </p>
 <p xml:lang="sme">Geossdinfrid.</p>
-<p>U˙œ ˙™œ œ œ ˙™œ œ œ ˙œœ œ œ ˙™˙™œ œ œ# ˙™o guds lamm 3 292293musikserie d <em type="bold">kristusrop (kyrie) </em><em type="bold">lovsången (gloria och laudamus) </em><em type="bold">lovsägelsen (sursum corda och prefationen) </em><em type="bold">helig (sanctus) </em><em type="bold">o guds lamm (agnus dei) </em>294 </p>
+<p>U˙œ ˙™œ œ œ ˙™œ œ œ ˙œœ œ œ ˙™˙™œ œ œ# ˙™o guds lamm 3 292293musikserie d <em type="bold">kristusrop (kyrie)lovsången (gloria och laudamus)lovsägelsen (sursum corda och prefationen)helig (sanctus)o guds lamm (agnus dei) </em>294 </p>
 <p xml:lang="nno">Kyri-e-elei-son,-</p>
 <p>Her re-för bar-ma-dig.</p>
 <p xml:lang="nno">Kriste-elei-son,-™™</p>
@@ -3105,7 +3105,7 @@
 <p>Guds Lamm,du möter-ossi bröd och vin.&amp;bbb</p>
 <p>Du tar e mot-osssom vi är,ger oss din kraft och frid.‰ œ œ œjœ œJ œj œ ‰ œjœ œjœj œ ‰ œjœ œjœj˙™</p>
 <p xml:lang="est">Œ ‰ œJ œJ œjœ œ œ œJ œj ˙œj œj œj œ œ œjw‰ œ œ œj œ œJ œj œ ‰ œj œ œj œj œ ‰ œj œ œj œj˙™</p>
-<p>Œ ‰ œJ œJ œjœ œ œ œJ œj ˙ œj œj œj œ œ œj wo guds lamm 5 302303musikserie e <em type="bold">kristusrop (kyrie) </em><em type="bold">lovsången (gloria och laudamus) </em><em type="bold">lovsägelsen (sursum corda och prefationen) </em><em type="bold">helig (sanctus) </em><em type="bold">o guds lamm (agnus dei) </em>304 </p>
+<p>Œ ‰ œJ œJ œjœ œ œ œJ œj ˙ œj œj œj œ œ œj wo guds lamm 5 302303musikserie e <em type="bold">kristusrop (kyrie)lovsången (gloria och laudamus)lovsägelsen (sursum corda och prefationen)helig (sanctus)o guds lamm (agnus dei) </em>304 </p>
 <p>Mötmignu som denjagär,hållmitthjärta-nära-dig,görmigtill den jag skabliochlevimig.c&amp;</p>
 <p xml:lang="fin"><em type="italic">Allmän </em></p>
 <p xml:lang="smn"><em type="italic">F </em>&amp;œ œ œjœj œj œj wœ œ œjœj œj œjwœ œ œJ œjœj œj œ œ œ œ wkristusrop 6 3052011™™™™34&amp;b </p>
@@ -3150,10 +3150,10 @@
 <p xml:lang="isl">J œ œj ˙ œ œœ™œj œjœ œj ˙ œ œ ˙ œjœ œj ˙ œ œ œ™œj œjœ œJ˙œ œ œ™œj œJ œ œj ˙ œ œ œ™œj œjœ œj ˙ œ œ˙ œjœ œj ˙ œ œ œ™œJ ˙ Ó œ œ œ™ œJ ˙ Ó œ œœ™œJ ˙ Ó œ œ œ œ œj œ œ#J ˙ œ œ œ™œJ ˙ Ó œ œœ™œJ ˙ Ó œ œ œ™ œJ ˙ Ó œ œ œ™œj œ œ ˙helig 4308™™34&amp;b</p>
 <p xml:lang="rmn">O O</p>
 <p xml:lang="fin"><em type="italic">Allmän </em></p>
-<p xml:lang="olo"><em type="italic">Kanon </em><em type="italic">1 </em></p>
+<p xml:lang="olo"><em type="italic">Kanon1 </em></p>
 <p xml:lang="dan">Guds Guds</p>
 <p>Lamm, Lamm,uppbestånfri <em type="italic">2 </em>--delel--sens sens--ljus,kraft,kom kom <em type="italic">3 </em>till tilloss oss&amp;bhär. nu. </p>
-<p xml:lang="nob"><em type="italic">F </em><em type="italic">4 </em></p>
+<p xml:lang="nob"><em type="italic">F4 </em></p>
 <p>Guds Lamm,duevi-ga-hopp,&amp;bgeossdinfrid.sista ggn˙œ ˙œ œ œ œ ˙™˙™˙œ˙™˙</p>
 <p xml:lang="udm">Œ˙œ ˙œ œ œ œ ˙™˙™˙œ˙™˙</p>
 <p>Œ˙™o guds lamm 6 309källförteckning musik310kÄLLFÖRTeCknInG MUSIk</p>

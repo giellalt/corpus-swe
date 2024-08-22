@@ -1,4 +1,4 @@
-<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>279</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://gielemnastedh.no/wp-content/uploads/2013/08/Gïeleviermie-2013-Program.pdf</origFileName><parallel_text xml:lang="sma" location="ga-eleviermie-programme-2013.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="deu"><em type="bold">GÏELEVIERMIE </em>2013 </p>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>273</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://gielemnastedh.no/wp-content/uploads/2013/08/Gïeleviermie-2013-Program.pdf</origFileName><parallel_text xml:lang="sma" location="ga-eleviermie-programme-2013.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="deu"><em type="bold">GÏELEVIERMIE </em>2013 </p>
 <p xml:lang="vep"><em type="bold">SYDSAMISKT SPRÅKNÄTVERK </em></p>
 <p xml:lang="nob"><em type="bold">ETT SAMARRANGEMANG AV SAMISKT SPRÅKCENTRUM/SAMETINGET, </em></p>
 <p xml:lang="deu"><em type="bold">GÏELEAERNIE RÖYRVIK KOMMUNE, GÏELEM NASTEDH SNÅSA KOMMUNE </em></p>
@@ -30,5 +30,5 @@
 <p xml:lang="nob"><em type="bold">Samiskt Språkcentrum </em>– Boklansering av handboken <span type="quote">”Jag tar tillbaka mitt språk”</span> <em type="italic">Jane Juuso </em>och <em type="italic">Sylvia Sparrock </em>. 1230 - 1300 </p>
 <p><em type="bold">Summering och avslutning </em>1300 </p>
 <p xml:lang="deu"><em type="bold">Lunch </em></p>
-<p>Med reservation för ändringar i programmet. <em type="bold">Anmälan senast 30 september 2013 via www.sametinget.se </em><em type="bold">(se kalendarium) </em></p>
+<p xml:lang="nob"><em type="bold">Anmälan senast 30 september 2013 via www.sametinget.se (se kalendarium) </em></p>
 </body></document>

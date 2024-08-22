@@ -1,7 +1,7 @@
-<document xml:lang="swe" id="no_id"><header><title>Undvik att bli smittad och att smitta andra</title><genre code="facta"/><author><person firstname="" lastname="folkhälsomyndigheten.se" sex="unknown" born="" nationality=""/></author><year>2020</year><wordcount>154</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.folkhalsomyndigheten.se/contentassets/2fd2f1297c3a4b809acd85c8ac9e9668/undvik-smitta-a4-svenska.pdf</origFileName><parallel_text xml:lang="eng" location="undvik_smitta_a4_engelska.pdf"/><parallel_text xml:lang="fit" location="undvik_smitta_a4_meankieli.pdf"/><parallel_text xml:lang="sme" location="undvik-smitta-a4-nordsamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 180635 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Undvik att bli smittad och att smitta andra</p>
+<document xml:lang="swe" id="no_id"><header><title>Undvik att bli smittad och att smitta andra</title><genre code="facta"/><author><person firstname="" lastname="folkhälsomyndigheten.se" sex="unknown" born="" nationality=""/></author><year>2020</year><wordcount>166</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>https://www.folkhalsomyndigheten.se/contentassets/2fd2f1297c3a4b809acd85c8ac9e9668/undvik-smitta-a4-svenska.pdf</origFileName><parallel_text xml:lang="eng" location="undvik_smitta_a4_engelska.pdf"/><parallel_text xml:lang="fit" location="undvik_smitta_a4_meankieli.pdf"/><parallel_text xml:lang="sme" location="undvik-smitta-a4-nordsamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 180635 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Undvik att bli smittad och att smitta andra</p>
 <p><em type="bold">Stanna hemma när du är sjuk! </em></p>
 <p>Stanna hemma när du är sjuk. Då undviker du att smitta andra.</p>
-<p><em type="bold">Undvik att röra ögon, </em><em type="bold">näsa och mun! </em></p>
+<p><em type="bold">Undvik att röra ögon, näsa och mun! </em></p>
 <p>Det kan vara svårt att låta bli, så tvätta händerna ofta med tvål och vatten för att få bort smittämnen.</p>
 <p><em type="bold">Tvätta händerna ofta! </em></p>
 <p>Smittämnen fastnar lätt på händer och kan spridas vidare. Tvätta händerna ofta med tvål och varmt vatten, minst 20 sekunder. Handsprit är ett alternativ när du inte har möjlighet till handtvätt.</p>
@@ -9,4 +9,8 @@
 <p>Genom att hosta och nysa i armvecket eller i en pappersnäsduk hindrar du små droppar med smittämnen från att spridas runt dig eller fastna på dina händer. Släng alltid pappersnäs duken i en papperskorg och tvätta händerna.! Smittämnen finns överallt i vår omgivning.</p>
 <p>Den vanligaste smittspridningen sker via våra händer.</p>
 <p>God handhygien är ett enkelt sätt att skydda dig själv och andra.</p>
+<p>FOLKHÄLSOMYNDIGHETEN, 2020</p>
+<p>ARTIKELNUMMER: 20032-8</p>
+<p>UNDVIK SMITTA, SVENSKA A4</p>
+<p>GRAFISK PRODUKTION: ETC KOMMUNIKATION</p>
 </body></document>
