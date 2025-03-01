@@ -1,4 +1,6 @@
-<document xml:lang="swe" id="no_id"><header><title>Valfrihet i hemtjänst - LOV - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>481</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/omsorgochhjalp/aldre/valfrihetihemtjanstlov.3863.html</origFileName><parallel_text xml:lang="sma" location="valfrihetihemtjanstlov.3863.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="ron">Translate site</p>
+<document xml:lang="swe" id="no_id"><header><title>Valfrihet i hemtjänst - LOV - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>481</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/omsorgochhjalp/aldre/valfrihetihemtjanstlov.3863.html</origFileName><parallel_text xml:lang="sma" location="valfrihetihemtjanstlov.3863.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="ron">Translate site</p>
 <list><p type="listitem" xml:lang="sma">Åarjelsaemien</p>
 <p type="listitem" xml:lang="nob">Om webbplatsen</p>
 <p type="listitem" xml:lang="eng">Press</p>
@@ -40,7 +42,7 @@
 <p xml:lang="eng">Kontaktinformation</p>
 <list><p type="listitem" xml:lang="nob">Marie Hermansson</p>
 <p type="listitem">Verksamhetschef bistånd</p>
-<p type="listitem" xml:lang="koi">0640 165 07</p>
+<p type="listitem" xml:lang="vep">0640 165 07</p>
 <p type="listitem"><em type="italic">Biståndshandläggare </em></p>
 <p type="listitem">Här når du våra biståndshandläggare</p>
 </list><p>Läs mer</p>

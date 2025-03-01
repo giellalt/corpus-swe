@@ -1,4 +1,6 @@
-<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>153</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/3523</origFileName><parallel_text xml:lang="sme" location="4936.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Renmärkestransaktioner - Sametinget</p>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>153</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/3523</origFileName><parallel_text xml:lang="sme" location="4936.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Renmärkestransaktioner - Sametinget</p>
 <p type="title">Renmärkes-transaktioner</p>
 <p>Här publiceras information om de transaktioner av renmärken som gjorts under föregående år.</p>
 <p>Listan i högerspalten innehåller förteckningar på nyregistrerade, omregistrerade och avregistrerade renmärken. Förklaringar:</p>

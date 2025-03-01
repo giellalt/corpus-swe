@@ -1,35 +1,48 @@
-<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>272</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>4087_tolkcentralen-A5.docx</origFileName><parallel_text xml:lang="fit" location="4087_tolkcentralen-a5_mki.odt"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="spa">Tolkcentralen</p>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>271</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>4087_tolkcentralen-A5.docx</origFileName><parallel_text xml:lang="fit" location="4087_tolkcentralen-a5_mki.odt"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="spa">Tolkcentralen</p>
 <p type="title">Tolkcentralen är en länsövergripande verksamhet som erbjuder hörselskadade, döva, dövblinda samt hörande kostnadsfri tolkservice.</p>
-<p>Vi arbetar enligt god tolksed och har tystnadsplikt.</p>
+<p><span type="quote">Vi arbetar enligt god tolksed och har tystnadsplikt.</span></p>
 <p type="title">Det krävs ingen remiss eller viss grad av hörselnedsättning för att beställa tolk.</p>
-<p xml:lang="vep">SKRIVTOLK</p>
-<p xml:lang="deu">SAMORDNARE</p>
-<p xml:lang="vep">DÖVBLINDTOLK  TECKENSPRÅKSTOLK</p>
+<p xml:lang="vep"><em type="italic">SKRIVTOLK SAMORDNARE </em></p>
+<p xml:lang="vep"><em type="italic">DÖVBLINDTOLK TECKENSPRÅKSTOLK </em></p>
 <p type="title">Hur arbetar vi som tolkar?</p>
 <list><p type="listitem" xml:lang="nno">Vi har tystnadsplikt.</p>
 <p type="listitem">Vi tolkar allt som sägs.</p>
 <p type="listitem">Vi tolkar i jag-form.</p>
-<p type="listitem">Vi är neutrala och deltar inte i samtalet – vi gör  samtalet  möjligt.</p>
+<p type="listitem">Vi är neutrala och deltar inte i samtalet – vi gör samtalet möjligt.</p>
 <p type="listitem">Vid vissa tolksituationer arbetar vi två och två.</p>
-</list><p>Teckenspråkstolken tolkar till hörselskadade och döva som har teckenspråk som sitt första språk.  Tolkningen  sker  mellan svenska och teckenspråk.</p>
-<p>Dövblindtolken tolkar till personer med syn- och hörselnedsättningar i olika grader och kombinationer, här ingår även ledsagning och syntolkning.</p>
-<p>Skrivtolken skriver allt som sägs, tolkanvändaren läser den skrivna texten. Beroende på uppdragets art  anpassas  storlek av skärm, till exempel läsplatta eller storbildskärm.  Tolkanvändaren  talar   själv.</p>
-<p>TSS-tolken (tecken som stöd) tolkar till hörselskadade som har svenska som sitt första språk. Tolken använder sig av tecken för att underlätta läppavläsning.</p>
-<p>Tolkanvändaren talar själv.</p>
+</list><p><span type="quote">Teckenspråkstolken tolkar till hörselskadade och döva som har
+teckenspråk som sitt första språk. Tolkningen sker mellan svenska och
+teckenspråk.</span></p>
+<p><span type="quote">Dövblindtolken tolkar till personer med syn- och hörselnedsättningar
+i olika grader och kombinationer, här ingår även ledsagning och
+syntolkning.</span></p>
+<p><span type="quote">Skrivtolken skriver allt som sägs, tolkanvändaren läser den skrivna
+texten. Beroende på uppdragets art anpassas storlek av skärm, till
+exempel läsplatta eller storbildskärm. Tolkanvändaren talar själv.</span></p>
+<p><span type="quote">TSS-tolken (tecken som stöd) tolkar till hörselskadade som har
+svenska som sitt första språk. Tolken använder sig av tecken för att
+underlätta läppavläsning.</span></p>
+<p><span type="quote">Tolkanvändaren talar själv.</span></p>
 <p type="title">Vi finns här för dig</p>
-<p>Du har möjlighet att använda tolk i alla vardagliga situationer, vardag, helg, dag- och kvällstid, till exempel:</p>
+<p><span type="quote">Du har möjlighet att använda tolk i alla vardagliga situationer,
+vardag, helg, dag- och kvällstid, till exempel:</span></p>
 <list><p type="listitem">vid möten i ditt arbete</p>
-<p type="listitem">besök i   vården</p>
+<p type="listitem">besök i vården</p>
 <p type="listitem">föreningsverksamhet</p>
-<p type="listitem">föreläsning,   studiecirkel</p>
-<p type="listitem">fyrkobesök,  teater,  bussresa  Tolkning  kan också erbjudas på   distans.</p>
+<p type="listitem">föreläsning, studiecirkel</p>
+<p type="listitem">fyrkobesök, teater, bussresa Tolkning kan också erbjudas på distans.</p>
 </list><p type="title" xml:lang="vep">Kontakta Tolkcentralen</p>
-<p xml:lang="nob">Stadsvikens hälsocentral, plan 3 Robertsviksgatan 9 971 89   Luleå</p>
-<p xml:lang="nno">Telefon: 0920- 28 40 80. Mån-fre 8.30-12.00</p>
-<p>Övrig tid kan meddelande lämnas på vår telefonsvarare, mail eller SMS.</p>
-<p xml:lang="nob">Bildtelefon:  tolk.lulea@ectalk.se</p>
-<p xml:lang="nob">SMS:  070-392 00 12 (endast sms)  E-post:  tolkcentralen@norrbotten.se   Hemsida:  norrbotten.se/tolkcentralen  Webb:  1177.se</p>
-<p>Vid  akut  behov av tolk efter telefontid, ring:</p>
-<p xml:lang="nno">SOS Alarm tal- och texttelefon 0920 – 21 11 68</p>
-<p xml:lang="spa">norrbotten.se</p>
+<p xml:lang="nob"><span type="quote" xml:lang="nob">Stadsvikens hälsocentral, plan 3 Robertsviksgatan 9 971 89 Luleå</span></p>
+<p xml:lang="nno"><span type="quote" xml:lang="nno">Telefon: 0920- 28 40 80. Mån-fre 8.30-12.00</span></p>
+<p><span type="quote">Övrig tid kan meddelande lämnas på vår telefonsvarare, mail eller
+SMS.</span></p>
+<p xml:lang="nob"><span type="quote" xml:lang="nob">Bildtelefon: tolk.lulea@ectalk.se</span></p>
+<p xml:lang="nob"><span type="quote" xml:lang="nob">SMS: 070-392 00 12 (endast sms) E-post:
+tolkcentralen@norrbotten.seHemsida: norrbotten.se/tolkcentralen Webb:
+1177.se</span></p>
+<p><span type="quote">Vid akut behov av tolk efter telefontid, ring:</span></p>
+<p xml:lang="nno"><span type="quote" xml:lang="nno">SOS Alarm tal- och texttelefon 0920 – 21 11 68</span></p>
+<p xml:lang="spa"><em type="italic">norrbotten.se </em></p>
 </body></document>

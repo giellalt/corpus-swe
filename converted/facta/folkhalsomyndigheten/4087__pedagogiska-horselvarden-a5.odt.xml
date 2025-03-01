@@ -1,41 +1,55 @@
-<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>304</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>4087     _pedagogiska-hörselvården-A5.docx</origFileName><parallel_text xml:lang="fit" location="4087__pedagogiska-horselvarden-a5_mki.odt"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Pedagogiska   hörselvården</p>
-<p>Personer med hörselproblematik i alla åldrar ska ges goda förutsättningar för att klara det dagliga livet.</p>
-<p>På Pedagogiska hörselvården arbetar vi med habilitering och rehabilitering med Dig i fokus.</p>
-<p xml:lang="vep">TECKENSPRÅKSLÄRARE</p>
-<p xml:lang="deu">HÖRSELPEDAGOG</p>
-<p xml:lang="vep">KURATOR</p>
-<p xml:lang="deu">SPECIALPEDAGOG  PSYKOLOG</p>
-<p xml:lang="vep">ADMINISTRATÖR</p>
-<p>Pedagogiska hörselvården arbetar för Dig som har olika hörselproblem. Det kan vara hörselnedsättning, dövhet, dövblindhet, tinnitus eller ljudöverkänslighet, ibland en kombination av dessa.</p>
-<p>Vårt mål är att ge kunskap och förståelse om hörsel, hörselnedsättningar, hjälpmedel, vilka konsekvenser olika hörselproblem kan medföra, samt strategier och nya förhållningssätt som kan underlätta i vardagen.</p>
-<p>Vårt team samarbetar ofta med andra delar inom hörselvården, så som hörcentral och tekniska hörselvården, samt med hörselläkare och tolkcentral. För dig som har</p>
-<p>en svår kombinerad syn- och hörselnedsättning sker samverkan även med syncentral.</p>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>302</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>4087     _pedagogiska-hörselvården-A5.docx</origFileName><parallel_text xml:lang="fit" location="4087__pedagogiska-horselvarden-a5_mki.odt"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Pedagogiska hörselvården</p>
+<p><span type="quote">Personer med hörselproblematik i alla åldrar ska ges goda
+förutsättningar för att klara det dagliga livet.</span></p>
+<p><span type="quote">På Pedagogiska hörselvården arbetar vi med habilitering och
+rehabilitering med Dig i fokus.</span></p>
+<p xml:lang="vep"><span type="quote" xml:lang="vep">TECKENSPRÅKSLÄRARE</span></p>
+<p xml:lang="deu"><em type="italic">HÖRSELPEDAGOG KURATOR </em></p>
+<p xml:lang="deu"><em type="italic">SPECIALPEDAGOG PSYKOLOG </em></p>
+<p xml:lang="vep"><span type="quote" xml:lang="vep">ADMINISTRATÖR</span></p>
+<p><span type="quote">Pedagogiska hörselvården arbetar för Dig som har olika hörselproblem.
+Det kan vara hörselnedsättning, dövhet, dövblindhet, tinnitus eller
+ljudöverkänslighet, ibland en kombination av dessa.</span></p>
+<p><span type="quote">Vårt mål är att ge kunskap och förståelse om hörsel,
+hörselnedsättningar, hjälpmedel, vilka konsekvenser olika hörselproblem
+kan medföra, samt strategier och nya förhållningssätt som kan underlätta
+i vardagen.</span></p>
+<p><span type="quote">Vårt team samarbetar ofta med andra delar inom hörselvården, så som
+hörcentral och tekniska hörselvården, samt med hörselläkare och
+tolkcentral. För dig som har</span></p>
+<p><span type="quote">en svår kombinerad syn- och hörselnedsättning sker samverkan även med
+syncentral.</span></p>
 <p type="title">Tillsammans med oss får Du</p>
 <list><p type="listitem">kännedom om hörhjälpmedel för arbete, skola och fritid</p>
-<p type="listitem">information om hur samhällets stödinsatser kan  hjälpa  dig</p>
-<p type="listitem">möjlighet att träffa andra i liknande situation och  utbyta  erfarenheter</p>
-<p type="listitem">ventilera dina tankar kring ditt hörselproblem och  få  stödjande samtal</p>
+<p type="listitem">information om hur samhällets stödinsatser kan hjälpa dig</p>
+<p type="listitem">möjlighet att träffa andra i liknande situation och utbyta erfarenheter</p>
+<p type="listitem">ventilera dina tankar kring ditt hörselproblem och få stödjande samtal</p>
 </list><p type="title">För barn, ungdom och familjer erbjuder vi</p>
 <list><p type="listitem">samtal med barn, ungdomar och föräldrar</p>
 <p type="listitem">upprättande av habiliteringsplan</p>
 <p type="listitem">föräldrautbildning med olika teman</p>
-<p type="listitem">teckenspråksintroduktion till   föräldrar</p>
+<p type="listitem">teckenspråksintroduktion till föräldrar</p>
 <p type="listitem">information till närstående, förskola och skola</p>
-<p type="listitem">förskrivning av hörselteknisk utrustning till förskola  eller  skola</p>
-<p type="listitem">samverkan med andra  aktörer,  bland annat hörcentral, elevhälsa, Specialpedagogiska skolmyndigheten,  barn-  och ungdomshabilitering</p>
+<p type="listitem">förskrivning av hörselteknisk utrustning till förskola eller skola</p>
+<p type="listitem">samverkan med andra aktörer, bland annat hörcentral, elevhälsa, Specialpedagogiska skolmyndigheten, barn- och ungdomshabilitering</p>
 </list><p type="title">För vuxna erbjuder vi</p>
 <list><p type="listitem">enskilda samtal eller tillsammans med närstående</p>
-<p type="listitem">upprättande av   rehabiliteringsplan</p>
-<p type="listitem">information till närstående,  vänner,  arbetsplatser  med  mera</p>
-<p type="listitem">stödsamtal, med bland annat   KBT/ACT-inriktning</p>
-<p type="listitem">introduktionskurs i tecken som stöd   (TSS)</p>
+<p type="listitem">upprättande av rehabiliteringsplan</p>
+<p type="listitem">information till närstående, vänner, arbetsplatser med mera</p>
+<p type="listitem">stödsamtal, med bland annat KBT/ACT-inriktning</p>
+<p type="listitem">introduktionskurs i tecken som stöd (TSS)</p>
 <p type="listitem" xml:lang="nob">rehabiliteringsgrupper</p>
-<p type="listitem">utprovning och förskrivning av hjälpmedel för  personer  med grav hörselnedsättning/dövhet, exempelvis text/ bildtelefoni och varseblivning</p>
-<p type="listitem">samverkan med bland annat företagshälsovård, försäkringskassa, arbetsförmedling,   arbetsgivare</p>
+<p type="listitem">utprovning och förskrivning av hjälpmedel för personer med grav hörselnedsättning/dövhet, exempelvis text/ bildtelefoni och varseblivning</p>
+<p type="listitem">samverkan med bland annat företagshälsovård, försäkringskassa, arbetsförmedling, arbetsgivare</p>
 </list><p type="title">Kontakta Pedagogiska hörselvården</p>
-<p xml:lang="nob">Adress:  Stadsvikens hälsocentral, plan 3 Robertsviksgatan 9 971 89   Luleå</p>
-<p xml:lang="eng">Telefon:  0920 - 28 40 60. Tis-ons 13.00-15.00</p>
-<p xml:lang="est">SMS:  070-361 40 60 (endast sms)</p>
-<p xml:lang="nob">E-post:  pedagogiska.horselvar  den@norrbotten.se   Hemsida:  norrbotten.se/pedagogiskahorselvarden  Webb:  1177.se</p>
-<p xml:lang="spa">norrbotten.se</p>
+<p xml:lang="nob"><span type="quote" xml:lang="nob">Adress: Stadsvikens hälsocentral, plan 3
+Robertsviksgatan 9 971 89 Luleå</span></p>
+<p xml:lang="eng"><span type="quote" xml:lang="eng">Telefon: 0920 - 28 40 60. Tis-ons 13.00-15.00</span></p>
+<p xml:lang="est"><span type="quote" xml:lang="est">SMS: 070-361 40 60 (endast sms)</span></p>
+<p xml:lang="nob"><span type="quote" xml:lang="nob">E-post: pedagogiska.horselvarden@norrbotten.seHemsida:
+norrbotten.se/pedagogiskahorselvarden Webb:
+1177.se</span></p>
+<p xml:lang="spa"><span type="quote" xml:lang="spa">norrbotten.se</span></p>
 </body></document>

@@ -1,4 +1,6 @@
-<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><person firstname="Bengt" lastname="Pohjanen" sex="m" born="19440626" nationality="SE"/></author><year>2007</year><wordcount>10813</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>20072017_Painoon_sivut_LYYKERI 2017.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="fra">LYYKERI2</p>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><person firstname="Bengt" lastname="Pohjanen" sex="m" born="19440626" nationality="SE"/></author><year>2007</year><wordcount>10813</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>20072017_Painoon_sivut_LYYKERI 2017.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="fra">LYYKERI2</p>
 <p xml:lang="nno">Lyykeri© Bengt Pohjanen</p>
 <p xml:lang="eng">Barents Publisher</p>
 <p xml:lang="sms">Layout: Jorma Aspegrén</p>

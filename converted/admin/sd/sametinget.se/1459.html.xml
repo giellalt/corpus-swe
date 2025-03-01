@@ -1,4 +1,6 @@
-<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>172</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1459</origFileName><parallel_text xml:lang="sme" location="5810.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Låna böcker - Sametinget</p>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>172</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1459</origFileName><parallel_text xml:lang="sme" location="5810.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Låna böcker - Sametinget</p>
 <p type="title">Låna böcker</p>
 <p>På Ájtte i Jokkmokk i det vackra rummet Ája samsas tre verksamheter: Ájttes bibliotek, Ájttes arkiv och Samernas bibliotek med Sametingets bibliotekskonsulent.</p>
 <p><em type="bold">Samernas bibliotek </em></p>

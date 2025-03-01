@@ -1,4 +1,6 @@
-<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>86</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1059</origFileName><parallel_text xml:lang="sme" location="5092.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Statistik valdeltagande - Sametinget</p>
+<document xml:lang="swe" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>86</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><origFileName>http://www.samediggi.se/1059</origFileName><parallel_text xml:lang="sme" location="5092.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Statistik valdeltagande - Sametinget</p>
 <p>Nils-Gustav Labba.</p>
 <p type="title">Valdeltagande</p>
 <p>Till det första sametingsvalet hade 5 390 personer låtit registrera sig i röstlängden. Valdeltagandet låg på 72 procent. I valet 2009 låg valdeltagandet på 59 procent.</p>

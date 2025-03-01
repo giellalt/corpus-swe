@@ -1,4 +1,6 @@
-<document xml:lang="swe" id="no_id"><header><title>Orion, Krokom - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>427</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/omsorgochhjalp/aldre/vilketstodkanmanfa/boendeforaldre/orionkrokom.4267.html</origFileName><parallel_text xml:lang="sma" location="orionkrokome.6887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="ron">Translate site</p>
+<document xml:lang="swe" id="no_id"><header><title>Orion, Krokom - Krokoms kommun</title><genre code="admin"/><author><unknown/></author><wordcount>427</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.krokom.se/omsorgochhjalp/aldre/vilketstodkanmanfa/boendeforaldre/orionkrokom.4267.html</origFileName><parallel_text xml:lang="sma" location="orionkrokome.6887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="ron">Translate site</p>
 <list><p type="listitem" xml:lang="sma">Åarjelsaemien</p>
 <p type="listitem" xml:lang="nob">Om webbplatsen</p>
 <p type="listitem" xml:lang="eng">Press</p>
